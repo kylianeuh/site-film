@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Films (TMDb → JSON statique)</title>
+    <style>
+      body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Inter,Arial,sans-serif;margin:0;padding:24px;background:#0f1115;color:#e7e9ee}
+      h1{font-size:20px;margin:0 0 12px}
+      #app{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:16px}
+      article{background:#151922;border:1px solid #222838;border-radius:12px;padding:12px}
+      img{width:100%;border-radius:8px;background:#0b0d12;display:block}
+      .meta{opacity:.8;font-size:14px}
+      a{color:#8ab4ff;text-decoration:none}
+      a:hover{text-decoration:underline}
+      .empty{opacity:.7}
+    </style>
+  </head>
+  <body>
+    <h1>🎬 Films populaires</h1>
+    <p class="meta">Données statiques depuis <code>public/data/movies-popular.json</code> — lien Letterboxd par film.</p>
+    <div id="app"><p class="empty">Chargement…</p></div>
+    <script src="/src/main.js" type="module"></script>
+  </body>
+</html>
