@@ -1,7 +1,7 @@
 import fs from 'node:fs/promises';
 
 const API = 'https://api.themoviedb.org/3';
-const TOKEN = process.env.TMDB_API_KEY; // Placez votre clé (Bearer) dans les Secrets GitHub
+const TOKEN = process.env.TMDB_API_KEY;
 if (!TOKEN) {
   console.error('❌ TMDB_API_KEY manquant.');
   process.exit(1);
@@ -16,8 +16,6 @@ async function getPopular(page=1){
 }
 
 const page1 = await getPopular(1);
-// Vous pouvez étendre ici pour paginer si nécessaire
-
-await fs.mkdir('public/data', { recursive: true });
-await fs.writeFile('public/data/movies-popular.json', JSON.stringify(page1, null, 2));
-console.log('✅ Écrit: public/data/movies-popular.json');
+await fs.mkdir('docs/data', { recursive: true });
+await fs.writeFile('docs/data/movies-popular.json', JSON.stringify(page1, null, 2));
+console.log('✅ Écrit: docs/data/movies-popular.json');
