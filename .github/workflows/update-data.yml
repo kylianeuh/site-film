@@ -1,25 +1,40 @@
 name: Update TMDb
+
+# ✅ Donne au workflow le droit d'écrire dans le repo (indispensable pour push)
+permissions:
+  contents: write
+
 on:
   schedule:
-    - cron: "0 3 * * *" # tous les jours 03:00 UTC
+    - cron: "0 3 * * *"   # tous les jours 03:00 UTC
   workflow_dispatch:
 
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
+      # ✅ Garde les identifiants pour pousser + récupère tout l'historique
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
       - uses: actions/setup-node@v4
         with:
           node-version: '20'
+
       - name: Fetch TMDb and write JSON
         env:
-          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}  # ← votre jeton v4 (Bearer)
         run: node scripts/fetch-tmdb.js
+
       - name: Commit & push
         run: |
-          git config user.name "github-actions[bot]"
+          git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add public/data/*.json || true
-          git diff --quiet && echo "no changes" || git commit -m "chore(data): TMDb sync"
-          git push
+          # ✅ Évite l'erreur si rien n'a changé
+          git diff --staged --quiet || git commit -m "chore(data): TMDb sync"
+          # ✅ Récupère la dernière version puis pousse proprement
+          git pull --rebase origin main || true
+          git push origin main || true
