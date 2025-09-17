@@ -1,9 +1,9 @@
 {
-  "name": "min-film-site",
+  "name": "site-film",
   "private": true,
   "type": "module",
   "version": "0.0.1",
   "scripts": {
-    "serve": "npx http-server ./public -p 5173 -c-1"
+    "serve": "npx http-server ./docs -p 5173 -c-1"
   }
 }
