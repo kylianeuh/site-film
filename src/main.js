@@ -21,11 +21,14 @@ function render(list){
     const poster = m.poster_path ? `https://image.tmdb.org/t/p/w342${m.poster_path}` : '';
     const rating = (m.vote_average ?? '').toFixed ? m.vote_average.toFixed(1) : (m.vote_average ?? '—');
     const votes = m.vote_count ?? 0;
+    const query = encodeURIComponent(m.title).replace(/%20/g, "+");
     return `<article>
       ${poster ? `<img alt="${escapeHtml(m.title)}" src="${poster}">` : ''}
       <h3>${escapeHtml(m.title)} <span class="meta">(${y})</span></h3>
       <p class="meta">⭐ ${rating} (${votes})</p>
-      <p><a href="https://letterboxd.com/tmdb/${m.id}/" target="_blank" rel="noreferrer">Voir sur Letterboxd ↗</a></p>
+      <a href="https://letterboxd.com/tmdb/${m.id}/" target="_blank" rel="noreferrer">Voir sur Letterboxd ↗</a>
+      <a href="https://thepibay.online/search/${encodeURIComponent(m.title)}" target="_blank" rel="noreferrer">Télécharger Le film ↗</a>
+      <a href="https://www.opensubtitles.com/fr/fr/search-all/q-${query}/hearing_impaired-include/machine_translated-/trusted_sources-" target="_blank" rel="noreferrer">Télécharger Les sous-titre ↗</a>
     </article>`;
   }).join('');
 }
