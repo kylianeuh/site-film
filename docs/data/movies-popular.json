@@ -19,8 +19,8 @@
       "release_date": "2025-07-18",
       "title": "Demon Slayer: Kimetsu no Yaiba - La Forteresse infinie",
       "video": false,
-      "vote_average": 7.649,
-      "vote_count": 276
+      "vote_average": 7.681,
+      "vote_count": 287
     },
     {
       "adult": false,
@@ -38,8 +38,26 @@
       "release_date": "2025-07-29",
       "title": "La Guerre des mondes",
       "video": false,
-      "vote_average": 4.334,
-      "vote_count": 544
+      "vote_average": 4.339,
+      "vote_count": 550
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fq8gLtrz1ByW3KQ2IM3RMZEIjsQ.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 1038392,
+      "original_language": "en",
+      "original_title": "The Conjuring: Last Rites",
+      "overview": "Patrick Wilson et Vera Farmiga feront leur dernière apparition dans les rôles d’Ed et Lorraine Warren dans Conjuring : l’heure du jugement, inspiré de l’histoire vraie de la famille Smurl, hantée par un démon. Les Warrens affrontent le cas le plus terrifiant de leur carrière lorsqu’une demeure de la Pennsylvanie devient hantée par des forces surnaturelles impitoyables.",
+      "popularity": 326.662,
+      "poster_path": "/mlkMH0Em29I0QBc7YeRc9yGFRKw.jpg",
+      "release_date": "2025-09-03",
+      "title": "Conjuring : L'Heure du jugement",
+      "video": false,
+      "vote_average": 6.584,
+      "vote_count": 373
     },
     {
       "adult": false,
@@ -57,26 +75,8 @@
       "release_date": "2025-08-04",
       "title": "Évanouis",
       "video": false,
-      "vote_average": 7.393,
-      "vote_count": 1416
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/fq8gLtrz1ByW3KQ2IM3RMZEIjsQ.jpg",
-      "genre_ids": [
-        27
-      ],
-      "id": 1038392,
-      "original_language": "en",
-      "original_title": "The Conjuring: Last Rites",
-      "overview": "Patrick Wilson et Vera Farmiga feront leur dernière apparition dans les rôles d’Ed et Lorraine Warren dans Conjuring : l’heure du jugement, inspiré de l’histoire vraie de la famille Smurl, hantée par un démon. Les Warrens affrontent le cas le plus terrifiant de leur carrière lorsqu’une demeure de la Pennsylvanie devient hantée par des forces surnaturelles impitoyables.",
-      "popularity": 326.662,
-      "poster_path": "/mlkMH0Em29I0QBc7YeRc9yGFRKw.jpg",
-      "release_date": "2025-09-03",
-      "title": "Conjuring : L'Heure du jugement",
-      "video": false,
-      "vote_average": 6.612,
-      "vote_count": 363
+      "vote_average": 7.39,
+      "vote_count": 1445
     },
     {
       "adult": false,
@@ -94,8 +94,8 @@
       "release_date": "2025-08-13",
       "title": "Nobody 2",
       "video": false,
-      "vote_average": 7.278,
-      "vote_count": 564
+      "vote_average": 7.25,
+      "vote_count": 581
     },
     {
       "adult": false,
@@ -114,8 +114,47 @@
       "release_date": "2025-07-09",
       "title": "Superman",
       "video": false,
-      "vote_average": 7.506,
-      "vote_count": 3173
+      "vote_average": 7.502,
+      "vote_count": 3199
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/or8y8JFF0vR3N9ap0Vdhf9tfTxQ.jpg",
+      "genre_ids": [
+        28,
+        80
+      ],
+      "id": 1028248,
+      "original_language": "en",
+      "original_title": "As Good as Dead",
+      "overview": "Dans une petite ville proche de la frontière mexicaine, Bryant se lie d'amitié avec un adolescent perturbé et l'initie aux arts martiaux. Alors que le passé mystérieux de Bryant le rattrape de façon explosive, il est contraint à un combat de vie ou de mort dans le but de laver son nom, sauver le garçon et récupérer tout ce qu'il a été contraint de laisser derrière lui.",
+      "popularity": 223.2352,
+      "poster_path": "/sK0Rq2jaegh2NnEV0NzMdvXgO6w.jpg",
+      "release_date": "2022-12-16",
+      "title": "Au seuil de la mort",
+      "video": false,
+      "vote_average": 6.341,
+      "vote_count": 66
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kzeBfhXMRWiykBsqoL3UbfaM0S.jpg",
+      "genre_ids": [
+        35,
+        28,
+        80
+      ],
+      "id": 1035259,
+      "original_language": "en",
+      "original_title": "The Naked Gun",
+      "overview": "Frank Drebin est le fils du légendaire inspecteur gaffeur du même nom. Son enquête sur un accident d’auto mortel l’amène à rencontrer la séduisante Beth Davenport, sœur de l’infortunée victime. Leur investigation les conduit à Richard Cane, le richissime et génial inventeur d’une automobile électrique révolutionnaire. Au fil de son enquête, Frank découvre que Cane fomente un sombre complot : utiliser une fréquence sonore inaudible pour renvoyer l'humanité à l'état sauvage.",
+      "popularity": 193.4393,
+      "poster_path": "/dVchp83dtJokn4vYUFzOV5XjyXa.jpg",
+      "release_date": "2025-07-30",
+      "title": "Y a-t-il un flic pour sauver le monde ?",
+      "video": false,
+      "vote_average": 6.693,
+      "vote_count": 698
     },
     {
       "adult": false,
@@ -135,86 +174,8 @@
       "release_date": "2018-07-27",
       "title": "Détective Dee : La Légende des rois célestes",
       "video": false,
-      "vote_average": 6.226,
-      "vote_count": 199
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/kzeBfhXMRWiykBsqoL3UbfaM0S.jpg",
-      "genre_ids": [
-        35,
-        28,
-        80
-      ],
-      "id": 1035259,
-      "original_language": "en",
-      "original_title": "The Naked Gun",
-      "overview": "Frank Drebin est le fils du légendaire inspecteur gaffeur du même nom. Son enquête sur un accident d’auto mortel l’amène à rencontrer la séduisante Beth Davenport, sœur de l’infortunée victime. Leur investigation les conduit à Richard Cane, le richissime et génial inventeur d’une automobile électrique révolutionnaire. Au fil de son enquête, Frank découvre que Cane fomente un sombre complot : utiliser une fréquence sonore inaudible pour renvoyer l'humanité à l'état sauvage.",
-      "popularity": 193.4393,
-      "poster_path": "/dVchp83dtJokn4vYUFzOV5XjyXa.jpg",
-      "release_date": "2025-07-30",
-      "title": "Y a-t-il un flic pour sauver le monde ?",
-      "video": false,
-      "vote_average": 6.69,
-      "vote_count": 683
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/or8y8JFF0vR3N9ap0Vdhf9tfTxQ.jpg",
-      "genre_ids": [
-        28,
-        80
-      ],
-      "id": 1028248,
-      "original_language": "en",
-      "original_title": "As Good as Dead",
-      "overview": "Dans une petite ville proche de la frontière mexicaine, Bryant se lie d'amitié avec un adolescent perturbé et l'initie aux arts martiaux. Alors que le passé mystérieux de Bryant le rattrape de façon explosive, il est contraint à un combat de vie ou de mort dans le but de laver son nom, sauver le garçon et récupérer tout ce qu'il a été contraint de laisser derrière lui.",
-      "popularity": 223.2352,
-      "poster_path": "/sK0Rq2jaegh2NnEV0NzMdvXgO6w.jpg",
-      "release_date": "2022-12-16",
-      "title": "Au seuil de la mort",
-      "video": false,
-      "vote_average": 6.362,
-      "vote_count": 65
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/JMlVj6X2F1PuDz9OyHShThzpa2.jpg",
-      "genre_ids": [
-        28,
-        80,
-        53
-      ],
-      "id": 1369679,
-      "original_language": "en",
-      "original_title": "Get Fast",
-      "overview": "Quand son complice disparaît après un braquage spectaculaire, un voleur notoire se lance à sa recherche sur le territoire d'un baron de la drogue impitoyable. Traqué par des flics corrompus, des sbires et un tueur sociopathe surnommé The Cowboy, il découvre jusqu'où va la loyauté quand les balles sifflent.",
-      "popularity": 177.148,
-      "poster_path": "/2MZBpW0bfQNJdWPCDM7OZetem1L.jpg",
-      "release_date": "2024-12-12",
-      "title": "Get Fast",
-      "video": false,
-      "vote_average": 6.19,
-      "vote_count": 21
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/ZtcGMc204JsNqfjS9lU6udRgpo.jpg",
-      "genre_ids": [
-        28,
-        18
-      ],
-      "id": 911430,
-      "original_language": "en",
-      "original_title": "F1",
-      "overview": "Sonny Hayes était le prodige de la F1 des années 90 jusqu’à son terrible accident. Trente ans plus tard, devenu un pilote indépendant, il est contacté par Ruben Cervantes, patron d’une écurie en faillite qui le convainc de revenir pour sauver l’équipe et prouver qu’il est toujours le meilleur. Aux côtés de Joshua Pearce, diamant brut prêt à devenir le numéro 1, Sonny réalise vite qu'en F1, son coéquipier est aussi son plus grand rival, que le danger est partout et qu'il risque de tout perdre.",
-      "popularity": 171.1139,
-      "poster_path": "/9i5VlOVWAQ8yTyCLNNVXa7hozUu.jpg",
-      "release_date": "2025-06-25",
-      "title": "F1® Le Film",
-      "video": false,
-      "vote_average": 7.831,
-      "vote_count": 2100
+      "vote_average": 6.215,
+      "vote_count": 200
     },
     {
       "adult": false,
@@ -238,6 +199,45 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/JMlVj6X2F1PuDz9OyHShThzpa2.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1369679,
+      "original_language": "en",
+      "original_title": "Get Fast",
+      "overview": "Quand son complice disparaît après un braquage spectaculaire, un voleur notoire se lance à sa recherche sur le territoire d'un baron de la drogue impitoyable. Traqué par des flics corrompus, des sbires et un tueur sociopathe surnommé The Cowboy, il découvre jusqu'où va la loyauté quand les balles sifflent.",
+      "popularity": 177.148,
+      "poster_path": "/tDpTR7xhHu9cz1X4JAIRFwXyf6U.jpg",
+      "release_date": "2024-12-12",
+      "title": "Get Fast",
+      "video": false,
+      "vote_average": 6.318,
+      "vote_count": 22
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ZtcGMc204JsNqfjS9lU6udRgpo.jpg",
+      "genre_ids": [
+        28,
+        18
+      ],
+      "id": 911430,
+      "original_language": "en",
+      "original_title": "F1",
+      "overview": "Sonny Hayes était le prodige de la F1 des années 90 jusqu’à son terrible accident. Trente ans plus tard, devenu un pilote indépendant, il est contacté par Ruben Cervantes, patron d’une écurie en faillite qui le convainc de revenir pour sauver l’équipe et prouver qu’il est toujours le meilleur. Aux côtés de Joshua Pearce, diamant brut prêt à devenir le numéro 1, Sonny réalise vite qu'en F1, son coéquipier est aussi son plus grand rival, que le danger est partout et qu'il risque de tout perdre.",
+      "popularity": 171.1139,
+      "poster_path": "/9i5VlOVWAQ8yTyCLNNVXa7hozUu.jpg",
+      "release_date": "2025-06-25",
+      "title": "F1® Le Film",
+      "video": false,
+      "vote_average": 7.827,
+      "vote_count": 2110
+    },
+    {
+      "adult": false,
       "backdrop_path": "/zNriRTr0kWwyaXPzdg1EIxf0BWk.jpg",
       "genre_ids": [
         878,
@@ -253,8 +253,70 @@
       "release_date": "2025-07-01",
       "title": "Jurassic World : Renaissance",
       "video": false,
-      "vote_average": 6.397,
-      "vote_count": 2112
+      "vote_average": 6.4,
+      "vote_count": 2121
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/538U9snNc2fpnOmYXAPUh3zn31H.jpg",
+      "genre_ids": [
+        28,
+        12,
+        53
+      ],
+      "id": 575265,
+      "original_language": "en",
+      "original_title": "Mission: Impossible - The Final Reckoning",
+      "overview": "Ethan Hunt se rend à Londres avec son équipe dans l'espoir de remonter la piste du mystérieux Gabriel, qu'il a affronté deux mois auparavant à bord de l'Orient-Express et qui détient la clé contrôlant l’intelligence artificielle toute puissante surnommée l'Entité. Adulée par les uns, redoutée par les autres, l’Entité se distingue par sa capacité à prédire toutes les éventualités possibles. Elle connaît parfaitement les forces et faiblesses d’Ethan et de son équipe. Gabriel compte l'utiliser pour mettre en œuvre son plan ultime : annihiler Ethan et son équipe, s’emparer de tous les systèmes de défense planétaires et déclencher la Troisième Guerre mondiale.",
+      "popularity": 158.7828,
+      "poster_path": "/AozMgdALZuR1hDPZt2a1aXiWmL4.jpg",
+      "release_date": "2025-05-17",
+      "title": "Mission : Impossible - The Final Reckoning",
+      "video": false,
+      "vote_average": 7.288,
+      "vote_count": 1739
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
+      "genre_ids": [
+        16,
+        35,
+        14,
+        10402
+      ],
+      "id": 803796,
+      "original_language": "en",
+      "original_title": "KPop Demon Hunters",
+      "overview": "Quand elles ne remplissent pas les stades, Rumi, Mira et Zoey, superstars de la K-pop, utilisent leurs pouvoirs secrets pour protéger leurs fans de menaces surnaturelles.",
+      "popularity": 150.7267,
+      "poster_path": "/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
+      "release_date": "2025-06-20",
+      "title": "KPop Demon Hunters",
+      "video": false,
+      "vote_average": 8.314,
+      "vote_count": 1435
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vHTFrcqJoCi1is3XN0PZe2LSnI2.jpg",
+      "genre_ids": [
+        14,
+        10751,
+        28,
+        12
+      ],
+      "id": 1087192,
+      "original_language": "en",
+      "original_title": "How to Train Your Dragon",
+      "overview": "Sur l'île accidentée de Berk, où Vikings et dragons se vouent une haine viscérale depuis des générations, Harold fait figure d'exception. Fils inventif mais négligé du chef Stoïck la Brute, il bouscule les traditions en se liant d'amitié avec Krokmou, une Furie nocturne. Leur duo improbable va révéler la vraie nature des dragons et bouleverser les fondements de la société viking. Avec la forte et ambitieuse Astrid et l'excentrique forgeron du village Gueulfor à ses côtés, Harold fait face à un monde déchiré par la peur et l'incompréhension. Lorsqu'une ancienne menace refait surface et met en péril les Vikings autant que les dragons, l'amitié entre Harold et Krokmou devient la clé de l'élaboration d'un avenir meilleur. Ensemble, ils doivent trouver la voie menant à la paix, s'envolant au-delà des frontières de leurs mondes pour redéfinir la véritable nature d'un héros et d'un chef.",
+      "popularity": 149.1822,
+      "poster_path": "/515phfKCjq7zBEY2UoslEAoNgnW.jpg",
+      "release_date": "2025-06-06",
+      "title": "Dragons",
+      "video": false,
+      "vote_average": 8.032,
+      "vote_count": 1919
     },
     {
       "adult": false,
@@ -280,23 +342,21 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/538U9snNc2fpnOmYXAPUh3zn31H.jpg",
+      "backdrop_path": "/uBB1aMga5ngZxsUQL5k36zeW3pB.jpg",
       "genre_ids": [
-        28,
-        12,
-        53
+        27
       ],
-      "id": 575265,
+      "id": 1242011,
       "original_language": "en",
-      "original_title": "Mission: Impossible - The Final Reckoning",
-      "overview": "Ethan Hunt se rend à Londres avec son équipe dans l'espoir de remonter la piste du mystérieux Gabriel, qu'il a affronté deux mois auparavant à bord de l'Orient-Express et qui détient la clé contrôlant l’intelligence artificielle toute puissante surnommée l'Entité. Adulée par les uns, redoutée par les autres, l’Entité se distingue par sa capacité à prédire toutes les éventualités possibles. Elle connaît parfaitement les forces et faiblesses d’Ethan et de son équipe. Gabriel compte l'utiliser pour mettre en œuvre son plan ultime : annihiler Ethan et son équipe, s’emparer de tous les systèmes de défense planétaires et déclencher la Troisième Guerre mondiale.",
-      "popularity": 158.7828,
-      "poster_path": "/AozMgdALZuR1hDPZt2a1aXiWmL4.jpg",
-      "release_date": "2025-05-17",
-      "title": "Mission : Impossible - The Final Reckoning",
+      "original_title": "Together",
+      "overview": "Établis depuis peu à la campagne, Tim et Millie font une première randonnée dans la forêt voisine. Le temps virant à l'orage, le musicien glisse dans une crevasse, en entraînant sa petite amie institutrice avec lui. Préférant attendre la fin de l'averse avant de remonter à la surface, le couple passe la nuit dans cette caverne où ils épanchent leur soif à même une source. Mais les jours suivants, Tim, puis Millie, sont l'objet de mutations physiques aussi terrifiantes qu'inexplicables, qui mettent à l'épreuve leur relation déjà chancelante.",
+      "popularity": 148.6383,
+      "poster_path": "/ijTTISrLopthgligJOPOx4jEyoH.jpg",
+      "release_date": "2025-07-28",
+      "title": "Together",
       "video": false,
-      "vote_average": 7.286,
-      "vote_count": 1736
+      "vote_average": 7.1,
+      "vote_count": 443
     },
     {
       "adult": false,
@@ -314,89 +374,30 @@
       "title": "La Chose Derrière La Porte",
       "video": false,
       "vote_average": 5.524,
-      "vote_count": 21
+      "vote_count": 22
     },
     {
       "adult": false,
-      "backdrop_path": "/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
-      "genre_ids": [
-        16,
-        35,
-        14,
-        10402
-      ],
-      "id": 803796,
-      "original_language": "en",
-      "original_title": "KPop Demon Hunters",
-      "overview": "Quand elles ne remplissent pas les stades, Rumi, Mira et Zoey, superstars de la K-pop, utilisent leurs pouvoirs secrets pour protéger leurs fans de menaces surnaturelles.",
-      "popularity": 150.7267,
-      "poster_path": "/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
-      "release_date": "2025-06-20",
-      "title": "KPop Demon Hunters",
-      "video": false,
-      "vote_average": 8.318,
-      "vote_count": 1425
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/vHTFrcqJoCi1is3XN0PZe2LSnI2.jpg",
-      "genre_ids": [
-        14,
-        10751,
-        28,
-        12
-      ],
-      "id": 1087192,
-      "original_language": "en",
-      "original_title": "How to Train Your Dragon",
-      "overview": "Sur l'île accidentée de Berk, où Vikings et dragons se vouent une haine viscérale depuis des générations, Harold fait figure d'exception. Fils inventif mais négligé du chef Stoïck la Brute, il bouscule les traditions en se liant d'amitié avec Krokmou, une Furie nocturne. Leur duo improbable va révéler la vraie nature des dragons et bouleverser les fondements de la société viking. Avec la forte et ambitieuse Astrid et l'excentrique forgeron du village Gueulfor à ses côtés, Harold fait face à un monde déchiré par la peur et l'incompréhension. Lorsqu'une ancienne menace refait surface et met en péril les Vikings autant que les dragons, l'amitié entre Harold et Krokmou devient la clé de l'élaboration d'un avenir meilleur. Ensemble, ils doivent trouver la voie menant à la paix, s'envolant au-delà des frontières de leurs mondes pour redéfinir la véritable nature d'un héros et d'un chef.",
-      "popularity": 149.1822,
-      "poster_path": "/515phfKCjq7zBEY2UoslEAoNgnW.jpg",
-      "release_date": "2025-06-06",
-      "title": "Dragons",
-      "video": false,
-      "vote_average": 8.033,
-      "vote_count": 1914
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/uBB1aMga5ngZxsUQL5k36zeW3pB.jpg",
-      "genre_ids": [
-        27
-      ],
-      "id": 1242011,
-      "original_language": "en",
-      "original_title": "Together",
-      "overview": "Établis depuis peu à la campagne, Tim et Millie font une première randonnée dans la forêt voisine. Le temps virant à l'orage, le musicien glisse dans une crevasse, en entraînant sa petite amie institutrice avec lui. Préférant attendre la fin de l'averse avant de remonter à la surface, le couple passe la nuit dans cette caverne où ils épanchent leur soif à même une source. Mais les jours suivants, Tim, puis Millie, sont l'objet de mutations physiques aussi terrifiantes qu'inexplicables, qui mettent à l'épreuve leur relation déjà chancelante.",
-      "popularity": 148.6383,
-      "poster_path": "/ijTTISrLopthgligJOPOx4jEyoH.jpg",
-      "release_date": "2025-07-28",
-      "title": "Together",
-      "video": false,
-      "vote_average": 7.134,
-      "vote_count": 434
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/2nwhxEyefcIFKwOrSigiamoIzu2.jpg",
+      "backdrop_path": "/a6bItEVaxgphpMswho1wVRerv4r.jpg",
       "genre_ids": [
         28,
+        12,
         53,
-        18
+        80
       ],
-      "id": 1119878,
+      "id": 7451,
       "original_language": "en",
-      "original_title": "Ice Road: Vengeance",
-      "overview": "Mike McCann, chauffeur spécialisé dans la conduite sur verglas, honore la dernière volonté de son frère et va au Népal pour disperser ses cendres sur l'Everest. À bord d'un bus touristique bondé traversant la tristement célèbre route du ciel, Mike et son guide rencontrent des mercenaires et doivent se battre pour sauver leur peau, celle d'un bus de voyageurs et le village local.",
-      "popularity": 122.1438,
-      "poster_path": "/oj3PT72HOXd3CJ6Y45PMYsIaf3O.jpg",
-      "release_date": "2025-06-27",
-      "title": "Ice Road : La vengeance",
+      "original_title": "xXx",
+      "overview": "Après une série de tests, Xander Cage dit « xXx », un spécialiste des sports extrêmes couvert de tatouages, est recruté par Augustus Gibbons, un agent de la National Security Agency (NSA), pour s’infiltrer dans une organisation criminelle et mettre fin à ses agissements. Dirigée par un certain Yorgi, celle‐ci se fait appeler « Anarchie 99 » et son siège se situe à Prague, en République tchèque. Gibbons est persuadé que Xander Cage réussira là où les espions conventionnels ont échoué.Ce dernier insiste toutefois pour accomplir cette mission à sa façon. Il se présente alors directement à Yorgi et se lie rapidement d’amitié avec lui, l’occasion pour Xander Cage de découvrir les terribles desseins de l’organisation.",
+      "popularity": 126.9544,
+      "poster_path": "/o7GKHohhZ124UkTxP7mHyDnPpK6.jpg",
+      "release_date": "2002-08-09",
+      "title": "xXx",
       "video": false,
-      "vote_average": 6.473,
-      "vote_count": 377
+      "vote_average": 5.962,
+      "vote_count": 4547
     }
   ],
-  "total_pages": 52543,
-  "total_results": 1050856
+  "total_pages": 52559,
+  "total_results": 1051169
 }
