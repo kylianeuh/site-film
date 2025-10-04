@@ -17,8 +17,8 @@
       "release_date": "2025-07-22",
       "title": "Les 4 Fantastiques : Premiers pas",
       "video": false,
-      "vote_average": 7.168,
-      "vote_count": 1765
+      "vote_average": 7.156,
+      "vote_count": 1786
     },
     {
       "adult": false,
@@ -37,8 +37,8 @@
       "release_date": "2025-09-26",
       "title": "Mantis",
       "video": false,
-      "vote_average": 6.068,
-      "vote_count": 37
+      "vote_average": 6.26,
+      "vote_count": 48
     },
     {
       "adult": false,
@@ -59,7 +59,45 @@
       "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
       "video": false,
       "vote_average": 7.8,
-      "vote_count": 413
+      "vote_count": 417
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/k6tdiMTO39RQj3dhfspuzprfoe0.jpg",
+      "genre_ids": [
+        80
+      ],
+      "id": 941109,
+      "original_language": "en",
+      "original_title": "Play Dirty",
+      "overview": "Un voleur nommé Parker tente de monter dans un braquage majeur dans lequel il doit déjouer un dictateur sud-américain, la mafia new-yorkaise et l'un des hommes les plus riches du monde.",
+      "popularity": 378.5993,
+      "poster_path": "/w7d4uNBVotROJtQXJfhlfKevaJ7.jpg",
+      "release_date": "2025-09-30",
+      "title": "Play Dirty",
+      "video": false,
+      "vote_average": 6.323,
+      "vote_count": 79
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gDvlSJXM646Inc20dln7takAyUB.jpg",
+      "genre_ids": [
+        28,
+        27,
+        10752
+      ],
+      "id": 1257009,
+      "original_language": "en",
+      "original_title": "Primitive War",
+      "overview": "En 1968, pendant la guerre du Vietnam, une unité de reconnaissance connue sous le nom de Vulture Squad est envoyée dans une vallée isolée de la jungle pour sauver un peloton de bérets verts disparu. Ils découvrent bientôt que des dinosaures habitent la jungle. Ils sont le résultat d’une expérience soviétique qui a mal tourné.",
+      "popularity": 356.7636,
+      "poster_path": "/nWBqU5YXmDVJWWEDJ4u3ZSseNVL.jpg",
+      "release_date": "2025-08-21",
+      "title": "Primitive War",
+      "video": false,
+      "vote_average": 7.017,
+      "vote_count": 60
     },
     {
       "adult": false,
@@ -79,28 +117,8 @@
       "release_date": "2025-09-19",
       "title": "Prisoner of War",
       "video": false,
-      "vote_average": 7,
-      "vote_count": 53
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/gDvlSJXM646Inc20dln7takAyUB.jpg",
-      "genre_ids": [
-        28,
-        27,
-        10752
-      ],
-      "id": 1257009,
-      "original_language": "en",
-      "original_title": "Primitive War",
-      "overview": "En 1968, pendant la guerre du Vietnam, une unité de reconnaissance connue sous le nom de Vulture Squad est envoyée dans une vallée isolée de la jungle pour sauver un peloton de bérets verts disparu. Ils découvrent bientôt que des dinosaures habitent la jungle. Ils sont le résultat d’une expérience soviétique qui a mal tourné.",
-      "popularity": 356.7636,
-      "poster_path": "/nWBqU5YXmDVJWWEDJ4u3ZSseNVL.jpg",
-      "release_date": "2025-08-21",
-      "title": "Primitive War",
-      "video": false,
-      "vote_average": 6.915,
-      "vote_count": 54
+      "vote_average": 7.035,
+      "vote_count": 57
     },
     {
       "adult": false,
@@ -118,8 +136,8 @@
       "release_date": "2025-07-29",
       "title": "La Guerre des mondes",
       "video": false,
-      "vote_average": 4.38,
-      "vote_count": 598
+      "vote_average": 4.373,
+      "vote_count": 600
     },
     {
       "adult": false,
@@ -136,26 +154,8 @@
       "release_date": "2024-04-22",
       "title": "Django Undisputed",
       "video": false,
-      "vote_average": 5.8,
-      "vote_count": 3
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/k6tdiMTO39RQj3dhfspuzprfoe0.jpg",
-      "genre_ids": [
-        80
-      ],
-      "id": 941109,
-      "original_language": "en",
-      "original_title": "Play Dirty",
-      "overview": "Un voleur nommé Parker tente de monter dans un braquage majeur dans lequel il doit déjouer un dictateur sud-américain, la mafia new-yorkaise et l'un des hommes les plus riches du monde.",
-      "popularity": 378.5993,
-      "poster_path": "/w7d4uNBVotROJtQXJfhlfKevaJ7.jpg",
-      "release_date": "2025-09-30",
-      "title": "Play Dirty",
-      "video": false,
-      "vote_average": 6.188,
-      "vote_count": 48
+      "vote_average": 6.125,
+      "vote_count": 4
     },
     {
       "adult": false,
@@ -172,27 +172,8 @@
       "release_date": "2025-09-03",
       "title": "Conjuring : L'Heure du jugement",
       "video": false,
-      "vote_average": 6.566,
-      "vote_count": 487
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/aIsjCdfiAS89cMjdDWEpKmUTHsZ.jpg",
-      "genre_ids": [
-        28,
-        10752
-      ],
-      "id": 1009640,
-      "original_language": "en",
-      "original_title": "Valiant One",
-      "overview": "Un hélicoptère américain s'écrase du côté nord-coréen de la zone démilitarisée de Corée. Alors que les tensions entre le Nord et le Sud sont déjà au bord de la guerre, les militaires non combattants de l'armée américaine survivants doivent travailler ensemble pour trouver leur chemin à travers la zone, sans possibilité de soutien militaire américain.",
-      "popularity": 188.6477,
-      "poster_path": "/sT8Z14RDCAd6szzxzWFAU4xcMwg.jpg",
-      "release_date": "2025-01-30",
-      "title": "Valiant One",
-      "video": false,
-      "vote_average": 6.329,
-      "vote_count": 35
+      "vote_average": 6.562,
+      "vote_count": 497
     },
     {
       "adult": false,
@@ -214,7 +195,26 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/nIX9kqNNe4ERx3wg3TuzRa2deAM.jpg",
+      "backdrop_path": "/aIsjCdfiAS89cMjdDWEpKmUTHsZ.jpg",
+      "genre_ids": [
+        28,
+        10752
+      ],
+      "id": 1009640,
+      "original_language": "en",
+      "original_title": "Valiant One",
+      "overview": "Un hélicoptère américain s'écrase du côté nord-coréen de la zone démilitarisée de Corée. Alors que les tensions entre le Nord et le Sud sont déjà au bord de la guerre, les militaires non combattants de l'armée américaine survivants doivent travailler ensemble pour trouver leur chemin à travers la zone, sans possibilité de soutien militaire américain.",
+      "popularity": 188.6477,
+      "poster_path": "/sT8Z14RDCAd6szzxzWFAU4xcMwg.jpg",
+      "release_date": "2025-01-30",
+      "title": "Valiant One",
+      "video": false,
+      "vote_average": 6.276,
+      "vote_count": 38
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zpEWFNqoN8Qg1SzMMHmaGyOBTdW.jpg",
       "genre_ids": [
         28,
         53,
@@ -229,8 +229,28 @@
       "release_date": "2025-09-23",
       "title": "Une bataille après l'autre",
       "video": false,
-      "vote_average": 7.8,
-      "vote_count": 494
+      "vote_average": 7.786,
+      "vote_count": 524
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/n89fJotmgkDvr5pF2OBqMLp7ZG7.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1186350,
+      "original_language": "ml",
+      "original_title": "മാർക്കോ",
+      "overview": "",
+      "popularity": 177.9087,
+      "poster_path": "/il3ao5gcF6fZNqo1o9o7lusmEyU.jpg",
+      "release_date": "2024-12-20",
+      "title": "Marco",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 38
     },
     {
       "adult": false,
@@ -249,8 +269,8 @@
       "release_date": "2025-07-09",
       "title": "Superman",
       "video": false,
-      "vote_average": 7.457,
-      "vote_count": 3444
+      "vote_average": 7.458,
+      "vote_count": 3452
     },
     {
       "adult": false,
@@ -268,8 +288,8 @@
       "release_date": "2025-08-04",
       "title": "Évanouis",
       "video": false,
-      "vote_average": 7.411,
-      "vote_count": 1708
+      "vote_average": 7.415,
+      "vote_count": 1718
     },
     {
       "adult": false,
@@ -288,8 +308,8 @@
       "release_date": "2025-09-12",
       "title": "The Man in My Basement",
       "video": false,
-      "vote_average": 6.5,
-      "vote_count": 11
+      "vote_average": 6.077,
+      "vote_count": 13
     },
     {
       "adult": false,
@@ -311,8 +331,8 @@
       "release_date": "2025-06-20",
       "title": "KPop Demon Hunters",
       "video": false,
-      "vote_average": 8.277,
-      "vote_count": 1555
+      "vote_average": 8.275,
+      "vote_count": 1572
     },
     {
       "adult": false,
@@ -330,47 +350,8 @@
       "release_date": "2025-08-13",
       "title": "Nobody 2",
       "video": false,
-      "vote_average": 7.15,
-      "vote_count": 728
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/mG6idJ78OCxdqn3AccqqeuJ9Nph.jpg",
-      "genre_ids": [
-        18
-      ],
-      "id": 938086,
-      "original_language": "ko",
-      "original_title": "위험한 사촌동생",
-      "overview": "",
-      "popularity": 135.4563,
-      "poster_path": "/pwdWFhhdfzNFCUnlZsiz2MfWv37.jpg",
-      "release_date": "2021-11-23",
-      "title": "위험한 사촌동생",
-      "video": false,
-      "vote_average": 9,
-      "vote_count": 4
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/9KSboWOt09J72aMY4x8SS1IaOHK.jpg",
-      "genre_ids": [
-        16,
-        28,
-        12,
-        14
-      ],
-      "id": 987400,
-      "original_language": "es",
-      "original_title": "Batman Azteca: Choque de imperios",
-      "overview": "À l'époque de l'empire aztèque, Yohualli Coatl est frappé par une tragédie lorsque son père est assassiné par les conquistadors espagnols. Afin d'avertir le roi Moctezuma et son grand prêtre, Yoka, du danger imminent, Yohualli s'enfuit à Tenochtitlán. Là, il s'entraîne dans le temple du dieu chauve-souris Tzinacan avec son mentor, développant des équipements et des armes pour affronter l'invasion espagnole et venger la mort de son père. En chemin, il rencontre des personnages clés tels que la féroce Femme Jaguar et le conquistador Hernán Cortés.",
-      "popularity": 112.7753,
-      "poster_path": "/wpMaI2J3ISYZiaIWNkoA1lVb5LQ.jpg",
-      "release_date": "2025-09-18",
-      "title": "Batman Azteca: Choque de imperios",
-      "video": false,
-      "vote_average": 7.839,
-      "vote_count": 84
+      "vote_average": 7.143,
+      "vote_count": 733
     },
     {
       "adult": false,
@@ -389,10 +370,31 @@
       "release_date": "2025-05-17",
       "title": "Mission : Impossible - The Final Reckoning",
       "video": false,
-      "vote_average": 7.265,
-      "vote_count": 1832
+      "vote_average": 7.262,
+      "vote_count": 1835
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/79PNOxNXSe5e0bhEj11QJPlsdCN.jpg",
+      "genre_ids": [
+        14,
+        10751,
+        28,
+        12
+      ],
+      "id": 1087192,
+      "original_language": "en",
+      "original_title": "How to Train Your Dragon",
+      "overview": "Sur l'île accidentée de Berk, où Vikings et dragons se vouent une haine viscérale depuis des générations, Harold fait figure d'exception. Fils inventif mais négligé du chef Stoïck la Brute, il bouscule les traditions en se liant d'amitié avec Krokmou, une Furie nocturne. Leur duo improbable va révéler la vraie nature des dragons et bouleverser les fondements de la société viking. Avec la forte et ambitieuse Astrid et l'excentrique forgeron du village Gueulfor à ses côtés, Harold fait face à un monde déchiré par la peur et l'incompréhension. Lorsqu'une ancienne menace refait surface et met en péril les Vikings autant que les dragons, l'amitié entre Harold et Krokmou devient la clé de l'élaboration d'un avenir meilleur. Ensemble, ils doivent trouver la voie menant à la paix, s'envolant au-delà des frontières de leurs mondes pour redéfinir la véritable nature d'un héros et d'un chef.",
+      "popularity": 112.9214,
+      "poster_path": "/515phfKCjq7zBEY2UoslEAoNgnW.jpg",
+      "release_date": "2025-06-06",
+      "title": "Dragons",
+      "video": false,
+      "vote_average": 8.032,
+      "vote_count": 1985
     }
   ],
-  "total_pages": 52792,
-  "total_results": 1055821
+  "total_pages": 52806,
+  "total_results": 1056114
 }
