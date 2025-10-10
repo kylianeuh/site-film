@@ -5,39 +5,58 @@
       "adult": false,
       "backdrop_path": "/9DYFYhmbXRGsMhfUgXM3VSP9uLX.jpg",
       "genre_ids": [
-        27,
-        53,
-        9648
+        27
       ],
       "id": 1038392,
       "original_language": "en",
       "original_title": "The Conjuring: Last Rites",
       "overview": "Alors qu’ils espéraient une nouvelle vie, Ed et Lorraine Warren se voient impliqués dans une dernière enquête…qu’ils n’auraient jamais dû accepter. Dans la maison de la famille Smurl, un mal ancien les attend. Un ennemi qu’ils croyaient à jamais enfoui... Découvrez comment les Warren ont affronté le cas le plus maléfique de leur carrière, inspiré de faits réels qui ont terrorisé l’Amérique.",
-      "popularity": 561.0335,
+      "popularity": 590.5591,
       "poster_path": "/mlkMH0Em29I0QBc7YeRc9yGFRKw.jpg",
       "release_date": "2025-09-03",
       "title": "Conjuring : L'Heure du jugement",
       "video": false,
-      "vote_average": 6.944,
-      "vote_count": 670
+      "vote_average": 6.937,
+      "vote_count": 700
     },
     {
       "adult": false,
-      "backdrop_path": "/k6tdiMTO39RQj3dhfspuzprfoe0.jpg",
+      "backdrop_path": "/dnzq8322gN4QWm8iL5l5jeqc4Nu.jpg",
       "genre_ids": [
-        80
+        28,
+        35,
+        878
       ],
-      "id": 941109,
+      "id": 338969,
       "original_language": "en",
-      "original_title": "Play Dirty",
-      "overview": "Un voleur nommé Parker tente de monter dans un braquage majeur dans lequel il doit déjouer un dictateur sud-américain, la mafia new-yorkaise et l'un des hommes les plus riches du monde.",
-      "popularity": 425.4977,
-      "poster_path": "/mxwin58JCvgSZm4TkYgyYx5XNGs.jpg",
-      "release_date": "2025-09-30",
-      "title": "Play Dirty",
+      "original_title": "The Toxic Avenger Unrated",
+      "overview": "Lorsque Winston Gooze, un concierge persécuté, est exposé à un accident toxique catastrophique, il se transforme en un héros nouveau genre : Toxic le ravageur. Il passe rapidement du statut de paria à celui de sauveur en s’attaquant aux chefs d’entreprises impitoyables et aux forces corrompues qui menacent son fils, ses amis et sa communauté. Dans un monde où la cupidité est omniprésente… la justice est mieux servie radioactivement.",
+      "popularity": 399.0131,
+      "poster_path": "/m3JlhvUMXzsIYRx0z85yQhFpu4C.jpg",
+      "release_date": "2025-08-28",
+      "title": "The Toxic Avenger",
       "video": false,
-      "vote_average": 6.621,
-      "vote_count": 206
+      "vote_average": 6.282,
+      "vote_count": 94
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ax2qCKU6tUhdkStiCnrDdXKA5xC.jpg",
+      "genre_ids": [
+        28,
+        12
+      ],
+      "id": 1086910,
+      "original_language": "en",
+      "original_title": "The Lost Princess",
+      "overview": "",
+      "popularity": 398.9461,
+      "poster_path": "/31S2ISsDtbnxb0kuXZl1SxSMD0K.jpg",
+      "release_date": "2025-10-16",
+      "title": "The Lost Princess",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
     },
     {
       "adult": false,
@@ -51,73 +70,31 @@
       "original_language": "ml",
       "original_title": "മാർക്കോ",
       "overview": "",
-      "popularity": 390.0089,
+      "popularity": 376.5589,
       "poster_path": "/il3ao5gcF6fZNqo1o9o7lusmEyU.jpg",
       "release_date": "2024-12-20",
       "title": "Marco",
       "video": false,
-      "vote_average": 6.423,
+      "vote_average": 6.4,
       "vote_count": 52
     },
     {
       "adult": false,
-      "backdrop_path": "/ewxiPfbKklk9FJZ2ECsDyJDQjvX.jpg",
+      "backdrop_path": "/k6tdiMTO39RQj3dhfspuzprfoe0.jpg",
       "genre_ids": [
-        28,
-        35,
-        878
+        80
       ],
-      "id": 338969,
+      "id": 941109,
       "original_language": "en",
-      "original_title": "The Toxic Avenger Unrated",
-      "overview": "Lorsque Winston Gooze, un concierge persécuté, est exposé à un accident toxique catastrophique, il se transforme en un héros nouveau genre : Toxic le ravageur. Il passe rapidement du statut de paria à celui de sauveur en s’attaquant aux chefs d’entreprises impitoyables et aux forces corrompues qui menacent son fils, ses amis et sa communauté. Dans un monde où la cupidité est omniprésente… la justice est mieux servie radioactivement.",
-      "popularity": 389.1699,
-      "poster_path": "/m3JlhvUMXzsIYRx0z85yQhFpu4C.jpg",
-      "release_date": "2025-08-28",
-      "title": "The Toxic Avenger",
+      "original_title": "Play Dirty",
+      "overview": "Un voleur nommé Parker tente de monter dans un braquage majeur dans lequel il doit déjouer un dictateur sud-américain, la mafia new-yorkaise et l'un des hommes les plus riches du monde.",
+      "popularity": 371.0981,
+      "poster_path": "/mxwin58JCvgSZm4TkYgyYx5XNGs.jpg",
+      "release_date": "2025-09-30",
+      "title": "Play Dirty",
       "video": false,
-      "vote_average": 6.285,
-      "vote_count": 93
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/ax2qCKU6tUhdkStiCnrDdXKA5xC.jpg",
-      "genre_ids": [
-        28,
-        12
-      ],
-      "id": 1086910,
-      "original_language": "en",
-      "original_title": "The Lost Princess",
-      "overview": "",
-      "popularity": 376.7822,
-      "poster_path": "/31S2ISsDtbnxb0kuXZl1SxSMD0K.jpg",
-      "release_date": "2025-10-16",
-      "title": "The Lost Princess",
-      "video": false,
-      "vote_average": 0,
-      "vote_count": 0
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-      "genre_ids": [
-        16,
-        28,
-        14,
-        53
-      ],
-      "id": 1311031,
-      "original_language": "ja",
-      "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
-      "overview": "L'armée des pourfendeurs de démons est attirée dans la Forteresse Infinie, où Tanjiro, Zenitsu et Inosuke  affrontent de terrifiants démons de rang supérieur dans un combat désespéré alors que la bataille finale contre Kibutsuji Muzan commence.",
-      "popularity": 358.5394,
-      "poster_path": "/wXTU3AFmlUPbqjH68MZ989uHd6k.jpg",
-      "release_date": "2025-07-18",
-      "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
-      "video": false,
-      "vote_average": 7.805,
-      "vote_count": 437
+      "vote_average": 6.637,
+      "vote_count": 216
     },
     {
       "adult": false,
@@ -132,13 +109,34 @@
       "original_language": "ko",
       "original_title": "거룩한 밤: 데몬 헌터스",
       "overview": "",
-      "popularity": 341.2004,
+      "popularity": 349.1406,
       "poster_path": "/7MGnHpfhF8savUsrUJoI8Q7dTk9.jpg",
       "release_date": "2025-04-30",
       "title": "거룩한 밤: 데몬 헌터스",
       "video": false,
-      "vote_average": 6.6,
-      "vote_count": 44
+      "vote_average": 6.57,
+      "vote_count": 43
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14,
+        53
+      ],
+      "id": 1311031,
+      "original_language": "ja",
+      "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+      "overview": "L'armée des pourfendeurs de démons est attirée dans la Forteresse Infinie, où Tanjiro, Zenitsu et Inosuke  affrontent de terrifiants démons de rang supérieur dans un combat désespéré alors que la bataille finale contre Kibutsuji Muzan commence.",
+      "popularity": 345.5441,
+      "poster_path": "/wXTU3AFmlUPbqjH68MZ989uHd6k.jpg",
+      "release_date": "2025-07-18",
+      "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 438
     },
     {
       "adult": false,
@@ -151,13 +149,32 @@
       "original_language": "en",
       "original_title": "War of the Worlds",
       "overview": "Une invasion gargantuesque approche dans cette nouvelle interprétation du légendaire roman homonyme devenu un classique de la science-fiction. La célèbre Eva Longoria partage l'affiche avec le rappeur/acteur Ice Cube, Michael O'Neill et Iman Benson, dans une aventure extraordinaire abordant des thématiques actuelles telles que la technologie, la surveillance et la protection de la vie privée.",
-      "popularity": 336.2016,
+      "popularity": 328.2521,
       "poster_path": "/yvirUYrva23IudARHn3mMGVxWqM.jpg",
       "release_date": "2025-07-29",
       "title": "La Guerre des mondes",
       "video": false,
-      "vote_average": 4.4,
-      "vote_count": 611
+      "vote_average": 4.375,
+      "vote_count": 614
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7FnmZCAjAwaHydgpjFKnu11MoWs.jpg",
+      "genre_ids": [
+        878,
+        12
+      ],
+      "id": 617126,
+      "original_language": "en",
+      "original_title": "The Fantastic 4: First Steps",
+      "overview": "Dans le contexte vibrant d’un monde rétro-futuriste inspiré des années 60, le film présente la première famille de Marvel : Reed Richards/Mister Fantastic, Sue Storm/La Femme Invisible, Johnny Storm/La Torche Humaine et Ben Grimm/La Chose  alors qu’ils font face à leur défi le plus redoutable à ce jour. Contraints d’équilibrer leur rôle de héros avec la force de leur lien familial, ils doivent défendre la Terre contre un dieu spatial vorace appelé Galactus et son énigmatique héraut, le Surfeur d’Argent. Et comme si le plan de Galactus de dévorer la planète entière et tous ses habitants n’était pas déjà assez mauvais, cela devient soudainement très personnel.",
+      "popularity": 264.8348,
+      "poster_path": "/rNc4KARs6fVa4axzvuv3NfUiNy1.jpg",
+      "release_date": "2025-07-23",
+      "title": "Les 4 Fantastiques : Premiers pas",
+      "video": false,
+      "vote_average": 7.159,
+      "vote_count": 1891
     },
     {
       "adult": false,
@@ -171,32 +188,13 @@
       "original_language": "en",
       "original_title": "Primitive War",
       "overview": "En 1968, pendant la guerre du Vietnam, une unité de reconnaissance connue sous le nom de Vulture Squad est envoyée dans une vallée isolée de la jungle pour sauver un peloton de bérets verts disparu. Ils découvrent bientôt que des dinosaures habitent la jungle. Ils sont le résultat d’une expérience soviétique qui a mal tourné.",
-      "popularity": 294.5926,
+      "popularity": 260.23,
       "poster_path": "/nWBqU5YXmDVJWWEDJ4u3ZSseNVL.jpg",
       "release_date": "2025-08-21",
       "title": "Primitive War",
       "video": false,
-      "vote_average": 6.976,
-      "vote_count": 84
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/7FnmZCAjAwaHydgpjFKnu11MoWs.jpg",
-      "genre_ids": [
-        878,
-        12
-      ],
-      "id": 617126,
-      "original_language": "en",
-      "original_title": "The Fantastic 4: First Steps",
-      "overview": "Dans le contexte vibrant d’un monde rétro-futuriste inspiré des années 60, le film présente la première famille de Marvel : Reed Richards/Mister Fantastic, Sue Storm/La Femme Invisible, Johnny Storm/La Torche Humaine et Ben Grimm/La Chose  alors qu’ils font face à leur défi le plus redoutable à ce jour. Contraints d’équilibrer leur rôle de héros avec la force de leur lien familial, ils doivent défendre la Terre contre un dieu spatial vorace appelé Galactus et son énigmatique héraut, le Surfeur d’Argent. Et comme si le plan de Galactus de dévorer la planète entière et tous ses habitants n’était pas déjà assez mauvais, cela devient soudainement très personnel.",
-      "popularity": 285.6404,
-      "poster_path": "/rNc4KARs6fVa4axzvuv3NfUiNy1.jpg",
-      "release_date": "2025-07-23",
-      "title": "Les 4 Fantastiques : Premiers pas",
-      "video": false,
-      "vote_average": 7.2,
-      "vote_count": 1886
+      "vote_average": 7,
+      "vote_count": 85
     },
     {
       "adult": false,
@@ -208,13 +206,32 @@
       "original_language": "en",
       "original_title": "Fight Another Day",
       "overview": "",
-      "popularity": 206.585,
+      "popularity": 207.4489,
       "poster_path": "/fKnLt1xQV0RdpN6RViowEiD1dFW.jpg",
       "release_date": "2024-10-09",
       "title": "Fight Another Day",
       "video": false,
-      "vote_average": 5.1,
-      "vote_count": 16
+      "vote_average": 5.412,
+      "vote_count": 17
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jzzpCJWkVZZwAxzzLmtYN0MBWFd.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "id": 986097,
+      "original_language": "en",
+      "original_title": "HIM",
+      "overview": "La veille du Combine, le repêchage annuel du football professionnel, Cameron Cade, un quart-arrière en pleine ascension, est violemment attaqué par un admirateur déséquilibré et subit un traumatisme crânien qui pourrait mettre fin à sa carrière. Alors que tout semble perdu, Cam reçoit une aide inattendue de la part de son idole: Isaiah White, un légendaire quart-arrière, lui propose de l'entraîner dans son complexe isolé qu'il partage avec sa femme, la célèbre influenceuse Elsie White.",
+      "popularity": 190.0964,
+      "poster_path": "/nTFrCDCc1pMJAwmUhPjtTHMnF6w.jpg",
+      "release_date": "2025-09-18",
+      "title": "G.O.A.T.",
+      "video": false,
+      "vote_average": 5.407,
+      "vote_count": 76
     },
     {
       "adult": false,
@@ -228,31 +245,13 @@
       "original_language": "ko",
       "original_title": "사마귀",
       "overview": "Après des vacances, un assassin hors pair reprend du service au sein de l'industrie délétère du meurtre sur commande. De retour dans ce monde anarchique, Mantis retrouve Jae-yi, une rivale avec qui il a fait ses classes, et Dokgo, un tueur de légende à la retraite. Et il s'aperçoit bientôt qu'ils se disputent tous trois le titre de meilleur tueur.",
-      "popularity": 197.0184,
+      "popularity": 181.0313,
       "poster_path": "/8RkQOSQJIygBK3XiQqy2xNMKeex.jpg",
       "release_date": "2025-09-26",
       "title": "Mantis",
       "video": false,
-      "vote_average": 6.207,
-      "vote_count": 75
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/nvdLEfAWcfTNn45SpwBnLGBmOR1.jpg",
-      "genre_ids": [
-        37
-      ],
-      "id": 1357886,
-      "original_language": "it",
-      "original_title": "Django Undisputed",
-      "overview": "",
-      "popularity": 175.0102,
-      "poster_path": "/porcUhC4jqFt72TaxbjOQo2lTzL.jpg",
-      "release_date": "2024-04-22",
-      "title": "Django Undisputed",
-      "video": false,
-      "vote_average": 5.3,
-      "vote_count": 5
+      "vote_average": 6.191,
+      "vote_count": 76
     },
     {
       "adult": false,
@@ -267,13 +266,13 @@
       "original_language": "en",
       "original_title": "Prisoner of War",
       "overview": "James Wright, officier britannique des SAS, fut envoyé aux Philippines pour combattre l'ennemi japonais pendant la Seconde Guerre mondiale. Lorsque son avion s'écrasa et qu'il s'en sortit de justesse, il était loin de s'imaginer que son combat ne faisait que commencer.",
-      "popularity": 171.5142,
+      "popularity": 158.2031,
       "poster_path": "/1XET89sjRm9mUuHXhGIlKTNd5uD.jpg",
       "release_date": "2025-09-19",
       "title": "Prisoner of War",
       "video": false,
-      "vote_average": 7.13,
-      "vote_count": 69
+      "vote_average": 7.1,
+      "vote_count": 70
     },
     {
       "adult": false,
@@ -287,13 +286,31 @@
       "original_language": "en",
       "original_title": "The Lost Bus",
       "overview": "Depuis son retour à Paradise, rien ne sourit à Kevin McKay. Son chien est mourant, ses finances sont au plus bas, la communication avec son fils est rompue et sa patronne ne lui laisse aucun répit. Alors qu’un incendie de forêt commence à dévaster la région, il se porte volontaire pour aller secourir en autobus des écoliers piégés par les flammes. Lui et leur enseignante Mary Ludwig vont risquer leur vie pour les escorter hors du brasier, alors même qu’ils ignorent l’un et l’autre si leur propre famille est en sécurité.",
-      "popularity": 162.7293,
+      "popularity": 157.2782,
       "poster_path": "/f7ISc7yf3D0EXVvrDk85vhP8E3g.jpg",
       "release_date": "2025-09-19",
       "title": "The Lost Bus - Au cœur des flammes",
       "video": false,
-      "vote_average": 7.066,
-      "vote_count": 190
+      "vote_average": 7.039,
+      "vote_count": 203
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nvdLEfAWcfTNn45SpwBnLGBmOR1.jpg",
+      "genre_ids": [
+        37
+      ],
+      "id": 1357886,
+      "original_language": "it",
+      "original_title": "Django Undisputed",
+      "overview": "",
+      "popularity": 155.9117,
+      "poster_path": "/porcUhC4jqFt72TaxbjOQo2lTzL.jpg",
+      "release_date": "2024-04-22",
+      "title": "Django Undisputed",
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 5
     },
     {
       "adult": false,
@@ -307,31 +324,13 @@
       "original_language": "en",
       "original_title": "One Battle After Another",
       "overview": "Bob Ferguson est un ancien révolutionnaire paranoïaque et désabusé, qui a jadis oeuvré avec son ex, Perfidia, au sein du French 75, un groupe militant voué au renversement du gouvernement américain. Seize ans plus tard, Bob vit seul avec sa fille, Willa, quand celle-ci disparaît soudainement. Bob soupçonne son vieil ennemi d’antan, le Colonel Steven J. Lockjaw, d’être responsable de sa disparition. Il décide alors de renouer avec ses anciens frères d’armes pour retrouver sa fille, quitte à confronter les fantômes de son passé.",
-      "popularity": 155.6254,
+      "popularity": 143.6255,
       "poster_path": "/qOlG4JqEdK3qK42WwWt8SlxlnIt.jpg",
       "release_date": "2025-09-23",
       "title": "Une bataille après l'autre",
       "video": false,
-      "vote_average": 7.784,
-      "vote_count": 715
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/gZF6fDtE71Fi3AGcF0PSQAxCgE3.jpg",
-      "genre_ids": [
-        28
-      ],
-      "id": 1552819,
-      "original_language": "es",
-      "original_title": "Assassin",
-      "overview": "",
-      "popularity": 149.2817,
-      "poster_path": "/eNriIkhQusncgc5SipEgQUtrybO.jpg",
-      "release_date": "2025-09-26",
-      "title": "Assassin",
-      "video": false,
-      "vote_average": 3.7,
-      "vote_count": 7
+      "vote_average": 7.798,
+      "vote_count": 731
     },
     {
       "adult": false,
@@ -341,19 +340,20 @@
         14,
         10402,
         35,
+        12,
         16
       ],
       "id": 803796,
       "original_language": "en",
       "original_title": "KPop Demon Hunters",
       "overview": "Quand elles ne remplissent pas les stades, Rumi, Mira et Zoey, superstars de la K-pop, utilisent leurs pouvoirs secrets pour protéger leurs fans de menaces surnaturelles.",
-      "popularity": 142.7186,
+      "popularity": 143.2078,
       "poster_path": "/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
       "release_date": "2025-06-20",
       "title": "KPop Demon Hunters",
       "video": false,
-      "vote_average": 8.3,
-      "vote_count": 1610
+      "vote_average": 8.272,
+      "vote_count": 1612
     },
     {
       "adult": false,
@@ -367,34 +367,33 @@
       "original_language": "en",
       "original_title": "Superman",
       "overview": "Superman doit trouver l’équilibre entre ses racines kryptoniennes et son identité humaine, sous les traits de Clark Kent, originaire de Smallville, dans le Kansas. Il est l’incarnation de la vérité, de la justice et des valeurs américaines et il est animé par une véritable bienveillance dans un monde qui considère cette qualité comme obsolète.",
-      "popularity": 135.6499,
+      "popularity": 130.4098,
       "poster_path": "/bL1U8TDb2ZiThIBFAdKHOfpv8lk.jpg",
       "release_date": "2025-07-09",
       "title": "Superman",
       "video": false,
-      "vote_average": 7.5,
-      "vote_count": 3515
+      "vote_average": 7.458,
+      "vote_count": 3523
     },
     {
       "adult": false,
-      "backdrop_path": "/jzzpCJWkVZZwAxzzLmtYN0MBWFd.jpg",
+      "backdrop_path": "/gZF6fDtE71Fi3AGcF0PSQAxCgE3.jpg",
       "genre_ids": [
-        27,
-        9648
+        28
       ],
-      "id": 986097,
-      "original_language": "en",
-      "original_title": "HIM",
-      "overview": "La veille du Combine, le repêchage annuel du football professionnel, Cameron Cade, un quart-arrière en pleine ascension, est violemment attaqué par un admirateur déséquilibré et subit un traumatisme crânien qui pourrait mettre fin à sa carrière. Alors que tout semble perdu, Cam reçoit une aide inattendue de la part de son idole: Isaiah White, un légendaire quart-arrière, lui propose de l'entraîner dans son complexe isolé qu'il partage avec sa femme, la célèbre influenceuse Elsie White.",
-      "popularity": 122.9814,
-      "poster_path": "/nTFrCDCc1pMJAwmUhPjtTHMnF6w.jpg",
-      "release_date": "2025-09-18",
-      "title": "G.O.A.T.",
+      "id": 1552819,
+      "original_language": "zh",
+      "original_title": "Assassin",
+      "overview": "",
+      "popularity": 128.6038,
+      "poster_path": "/eNriIkhQusncgc5SipEgQUtrybO.jpg",
+      "release_date": "2025-09-26",
+      "title": "Assassin",
       "video": false,
-      "vote_average": 5.485,
-      "vote_count": 65
+      "vote_average": 3.7,
+      "vote_count": 7
     }
   ],
-  "total_pages": 52911,
-  "total_results": 1058210
+  "total_pages": 52928,
+  "total_results": 1058560
 }
