@@ -12,12 +12,12 @@
       "original_title": "The Conjuring: Last Rites",
       "overview": "Alors qu’ils espéraient une nouvelle vie, Ed et Lorraine Warren se voient impliqués dans une dernière enquête…qu’ils n’auraient jamais dû accepter. Dans la maison de la famille Smurl, un mal ancien les attend. Un ennemi qu’ils croyaient à jamais enfoui... Découvrez comment les Warren ont affronté le cas le plus maléfique de leur carrière, inspiré de faits réels qui ont terrorisé l’Amérique.",
       "popularity": 650.5492,
-      "poster_path": "/mlkMH0Em29I0QBc7YeRc9yGFRKw.jpg",
+      "poster_path": "/CT7EhbB5yVLdUfvIiZs5QhOvgU.jpg",
       "release_date": "2025-09-03",
       "title": "Conjuring : L'Heure du jugement",
       "video": false,
-      "vote_average": 6.935,
-      "vote_count": 812
+      "vote_average": 6.939,
+      "vote_count": 863
     },
     {
       "adult": false,
@@ -35,8 +35,8 @@
       "release_date": "2025-10-16",
       "title": "The Lost Princess",
       "video": false,
-      "vote_average": 5.25,
-      "vote_count": 8
+      "vote_average": 6,
+      "vote_count": 11
     },
     {
       "adult": false,
@@ -55,8 +55,27 @@
       "release_date": "2025-08-28",
       "title": "The Toxic Avenger",
       "video": false,
-      "vote_average": 6.16,
-      "vote_count": 103
+      "vote_average": 6.2,
+      "vote_count": 104
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+      "genre_ids": [
+        878,
+        53
+      ],
+      "id": 755898,
+      "original_language": "en",
+      "original_title": "War of the Worlds",
+      "overview": "Une invasion gargantuesque approche dans cette nouvelle interprétation du légendaire roman homonyme devenu un classique de la science-fiction. La célèbre Eva Longoria partage l'affiche avec le rappeur/acteur Ice Cube, Michael O'Neill et Iman Benson, dans une aventure extraordinaire abordant des thématiques actuelles telles que la technologie, la surveillance et la protection de la vie privée.",
+      "popularity": 336.2977,
+      "poster_path": "/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+      "release_date": "2025-07-29",
+      "title": "La Guerre des mondes",
+      "video": false,
+      "vote_average": 4.363,
+      "vote_count": 617
     },
     {
       "adult": false,
@@ -76,8 +95,8 @@
       "release_date": "2025-07-18",
       "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
       "video": false,
-      "vote_average": 7.8,
-      "vote_count": 442
+      "vote_average": 7.818,
+      "vote_count": 446
     },
     {
       "adult": false,
@@ -97,27 +116,8 @@
       "release_date": "2025-04-30",
       "title": "거룩한 밤: 데몬 헌터스",
       "video": false,
-      "vote_average": 6.522,
-      "vote_count": 45
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
-      "genre_ids": [
-        878,
-        53
-      ],
-      "id": 755898,
-      "original_language": "en",
-      "original_title": "War of the Worlds",
-      "overview": "Une invasion gargantuesque approche dans cette nouvelle interprétation du légendaire roman homonyme devenu un classique de la science-fiction. La célèbre Eva Longoria partage l'affiche avec le rappeur/acteur Ice Cube, Michael O'Neill et Iman Benson, dans une aventure extraordinaire abordant des thématiques actuelles telles que la technologie, la surveillance et la protection de la vie privée.",
-      "popularity": 336.2977,
-      "poster_path": "/yvirUYrva23IudARHn3mMGVxWqM.jpg",
-      "release_date": "2025-07-29",
-      "title": "La Guerre des mondes",
-      "video": false,
-      "vote_average": 4.4,
-      "vote_count": 617
+      "vote_average": 6.598,
+      "vote_count": 46
     },
     {
       "adult": false,
@@ -132,12 +132,12 @@
       "original_title": "മാർക്കോ",
       "overview": "",
       "popularity": 276.1862,
-      "poster_path": "/il3ao5gcF6fZNqo1o9o7lusmEyU.jpg",
+      "poster_path": "/6Nj8Y1A9lcReqZZvRHOSiO3iTl6.jpg",
       "release_date": "2024-12-20",
       "title": "Marco",
       "video": false,
-      "vote_average": 6.383,
-      "vote_count": 60
+      "vote_average": 6.371,
+      "vote_count": 62
     },
     {
       "adult": false,
@@ -154,8 +154,8 @@
       "release_date": "2025-09-30",
       "title": "Play Dirty",
       "video": false,
-      "vote_average": 6.697,
-      "vote_count": 249
+      "vote_average": 6.657,
+      "vote_count": 261
     },
     {
       "adult": false,
@@ -174,7 +174,7 @@
       "title": "Les 4 Fantastiques : Premiers pas",
       "video": false,
       "vote_average": 7.159,
-      "vote_count": 1929
+      "vote_count": 1942
     },
     {
       "adult": false,
@@ -193,8 +193,8 @@
       "release_date": "2025-08-21",
       "title": "Primitive War",
       "video": false,
-      "vote_average": 6.984,
-      "vote_count": 94
+      "vote_average": 6.974,
+      "vote_count": 98
     },
     {
       "adult": false,
@@ -212,8 +212,8 @@
       "release_date": "2025-09-18",
       "title": "G.O.A.T.",
       "video": false,
-      "vote_average": 5.789,
-      "vote_count": 97
+      "vote_average": 5.721,
+      "vote_count": 113
     },
     {
       "adult": false,
@@ -230,8 +230,72 @@
       "release_date": "2024-10-09",
       "title": "Fight Another Day",
       "video": false,
-      "vote_average": 5.1,
-      "vote_count": 16
+      "vote_average": 5.111,
+      "vote_count": 18
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
+      "genre_ids": [
+        10751,
+        14,
+        10402,
+        35,
+        12,
+        16
+      ],
+      "id": 803796,
+      "original_language": "en",
+      "original_title": "KPop Demon Hunters",
+      "overview": "Quand elles ne remplissent pas les stades, Rumi, Mira et Zoey, superstars de la K-pop, utilisent leurs pouvoirs secrets pour protéger leurs fans de menaces surnaturelles.",
+      "popularity": 155.5835,
+      "poster_path": "/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
+      "release_date": "2025-06-20",
+      "title": "KPop Demon Hunters",
+      "video": false,
+      "vote_average": 8.271,
+      "vote_count": 1644
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pUNfHmVqfwRdILhCkU8TdysVOXo.jpg",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "id": 533533,
+      "original_language": "en",
+      "original_title": "TRON: Ares",
+      "overview": "L'étonnante aventure d'un programme hautement sophistiqué du nom de Ares, envoyé du monde numérique au monde réel pour une mission dangereuse qui marquera la première rencontre de l'humanité avec des êtres dotés d'une intelligence artificielle.",
+      "popularity": 153.726,
+      "poster_path": "/58utDFHgnTJlOLXem5GupFGhp5p.jpg",
+      "release_date": "2025-10-08",
+      "title": "Tron: Ares",
+      "video": false,
+      "vote_average": 6.639,
+      "vote_count": 148
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yGByIyqgJerCw7AAphTrTAlrdkJ.jpg",
+      "genre_ids": [
+        28,
+        10752,
+        53,
+        36
+      ],
+      "id": 1328803,
+      "original_language": "en",
+      "original_title": "Prisoner of War",
+      "overview": "James Wright, officier britannique des SAS, fut envoyé aux Philippines pour combattre l'ennemi japonais pendant la Seconde Guerre mondiale. Lorsque son avion s'écrasa et qu'il s'en sortit de justesse, il était loin de s'imaginer que son combat ne faisait que commencer.",
+      "popularity": 149.5257,
+      "poster_path": "/1XET89sjRm9mUuHXhGIlKTNd5uD.jpg",
+      "release_date": "2025-09-19",
+      "title": "Prisoner of War",
+      "video": false,
+      "vote_average": 7.132,
+      "vote_count": 76
     },
     {
       "adult": false,
@@ -255,87 +319,23 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
+      "backdrop_path": "/a9SLDj7GPKxeuOjoYkgr5nz1IOl.jpg",
       "genre_ids": [
-        10751,
-        14,
-        10402,
-        35,
-        12,
-        16
+        9648,
+        18,
+        53
       ],
-      "id": 803796,
+      "id": 1290879,
       "original_language": "en",
-      "original_title": "KPop Demon Hunters",
-      "overview": "Quand elles ne remplissent pas les stades, Rumi, Mira et Zoey, superstars de la K-pop, utilisent leurs pouvoirs secrets pour protéger leurs fans de menaces surnaturelles.",
-      "popularity": 155.5835,
-      "poster_path": "/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
-      "release_date": "2025-06-20",
-      "title": "KPop Demon Hunters",
+      "original_title": "The Woman in Cabin 10",
+      "overview": "En reportage sur un yacht de luxe, une journaliste voit quelqu'un tomber à l'eau. Mais comme personne ne la croit, elle risque sa vie pour découvrir la vérité.",
+      "popularity": 146.6466,
+      "poster_path": "/nAdX1AimcqclBkusjpp5hxTbO0s.jpg",
+      "release_date": "2025-10-09",
+      "title": "La Disparue de la cabine 10",
       "video": false,
-      "vote_average": 8.272,
-      "vote_count": 1629
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/yGByIyqgJerCw7AAphTrTAlrdkJ.jpg",
-      "genre_ids": [
-        28,
-        10752,
-        53,
-        36
-      ],
-      "id": 1328803,
-      "original_language": "en",
-      "original_title": "Prisoner of War",
-      "overview": "James Wright, officier britannique des SAS, fut envoyé aux Philippines pour combattre l'ennemi japonais pendant la Seconde Guerre mondiale. Lorsque son avion s'écrasa et qu'il s'en sortit de justesse, il était loin de s'imaginer que son combat ne faisait que commencer.",
-      "popularity": 149.5257,
-      "poster_path": "/1XET89sjRm9mUuHXhGIlKTNd5uD.jpg",
-      "release_date": "2025-09-19",
-      "title": "Prisoner of War",
-      "video": false,
-      "vote_average": 7.12,
-      "vote_count": 75
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/pUNfHmVqfwRdILhCkU8TdysVOXo.jpg",
-      "genre_ids": [
-        878,
-        12,
-        28
-      ],
-      "id": 533533,
-      "original_language": "en",
-      "original_title": "TRON: Ares",
-      "overview": "L'étonnante aventure d'un programme hautement sophistiqué du nom de Ares, envoyé du monde numérique au monde réel pour une mission dangereuse qui marquera la première rencontre de l'humanité avec des êtres dotés d'une intelligence artificielle.",
-      "popularity": 153.726,
-      "poster_path": "/58utDFHgnTJlOLXem5GupFGhp5p.jpg",
-      "release_date": "2025-10-08",
-      "title": "Tron: Ares",
-      "video": false,
-      "vote_average": 6.7,
-      "vote_count": 111
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/zpEWFNqoN8Qg1SzMMHmaGyOBTdW.jpg",
-      "genre_ids": [
-        28,
-        53,
-        80
-      ],
-      "id": 1054867,
-      "original_language": "en",
-      "original_title": "One Battle After Another",
-      "overview": "Bob Ferguson est un ancien révolutionnaire paranoïaque et désabusé, qui a jadis oeuvré avec son ex, Perfidia, au sein du French 75, un groupe militant voué au renversement du gouvernement américain. Seize ans plus tard, Bob vit seul avec sa fille, Willa, quand celle-ci disparaît soudainement. Bob soupçonne son vieil ennemi d’antan, le Colonel Steven J. Lockjaw, d’être responsable de sa disparition. Il décide alors de renouer avec ses anciens frères d’armes pour retrouver sa fille, quitte à confronter les fantômes de son passé.",
-      "popularity": 127.1627,
-      "poster_path": "/qOlG4JqEdK3qK42WwWt8SlxlnIt.jpg",
-      "release_date": "2025-09-23",
-      "title": "Une bataille après l'autre",
-      "video": false,
-      "vote_average": 7.8,
-      "vote_count": 776
+      "vote_average": 6.131,
+      "vote_count": 135
     },
     {
       "adult": false,
@@ -354,8 +354,28 @@
       "release_date": "2025-07-09",
       "title": "Superman",
       "video": false,
-      "vote_average": 7.452,
-      "vote_count": 3561
+      "vote_average": 7.449,
+      "vote_count": 3567
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zpEWFNqoN8Qg1SzMMHmaGyOBTdW.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "id": 1054867,
+      "original_language": "en",
+      "original_title": "One Battle After Another",
+      "overview": "Bob Ferguson est un ancien révolutionnaire paranoïaque et désabusé, qui a jadis oeuvré avec son ex, Perfidia, au sein du French 75, un groupe militant voué au renversement du gouvernement américain. Seize ans plus tard, Bob vit seul avec sa fille, Willa, quand celle-ci disparaît soudainement. Bob soupçonne son vieil ennemi d’antan, le Colonel Steven J. Lockjaw, d’être responsable de sa disparition. Il décide alors de renouer avec ses anciens frères d’armes pour retrouver sa fille, quitte à confronter les fantômes de son passé.",
+      "popularity": 127.1627,
+      "poster_path": "/qOlG4JqEdK3qK42WwWt8SlxlnIt.jpg",
+      "release_date": "2025-09-23",
+      "title": "Une bataille après l'autre",
+      "video": false,
+      "vote_average": 7.804,
+      "vote_count": 799
     },
     {
       "adult": false,
@@ -374,28 +394,8 @@
       "video": false,
       "vote_average": 6.056,
       "vote_count": 9
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/lL4zajQbvvo63z2CNu36Ue6wpBX.jpg",
-      "genre_ids": [
-        18,
-        9648,
-        53
-      ],
-      "id": 1236470,
-      "original_language": "en",
-      "original_title": "The Lost Bus",
-      "overview": "Depuis son retour à Paradise, rien ne sourit à Kevin McKay. Son chien est mourant, ses finances sont au plus bas, la communication avec son fils est rompue et sa patronne ne lui laisse aucun répit. Alors qu’un incendie de forêt commence à dévaster la région, il se porte volontaire pour aller secourir en autobus des écoliers piégés par les flammes. Lui et leur enseignante Mary Ludwig vont risquer leur vie pour les escorter hors du brasier, alors même qu’ils ignorent l’un et l’autre si leur propre famille est en sécurité.",
-      "popularity": 117.3532,
-      "poster_path": "/f7ISc7yf3D0EXVvrDk85vhP8E3g.jpg",
-      "release_date": "2025-09-19",
-      "title": "The Lost Bus - Au cœur des flammes",
-      "video": false,
-      "vote_average": 7.125,
-      "vote_count": 240
     }
   ],
-  "total_pages": 52975,
-  "total_results": 1059484
+  "total_pages": 52995,
+  "total_results": 1059885
 }
