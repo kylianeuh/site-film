@@ -11,13 +11,13 @@
       "original_language": "en",
       "original_title": "The Conjuring: Last Rites",
       "overview": "Alors qu’ils espéraient une nouvelle vie, Ed et Lorraine Warren se voient impliqués dans une dernière enquête…qu’ils n’auraient jamais dû accepter. Dans la maison de la famille Smurl, un mal ancien les attend. Un ennemi qu’ils croyaient à jamais enfoui... Découvrez comment les Warren ont affronté le cas le plus maléfique de leur carrière, inspiré de faits réels qui ont terrorisé l’Amérique.",
-      "popularity": 650.5492,
+      "popularity": 579.1673,
       "poster_path": "/CT7EhbB5yVLdUfvIiZs5QhOvgU.jpg",
       "release_date": "2025-09-03",
       "title": "Conjuring : L'Heure du jugement",
       "video": false,
-      "vote_average": 6.939,
-      "vote_count": 863
+      "vote_average": 6.951,
+      "vote_count": 910
     },
     {
       "adult": false,
@@ -30,17 +30,17 @@
       "original_language": "en",
       "original_title": "The Lost Princess",
       "overview": "",
-      "popularity": 398.9663,
+      "popularity": 354.0564,
       "poster_path": "/31S2ISsDtbnxb0kuXZl1SxSMD0K.jpg",
       "release_date": "2025-10-16",
       "title": "The Lost Princess",
       "video": false,
-      "vote_average": 6,
-      "vote_count": 11
+      "vote_average": 6.071,
+      "vote_count": 14
     },
     {
       "adult": false,
-      "backdrop_path": "/dnzq8322gN4QWm8iL5l5jeqc4Nu.jpg",
+      "backdrop_path": "/wyg8OaiDFru4NWuEnhCIsF3W1Ek.jpg",
       "genre_ids": [
         28,
         35,
@@ -50,32 +50,13 @@
       "original_language": "en",
       "original_title": "The Toxic Avenger Unrated",
       "overview": "Lorsque Winston Gooze, un concierge persécuté, est exposé à un accident toxique catastrophique, il se transforme en un héros nouveau genre : Toxic le ravageur. Il passe rapidement du statut de paria à celui de sauveur en s’attaquant aux chefs d’entreprises impitoyables et aux forces corrompues qui menacent son fils, ses amis et sa communauté. Dans un monde où la cupidité est omniprésente… la justice est mieux servie radioactivement.",
-      "popularity": 384.887,
+      "popularity": 323.0076,
       "poster_path": "/m3JlhvUMXzsIYRx0z85yQhFpu4C.jpg",
       "release_date": "2025-08-28",
       "title": "The Toxic Avenger",
       "video": false,
-      "vote_average": 6.2,
-      "vote_count": 104
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
-      "genre_ids": [
-        878,
-        53
-      ],
-      "id": 755898,
-      "original_language": "en",
-      "original_title": "War of the Worlds",
-      "overview": "Une invasion gargantuesque approche dans cette nouvelle interprétation du légendaire roman homonyme devenu un classique de la science-fiction. La célèbre Eva Longoria partage l'affiche avec le rappeur/acteur Ice Cube, Michael O'Neill et Iman Benson, dans une aventure extraordinaire abordant des thématiques actuelles telles que la technologie, la surveillance et la protection de la vie privée.",
-      "popularity": 336.2977,
-      "poster_path": "/yvirUYrva23IudARHn3mMGVxWqM.jpg",
-      "release_date": "2025-07-29",
-      "title": "La Guerre des mondes",
-      "video": false,
-      "vote_average": 4.363,
-      "vote_count": 617
+      "vote_average": 6.131,
+      "vote_count": 111
     },
     {
       "adult": false,
@@ -90,13 +71,52 @@
       "original_language": "ja",
       "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
       "overview": "L'armée des pourfendeurs de démons est attirée dans la Forteresse Infinie, où Tanjiro, Zenitsu et Inosuke  affrontent de terrifiants démons de rang supérieur dans un combat désespéré alors que la bataille finale contre Kibutsuji Muzan commence.",
-      "popularity": 328.3723,
+      "popularity": 316.6497,
       "poster_path": "/wXTU3AFmlUPbqjH68MZ989uHd6k.jpg",
       "release_date": "2025-07-18",
       "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
       "video": false,
-      "vote_average": 7.818,
-      "vote_count": 446
+      "vote_average": 7.814,
+      "vote_count": 451
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+      "genre_ids": [
+        878,
+        53
+      ],
+      "id": 755898,
+      "original_language": "en",
+      "original_title": "War of the Worlds",
+      "overview": "Une invasion gargantuesque approche dans cette nouvelle interprétation du légendaire roman homonyme devenu un classique de la science-fiction. La célèbre Eva Longoria partage l'affiche avec le rappeur/acteur Ice Cube, Michael O'Neill et Iman Benson, dans une aventure extraordinaire abordant des thématiques actuelles telles que la technologie, la surveillance et la protection de la vie privée.",
+      "popularity": 295.0251,
+      "poster_path": "/yvirUYrva23IudARHn3mMGVxWqM.jpg",
+      "release_date": "2025-07-29",
+      "title": "La Guerre des mondes",
+      "video": false,
+      "vote_average": 4.349,
+      "vote_count": 621
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/a6RkQIOZ6wThQOEDv6lHsfH53hD.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1186350,
+      "original_language": "ml",
+      "original_title": "മാർക്കോ",
+      "overview": "",
+      "popularity": 292.6603,
+      "poster_path": "/6Nj8Y1A9lcReqZZvRHOSiO3iTl6.jpg",
+      "release_date": "2024-12-20",
+      "title": "Marco",
+      "video": false,
+      "vote_average": 6.362,
+      "vote_count": 65
     },
     {
       "adult": false,
@@ -111,33 +131,13 @@
       "original_language": "ko",
       "original_title": "거룩한 밤: 데몬 헌터스",
       "overview": "",
-      "popularity": 293.9646,
+      "popularity": 264.5031,
       "poster_path": "/7MGnHpfhF8savUsrUJoI8Q7dTk9.jpg",
       "release_date": "2025-04-30",
       "title": "거룩한 밤: 데몬 헌터스",
       "video": false,
-      "vote_average": 6.598,
-      "vote_count": 46
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/a6RkQIOZ6wThQOEDv6lHsfH53hD.jpg",
-      "genre_ids": [
-        28,
-        80,
-        53
-      ],
-      "id": 1186350,
-      "original_language": "ml",
-      "original_title": "മാർക്കോ",
-      "overview": "",
-      "popularity": 276.1862,
-      "poster_path": "/6Nj8Y1A9lcReqZZvRHOSiO3iTl6.jpg",
-      "release_date": "2024-12-20",
-      "title": "Marco",
-      "video": false,
-      "vote_average": 6.371,
-      "vote_count": 62
+      "vote_average": 6.5,
+      "vote_count": 47
     },
     {
       "adult": false,
@@ -149,13 +149,13 @@
       "original_language": "en",
       "original_title": "Play Dirty",
       "overview": "Un voleur nommé Parker tente de monter dans un braquage majeur dans lequel il doit déjouer un dictateur sud-américain, la mafia new-yorkaise et l'un des hommes les plus riches du monde.",
-      "popularity": 248.2164,
+      "popularity": 216.0068,
       "poster_path": "/mxwin58JCvgSZm4TkYgyYx5XNGs.jpg",
       "release_date": "2025-09-30",
       "title": "Play Dirty",
       "video": false,
-      "vote_average": 6.657,
-      "vote_count": 261
+      "vote_average": 6.651,
+      "vote_count": 284
     },
     {
       "adult": false,
@@ -168,13 +168,13 @@
       "original_language": "en",
       "original_title": "The Fantastic 4: First Steps",
       "overview": "Dans le contexte vibrant d’un monde rétro-futuriste inspiré des années 60, le film présente la première famille de Marvel : Reed Richards/Mister Fantastic, Sue Storm/La Femme Invisible, Johnny Storm/La Torche Humaine et Ben Grimm/La Chose  alors qu’ils font face à leur défi le plus redoutable à ce jour. Contraints d’équilibrer leur rôle de héros avec la force de leur lien familial, ils doivent défendre la Terre contre un dieu spatial vorace appelé Galactus et son énigmatique héraut, le Surfeur d’Argent. Et comme si le plan de Galactus de dévorer la planète entière et tous ses habitants n’était pas déjà assez mauvais, cela devient soudainement très personnel.",
-      "popularity": 230.38,
+      "popularity": 218.2327,
       "poster_path": "/rNc4KARs6fVa4axzvuv3NfUiNy1.jpg",
       "release_date": "2025-07-23",
       "title": "Les 4 Fantastiques : Premiers pas",
       "video": false,
-      "vote_average": 7.159,
-      "vote_count": 1942
+      "vote_average": 7.14,
+      "vote_count": 1963
     },
     {
       "adult": false,
@@ -188,13 +188,13 @@
       "original_language": "en",
       "original_title": "Primitive War",
       "overview": "En 1968, pendant la guerre du Vietnam, une unité de reconnaissance connue sous le nom de Vulture Squad est envoyée dans une vallée isolée de la jungle pour sauver un peloton de bérets verts disparu. Ils découvrent bientôt que des dinosaures habitent la jungle. Ils sont le résultat d’une expérience soviétique qui a mal tourné.",
-      "popularity": 208.9358,
+      "popularity": 195.1795,
       "poster_path": "/nWBqU5YXmDVJWWEDJ4u3ZSseNVL.jpg",
       "release_date": "2025-08-21",
       "title": "Primitive War",
       "video": false,
-      "vote_average": 6.974,
-      "vote_count": 98
+      "vote_average": 6.926,
+      "vote_count": 102
     },
     {
       "adult": false,
@@ -207,58 +207,37 @@
       "original_language": "en",
       "original_title": "HIM",
       "overview": "La veille du Combine, le repêchage annuel du football professionnel, Cameron Cade, un quart-arrière en pleine ascension, est violemment attaqué par un admirateur déséquilibré et subit un traumatisme crânien qui pourrait mettre fin à sa carrière. Alors que tout semble perdu, Cam reçoit une aide inattendue de la part de son idole: Isaiah White, un légendaire quart-arrière, lui propose de l'entraîner dans son complexe isolé qu'il partage avec sa femme, la célèbre influenceuse Elsie White.",
-      "popularity": 190.1058,
+      "popularity": 176.971,
       "poster_path": "/nTFrCDCc1pMJAwmUhPjtTHMnF6w.jpg",
       "release_date": "2025-09-18",
       "title": "G.O.A.T.",
       "video": false,
-      "vote_average": 5.721,
-      "vote_count": 113
+      "vote_average": 5.71,
+      "vote_count": 119
     },
     {
       "adult": false,
-      "backdrop_path": "/znMUHotZRTcyIFWFz2bvcpSx6YP.jpg",
+      "backdrop_path": "/9IHZeCusOd7RUaQpUrQJlKqjsUZ.jpg",
       "genre_ids": [
-        28
+        9648,
+        18,
+        53
       ],
-      "id": 1053008,
+      "id": 1290879,
       "original_language": "en",
-      "original_title": "Fight Another Day",
-      "overview": "",
-      "popularity": 156.7085,
-      "poster_path": "/fKnLt1xQV0RdpN6RViowEiD1dFW.jpg",
-      "release_date": "2024-10-09",
-      "title": "Fight Another Day",
+      "original_title": "The Woman in Cabin 10",
+      "overview": "En reportage sur un yacht de luxe, une journaliste voit quelqu'un tomber à l'eau. Mais comme personne ne la croit, elle risque sa vie pour découvrir la vérité.",
+      "popularity": 192.5835,
+      "poster_path": "/nAdX1AimcqclBkusjpp5hxTbO0s.jpg",
+      "release_date": "2025-10-09",
+      "title": "La Disparue de la cabine 10",
       "video": false,
-      "vote_average": 5.111,
-      "vote_count": 18
+      "vote_average": 6.2,
+      "vote_count": 179
     },
     {
       "adult": false,
-      "backdrop_path": "/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
-      "genre_ids": [
-        10751,
-        14,
-        10402,
-        35,
-        12,
-        16
-      ],
-      "id": 803796,
-      "original_language": "en",
-      "original_title": "KPop Demon Hunters",
-      "overview": "Quand elles ne remplissent pas les stades, Rumi, Mira et Zoey, superstars de la K-pop, utilisent leurs pouvoirs secrets pour protéger leurs fans de menaces surnaturelles.",
-      "popularity": 155.5835,
-      "poster_path": "/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
-      "release_date": "2025-06-20",
-      "title": "KPop Demon Hunters",
-      "video": false,
-      "vote_average": 8.271,
-      "vote_count": 1644
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/pUNfHmVqfwRdILhCkU8TdysVOXo.jpg",
+      "backdrop_path": "/2OvpmWYrsv8eMyV3AAqhoMnzMF.jpg",
       "genre_ids": [
         878,
         12,
@@ -268,13 +247,13 @@
       "original_language": "en",
       "original_title": "TRON: Ares",
       "overview": "L'étonnante aventure d'un programme hautement sophistiqué du nom de Ares, envoyé du monde numérique au monde réel pour une mission dangereuse qui marquera la première rencontre de l'humanité avec des êtres dotés d'une intelligence artificielle.",
-      "popularity": 153.726,
+      "popularity": 170.1929,
       "poster_path": "/58utDFHgnTJlOLXem5GupFGhp5p.jpg",
       "release_date": "2025-10-08",
       "title": "Tron: Ares",
       "video": false,
-      "vote_average": 6.639,
-      "vote_count": 148
+      "vote_average": 6.506,
+      "vote_count": 179
     },
     {
       "adult": false,
@@ -289,13 +268,32 @@
       "original_language": "en",
       "original_title": "Prisoner of War",
       "overview": "James Wright, officier britannique des SAS, fut envoyé aux Philippines pour combattre l'ennemi japonais pendant la Seconde Guerre mondiale. Lorsque son avion s'écrasa et qu'il s'en sortit de justesse, il était loin de s'imaginer que son combat ne faisait que commencer.",
-      "popularity": 149.5257,
+      "popularity": 152.0998,
       "poster_path": "/1XET89sjRm9mUuHXhGIlKTNd5uD.jpg",
       "release_date": "2025-09-19",
       "title": "Prisoner of War",
       "video": false,
-      "vote_average": 7.132,
-      "vote_count": 76
+      "vote_average": 7.038,
+      "vote_count": 80
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/da1mXvCrQrFcw6BxovCavBFbIvz.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1251717,
+      "original_language": "en",
+      "original_title": "Vicious",
+      "overview": "Polly reçoit une mystérieuse boîte d’un visiteur surprise, tard dans la soirée, accompagnée d’une consigne : y placer une chose dont elle a besoin, une chose qu’elle déteste et une chose qu’elle aime. Ce rituel étrange se transforme vite en cauchemar, et Polly se retrouve confrontée à une série de choix impossibles. Alors que le temps s’écoule, elle doit affronter les ténèbres, non seulement autour d’elle, mais aussi en elle, avant qu’elles ne consument tout, y compris ceux qu’elle aime.",
+      "popularity": 161.612,
+      "poster_path": "/7IntLBzQbsJisbZvaSsNLHoZKRS.jpg",
+      "release_date": "2025-09-19",
+      "title": "Vicious",
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 43
     },
     {
       "adult": false,
@@ -309,33 +307,52 @@
       "original_language": "ko",
       "original_title": "사마귀",
       "overview": "Après des vacances, un assassin hors pair reprend du service au sein de l'industrie délétère du meurtre sur commande. De retour dans ce monde anarchique, Mantis retrouve Jae-yi, une rivale avec qui il a fait ses classes, et Dokgo, un tueur de légende à la retraite. Et il s'aperçoit bientôt qu'ils se disputent tous trois le titre de meilleur tueur.",
-      "popularity": 148.881,
+      "popularity": 142.8977,
       "poster_path": "/8RkQOSQJIygBK3XiQqy2xNMKeex.jpg",
       "release_date": "2025-09-26",
       "title": "Mantis",
       "video": false,
-      "vote_average": 5.97,
-      "vote_count": 84
+      "vote_average": 5.936,
+      "vote_count": 86
     },
     {
       "adult": false,
-      "backdrop_path": "/a9SLDj7GPKxeuOjoYkgr5nz1IOl.jpg",
+      "backdrop_path": "/znMUHotZRTcyIFWFz2bvcpSx6YP.jpg",
       "genre_ids": [
-        9648,
-        18,
-        53
+        28
       ],
-      "id": 1290879,
+      "id": 1053008,
       "original_language": "en",
-      "original_title": "The Woman in Cabin 10",
-      "overview": "En reportage sur un yacht de luxe, une journaliste voit quelqu'un tomber à l'eau. Mais comme personne ne la croit, elle risque sa vie pour découvrir la vérité.",
-      "popularity": 146.6466,
-      "poster_path": "/nAdX1AimcqclBkusjpp5hxTbO0s.jpg",
-      "release_date": "2025-10-09",
-      "title": "La Disparue de la cabine 10",
+      "original_title": "Fight Another Day",
+      "overview": "",
+      "popularity": 134.4942,
+      "poster_path": "/fKnLt1xQV0RdpN6RViowEiD1dFW.jpg",
+      "release_date": "2024-10-09",
+      "title": "Fight Another Day",
       "video": false,
-      "vote_average": 6.131,
-      "vote_count": 135
+      "vote_average": 5.111,
+      "vote_count": 18
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
+      "genre_ids": [
+        14,
+        10402,
+        35,
+        16
+      ],
+      "id": 803796,
+      "original_language": "en",
+      "original_title": "KPop Demon Hunters",
+      "overview": "Quand elles ne remplissent pas les stades, Rumi, Mira et Zoey, superstars de la K-pop, utilisent leurs pouvoirs secrets pour protéger leurs fans de menaces surnaturelles.",
+      "popularity": 150.6365,
+      "poster_path": "/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
+      "release_date": "2025-06-20",
+      "title": "KPop Demon Hunters",
+      "video": false,
+      "vote_average": 8.268,
+      "vote_count": 1659
     },
     {
       "adult": false,
@@ -349,53 +366,34 @@
       "original_language": "en",
       "original_title": "Superman",
       "overview": "Superman doit trouver l’équilibre entre ses racines kryptoniennes et son identité humaine, sous les traits de Clark Kent, originaire de Smallville, dans le Kansas. Il est l’incarnation de la vérité, de la justice et des valeurs américaines et il est animé par une véritable bienveillance dans un monde qui considère cette qualité comme obsolète.",
-      "popularity": 132.8143,
+      "popularity": 127.7512,
       "poster_path": "/bL1U8TDb2ZiThIBFAdKHOfpv8lk.jpg",
       "release_date": "2025-07-09",
       "title": "Superman",
       "video": false,
-      "vote_average": 7.449,
-      "vote_count": 3567
+      "vote_average": 7.447,
+      "vote_count": 3581
     },
     {
       "adult": false,
-      "backdrop_path": "/zpEWFNqoN8Qg1SzMMHmaGyOBTdW.jpg",
+      "backdrop_path": "/aIsjCdfiAS89cMjdDWEpKmUTHsZ.jpg",
       "genre_ids": [
         28,
-        53,
-        80
+        10752
       ],
-      "id": 1054867,
+      "id": 1009640,
       "original_language": "en",
-      "original_title": "One Battle After Another",
-      "overview": "Bob Ferguson est un ancien révolutionnaire paranoïaque et désabusé, qui a jadis oeuvré avec son ex, Perfidia, au sein du French 75, un groupe militant voué au renversement du gouvernement américain. Seize ans plus tard, Bob vit seul avec sa fille, Willa, quand celle-ci disparaît soudainement. Bob soupçonne son vieil ennemi d’antan, le Colonel Steven J. Lockjaw, d’être responsable de sa disparition. Il décide alors de renouer avec ses anciens frères d’armes pour retrouver sa fille, quitte à confronter les fantômes de son passé.",
-      "popularity": 127.1627,
-      "poster_path": "/qOlG4JqEdK3qK42WwWt8SlxlnIt.jpg",
-      "release_date": "2025-09-23",
-      "title": "Une bataille après l'autre",
+      "original_title": "Valiant One",
+      "overview": "Un hélicoptère américain s'écrase du côté nord-coréen de la zone démilitarisée de Corée. Alors que les tensions entre le Nord et le Sud sont déjà au bord de la guerre, les militaires non combattants de l'armée américaine survivants doivent travailler ensemble pour trouver leur chemin à travers la zone, sans possibilité de soutien militaire américain.",
+      "popularity": 125.1172,
+      "poster_path": "/sT8Z14RDCAd6szzxzWFAU4xcMwg.jpg",
+      "release_date": "2025-01-30",
+      "title": "Valiant One",
       "video": false,
-      "vote_average": 7.804,
-      "vote_count": 799
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/nvdLEfAWcfTNn45SpwBnLGBmOR1.jpg",
-      "genre_ids": [
-        37
-      ],
-      "id": 1357886,
-      "original_language": "it",
-      "original_title": "Django Undisputed",
-      "overview": "",
-      "popularity": 125.1223,
-      "poster_path": "/porcUhC4jqFt72TaxbjOQo2lTzL.jpg",
-      "release_date": "2024-04-22",
-      "title": "Django Undisputed",
-      "video": false,
-      "vote_average": 6.056,
-      "vote_count": 9
+      "vote_average": 6.289,
+      "vote_count": 45
     }
   ],
-  "total_pages": 52995,
-  "total_results": 1059885
+  "total_pages": 53020,
+  "total_results": 1060393
 }
