@@ -12,13 +12,13 @@
       "original_language": "es",
       "original_title": "Culpa nuestra",
       "overview": "Le mariage de Jenna et Lion marque les retrouvailles entre Noah et Nick après leur rupture. L'incapacité de Nick à pardonner à Noah représente un obstacle difficile à surmonter. Lui, héritier des affaires de son grand-père, et elle, qui débute sa carrière, évitent de raviver la flamme entre eux. Mais, maintenant qu'ils se retrouvent, l'amour l'emportera-t-il sur le ressentiment ?",
-      "popularity": 1170.7528,
+      "popularity": 1160.9712,
       "poster_path": "/iNncvRAgj8SQA25OhjNZeEElWCK.jpg",
       "release_date": "2025-10-15",
       "title": "À contre-sens 3",
       "video": false,
-      "vote_average": 8.005,
-      "vote_count": 213
+      "vote_average": 7.992,
+      "vote_count": 257
     },
     {
       "adult": false,
@@ -32,13 +32,33 @@
       "original_language": "pl",
       "original_title": "Druga Furioza",
       "overview": "À la suite d'un meurtre, Golden, le nouveau chef de Furioza, prend en main son gang hooligan hyper violent et se lance dans une nouvelle aventure au-delà des frontières.",
-      "popularity": 393.4382,
+      "popularity": 407.1937,
       "poster_path": "/mxA0a183RDcgazm0wpfQwGoqdc7.jpg",
       "release_date": "2025-10-14",
       "title": "Furioza 2",
       "video": false,
-      "vote_average": 6.214,
-      "vote_count": 14
+      "vote_average": 6.294,
+      "vote_count": 18
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/efQIfpxegsg6KHfTcVngrPO09cs.jpg",
+      "genre_ids": [
+        12,
+        28,
+        27
+      ],
+      "id": 1511789,
+      "original_language": "en",
+      "original_title": "Captain Hook - The Cursed Tides",
+      "overview": "",
+      "popularity": 373.5845,
+      "poster_path": "/7SHFZKfd270y47sXN2WsURUO3ml.jpg",
+      "release_date": "2025-07-11",
+      "title": "Captain Hook - The Cursed Tides",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 4
     },
     {
       "adult": false,
@@ -50,13 +70,13 @@
       "original_language": "en",
       "original_title": "The Conjuring: Last Rites",
       "overview": "Alors qu’ils espéraient une nouvelle vie, Ed et Lorraine Warren se voient impliqués dans une dernière enquête…qu’ils n’auraient jamais dû accepter. Dans la maison de la famille Smurl, un mal ancien les attend. Un ennemi qu’ils croyaient à jamais enfoui... Découvrez comment les Warren ont affronté le cas le plus maléfique de leur carrière, inspiré de faits réels qui ont terrorisé l’Amérique.",
-      "popularity": 321.6263,
+      "popularity": 327.0111,
       "poster_path": "/mlkMH0Em29I0QBc7YeRc9yGFRKw.jpg",
       "release_date": "2025-09-03",
       "title": "Conjuring : L'Heure du jugement",
       "video": false,
-      "vote_average": 6.961,
-      "vote_count": 1010
+      "vote_average": 6.972,
+      "vote_count": 1041
     },
     {
       "adult": false,
@@ -69,12 +89,12 @@
       "original_language": "en",
       "original_title": "War of the Worlds",
       "overview": "Une invasion gargantuesque approche dans cette nouvelle interprétation du légendaire roman homonyme devenu un classique de la science-fiction. La célèbre Eva Longoria partage l'affiche avec le rappeur/acteur Ice Cube, Michael O'Neill et Iman Benson, dans une aventure extraordinaire abordant des thématiques actuelles telles que la technologie, la surveillance et la protection de la vie privée.",
-      "popularity": 309.0749,
+      "popularity": 348.4541,
       "poster_path": "/yvirUYrva23IudARHn3mMGVxWqM.jpg",
       "release_date": "2025-07-29",
       "title": "La Guerre des mondes",
       "video": false,
-      "vote_average": 4.363,
+      "vote_average": 4.4,
       "vote_count": 642
     },
     {
@@ -90,13 +110,13 @@
       "original_language": "ja",
       "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
       "overview": "L'armée des pourfendeurs de démons est attirée dans la Forteresse Infinie, où Tanjiro, Zenitsu et Inosuke  affrontent de terrifiants démons de rang supérieur dans un combat désespéré alors que la bataille finale contre Kibutsuji Muzan commence.",
-      "popularity": 283.8958,
+      "popularity": 299.4665,
       "poster_path": "/wXTU3AFmlUPbqjH68MZ989uHd6k.jpg",
       "release_date": "2025-07-18",
       "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
       "video": false,
       "vote_average": 7.8,
-      "vote_count": 466
+      "vote_count": 470
     },
     {
       "adult": false,
@@ -110,13 +130,33 @@
       "original_language": "hi",
       "original_title": "वॉर 2",
       "overview": "",
-      "popularity": 243.5556,
+      "popularity": 238.4,
       "poster_path": "/j8Gl3S4L7LE8GIF1J1phZ2Cbo72.jpg",
       "release_date": "2025-08-13",
       "title": "War 2",
       "video": false,
-      "vote_average": 5.583,
-      "vote_count": 24
+      "vote_average": 5.259,
+      "vote_count": 27
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oz4U9eA6ilYf1tyiVuGmkftdLac.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        53
+      ],
+      "id": 1010581,
+      "original_language": "es",
+      "original_title": "Culpa mía",
+      "overview": "Noah doit quitter sa ville, son petit ami et ses amis pour emménager dans le manoir de William Leister, le nouveau et riche mari de sa mère. Âgée de dix-sept ans, fière et indépendante, Noah rencontre Nick, son nouveau demi-frère, et leurs fortes personnalités s’entrechoquent dès le début. Noah découvre bientôt que derrière l'image d'un fils modèle, Nick cache une vie de bagarre, de jeu et de courses automobiles illégales. Malgré l'abîme qui les sépare, tous deux commencent à ressentir une attirance irrésistible qui se transformera bientôt en feu et en folle passion. Ni la rivalité permanente, ni l'opposition de leur entourage ne peuvent les empêcher de tomber secrètement et follement amoureux. Mais le présent turbulent de Nick et le passé orageux de Noah mettront à l'épreuve leur vie et leur amour interdit.",
+      "popularity": 221.9507,
+      "poster_path": "/3ZCfSSxZ2e4Kiwu3Y9dvfT5n1m6.jpg",
+      "release_date": "2023-06-08",
+      "title": "À contre-sens",
+      "video": false,
+      "vote_average": 7.766,
+      "vote_count": 3860
     },
     {
       "adult": false,
@@ -129,7 +169,7 @@
       "original_language": "en",
       "original_title": "The Lost Princess",
       "overview": "",
-      "popularity": 211.7887,
+      "popularity": 193.8143,
       "poster_path": "/31S2ISsDtbnxb0kuXZl1SxSMD0K.jpg",
       "release_date": "2025-10-16",
       "title": "The Lost Princess",
@@ -149,13 +189,13 @@
       "original_language": "ml",
       "original_title": "മാർക്കോ",
       "overview": "",
-      "popularity": 206.8758,
+      "popularity": 189.3854,
       "poster_path": "/6Nj8Y1A9lcReqZZvRHOSiO3iTl6.jpg",
       "release_date": "2024-12-20",
       "title": "Marco",
       "video": false,
-      "vote_average": 6.465,
-      "vote_count": 72
+      "vote_average": 6.459,
+      "vote_count": 73
     },
     {
       "adult": false,
@@ -169,13 +209,13 @@
       "original_language": "en",
       "original_title": "The Toxic Avenger Unrated",
       "overview": "Lorsque Winston Gooze, un concierge persécuté, est exposé à un accident toxique catastrophique, il se transforme en un héros nouveau genre : Toxic le ravageur. Il passe rapidement du statut de paria à celui de sauveur en s’attaquant aux chefs d’entreprises impitoyables et aux forces corrompues qui menacent son fils, ses amis et sa communauté. Dans un monde où la cupidité est omniprésente… la justice est mieux servie radioactivement.",
-      "popularity": 205.6358,
+      "popularity": 196.8808,
       "poster_path": "/m3JlhvUMXzsIYRx0z85yQhFpu4C.jpg",
       "release_date": "2025-08-28",
       "title": "The Toxic Avenger",
       "video": false,
-      "vote_average": 6.348,
-      "vote_count": 132
+      "vote_average": 6.3,
+      "vote_count": 134
     },
     {
       "adult": false,
@@ -190,33 +230,13 @@
       "original_language": "ko",
       "original_title": "거룩한 밤: 데몬 헌터스",
       "overview": "",
-      "popularity": 192.1377,
+      "popularity": 187.4005,
       "poster_path": "/7MGnHpfhF8savUsrUJoI8Q7dTk9.jpg",
       "release_date": "2025-04-30",
       "title": "거룩한 밤: 데몬 헌터스",
       "video": false,
-      "vote_average": 6.4,
-      "vote_count": 50
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/oz4U9eA6ilYf1tyiVuGmkftdLac.jpg",
-      "genre_ids": [
-        18,
-        10749,
-        53
-      ],
-      "id": 1010581,
-      "original_language": "es",
-      "original_title": "Culpa mía",
-      "overview": "Noah doit quitter sa ville, son petit ami et ses amis pour emménager dans le manoir de William Leister, le nouveau et riche mari de sa mère. Âgée de dix-sept ans, fière et indépendante, Noah rencontre Nick, son nouveau demi-frère, et leurs fortes personnalités s’entrechoquent dès le début. Noah découvre bientôt que derrière l'image d'un fils modèle, Nick cache une vie de bagarre, de jeu et de courses automobiles illégales. Malgré l'abîme qui les sépare, tous deux commencent à ressentir une attirance irrésistible qui se transformera bientôt en feu et en folle passion. Ni la rivalité permanente, ni l'opposition de leur entourage ne peuvent les empêcher de tomber secrètement et follement amoureux. Mais le présent turbulent de Nick et le passé orageux de Noah mettront à l'épreuve leur vie et leur amour interdit.",
-      "popularity": 215.9173,
-      "poster_path": "/3ZCfSSxZ2e4Kiwu3Y9dvfT5n1m6.jpg",
-      "release_date": "2023-06-08",
-      "title": "À contre-sens",
-      "video": false,
-      "vote_average": 7.768,
-      "vote_count": 3852
+      "vote_average": 6.615,
+      "vote_count": 52
     },
     {
       "adult": false,
@@ -229,13 +249,51 @@
       "original_language": "en",
       "original_title": "The Fantastic 4: First Steps",
       "overview": "Dans le contexte vibrant d’un monde rétro-futuriste inspiré des années 60, le film présente la première famille de Marvel : Reed Richards/Mister Fantastic, Sue Storm/La Femme Invisible, Johnny Storm/La Torche Humaine et Ben Grimm/La Chose  alors qu’ils font face à leur défi le plus redoutable à ce jour. Contraints d’équilibrer leur rôle de héros avec la force de leur lien familial, ils doivent défendre la Terre contre un dieu spatial vorace appelé Galactus et son énigmatique héraut, le Surfeur d’Argent. Et comme si le plan de Galactus de dévorer la planète entière et tous ses habitants n’était pas déjà assez mauvais, cela devient soudainement très personnel.",
-      "popularity": 181.7035,
+      "popularity": 187.5392,
       "poster_path": "/rNc4KARs6fVa4axzvuv3NfUiNy1.jpg",
       "release_date": "2025-07-23",
       "title": "Les 4 Fantastiques : Premiers pas",
       "video": false,
-      "vote_average": 7.128,
-      "vote_count": 2001
+      "vote_average": 7.124,
+      "vote_count": 2016
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sSaUmM4bnZJ7PW5dlyRi7iONB65.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1010756,
+      "original_language": "en",
+      "original_title": "The Strangers: Chapter 2",
+      "overview": "Lorsqu’ils découvrent que l’une de leurs victimes, Maya, a survécu, ils reviennent pour terminer ce qu’ils ont commencé. Traquée et isolée, Maya doit affronter un nouveau chapitre terrifiant alors que les tueurs, insensés et inarrêtables, la traquent, prêts à éliminer quiconque se mettra en travers de leur route.",
+      "popularity": 197.5594,
+      "poster_path": "/zxtIhguQPqCBJVVXburIEUaUyYP.jpg",
+      "release_date": "2025-09-25",
+      "title": "Les Intrus : Chapitre 2",
+      "video": false,
+      "vote_average": 5.657,
+      "vote_count": 54
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/k24eZq5I3jyz4htPkZCRpnUmBzE.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 1156593,
+      "original_language": "es",
+      "original_title": "Culpa tuya",
+      "overview": "La relation entre Noah et Nick semble plus forte que jamais, malgré la volonté de leurs parents de les séparer. Mais avec son travail et son entrée à la fac, de nouvelles perspectives amoureuses feront trembler les fondations de leur relation et celles des Leister. Si tout le monde est prêt à détruire une relation, aura-t-on droit à une fin heureuse ?",
+      "popularity": 170.1676,
+      "poster_path": "/b4L9kE63ePeHmsoAzUNNJssqFTZ.jpg",
+      "release_date": "2024-12-26",
+      "title": "À contre-sens 2",
+      "video": false,
+      "vote_average": 7.135,
+      "vote_count": 1404
     },
     {
       "adult": false,
@@ -249,32 +307,13 @@
       "original_language": "en",
       "original_title": "The Woman in Cabin 10",
       "overview": "En reportage sur un yacht de luxe, une journaliste voit quelqu'un tomber à l'eau. Mais comme personne ne la croit, elle risque sa vie pour découvrir la vérité.",
-      "popularity": 159.3791,
+      "popularity": 147.1987,
       "poster_path": "/shUIYAwT1xyEX8vnRGqHYENVt9I.jpg",
       "release_date": "2025-10-09",
       "title": "La Disparue de la cabine 10",
       "video": false,
-      "vote_average": 6.155,
-      "vote_count": 323
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/sSaUmM4bnZJ7PW5dlyRi7iONB65.jpg",
-      "genre_ids": [
-        27,
-        53
-      ],
-      "id": 1010756,
-      "original_language": "en",
-      "original_title": "The Strangers: Chapter 2",
-      "overview": "Lorsqu’ils découvrent que l’une de leurs victimes, Maya, a survécu, ils reviennent pour terminer ce qu’ils ont commencé. Traquée et isolée, Maya doit affronter un nouveau chapitre terrifiant alors que les tueurs, insensés et inarrêtables, la traquent, prêts à éliminer quiconque se mettra en travers de leur route.",
-      "popularity": 179.8065,
-      "poster_path": "/zxtIhguQPqCBJVVXburIEUaUyYP.jpg",
-      "release_date": "2025-09-25",
-      "title": "Les Intrus : Chapitre 2",
-      "video": false,
-      "vote_average": 5.287,
-      "vote_count": 47
+      "vote_average": 6.249,
+      "vote_count": 364
     },
     {
       "adult": false,
@@ -286,13 +325,13 @@
       "original_language": "en",
       "original_title": "Play Dirty",
       "overview": "Un voleur nommé Parker tente de monter dans un braquage majeur dans lequel il doit déjouer un dictateur sud-américain, la mafia new-yorkaise et l'un des hommes les plus riches du monde.",
-      "popularity": 156.2875,
+      "popularity": 154.9456,
       "poster_path": "/mxwin58JCvgSZm4TkYgyYx5XNGs.jpg",
       "release_date": "2025-09-30",
       "title": "Play Dirty",
       "video": false,
-      "vote_average": 6.634,
-      "vote_count": 321
+      "vote_average": 6.604,
+      "vote_count": 333
     },
     {
       "adult": false,
@@ -306,71 +345,13 @@
       "original_language": "en",
       "original_title": "Primitive War",
       "overview": "En 1968, pendant la guerre du Vietnam, une unité de reconnaissance connue sous le nom de Vulture Squad est envoyée dans une vallée isolée de la jungle pour sauver un peloton de bérets verts disparu. Ils découvrent bientôt que des dinosaures habitent la jungle. Ils sont le résultat d’une expérience soviétique qui a mal tourné.",
-      "popularity": 154.8807,
+      "popularity": 151.5292,
       "poster_path": "/nWBqU5YXmDVJWWEDJ4u3ZSseNVL.jpg",
       "release_date": "2025-08-21",
       "title": "Primitive War",
       "video": false,
-      "vote_average": 6.858,
-      "vote_count": 113
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/da1mXvCrQrFcw6BxovCavBFbIvz.jpg",
-      "genre_ids": [
-        27,
-        53
-      ],
-      "id": 1251717,
-      "original_language": "en",
-      "original_title": "Vicious",
-      "overview": "Polly reçoit une mystérieuse boîte d’un visiteur surprise, tard dans la soirée, accompagnée d’une consigne : y placer une chose dont elle a besoin, une chose qu’elle déteste et une chose qu’elle aime. Ce rituel étrange se transforme vite en cauchemar, et Polly se retrouve confrontée à une série de choix impossibles. Alors que le temps s’écoule, elle doit affronter les ténèbres, non seulement autour d’elle, mais aussi en elle, avant qu’elles ne consument tout, y compris ceux qu’elle aime.",
-      "popularity": 133.1026,
-      "poster_path": "/7IntLBzQbsJisbZvaSsNLHoZKRS.jpg",
-      "release_date": "2025-10-18",
-      "title": "Vicious",
-      "video": false,
-      "vote_average": 6.069,
-      "vote_count": 58
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/k24eZq5I3jyz4htPkZCRpnUmBzE.jpg",
-      "genre_ids": [
-        18,
-        10749
-      ],
-      "id": 1156593,
-      "original_language": "es",
-      "original_title": "Culpa tuya",
-      "overview": "La relation entre Noah et Nick semble plus forte que jamais, malgré la volonté de leurs parents de les séparer. Mais avec son travail et son entrée à la fac, de nouvelles perspectives amoureuses feront trembler les fondations de leur relation et celles des Leister. Si tout le monde est prêt à détruire une relation, aura-t-on droit à une fin heureuse ?",
-      "popularity": 164.4749,
-      "poster_path": "/b4L9kE63ePeHmsoAzUNNJssqFTZ.jpg",
-      "release_date": "2024-12-26",
-      "title": "À contre-sens 2",
-      "video": false,
-      "vote_average": 7.134,
-      "vote_count": 1399
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/538U9snNc2fpnOmYXAPUh3zn31H.jpg",
-      "genre_ids": [
-        28,
-        12,
-        53
-      ],
-      "id": 575265,
-      "original_language": "en",
-      "original_title": "Mission: Impossible - The Final Reckoning",
-      "overview": "Ethan Hunt se rend à Londres avec son équipe dans l'espoir de remonter la piste du mystérieux Gabriel, qu'il a affronté deux mois auparavant à bord de l'Orient-Express et qui détient la clé contrôlant l’intelligence artificielle toute puissante surnommée l'Entité. Adulée par les uns, redoutée par les autres, l’Entité se distingue par sa capacité à prédire toutes les éventualités possibles. Elle connaît parfaitement les forces et faiblesses d’Ethan et de son équipe. Gabriel compte l'utiliser pour mettre en œuvre son plan ultime : annihiler Ethan et son équipe, s’emparer de tous les systèmes de défense planétaires et déclencher la Troisième Guerre mondiale.",
-      "popularity": 144.9276,
-      "poster_path": "/AozMgdALZuR1hDPZt2a1aXiWmL4.jpg",
-      "release_date": "2025-05-17",
-      "title": "Mission : Impossible - The Final Reckoning",
-      "video": false,
-      "vote_average": 7.272,
-      "vote_count": 1947
+      "vote_average": 6.819,
+      "vote_count": 116
     },
     {
       "adult": false,
@@ -385,15 +366,35 @@
       "original_language": "en",
       "original_title": "KPop Demon Hunters",
       "overview": "Quand elles ne remplissent pas les stades, Rumi, Mira et Zoey, superstars de la K-pop, utilisent leurs pouvoirs secrets pour protéger leurs fans de menaces surnaturelles.",
-      "popularity": 151.6111,
+      "popularity": 159.0261,
       "poster_path": "/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
       "release_date": "2025-06-20",
       "title": "KPop Demon Hunters",
       "video": false,
-      "vote_average": 8.256,
-      "vote_count": 1691
+      "vote_average": 8.3,
+      "vote_count": 1700
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/538U9snNc2fpnOmYXAPUh3zn31H.jpg",
+      "genre_ids": [
+        28,
+        12,
+        53
+      ],
+      "id": 575265,
+      "original_language": "en",
+      "original_title": "Mission: Impossible - The Final Reckoning",
+      "overview": "Ethan Hunt se rend à Londres avec son équipe dans l'espoir de remonter la piste du mystérieux Gabriel, qu'il a affronté deux mois auparavant à bord de l'Orient-Express et qui détient la clé contrôlant l’intelligence artificielle toute puissante surnommée l'Entité. Adulée par les uns, redoutée par les autres, l’Entité se distingue par sa capacité à prédire toutes les éventualités possibles. Elle connaît parfaitement les forces et faiblesses d’Ethan et de son équipe. Gabriel compte l'utiliser pour mettre en œuvre son plan ultime : annihiler Ethan et son équipe, s’emparer de tous les systèmes de défense planétaires et déclencher la Troisième Guerre mondiale.",
+      "popularity": 147.1501,
+      "poster_path": "/AozMgdALZuR1hDPZt2a1aXiWmL4.jpg",
+      "release_date": "2025-05-17",
+      "title": "Mission : Impossible - The Final Reckoning",
+      "video": false,
+      "vote_average": 7.274,
+      "vote_count": 1960
     }
   ],
-  "total_pages": 53125,
-  "total_results": 1062484
+  "total_pages": 53142,
+  "total_results": 1062825
 }
