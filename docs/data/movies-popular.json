@@ -3,22 +3,6 @@
   "results": [
     {
       "adult": false,
-      "backdrop_path": "/xYI50zKRbX8pSul1x4zAMS6Tnl1.jpg",
-      "genre_ids": [],
-      "id": 1413602,
-      "original_language": "en",
-      "original_title": "WWE Raw on Netflix Premier Post-Show",
-      "overview": "",
-      "popularity": 447.0546,
-      "poster_path": null,
-      "release_date": "2025-01-06",
-      "title": "WWE Raw on Netflix Premier Post-Show",
-      "video": false,
-      "vote_average": 6.5,
-      "vote_count": 1
-    },
-    {
-      "adult": false,
       "backdrop_path": "/kHOfxq7cMTXyLbj0UmdoGhT540O.jpg",
       "genre_ids": [
         878,
@@ -34,8 +18,8 @@
       "release_date": "2025-08-20",
       "title": "Afterburn",
       "video": false,
-      "vote_average": 6.437,
-      "vote_count": 64
+      "vote_average": 6.428,
+      "vote_count": 69
     },
     {
       "adult": false,
@@ -53,8 +37,8 @@
       "release_date": "2025-10-15",
       "title": "À contre-sens 3",
       "video": false,
-      "vote_average": 7.613,
-      "vote_count": 429
+      "vote_average": 7.618,
+      "vote_count": 435
     },
     {
       "adult": false,
@@ -72,8 +56,8 @@
       "release_date": "2025-07-29",
       "title": "La Guerre des mondes",
       "video": false,
-      "vote_average": 4.342,
-      "vote_count": 663
+      "vote_average": 4.338,
+      "vote_count": 664
     },
     {
       "adult": false,
@@ -91,8 +75,8 @@
       "release_date": "2025-05-16",
       "title": "Hunting Grounds",
       "video": false,
-      "vote_average": 6.25,
-      "vote_count": 44
+      "vote_average": 6.444,
+      "vote_count": 45
     },
     {
       "adult": false,
@@ -110,8 +94,8 @@
       "release_date": "2025-10-22",
       "title": "The Elixir",
       "video": false,
-      "vote_average": 5.662,
-      "vote_count": 71
+      "vote_average": 5.6,
+      "vote_count": 73
     },
     {
       "adult": false,
@@ -131,8 +115,8 @@
       "release_date": "2025-07-18",
       "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
       "video": false,
-      "vote_average": 7.81,
-      "vote_count": 495
+      "vote_average": 7.801,
+      "vote_count": 497
     },
     {
       "adult": false,
@@ -170,26 +154,8 @@
       "release_date": "2025-10-02",
       "title": "A House of Dynamite",
       "video": false,
-      "vote_average": 6.491,
-      "vote_count": 389
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/pcJft6lFWsJxutwpLHVYfmZRPQp.jpg",
-      "genre_ids": [
-        53
-      ],
-      "id": 604079,
-      "original_language": "en",
-      "original_title": "The Long Walk",
-      "overview": "Dans une Amérique totalitaire instaurée après une longue guerre fratricide, 50 jeunes hommes participent à une marche d'endurance de plus de 500 kilomètres, filmée et diffusée en direct. Les marcheurs ont l'obligation de conserver un rythme constant, avec interdiction formelle de s'arrêter. Après trois avertissements consécutifs, les contrevenants sont froidement abattus. Un seul en sortira vivant, avec une somme faramineuse et un prix de son choix. Habité par un motif secret, le jeune Raymond Garraty tente sa chance, nouant sur la route un fort lien d'amitié avec l'Afro-Américain Peter McVries.",
-      "popularity": 199.0164,
-      "poster_path": "/4KXidDT9Z8w23A4r0eoRwwDPYOD.jpg",
-      "release_date": "2025-09-10",
-      "title": "Marche ou crève",
-      "video": false,
-      "vote_average": 6.912,
-      "vote_count": 528
+      "vote_average": 6.436,
+      "vote_count": 421
     },
     {
       "adult": false,
@@ -213,6 +179,24 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/pcJft6lFWsJxutwpLHVYfmZRPQp.jpg",
+      "genre_ids": [
+        53
+      ],
+      "id": 604079,
+      "original_language": "en",
+      "original_title": "The Long Walk",
+      "overview": "Dans une Amérique totalitaire instaurée après une longue guerre fratricide, 50 jeunes hommes participent à une marche d'endurance de plus de 500 kilomètres, filmée et diffusée en direct. Les marcheurs ont l'obligation de conserver un rythme constant, avec interdiction formelle de s'arrêter. Après trois avertissements consécutifs, les contrevenants sont froidement abattus. Un seul en sortira vivant, avec une somme faramineuse et un prix de son choix. Habité par un motif secret, le jeune Raymond Garraty tente sa chance, nouant sur la route un fort lien d'amitié avec l'Afro-Américain Peter McVries.",
+      "popularity": 199.0164,
+      "poster_path": "/4KXidDT9Z8w23A4r0eoRwwDPYOD.jpg",
+      "release_date": "2025-09-10",
+      "title": "Marche ou crève",
+      "video": false,
+      "vote_average": 6.901,
+      "vote_count": 543
+    },
+    {
+      "adult": false,
       "backdrop_path": "/42xAe6kVeTjml9Tww6vRoWa5tay.jpg",
       "genre_ids": [
         28,
@@ -228,47 +212,8 @@
       "release_date": "2024-10-11",
       "title": "Martin",
       "video": false,
-      "vote_average": 3.167,
-      "vote_count": 12
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/tcBX2dtkNozZ0uDLVaxXrE6rqyN.jpg",
-      "genre_ids": [
-        27
-      ],
-      "id": 1038392,
-      "original_language": "en",
-      "original_title": "The Conjuring: Last Rites",
-      "overview": "Alors qu’ils espéraient une nouvelle vie, Ed et Lorraine Warren se voient impliqués dans une dernière enquête…qu’ils n’auraient jamais dû accepter. Dans la maison de la famille Smurl, un mal ancien les attend. Un ennemi qu’ils croyaient à jamais enfoui... Découvrez comment les Warren ont affronté le cas le plus maléfique de leur carrière, inspiré de faits réels qui ont terrorisé l’Amérique.",
-      "popularity": 164.8545,
-      "poster_path": "/mlkMH0Em29I0QBc7YeRc9yGFRKw.jpg",
-      "release_date": "2025-09-03",
-      "title": "Conjuring : L'Heure du jugement",
-      "video": false,
-      "vote_average": 6.988,
-      "vote_count": 1162
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/kfXgo2rMF1A19celCwLyQ4Xwpf8.jpg",
-      "genre_ids": [
-        16,
-        28,
-        10749,
-        14
-      ],
-      "id": 1218925,
-      "original_language": "ja",
-      "original_title": "チェンソーマン レゼ篇",
-      "overview": "Après avoir mit hors d'état de nuire Katana Man, Denji se demande avec l'agitation de sa vie s'il a toujours un cœur. Il va faire la rencontre de Reze, une jeune femme qui semble s'intéresser à lui. Leur relation s'épanouit jusqu'à ce que la vraie nature de Reze se révèle. Il va livrer un combat périlleux guidé par l'amour mais qui sera explosif.",
-      "popularity": 166.4405,
-      "poster_path": "/e6TnXsxaL4ys7Ldx2kf3RGRn5Uz.jpg",
-      "release_date": "2025-09-19",
-      "title": "Chainsaw Man – Le Film : L'arc de Reze",
-      "video": false,
-      "vote_average": 8.1,
-      "vote_count": 93
+      "vote_average": 3.571,
+      "vote_count": 14
     },
     {
       "adult": false,
@@ -292,6 +237,45 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/gqTz24ZRsCP6AKjARmEivY7m0cK.jpg",
+      "genre_ids": [
+        16,
+        28,
+        10749,
+        14
+      ],
+      "id": 1218925,
+      "original_language": "ja",
+      "original_title": "チェンソーマン レゼ篇",
+      "overview": "Après avoir mit hors d'état de nuire Katana Man, Denji se demande avec l'agitation de sa vie s'il a toujours un cœur. Il va faire la rencontre de Reze, une jeune femme qui semble s'intéresser à lui. Leur relation s'épanouit jusqu'à ce que la vraie nature de Reze se révèle. Il va livrer un combat périlleux guidé par l'amour mais qui sera explosif.",
+      "popularity": 166.4405,
+      "poster_path": "/e6TnXsxaL4ys7Ldx2kf3RGRn5Uz.jpg",
+      "release_date": "2025-09-19",
+      "title": "Chainsaw Man – Le Film : L'arc de Reze",
+      "video": false,
+      "vote_average": 8.17,
+      "vote_count": 97
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tcBX2dtkNozZ0uDLVaxXrE6rqyN.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 1038392,
+      "original_language": "en",
+      "original_title": "The Conjuring: Last Rites",
+      "overview": "Alors qu’ils espéraient une nouvelle vie, Ed et Lorraine Warren se voient impliqués dans une dernière enquête…qu’ils n’auraient jamais dû accepter. Dans la maison de la famille Smurl, un mal ancien les attend. Un ennemi qu’ils croyaient à jamais enfoui... Découvrez comment les Warren ont affronté le cas le plus maléfique de leur carrière, inspiré de faits réels qui ont terrorisé l’Amérique.",
+      "popularity": 164.8545,
+      "poster_path": "/mlkMH0Em29I0QBc7YeRc9yGFRKw.jpg",
+      "release_date": "2025-09-03",
+      "title": "Conjuring : L'Heure du jugement",
+      "video": false,
+      "vote_average": 6.984,
+      "vote_count": 1169
+    },
+    {
+      "adult": false,
       "backdrop_path": "/2yo2k8CmgZxfBQYAZ8TnHIYzEme.jpg",
       "genre_ids": [
         28,
@@ -308,7 +292,7 @@
       "title": "Furioza 2",
       "video": false,
       "vote_average": 6.51,
-      "vote_count": 50
+      "vote_count": 52
     },
     {
       "adult": false,
@@ -328,8 +312,27 @@
       "release_date": "2025-03-07",
       "title": "The Ugly Stepsister",
       "video": false,
-      "vote_average": 7.271,
-      "vote_count": 527
+      "vote_average": 7.282,
+      "vote_count": 531
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/GNeuKnbZRZj5JhKfnJOPyKJuVA.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1197137,
+      "original_language": "en",
+      "original_title": "Black Phone 2",
+      "overview": "Depuis son enlèvement, Finney, aujourd'hui âgé de 17 ans, lutte pour reprendre le cours d'une vie normale, alors que rien ni personne ne saurait arrêter Gwen, sa soeur de 15 ans. Cependant, celle-ci commence à recevoir des appels du sinistre téléphone noir dans ses rêves, où elle voit sans cesse trois garçons se faire pourchasser dans un camp de montagne appelé Alpine Lake. Déterminée à mettre fin à ces cauchemars et à en percer le mystère, Gwen persuade son frère de se rendre sur place.",
+      "popularity": 147.83,
+      "poster_path": "/yea26ufsklHJafnnUM3kO6vCPc4.jpg",
+      "release_date": "2025-10-15",
+      "title": "Black Phone 2",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 160
     },
     {
       "adult": false,
@@ -349,49 +352,50 @@
       "release_date": "2002-08-09",
       "title": "xXx",
       "video": false,
-      "vote_average": 5.964,
-      "vote_count": 4608
+      "vote_average": 5.965,
+      "vote_count": 4609
     },
     {
       "adult": false,
-      "backdrop_path": "/GNeuKnbZRZj5JhKfnJOPyKJuVA.jpg",
+      "backdrop_path": "/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
       "genre_ids": [
-        27,
-        53
+        14,
+        10402,
+        35,
+        16
       ],
-      "id": 1197137,
+      "id": 803796,
       "original_language": "en",
-      "original_title": "Black Phone 2",
-      "overview": "Depuis son enlèvement, Finney, aujourd'hui âgé de 17 ans, lutte pour reprendre le cours d'une vie normale, alors que rien ni personne ne saurait arrêter Gwen, sa soeur de 15 ans. Cependant, celle-ci commence à recevoir des appels du sinistre téléphone noir dans ses rêves, où elle voit sans cesse trois garçons se faire pourchasser dans un camp de montagne appelé Alpine Lake. Déterminée à mettre fin à ces cauchemars et à en percer le mystère, Gwen persuade son frère de se rendre sur place.",
-      "popularity": 147.83,
-      "poster_path": "/yea26ufsklHJafnnUM3kO6vCPc4.jpg",
-      "release_date": "2025-10-15",
-      "title": "Black Phone 2",
+      "original_title": "KPop Demon Hunters",
+      "overview": "Quand elles ne remplissent pas les stades, Rumi, Mira et Zoey, superstars de la K-pop, utilisent leurs pouvoirs secrets pour protéger leurs fans de menaces surnaturelles.",
+      "popularity": 130.1835,
+      "poster_path": "/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
+      "release_date": "2025-06-20",
+      "title": "KPop Demon Hunters",
       "video": false,
-      "vote_average": 7.1,
-      "vote_count": 158
+      "vote_average": 8.228,
+      "vote_count": 1780
     },
     {
       "adult": false,
-      "backdrop_path": "/oz4U9eA6ilYf1tyiVuGmkftdLac.jpg",
+      "backdrop_path": "/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
       "genre_ids": [
-        18,
-        10749,
-        53
+        878,
+        12
       ],
-      "id": 1010581,
-      "original_language": "es",
-      "original_title": "Culpa mía",
-      "overview": "Noah doit quitter sa ville, son petit ami et ses amis pour emménager dans le manoir de William Leister, le nouveau et riche mari de sa mère. Âgée de dix-sept ans, fière et indépendante, Noah rencontre Nick, son nouveau demi-frère, et leurs fortes personnalités s’entrechoquent dès le début. Noah découvre bientôt que derrière l'image d'un fils modèle, Nick cache une vie de bagarre, de jeu et de courses automobiles illégales. Malgré l'abîme qui les sépare, tous deux commencent à ressentir une attirance irrésistible qui se transformera bientôt en feu et en folle passion. Ni la rivalité permanente, ni l'opposition de leur entourage ne peuvent les empêcher de tomber secrètement et follement amoureux. Mais le présent turbulent de Nick et le passé orageux de Noah mettront à l'épreuve leur vie et leur amour interdit.",
-      "popularity": 123.5726,
-      "poster_path": "/3ZCfSSxZ2e4Kiwu3Y9dvfT5n1m6.jpg",
-      "release_date": "2023-06-08",
-      "title": "À contre-sens",
+      "id": 617126,
+      "original_language": "en",
+      "original_title": "The Fantastic 4: First Steps",
+      "overview": "Dans le contexte vibrant d’un monde rétro-futuriste inspiré des années 60, le film présente la première famille de Marvel : Reed Richards/Mister Fantastic, Sue Storm/La Femme Invisible, Johnny Storm/La Torche Humaine et Ben Grimm/La Chose  alors qu’ils font face à leur défi le plus redoutable à ce jour. Contraints d’équilibrer leur rôle de héros avec la force de leur lien familial, ils doivent défendre la Terre contre un dieu spatial vorace appelé Galactus et son énigmatique héraut, le Surfeur d’Argent. Et comme si le plan de Galactus de dévorer la planète entière et tous ses habitants n’était pas déjà assez mauvais, cela devient soudainement très personnel.",
+      "popularity": 125.8051,
+      "poster_path": "/rNc4KARs6fVa4axzvuv3NfUiNy1.jpg",
+      "release_date": "2025-07-23",
+      "title": "Les 4 Fantastiques : Premiers pas",
       "video": false,
-      "vote_average": 7.769,
-      "vote_count": 3890
+      "vote_average": 7.106,
+      "vote_count": 2109
     }
   ],
-  "total_pages": 53347,
-  "total_results": 1066926
+  "total_pages": 53364,
+  "total_results": 1067267
 }
