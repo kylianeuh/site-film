@@ -12,17 +12,17 @@
       "original_language": "fr",
       "original_title": "Six jours",
       "overview": "Nord de la France, 2005 : Malik, inspecteur de police, assiste impuissant à la mort d’une enfant suite à un kidnapping. En charge de l’enquête, il échoue à retrouver le meurtrier. DIX ANS PLUS TARD, sans élément nouveau, sans trace d'un dangereux criminel qui court toujours, l'affaire s’apprête à être classée définitivement. Mais quand de nouveaux faits en lien avec l’affaire se révèlent, Malik entame une course contre la montre dans l’espoir de résoudre l'enquête avant l’expiration du délai de prescription. Dans Six Jours. C’est le temps qui lui reste pour retrouver le coupable.",
-      "popularity": 379.5005,
-      "poster_path": "/1LMMSf17jD8bqvoLYC0qBJDWOBd.jpg",
+      "popularity": 374.3565,
+      "poster_path": "/foyiQu23zq4WhmffnQkFiNAvqcJ.jpg",
       "release_date": "2024-12-11",
       "title": "Six jours",
       "video": false,
-      "vote_average": 6.066,
-      "vote_count": 53
+      "vote_average": 6,
+      "vote_count": 55
     },
     {
       "adult": false,
-      "backdrop_path": "/oe2TOWykcLSGq67XPH4Bb0N1oU3.jpg",
+      "backdrop_path": "/6zKjoOOb3OZnZuiHtQZn4Kd69Gq.jpg",
       "genre_ids": [
         27,
         53
@@ -31,33 +31,13 @@
       "original_language": "en",
       "original_title": "Black Phone 2",
       "overview": "Depuis son enlèvement, Finney, aujourd'hui âgé de 17 ans, lutte pour reprendre le cours d'une vie normale, alors que rien ni personne ne saurait arrêter Gwen, sa sœur de 15 ans. Cependant, celle-ci commence à recevoir des appels du sinistre téléphone noir dans ses rêves, où elle voit sans cesse trois garçons se faire pourchasser dans un camp de montagne appelé Alpine Lake. Déterminée à mettre fin à ces cauchemars et à en percer le mystère, Gwen persuade son frère de se rendre sur place.",
-      "popularity": 336.8755,
+      "popularity": 352.407,
       "poster_path": "/yea26ufsklHJafnnUM3kO6vCPc4.jpg",
       "release_date": "2025-10-15",
       "title": "Black Phone 2",
       "video": false,
-      "vote_average": 7.136,
-      "vote_count": 257
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/kHOfxq7cMTXyLbj0UmdoGhT540O.jpg",
-      "genre_ids": [
-        878,
-        28,
-        35
-      ],
-      "id": 507244,
-      "original_language": "en",
-      "original_title": "Afterburn",
-      "overview": "Dix ans après qu'une éruption solaire a anéanti la technologie à travers le monde. Un ancien soldat Jake, récupére des objets de valeur de l'ancien monde pour de riches clients. Sa dernière mission consiste à faire équipe avec Drea afin de s'emparer de la Joconde avant qu'un seigneur de guerre ne l'atteigne en premier.",
-      "popularity": 252.6604,
-      "poster_path": "/xR0IhVBjbNU34b8erhJCgRbjXo3.jpg",
-      "release_date": "2025-08-20",
-      "title": "Afterburn",
-      "video": false,
-      "vote_average": 6.841,
-      "vote_count": 104
+      "vote_average": 7.248,
+      "vote_count": 308
     },
     {
       "adult": false,
@@ -72,13 +52,52 @@
       "original_language": "ja",
       "original_title": "チェンソーマン レゼ篇",
       "overview": "Après avoir mit hors d'état de nuire Katana Man, Denji se demande avec l'agitation de sa vie s'il a toujours un cœur. Il va faire la rencontre de Reze, une jeune femme qui semble s'intéresser à lui. Leur relation s'épanouit jusqu'à ce que la vraie nature de Reze se révèle. Il va livrer un combat périlleux guidé par l'amour mais qui sera explosif.",
-      "popularity": 242.1646,
+      "popularity": 237.7407,
       "poster_path": "/e6TnXsxaL4ys7Ldx2kf3RGRn5Uz.jpg",
       "release_date": "2025-09-19",
       "title": "Chainsaw Man – Le Film : L'arc de Reze",
       "video": false,
       "vote_average": 8.255,
-      "vote_count": 144
+      "vote_count": 149
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kHOfxq7cMTXyLbj0UmdoGhT540O.jpg",
+      "genre_ids": [
+        878,
+        28,
+        35
+      ],
+      "id": 507244,
+      "original_language": "en",
+      "original_title": "Afterburn",
+      "overview": "Dix ans après qu'une éruption solaire a anéanti la technologie à travers le monde. Un ancien soldat Jake, récupére des objets de valeur de l'ancien monde pour de riches clients. Sa dernière mission consiste à faire équipe avec Drea afin de s'emparer de la Joconde avant qu'un seigneur de guerre ne l'atteigne en premier.",
+      "popularity": 195.2287,
+      "poster_path": "/xR0IhVBjbNU34b8erhJCgRbjXo3.jpg",
+      "release_date": "2025-08-20",
+      "title": "Afterburn",
+      "video": false,
+      "vote_average": 6.871,
+      "vote_count": 105
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qskMJe62v9kPj4tD9UawIGW0WxD.jpg",
+      "genre_ids": [
+        80,
+        28
+      ],
+      "id": 1096563,
+      "original_language": "en",
+      "original_title": "End of Loyalty",
+      "overview": "Lorsque le chef d'une famille criminelle notoire est assassiné, son fils Grant est déterminé à se venger et la seule personne qui peut l'empêcher de détruire la ville et de se détruire dans le processus est son meilleur ami et agent fédéral, Ray Rose.",
+      "popularity": 226.7637,
+      "poster_path": "/c4QA1rFQcyBZKaOOdUrDeL1G9Er.jpg",
+      "release_date": "2023-03-07",
+      "title": "End of Loyalty",
+      "video": false,
+      "vote_average": 5,
+      "vote_count": 3
     },
     {
       "adult": false,
@@ -91,53 +110,13 @@
       "original_language": "en",
       "original_title": "War of the Worlds",
       "overview": "Une invasion gargantuesque approche dans cette nouvelle interprétation du légendaire roman homonyme devenu un classique de la science-fiction. La célèbre Eva Longoria partage l'affiche avec le rappeur/acteur Ice Cube, Michael O'Neill et Iman Benson, dans une aventure extraordinaire abordant des thématiques actuelles telles que la technologie, la surveillance et la protection de la vie privée.",
-      "popularity": 222.4113,
+      "popularity": 213.1902,
       "poster_path": "/jnVnLfyA9MrBEsYx9vyq0e4dbLj.jpg",
       "release_date": "2025-07-29",
       "title": "La Guerre des mondes",
       "video": false,
       "vote_average": 4.34,
       "vote_count": 692
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/ygOR390GzOX5Quv0kAAcUNDG7fp.jpg",
-      "genre_ids": [
-        12,
-        28,
-        27
-      ],
-      "id": 1511789,
-      "original_language": "en",
-      "original_title": "Captain Hook - The Cursed Tides",
-      "overview": "",
-      "popularity": 177.2246,
-      "poster_path": "/bcP7FtskwsNp1ikpMQJzDPjofP5.jpg",
-      "release_date": "2025-07-11",
-      "title": "Captain Hook - The Cursed Tides",
-      "video": false,
-      "vote_average": 5,
-      "vote_count": 34
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/42xAe6kVeTjml9Tww6vRoWa5tay.jpg",
-      "genre_ids": [
-        28,
-        18,
-        53
-      ],
-      "id": 861451,
-      "original_language": "kn",
-      "original_title": "Martin",
-      "overview": "",
-      "popularity": 166.7208,
-      "poster_path": "/rmCJCFrEwPC0u0Y1smihwDo4Cf1.jpg",
-      "release_date": "2024-10-11",
-      "title": "Martin",
-      "video": false,
-      "vote_average": 3.7,
-      "vote_count": 19
     },
     {
       "adult": false,
@@ -152,13 +131,73 @@
       "original_language": "ja",
       "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
       "overview": "L'armée des pourfendeurs de démons est attirée dans la Forteresse Infinie, où Tanjiro, Zenitsu et Inosuke  affrontent de terrifiants démons de rang supérieur dans un combat désespéré alors que la bataille finale contre Kibutsuji Muzan commence.",
-      "popularity": 166.1577,
+      "popularity": 173.7172,
       "poster_path": "/wXTU3AFmlUPbqjH68MZ989uHd6k.jpg",
       "release_date": "2025-07-18",
       "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
       "video": false,
-      "vote_average": 7.801,
-      "vote_count": 514
+      "vote_average": 7.805,
+      "vote_count": 515
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ygOR390GzOX5Quv0kAAcUNDG7fp.jpg",
+      "genre_ids": [
+        12,
+        28,
+        27
+      ],
+      "id": 1511789,
+      "original_language": "en",
+      "original_title": "Captain Hook: The Cursed Tides",
+      "overview": "",
+      "popularity": 153.4358,
+      "poster_path": "/bcP7FtskwsNp1ikpMQJzDPjofP5.jpg",
+      "release_date": "2025-07-11",
+      "title": "Captain Hook: The Cursed Tides",
+      "video": false,
+      "vote_average": 5.1,
+      "vote_count": 34
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "id": 1242898,
+      "original_language": "en",
+      "original_title": "Predator: Badlands",
+      "overview": "Dans le futur sur une planète lointaine, un jeune Predator, exclu de son clan, trouve une alliée improbable en la personne de Thia et entreprend un voyage en territoire hostile, à la recherche de l'adversaire ultime.",
+      "popularity": 231.3564,
+      "poster_path": "/empQGO0pCVTndCpihyVpNfaLebl.jpg",
+      "release_date": "2025-11-05",
+      "title": "Predator: Badlands",
+      "video": false,
+      "vote_average": 6.595,
+      "vote_count": 84
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/42xAe6kVeTjml9Tww6vRoWa5tay.jpg",
+      "genre_ids": [
+        28,
+        18,
+        53
+      ],
+      "id": 861451,
+      "original_language": "kn",
+      "original_title": "Martin",
+      "overview": "",
+      "popularity": 132.0747,
+      "poster_path": "/rmCJCFrEwPC0u0Y1smihwDo4Cf1.jpg",
+      "release_date": "2024-10-11",
+      "title": "Martin",
+      "video": false,
+      "vote_average": 3.5,
+      "vote_count": 20
     },
     {
       "adult": false,
@@ -171,12 +210,12 @@
       "original_language": "en",
       "original_title": "Hunting Grounds",
       "overview": "",
-      "popularity": 162.9852,
+      "popularity": 133.0209,
       "poster_path": "/cgZjpqRQt9sk6XMCwZ3B1NPAaoy.jpg",
       "release_date": "2025-05-16",
       "title": "Hunting Grounds",
       "video": false,
-      "vote_average": 6.692,
+      "vote_average": 6.7,
       "vote_count": 53
     },
     {
@@ -191,13 +230,13 @@
       "original_language": "en",
       "original_title": "Stolen Girl",
       "overview": "Une Américaine passe plus de dix ans à rechercher sa fille qui a été enlevée et emmenée au Moyen-Orient par le père de l'enfant.",
-      "popularity": 144.862,
+      "popularity": 118.0922,
       "poster_path": "/fZlNXEHZsBp7unqw009MeBbMv87.jpg",
       "release_date": "2025-09-04",
       "title": "The Stolen Girl",
       "video": false,
-      "vote_average": 6.6,
-      "vote_count": 65
+      "vote_average": 6.664,
+      "vote_count": 67
     },
     {
       "adult": false,
@@ -212,152 +251,13 @@
       "original_language": "no",
       "original_title": "Den stygge stesøsteren",
       "overview": "Elvira en a assez de vivre dans l'ombre de sa belle demi-sœur Agnès. Elle est prête à tout pour attirer l'attention du prince Julian, le célibataire le plus convoité du royaume. Au prix de sang, de sueur et de larmes, Elvira ne recule devant rien pour conquérir le cœur du prince.",
-      "popularity": 138.1032,
+      "popularity": 107.25,
       "poster_path": "/8THhOd1QneAxP9wOICvWT324aZj.jpg",
       "release_date": "2025-03-07",
       "title": "The Ugly Stepsister",
       "video": false,
-      "vote_average": 7.33,
-      "vote_count": 606
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/7QirCB1o80NEFpQGlQRZerZbQEp.jpg",
-      "genre_ids": [
-        10749,
-        18
-      ],
-      "id": 1156594,
-      "original_language": "es",
-      "original_title": "Culpa nuestra",
-      "overview": "Le mariage de Jenna et Lion marque les retrouvailles entre Noah et Nick après leur rupture. L'incapacité de Nick à pardonner à Noah représente un obstacle difficile à surmonter. Lui, héritier des affaires de son grand-père, et elle, qui débute sa carrière, évitent de raviver la flamme entre eux. Mais, maintenant qu'ils se retrouvent, l'amour l'emportera-t-il sur le ressentiment ?",
-      "popularity": 137.0302,
-      "poster_path": "/iNncvRAgj8SQA25OhjNZeEElWCK.jpg",
-      "release_date": "2025-10-15",
-      "title": "À contre-sens 3",
-      "video": false,
-      "vote_average": 7.553,
-      "vote_count": 471
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
-      "genre_ids": [
-        28,
-        878,
-        12
-      ],
-      "id": 1242898,
-      "original_language": "en",
-      "original_title": "Predator: Badlands",
-      "overview": "Dans le futur sur une planète lointaine, un jeune Predator, exclu de son clan, trouve une alliée improbable en la personne de Thia et entreprend un voyage en territoire hostile, à la recherche de l'adversaire ultime.",
-      "popularity": 134.8026,
-      "poster_path": "/empQGO0pCVTndCpihyVpNfaLebl.jpg",
-      "release_date": "2025-11-05",
-      "title": "Predator: Badlands",
-      "video": false,
-      "vote_average": 6.458,
-      "vote_count": 48
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/en0NbTEjf3qKokHvwGeaq9DBPIP.jpg",
-      "genre_ids": [
-        14,
-        18,
-        12
-      ],
-      "id": 1571470,
-      "original_language": "en",
-      "original_title": "The Rats: A Witcher Tale",
-      "overview": "Pour monter un braquage risqué, six hors-la-loi un peu décalés doivent relever un défi inédit : se faire confiance… et s'en remettre à un sorceleur (Dolph Lundgren) à la dérive. Le magicien accepte de se joindre à eux, mais le plan tourne mal et les conséquences sont désastreuses. Le film retrace les origines et les aventures de cette bande de jeunes voleurs, avant leur rencontre avec Ciri.",
-      "popularity": 127.5204,
-      "poster_path": "/si2BOk5ZOs0tFxegwJDH1gTkxqh.jpg",
-      "release_date": "2025-10-29",
-      "title": "Les Rats : Une histoire \"The Witcher\"",
-      "video": false,
-      "vote_average": 4.9,
-      "vote_count": 49
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/wSJHuSD7ojzoXifWjOAjxV7UpEL.jpg",
-      "genre_ids": [
-        10751,
-        16,
-        10402,
-        12
-      ],
-      "id": 354912,
-      "original_language": "en",
-      "original_title": "Coco",
-      "overview": "Depuis déjà plusieurs générations, la musique est bannie dans la famille de Miguel. Un vrai déchirement pour le jeune garçon dont le rêve ultime est de devenir un musicien aussi accompli que son idole, Ernesto de la Cruz. Bien décidé à prouver son talent, Miguel, par un étrange concours de circonstances, se retrouve propulsé dans un monde étonnant et coloré lié aux célébrations des ancêtres. Là, il se lie d’amitié avec Hector, un gentil garçon mais un peu filou sur les bords. Ensemble, ils vont accomplir un voyage extraordinaire qui leur révèlera la véritable histoire qui se cache derrière celle de la famille de Miguel…",
-      "popularity": 115.8781,
-      "poster_path": "/sZqcEV3KhDITHlUBmyj1a3RRvT9.jpg",
-      "release_date": "2017-10-27",
-      "title": "Coco",
-      "video": false,
-      "vote_average": 8.2,
-      "vote_count": 20386
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/tcBX2dtkNozZ0uDLVaxXrE6rqyN.jpg",
-      "genre_ids": [
-        27
-      ],
-      "id": 1038392,
-      "original_language": "en",
-      "original_title": "The Conjuring: Last Rites",
-      "overview": "Alors qu’ils espéraient une nouvelle vie, Ed et Lorraine Warren se voient impliqués dans une dernière enquête…qu’ils n’auraient jamais dû accepter. Dans la maison de la famille Smurl, un mal ancien les attend. Un ennemi qu’ils croyaient à jamais enfoui... Découvrez comment les Warren ont affronté le cas le plus maléfique de leur carrière, inspiré de faits réels qui ont terrorisé l’Amérique.",
-      "popularity": 115.5499,
-      "poster_path": "/mlkMH0Em29I0QBc7YeRc9yGFRKw.jpg",
-      "release_date": "2025-09-03",
-      "title": "Conjuring : L'Heure du jugement",
-      "video": false,
-      "vote_average": 6.993,
-      "vote_count": 1236
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
-      "genre_ids": [
-        14,
-        10402,
-        35,
-        16
-      ],
-      "id": 803796,
-      "original_language": "en",
-      "original_title": "KPop Demon Hunters",
-      "overview": "Quand elles ne remplissent pas les stades, Rumi, Mira et Zoey, superstars de la K-pop, utilisent leurs pouvoirs secrets pour protéger leurs fans de menaces surnaturelles.",
-      "popularity": 114.8379,
-      "poster_path": "/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
-      "release_date": "2025-06-20",
-      "title": "KPop Demon Hunters",
-      "video": false,
-      "vote_average": 8.23,
-      "vote_count": 1828
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
-      "genre_ids": [
-        878,
-        12,
-        28
-      ],
-      "id": 617126,
-      "original_language": "en",
-      "original_title": "The Fantastic 4: First Steps",
-      "overview": "Dans le contexte vibrant d’un monde rétro-futuriste inspiré des années 60, le film présente la première famille de Marvel : Reed Richards/Mister Fantastic, Sue Storm/La Femme Invisible, Johnny Storm/La Torche Humaine et Ben Grimm/La Chose  alors qu’ils font face à leur défi le plus redoutable à ce jour. Contraints d’équilibrer leur rôle de héros avec la force de leur lien familial, ils doivent défendre la Terre contre un dieu spatial vorace appelé Galactus et son énigmatique héraut, le Surfeur d’Argent. Et comme si le plan de Galactus de dévorer la planète entière et tous ses habitants n’était pas déjà assez mauvais, cela devient soudainement très personnel.",
-      "popularity": 114.1961,
-      "poster_path": "/rNc4KARs6fVa4axzvuv3NfUiNy1.jpg",
-      "release_date": "2025-07-23",
-      "title": "Les 4 Fantastiques : Premiers pas",
-      "video": false,
-      "vote_average": 7.103,
-      "vote_count": 2171
+      "vote_average": 7.328,
+      "vote_count": 610
     },
     {
       "adult": false,
@@ -372,35 +272,134 @@
       "original_language": "en",
       "original_title": "xXx",
       "overview": "Après une série de tests, Xander Cage dit « xXx », un spécialiste des sports extrêmes couvert de tatouages, est recruté par Augustus Gibbons, un agent de la National Security Agency (NSA), pour s’infiltrer dans une organisation criminelle et mettre fin à ses agissements. Dirigée par un certain Yorgi, celle‐ci se fait appeler « Anarchie 99 » et son siège se situe à Prague, en République tchèque. Gibbons est persuadé que Xander Cage réussira là où les espions conventionnels ont échoué.Ce dernier insiste toutefois pour accomplir cette mission à sa façon. Il se présente alors directement à Yorgi et se lie rapidement d’amitié avec lui, l’occasion pour Xander Cage de découvrir les terribles desseins de l’organisation.",
-      "popularity": 113.6971,
+      "popularity": 128.3068,
       "poster_path": "/kqOFMFcCfUf4CgKQhcNf7lOlRYV.jpg",
       "release_date": "2002-08-09",
       "title": "xXx",
       "video": false,
       "vote_average": 5.966,
-      "vote_count": 4620
+      "vote_count": 4623
     },
     {
       "adult": false,
-      "backdrop_path": "/2yo2k8CmgZxfBQYAZ8TnHIYzEme.jpg",
+      "backdrop_path": "/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
       "genre_ids": [
-        28,
-        80,
-        53
+        878,
+        12,
+        28
       ],
-      "id": 1072699,
-      "original_language": "pl",
-      "original_title": "Druga Furioza",
-      "overview": "À la suite d'un meurtre, Golden, le nouveau chef de Furioza, prend en main son gang hooligan hyper violent et se lance dans une nouvelle aventure au-delà des frontières.",
-      "popularity": 106.8013,
-      "poster_path": "/mxA0a183RDcgazm0wpfQwGoqdc7.jpg",
-      "release_date": "2025-10-14",
-      "title": "Furioza 2",
+      "id": 617126,
+      "original_language": "en",
+      "original_title": "The Fantastic 4: First Steps",
+      "overview": "Dans le contexte vibrant d’un monde rétro-futuriste inspiré des années 60, le film présente la première famille de Marvel : Reed Richards/Mister Fantastic, Sue Storm/La Femme Invisible, Johnny Storm/La Torche Humaine et Ben Grimm/La Chose  alors qu’ils font face à leur défi le plus redoutable à ce jour. Contraints d’équilibrer leur rôle de héros avec la force de leur lien familial, ils doivent défendre la Terre contre un dieu spatial vorace appelé Galactus et son énigmatique héraut, le Surfeur d’Argent. Et comme si le plan de Galactus de dévorer la planète entière et tous ses habitants n’était pas déjà assez mauvais, cela devient soudainement très personnel.",
+      "popularity": 117.0236,
+      "poster_path": "/rNc4KARs6fVa4axzvuv3NfUiNy1.jpg",
+      "release_date": "2025-07-23",
+      "title": "Les 4 Fantastiques : Premiers pas",
       "video": false,
-      "vote_average": 6.56,
-      "vote_count": 58
+      "vote_average": 7.098,
+      "vote_count": 2203
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7QirCB1o80NEFpQGlQRZerZbQEp.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1156594,
+      "original_language": "es",
+      "original_title": "Culpa nuestra",
+      "overview": "Le mariage de Jenna et Lion marque les retrouvailles entre Noah et Nick après leur rupture. L'incapacité de Nick à pardonner à Noah représente un obstacle difficile à surmonter. Lui, héritier des affaires de son grand-père, et elle, qui débute sa carrière, évitent de raviver la flamme entre eux. Mais, maintenant qu'ils se retrouvent, l'amour l'emportera-t-il sur le ressentiment ?",
+      "popularity": 103.9063,
+      "poster_path": "/iNncvRAgj8SQA25OhjNZeEElWCK.jpg",
+      "release_date": "2025-10-15",
+      "title": "À contre-sens 3",
+      "video": false,
+      "vote_average": 7.564,
+      "vote_count": 474
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/en0NbTEjf3qKokHvwGeaq9DBPIP.jpg",
+      "genre_ids": [
+        14,
+        18,
+        12
+      ],
+      "id": 1571470,
+      "original_language": "en",
+      "original_title": "The Rats: A Witcher Tale",
+      "overview": "Pour monter un braquage risqué, six hors-la-loi un peu décalés doivent relever un défi inédit : se faire confiance… et s'en remettre à un sorceleur (Dolph Lundgren) à la dérive. Le magicien accepte de se joindre à eux, mais le plan tourne mal et les conséquences sont désastreuses. Le film retrace les origines et les aventures de cette bande de jeunes voleurs, avant leur rencontre avec Ciri.",
+      "popularity": 98.6847,
+      "poster_path": "/si2BOk5ZOs0tFxegwJDH1gTkxqh.jpg",
+      "release_date": "2025-10-29",
+      "title": "Les Rats : Une histoire \"The Witcher\"",
+      "video": false,
+      "vote_average": 4.982,
+      "vote_count": 55
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
+      "genre_ids": [
+        14,
+        10402,
+        35,
+        16
+      ],
+      "id": 803796,
+      "original_language": "en",
+      "original_title": "KPop Demon Hunters",
+      "overview": "Quand elles ne remplissent pas les stades, Rumi, Mira et Zoey, superstars de la K-pop, utilisent leurs pouvoirs secrets pour protéger leurs fans de menaces surnaturelles.",
+      "popularity": 106.269,
+      "poster_path": "/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
+      "release_date": "2025-06-20",
+      "title": "KPop Demon Hunters",
+      "video": false,
+      "vote_average": 8.233,
+      "vote_count": 1835
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tcBX2dtkNozZ0uDLVaxXrE6rqyN.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 1038392,
+      "original_language": "en",
+      "original_title": "The Conjuring: Last Rites",
+      "overview": "Alors qu’ils espéraient une nouvelle vie, Ed et Lorraine Warren se voient impliqués dans une dernière enquête…qu’ils n’auraient jamais dû accepter. Dans la maison de la famille Smurl, un mal ancien les attend. Un ennemi qu’ils croyaient à jamais enfoui... Découvrez comment les Warren ont affronté le cas le plus maléfique de leur carrière, inspiré de faits réels qui ont terrorisé l’Amérique.",
+      "popularity": 96.2547,
+      "poster_path": "/mlkMH0Em29I0QBc7YeRc9yGFRKw.jpg",
+      "release_date": "2025-09-03",
+      "title": "Conjuring : L'Heure du jugement",
+      "video": false,
+      "vote_average": 6.997,
+      "vote_count": 1240
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wSJHuSD7ojzoXifWjOAjxV7UpEL.jpg",
+      "genre_ids": [
+        10751,
+        16,
+        10402,
+        12
+      ],
+      "id": 354912,
+      "original_language": "en",
+      "original_title": "Coco",
+      "overview": "Depuis déjà plusieurs générations, la musique est bannie dans la famille de Miguel. Un vrai déchirement pour le jeune garçon dont le rêve ultime est de devenir un musicien aussi accompli que son idole, Ernesto de la Cruz. Bien décidé à prouver son talent, Miguel, par un étrange concours de circonstances, se retrouve propulsé dans un monde étonnant et coloré lié aux célébrations des ancêtres. Là, il se lie d’amitié avec Hector, un gentil garçon mais un peu filou sur les bords. Ensemble, ils vont accomplir un voyage extraordinaire qui leur révèlera la véritable histoire qui se cache derrière celle de la famille de Miguel…",
+      "popularity": 86.4186,
+      "poster_path": "/sZqcEV3KhDITHlUBmyj1a3RRvT9.jpg",
+      "release_date": "2017-10-27",
+      "title": "Coco",
+      "video": false,
+      "vote_average": 8.2,
+      "vote_count": 20389
     }
   ],
-  "total_pages": 53508,
-  "total_results": 1070156
+  "total_pages": 53531,
+  "total_results": 1070614
 }
