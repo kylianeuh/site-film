@@ -13,128 +13,13 @@
       "original_language": "en",
       "original_title": "Frankenstein",
       "overview": "Fin du XVIIIe siècle. Victor Frankenstein, scientifique visionnaire et ambitieux, se consacre corps et âme à un projet dément : recréer la vie à partir de restes humains, et ainsi remporter sa conquête obsédée de la mort. Financé par un mécène aux obscures motivations, Victor finit par donner vie à sa créature. Mais, au lieu de l’aimer comme un fils, il la rejette et l’enferme. Rejetée et meurtrie, celle-ci finit par se retourner contre lui.",
-      "popularity": 1003.6215,
+      "popularity": 841.4715,
       "poster_path": "/aSMz7X2yQaN0ojeXEmOonbIJFhU.jpg",
       "release_date": "2025-10-17",
       "title": "Frankenstein",
       "video": false,
-      "vote_average": 7.892,
-      "vote_count": 1051
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/d6HIjhk2f8BiZnVQ43gUv67khmX.jpg",
-      "genre_ids": [
-        10749,
-        18
-      ],
-      "id": 1231813,
-      "original_language": "ko",
-      "original_title": "자매의 스와핑",
-      "overview": "",
-      "popularity": 460.637,
-      "poster_path": "/lqjkmFmV62JEUGKK7E1UwX7PDDT.jpg",
-      "release_date": "2023-12-19",
-      "title": "자매의 스와핑",
-      "video": false,
-      "vote_average": 6.6,
-      "vote_count": 14
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
-      "genre_ids": [
-        28,
-        878,
-        12
-      ],
-      "id": 1242898,
-      "original_language": "en",
-      "original_title": "Predator: Badlands",
-      "overview": "Dans le futur sur une planète lointaine, un jeune Predator, exclu de son clan, trouve une alliée improbable en la personne de Thia et entreprend un voyage en territoire hostile, à la recherche de l'adversaire ultime.",
-      "popularity": 330.6468,
-      "poster_path": "/empQGO0pCVTndCpihyVpNfaLebl.jpg",
-      "release_date": "2025-11-05",
-      "title": "Predator: Badlands",
-      "video": false,
-      "vote_average": 7.225,
-      "vote_count": 260
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/oe2TOWykcLSGq67XPH4Bb0N1oU3.jpg",
-      "genre_ids": [
-        27,
-        53
-      ],
-      "id": 1197137,
-      "original_language": "en",
-      "original_title": "Black Phone 2",
-      "overview": "Depuis son enlèvement, Finney, aujourd'hui âgé de 17 ans, lutte pour reprendre le cours d'une vie normale, alors que rien ni personne ne saurait arrêter Gwen, sa sœur de 15 ans. Cependant, celle-ci commence à recevoir des appels du sinistre téléphone noir dans ses rêves, où elle voit sans cesse trois garçons se faire pourchasser dans un camp de montagne appelé Alpine Lake. Déterminée à mettre fin à ces cauchemars et à en percer le mystère, Gwen persuade son frère de se rendre sur place.",
-      "popularity": 280.1588,
-      "poster_path": "/yea26ufsklHJafnnUM3kO6vCPc4.jpg",
-      "release_date": "2025-10-15",
-      "title": "Black Phone 2",
-      "video": false,
-      "vote_average": 7.181,
-      "vote_count": 429
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/vZK3f5N8Fv2LcyFYLwt6dz0HE1H.jpg",
-      "genre_ids": [
-        28,
-        35
-      ],
-      "id": 1161617,
-      "original_language": "en",
-      "original_title": "Code 3",
-      "overview": "Une journée dans la vie de deux ambulanciers surmenés. Randy pense à démissionner, mais il doit d'abord effectuer une dernière garde de 24 heures pour former son remplaçant.",
-      "popularity": 272.2751,
-      "poster_path": "/gIAYMDb5mIAeCAj76q1sRsKjkzo.jpg",
-      "release_date": "2025-09-12",
-      "title": "Code 3",
-      "video": false,
-      "vote_average": 7.112,
-      "vote_count": 86
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/qskMJe62v9kPj4tD9UawIGW0WxD.jpg",
-      "genre_ids": [
-        80,
-        28
-      ],
-      "id": 1096563,
-      "original_language": "en",
-      "original_title": "End of Loyalty",
-      "overview": "Lorsque le chef d'une famille criminelle notoire est assassiné, son fils Grant est déterminé à se venger et la seule personne qui peut l'empêcher de détruire la ville et de se détruire dans le processus est son meilleur ami et agent fédéral, Ray Rose.",
-      "popularity": 224.5613,
-      "poster_path": "/c4QA1rFQcyBZKaOOdUrDeL1G9Er.jpg",
-      "release_date": "2023-03-07",
-      "title": "End of Loyalty",
-      "video": false,
-      "vote_average": 5.833,
-      "vote_count": 6
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
-      "genre_ids": [
-        878,
-        53
-      ],
-      "id": 755898,
-      "original_language": "en",
-      "original_title": "War of the Worlds",
-      "overview": "Une invasion gargantuesque approche dans cette nouvelle interprétation du légendaire roman homonyme devenu un classique de la science-fiction. La célèbre Eva Longoria partage l'affiche avec le rappeur/acteur Ice Cube, Michael O'Neill et Iman Benson, dans une aventure extraordinaire abordant des thématiques actuelles telles que la technologie, la surveillance et la protection de la vie privée.",
-      "popularity": 223.3184,
-      "poster_path": "/jnVnLfyA9MrBEsYx9vyq0e4dbLj.jpg",
-      "release_date": "2025-07-29",
-      "title": "La Guerre des mondes",
-      "video": false,
-      "vote_average": 4.335,
-      "vote_count": 702
+      "vote_average": 7.9,
+      "vote_count": 1146
     },
     {
       "adult": false,
@@ -147,13 +32,109 @@
       "original_language": "en",
       "original_title": "Playdate",
       "overview": "Lorsque Brian, comptable au chômage, accepte de passer l'après-midi avec Jeff et leurs fils, il s'attend à un moment tranquille. Mais ils se retrouvent poursuivis par des mercenaires, et Brian, pris au dépourvu, doit surmonter des obstacles plus absurdes les uns que les autres. Ce père de banlieue se retrouve dans une aventure chaotique digne d'un film d'action.",
-      "popularity": 214.915,
+      "popularity": 369.57,
       "poster_path": "/4Kb4GKFrID1k85Ewfzc8RaUXWKl.jpg",
       "release_date": "2025-11-05",
       "title": "Une journée incontrôlable",
       "video": false,
-      "vote_average": 6.698,
-      "vote_count": 48
+      "vote_average": 6.635,
+      "vote_count": 78
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ebyxeBh56QNXxSJgTnmz7fXAlwk.jpg",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "id": 1242898,
+      "original_language": "en",
+      "original_title": "Predator: Badlands",
+      "overview": "Dans le futur sur une planète lointaine, un jeune Predator, exclu de son clan, trouve une alliée improbable en la personne de Thia et entreprend un voyage en territoire hostile, à la recherche de l'adversaire ultime.",
+      "popularity": 294.6409,
+      "poster_path": "/empQGO0pCVTndCpihyVpNfaLebl.jpg",
+      "release_date": "2025-11-05",
+      "title": "Predator: Badlands",
+      "video": false,
+      "vote_average": 7.297,
+      "vote_count": 278
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vZK3f5N8Fv2LcyFYLwt6dz0HE1H.jpg",
+      "genre_ids": [
+        28,
+        35
+      ],
+      "id": 1161617,
+      "original_language": "en",
+      "original_title": "Code 3",
+      "overview": "Une journée dans la vie de deux ambulanciers surmenés. Randy pense à démissionner, mais il doit d'abord effectuer une dernière garde de 24 heures pour former son remplaçant.",
+      "popularity": 207.6464,
+      "poster_path": "/gIAYMDb5mIAeCAj76q1sRsKjkzo.jpg",
+      "release_date": "2025-09-12",
+      "title": "Code 3",
+      "video": false,
+      "vote_average": 7.119,
+      "vote_count": 88
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6zKjoOOb3OZnZuiHtQZn4Kd69Gq.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1197137,
+      "original_language": "en",
+      "original_title": "Black Phone 2",
+      "overview": "Depuis son enlèvement, Finney, aujourd'hui âgé de 17 ans, lutte pour reprendre le cours d'une vie normale, alors que rien ni personne ne saurait arrêter Gwen, sa sœur de 15 ans. Cependant, celle-ci commence à recevoir des appels du sinistre téléphone noir dans ses rêves, où elle voit sans cesse trois garçons se faire pourchasser dans un camp de montagne appelé Alpine Lake. Déterminée à mettre fin à ces cauchemars et à en percer le mystère, Gwen persuade son frère de se rendre sur place.",
+      "popularity": 219.9612,
+      "poster_path": "/dIdsLxoG5bsxpuYIt6GMUQ3pNB9.jpg",
+      "release_date": "2025-10-15",
+      "title": "Black Phone 2",
+      "video": false,
+      "vote_average": 7.161,
+      "vote_count": 449
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+      "genre_ids": [
+        878,
+        53
+      ],
+      "id": 755898,
+      "original_language": "en",
+      "original_title": "War of the Worlds",
+      "overview": "Une invasion gargantuesque approche dans cette nouvelle interprétation du légendaire roman homonyme devenu un classique de la science-fiction. La célèbre Eva Longoria partage l'affiche avec le rappeur/acteur Ice Cube, Michael O'Neill et Iman Benson, dans une aventure extraordinaire abordant des thématiques actuelles telles que la technologie, la surveillance et la protection de la vie privée.",
+      "popularity": 209.5008,
+      "poster_path": "/jnVnLfyA9MrBEsYx9vyq0e4dbLj.jpg",
+      "release_date": "2025-07-29",
+      "title": "La Guerre des mondes",
+      "video": false,
+      "vote_average": 4.337,
+      "vote_count": 704
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qskMJe62v9kPj4tD9UawIGW0WxD.jpg",
+      "genre_ids": [
+        80,
+        28
+      ],
+      "id": 1096563,
+      "original_language": "en",
+      "original_title": "End of Loyalty",
+      "overview": "Lorsque le chef d'une famille criminelle notoire est assassiné, son fils Grant est déterminé à se venger et la seule personne qui peut l'empêcher de détruire la ville et de se détruire dans le processus est son meilleur ami et agent fédéral, Ray Rose.",
+      "popularity": 152.7528,
+      "poster_path": "/c4QA1rFQcyBZKaOOdUrDeL1G9Er.jpg",
+      "release_date": "2023-03-07",
+      "title": "End of Loyalty",
+      "video": false,
+      "vote_average": 5.833,
+      "vote_count": 6
     },
     {
       "adult": false,
@@ -166,13 +147,13 @@
       "original_language": "fr",
       "original_title": "Six jours",
       "overview": "Nord de la France, 2005 : Malik, inspecteur de police, assiste impuissant à la mort d’une enfant suite à un kidnapping. En charge de l’enquête, il échoue à retrouver le meurtrier. DIX ANS PLUS TARD, sans élément nouveau, sans trace d'un dangereux criminel qui court toujours, l'affaire s’apprête à être classée définitivement. Mais quand de nouveaux faits en lien avec l’affaire se révèlent, Malik entame une course contre la montre dans l’espoir de résoudre l'enquête avant l’expiration du délai de prescription. Dans Six Jours. C’est le temps qui lui reste pour retrouver le coupable.",
-      "popularity": 202.5543,
+      "popularity": 154.5298,
       "poster_path": "/foyiQu23zq4WhmffnQkFiNAvqcJ.jpg",
       "release_date": "2024-12-11",
       "title": "Six jours",
       "video": false,
-      "vote_average": 5.9,
-      "vote_count": 65
+      "vote_average": 5.941,
+      "vote_count": 68
     },
     {
       "adult": false,
@@ -187,13 +168,13 @@
       "original_language": "ja",
       "original_title": "チェンソーマン レゼ篇",
       "overview": "Après avoir mit hors d'état de nuire Katana Man, Denji se demande avec l'agitation de sa vie s'il a toujours un cœur. Il va faire la rencontre de Reze, une jeune femme qui semble s'intéresser à lui. Leur relation s'épanouit jusqu'à ce que la vraie nature de Reze se révèle. Il va livrer un combat périlleux guidé par l'amour mais qui sera explosif.",
-      "popularity": 170.0075,
+      "popularity": 144.5675,
       "poster_path": "/e6TnXsxaL4ys7Ldx2kf3RGRn5Uz.jpg",
       "release_date": "2025-09-19",
       "title": "Chainsaw Man – Le Film : L'arc de Reze",
       "video": false,
       "vote_average": 8.3,
-      "vote_count": 174
+      "vote_count": 178
     },
     {
       "adult": false,
@@ -205,13 +186,13 @@
       "original_language": "hi",
       "original_title": "बारामूला",
       "overview": "En enquêtant sur des enlèvements d'enfants, un policier révèle des secrets effrayants alors que des événements surnaturels menacent sa famille et la paisible ville de Baramulla.",
-      "popularity": 163.838,
+      "popularity": 127.1404,
       "poster_path": "/2raITTyjXVUcsbJ7lJAQt8HzjDK.jpg",
       "release_date": "2025-11-06",
       "title": "Baramulla",
       "video": false,
-      "vote_average": 5.5,
-      "vote_count": 11
+      "vote_average": 5.643,
+      "vote_count": 14
     },
     {
       "adult": false,
@@ -226,17 +207,17 @@
       "original_language": "ja",
       "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
       "overview": "L'armée des pourfendeurs de démons est attirée dans la Forteresse Infinie, où Tanjiro, Zenitsu et Inosuke  affrontent de terrifiants démons de rang supérieur dans un combat désespéré alors que la bataille finale contre Kibutsuji Muzan commence.",
-      "popularity": 150.4694,
+      "popularity": 151.0283,
       "poster_path": "/wXTU3AFmlUPbqjH68MZ989uHd6k.jpg",
       "release_date": "2025-07-18",
       "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
       "video": false,
       "vote_average": 7.8,
-      "vote_count": 522
+      "vote_count": 525
     },
     {
       "adult": false,
-      "backdrop_path": "/qwK9soQmmJ7kRdjLZVXblw3g7AQ.jpg",
+      "backdrop_path": "/2OHa6ukEq3Hce7Pc2kvu8wkmMFY.jpg",
       "genre_ids": [
         28,
         12,
@@ -248,13 +229,33 @@
       "original_language": "en",
       "original_title": "xXx",
       "overview": "Après une série de tests, Xander Cage dit « xXx », un spécialiste des sports extrêmes couvert de tatouages, est recruté par Augustus Gibbons, un agent de la National Security Agency (NSA), pour s’infiltrer dans une organisation criminelle et mettre fin à ses agissements. Dirigée par un certain Yorgi, celle‐ci se fait appeler « Anarchie 99 » et son siège se situe à Prague, en République tchèque. Gibbons est persuadé que Xander Cage réussira là où les espions conventionnels ont échoué.Ce dernier insiste toutefois pour accomplir cette mission à sa façon. Il se présente alors directement à Yorgi et se lie rapidement d’amitié avec lui, l’occasion pour Xander Cage de découvrir les terribles desseins de l’organisation.",
-      "popularity": 147.3362,
+      "popularity": 138.2564,
       "poster_path": "/kqOFMFcCfUf4CgKQhcNf7lOlRYV.jpg",
       "release_date": "2002-08-09",
       "title": "xXx",
       "video": false,
-      "vote_average": 5.965,
+      "vote_average": 6,
       "vote_count": 4632
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xmnqFHhGNYHf5JFy4GSfiIEG0ly.jpg",
+      "genre_ids": [
+        80,
+        28,
+        18
+      ],
+      "id": 1429738,
+      "original_language": "th",
+      "original_title": "ตี๋ใหญ่ ฤกษ์ดาวโจร",
+      "overview": "Dans le Bangkok des années 1980, deux criminels traversent une période difficile lorsqu'un détective déterminé met à rude épreuve leur lien et traque un célèbre gang de voleurs.",
+      "popularity": 198.9831,
+      "poster_path": "/vqYZMLUwaN1z1iJ4TKvExyxo1TX.jpg",
+      "release_date": "2025-11-13",
+      "title": "ตี๋ใหญ่ ฤกษ์ดาวโจร",
+      "video": false,
+      "vote_average": 6.75,
+      "vote_count": 4
     },
     {
       "adult": false,
@@ -268,7 +269,7 @@
       "original_language": "en",
       "original_title": "Captain Hook: The Cursed Tides",
       "overview": "",
-      "popularity": 126.3969,
+      "popularity": 111.1906,
       "poster_path": "/bcP7FtskwsNp1ikpMQJzDPjofP5.jpg",
       "release_date": "2025-07-11",
       "title": "Captain Hook: The Cursed Tides",
@@ -288,7 +289,7 @@
       "original_language": "en",
       "original_title": "Afterburn",
       "overview": "Dix ans après qu'une éruption solaire a anéanti la technologie à travers le monde. Un ancien soldat Jake, récupére des objets de valeur de l'ancien monde pour de riches clients. Sa dernière mission consiste à faire équipe avec Drea afin de s'emparer de la Joconde avant qu'un seigneur de guerre ne l'atteigne en premier.",
-      "popularity": 116.69,
+      "popularity": 93.3206,
       "poster_path": "/hrze9JXp2QJpc2WjLfSUtRxyYSb.jpg",
       "release_date": "2025-08-20",
       "title": "Afterburn",
@@ -298,7 +299,7 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/hBvaanw3RfMEs1m1blY7xwRXzul.jpg",
+      "backdrop_path": "/6eLtIyVHCzqoQdsLfOPPNVTxsn7.jpg",
       "genre_ids": [
         878,
         12,
@@ -308,13 +309,13 @@
       "original_language": "en",
       "original_title": "The Fantastic 4: First Steps",
       "overview": "Dans le contexte vibrant d’un monde rétro-futuriste inspiré des années 60, le film présente la première famille de Marvel : Reed Richards/Mister Fantastic, Sue Storm/La Femme Invisible, Johnny Storm/La Torche Humaine et Ben Grimm/La Chose  alors qu’ils font face à leur défi le plus redoutable à ce jour. Contraints d’équilibrer leur rôle de héros avec la force de leur lien familial, ils doivent défendre la Terre contre un dieu spatial vorace appelé Galactus et son énigmatique héraut, le Surfeur d’Argent. Et comme si le plan de Galactus de dévorer la planète entière et tous ses habitants n’était pas déjà assez mauvais, cela devient soudainement très personnel.",
-      "popularity": 108.0475,
+      "popularity": 96.0556,
       "poster_path": "/rNc4KARs6fVa4axzvuv3NfUiNy1.jpg",
       "release_date": "2025-07-23",
       "title": "Les 4 Fantastiques : Premiers pas",
       "video": false,
-      "vote_average": 7.073,
-      "vote_count": 2344
+      "vote_average": 7.069,
+      "vote_count": 2356
     },
     {
       "adult": false,
@@ -328,7 +329,7 @@
       "original_language": "en",
       "original_title": "Kryptic",
       "overview": "Kay a des soucis. Une étrange rencontre dans les bois lui a fait perdre la mémoire. Une seule chose est sûre : elle est le portrait craché de Barb Valentine, chasseuse de monstres portée disparue. Lorsqu'un intrus s'introduit dans sa maison, elle s'enfuit sans savoir où elle va, mais elle sait que sa seule chance de retrouver sa vie est de faire la lumière sur la mystérieuse disparition de Barb. Le hasard des rencontres semble l'orienter dans la bonne direction, mais ce qui devait être un voyage à la découverte de soi se transforme peu à peu en une chasse au monstre.",
-      "popularity": 104.1102,
+      "popularity": 99.274,
       "poster_path": "/tO4PLOx2Ey9PZunmwEAsGhc4Ah0.jpg",
       "release_date": "2025-06-09",
       "title": "Kryptic",
@@ -347,7 +348,7 @@
       "original_language": "en",
       "original_title": "Hunting Grounds",
       "overview": "",
-      "popularity": 98.7749,
+      "popularity": 84.165,
       "poster_path": "/cgZjpqRQt9sk6XMCwZ3B1NPAaoy.jpg",
       "release_date": "2025-05-16",
       "title": "Hunting Grounds",
@@ -357,23 +358,23 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/42xAe6kVeTjml9Tww6vRoWa5tay.jpg",
+      "backdrop_path": "/jUPCUYoVdTGa5DBSxOTAriLWqmW.jpg",
       "genre_ids": [
         28,
-        18,
-        53
+        53,
+        80
       ],
-      "id": 861451,
-      "original_language": "kn",
-      "original_title": "Martin",
-      "overview": "",
-      "popularity": 90.3731,
-      "poster_path": "/rmCJCFrEwPC0u0Y1smihwDo4Cf1.jpg",
-      "release_date": "2024-10-11",
-      "title": "Martin",
+      "id": 1054867,
+      "original_language": "en",
+      "original_title": "One Battle After Another",
+      "overview": "Bob Ferguson est un ancien révolutionnaire paranoïaque et désabusé, qui a jadis oeuvré avec son ex, Perfidia, au sein du French 75, un groupe militant voué au renversement du gouvernement américain. Seize ans plus tard, Bob vit seul avec sa fille, Willa, quand celle-ci disparaît soudainement. Bob soupçonne son vieil ennemi d’antan, le Colonel Steven J. Lockjaw, d’être responsable de sa disparition. Il décide alors de renouer avec ses anciens frères d’armes pour retrouver sa fille, quitte à confronter les fantômes de son passé.",
+      "popularity": 257.0325,
+      "poster_path": "/mnlzDEFOiut55lzM9Lt9ga8xpwo.jpg",
+      "release_date": "2025-09-23",
+      "title": "Une bataille après l'autre",
       "video": false,
-      "vote_average": 3.886,
-      "vote_count": 22
+      "vote_average": 7.682,
+      "vote_count": 1211
     },
     {
       "adult": false,
@@ -388,15 +389,15 @@
       "original_language": "en",
       "original_title": "KPop Demon Hunters",
       "overview": "Quand elles ne remplissent pas les stades, Rumi, Mira et Zoey, superstars de la K-pop, utilisent leurs pouvoirs secrets pour protéger leurs fans de menaces surnaturelles.",
-      "popularity": 89.0516,
+      "popularity": 90.2628,
       "poster_path": "/6IhKiHwbfUnPqYPuibn5QpKmgHz.jpg",
       "release_date": "2025-06-20",
       "title": "KPop Demon Hunters",
       "video": false,
-      "vote_average": 8.223,
-      "vote_count": 1873
+      "vote_average": 8.214,
+      "vote_count": 1883
     }
   ],
-  "total_pages": 53656,
-  "total_results": 1073106
+  "total_pages": 53677,
+  "total_results": 1073531
 }
