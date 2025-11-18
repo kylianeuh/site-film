@@ -13,13 +13,13 @@
       "original_language": "en",
       "original_title": "Frankenstein",
       "overview": "Fin du XVIIIe siècle. Victor Frankenstein, scientifique visionnaire et ambitieux, se consacre corps et âme à un projet dément : recréer la vie à partir de restes humains, et ainsi remporter sa conquête obsédée de la mort. Financé par un mécène aux obscures motivations, Victor finit par donner vie à sa créature. Mais, au lieu de l’aimer comme un fils, il la rejette et l’enferme. Rejetée et meurtrie, celle-ci finit par se retourner contre lui.",
-      "popularity": 664.2854,
+      "popularity": 582.9067,
       "poster_path": "/aSMz7X2yQaN0ojeXEmOonbIJFhU.jpg",
       "release_date": "2025-10-17",
       "title": "Frankenstein",
       "video": false,
-      "vote_average": 7.878,
-      "vote_count": 1354
+      "vote_average": 7.9,
+      "vote_count": 1424
     },
     {
       "adult": false,
@@ -33,17 +33,17 @@
       "original_language": "en",
       "original_title": "Playdate",
       "overview": "Lorsque Brian, comptable au chômage, accepte de passer l'après-midi avec Jeff et leurs fils, il s'attend à un moment tranquille. Mais ils se retrouvent poursuivis par des mercenaires, et Brian, pris au dépourvu, doit surmonter des obstacles plus absurdes les uns que les autres. Ce père de banlieue se retrouve dans une aventure chaotique digne d'un film d'action.",
-      "popularity": 417.0737,
+      "popularity": 396.6845,
       "poster_path": "/h4vaRtMxokNjU1IDWouQxK6eN0o.jpg",
       "release_date": "2025-11-05",
       "title": "Une journée incontrôlable",
       "video": false,
-      "vote_average": 6.615,
-      "vote_count": 157
+      "vote_average": 6.515,
+      "vote_count": 172
     },
     {
       "adult": false,
-      "backdrop_path": "/jUPCUYoVdTGa5DBSxOTAriLWqmW.jpg",
+      "backdrop_path": "/zpEWFNqoN8Qg1SzMMHmaGyOBTdW.jpg",
       "genre_ids": [
         28,
         53,
@@ -53,33 +53,13 @@
       "original_language": "en",
       "original_title": "One Battle After Another",
       "overview": "Bob Ferguson est un ancien révolutionnaire paranoïaque et désabusé, qui a jadis œuvré avec son ex, Perfidia, au sein du French 75, un groupe militant voué au renversement du gouvernement américain. Seize ans plus tard, Bob vit seul avec sa fille, Willa, quand celle-ci disparaît soudainement. Bob soupçonne son vieil ennemi d’antan, le Colonel Steven J. Lockjaw, d’être responsable de sa disparition. Il décide alors de renouer avec ses anciens frères d’armes pour retrouver sa fille, quitte à confronter les fantômes de son passé.",
-      "popularity": 412.6982,
+      "popularity": 414.7432,
       "poster_path": "/mnlzDEFOiut55lzM9Lt9ga8xpwo.jpg",
       "release_date": "2025-09-23",
       "title": "Une bataille après l'autre",
       "video": false,
-      "vote_average": 7.6,
-      "vote_count": 1357
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/ebyxeBh56QNXxSJgTnmz7fXAlwk.jpg",
-      "genre_ids": [
-        28,
-        878,
-        12
-      ],
-      "id": 1242898,
-      "original_language": "en",
-      "original_title": "Predator: Badlands",
-      "overview": "Dans le futur sur une planète lointaine, un jeune Predator, exclu de son clan, trouve une alliée improbable en la personne de Thia et entreprend un voyage en territoire hostile, à la recherche de l'adversaire ultime.",
-      "popularity": 286.8371,
-      "poster_path": "/empQGO0pCVTndCpihyVpNfaLebl.jpg",
-      "release_date": "2025-11-05",
-      "title": "Predator: Badlands",
-      "video": false,
-      "vote_average": 7.349,
-      "vote_count": 324
+      "vote_average": 7.611,
+      "vote_count": 1398
     },
     {
       "adult": false,
@@ -93,13 +73,74 @@
       "original_language": "zh",
       "original_title": "传说",
       "overview": "Quand le professeur Chen remarque que la texture des objets découverts par ses étudiants lors d'une expédition sur un glacier ressemble étrangement à un pendentif en jade qu'il a vu dans ses rêves. Il soupçonne que le pendentif sert de pont entre le royaume des rêves et la réalité.",
-      "popularity": 308.0903,
+      "popularity": 322.4436,
       "poster_path": "/2eLjgesRLYQ8kjfwusSwxgNFcHv.jpg",
       "release_date": "2024-07-05",
       "title": "A Legend",
       "video": false,
-      "vote_average": 5.972,
-      "vote_count": 53
+      "vote_average": 6.142,
+      "vote_count": 60
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ebyxeBh56QNXxSJgTnmz7fXAlwk.jpg",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "id": 1242898,
+      "original_language": "en",
+      "original_title": "Predator: Badlands",
+      "overview": "Dans le futur sur une planète lointaine, un jeune Predator, exclu de son clan, trouve une alliée improbable en la personne de Thia et entreprend un voyage en territoire hostile, à la recherche de l'adversaire ultime.",
+      "popularity": 263.6485,
+      "poster_path": "/empQGO0pCVTndCpihyVpNfaLebl.jpg",
+      "release_date": "2025-11-05",
+      "title": "Predator: Badlands",
+      "video": false,
+      "vote_average": 7.356,
+      "vote_count": 336
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sUoPlzchsCECqpm3ZmDPeL8QKDK.jpg",
+      "genre_ids": [
+        28,
+        12,
+        27
+      ],
+      "id": 1084222,
+      "original_language": "en",
+      "original_title": "Operation Blood Hunt",
+      "overview": "Sur une île isolée du Pacifique Sud, un groupe hétéroclite de militaires rejetés enquêtent ssur la disparition d'unités marines qui seraient aux mains de l'armée impériale japonaise.",
+      "popularity": 284.8554,
+      "poster_path": "/wYf4Eq3c4iOa856tEwh3GHruHZW.jpg",
+      "release_date": "2024-12-12",
+      "title": "Operation Blood Hunt",
+      "video": false,
+      "vote_average": 5.091,
+      "vote_count": 11
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4frrYwamVG0eXhdMTy3cpNNcCBp.jpg",
+      "genre_ids": [
+        28,
+        18,
+        80,
+        53
+      ],
+      "id": 1128650,
+      "original_language": "zh",
+      "original_title": "誤判",
+      "overview": "Un jeune homme pauvre est accusé à tort de trafic de drogue après avoir été trompé. Un ancien procureur enquête sur l'affaire, découvre le complot d'une équipe d'avocats corrompus et rétablit la justice malgré l'obstruction des forces du mal.",
+      "popularity": 236.1069,
+      "poster_path": "/2tH6utnYvlTpGvbQCs5FdeQIKFp.jpg",
+      "release_date": "2024-12-08",
+      "title": "The Prosecutor",
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 102
     },
     {
       "adult": false,
@@ -112,52 +153,13 @@
       "original_language": "en",
       "original_title": "War of the Worlds",
       "overview": "Une invasion gargantuesque approche dans cette nouvelle interprétation du légendaire roman homonyme devenu un classique de la science-fiction. La célèbre Eva Longoria partage l'affiche avec le rappeur/acteur Ice Cube, Michael O'Neill et Iman Benson, dans une aventure extraordinaire abordant des thématiques actuelles telles que la technologie, la surveillance et la protection de la vie privée.",
-      "popularity": 232.0318,
+      "popularity": 196.7119,
       "poster_path": "/jnVnLfyA9MrBEsYx9vyq0e4dbLj.jpg",
       "release_date": "2025-07-29",
       "title": "La Guerre des mondes",
       "video": false,
-      "vote_average": 4.335,
-      "vote_count": 711
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/6zKjoOOb3OZnZuiHtQZn4Kd69Gq.jpg",
-      "genre_ids": [
-        27,
-        53
-      ],
-      "id": 1197137,
-      "original_language": "en",
-      "original_title": "Black Phone 2",
-      "overview": "Depuis son enlèvement, Finney, aujourd'hui âgé de 17 ans, lutte pour reprendre le cours d'une vie normale, alors que rien ni personne ne saurait arrêter Gwen, sa sœur de 15 ans. Cependant, celle-ci commence à recevoir des appels du sinistre téléphone noir dans ses rêves, où elle voit sans cesse trois garçons se faire pourchasser dans un camp de montagne appelé Alpine Lake. Déterminée à mettre fin à ces cauchemars et à en percer le mystère, Gwen persuade son frère de se rendre sur place.",
-      "popularity": 200.5235,
-      "poster_path": "/dIdsLxoG5bsxpuYIt6GMUQ3pNB9.jpg",
-      "release_date": "2025-10-15",
-      "title": "Black Phone 2",
-      "video": false,
-      "vote_average": 7.089,
-      "vote_count": 485
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/xmnqFHhGNYHf5JFy4GSfiIEG0ly.jpg",
-      "genre_ids": [
-        80,
-        28,
-        18
-      ],
-      "id": 1429738,
-      "original_language": "th",
-      "original_title": "ตี๋ใหญ่ ฤกษ์ดาวโจร",
-      "overview": "Dans le Bangkok des années 1980, deux criminels traversent une période difficile lorsqu'un détective déterminé met à rude épreuve leur lien et traque un célèbre gang de voleurs.",
-      "popularity": 206.8321,
-      "poster_path": "/vqYZMLUwaN1z1iJ4TKvExyxo1TX.jpg",
-      "release_date": "2025-11-13",
-      "title": "ตี๋ใหญ่ ฤกษ์ดาวโจร",
-      "video": false,
-      "vote_average": 7.722,
-      "vote_count": 9
+      "vote_average": 4.339,
+      "vote_count": 714
     },
     {
       "adult": false,
@@ -171,32 +173,71 @@
       "original_language": "en",
       "original_title": "Stand Your Ground",
       "overview": "",
-      "popularity": 212.4008,
+      "popularity": 218.2118,
       "poster_path": "/oT9JCdx018nvFBvo1YQP4uA4hl9.jpg",
       "release_date": "2025-05-09",
       "title": "Stand Your Ground",
       "video": false,
-      "vote_average": 6,
-      "vote_count": 28
+      "vote_average": 6.138,
+      "vote_count": 29
     },
     {
       "adult": false,
-      "backdrop_path": "/vZK3f5N8Fv2LcyFYLwt6dz0HE1H.jpg",
+      "backdrop_path": "/xmnqFHhGNYHf5JFy4GSfiIEG0ly.jpg",
       "genre_ids": [
+        80,
         28,
-        35
+        18
       ],
-      "id": 1161617,
-      "original_language": "en",
-      "original_title": "Code 3",
-      "overview": "Une journée dans la vie de deux ambulanciers surmenés. Randy pense à démissionner, mais il doit d'abord effectuer une dernière garde de 24 heures pour former son remplaçant.",
-      "popularity": 149.7873,
-      "poster_path": "/gIAYMDb5mIAeCAj76q1sRsKjkzo.jpg",
-      "release_date": "2025-09-12",
-      "title": "Code 3",
+      "id": 1429738,
+      "original_language": "th",
+      "original_title": "ตี๋ใหญ่ ฤกษ์ดาวโจร",
+      "overview": "Dans le Bangkok des années 1980, deux criminels traversent une période difficile lorsqu'un détective déterminé met à rude épreuve leur lien et traque un célèbre gang de voleurs.",
+      "popularity": 205.1609,
+      "poster_path": "/vqYZMLUwaN1z1iJ4TKvExyxo1TX.jpg",
+      "release_date": "2025-11-13",
+      "title": "ตี๋ใหญ่ ฤกษ์ดาวโจร",
       "video": false,
-      "vote_average": 7.074,
-      "vote_count": 95
+      "vote_average": 7.722,
+      "vote_count": 9
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6zKjoOOb3OZnZuiHtQZn4Kd69Gq.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1197137,
+      "original_language": "en",
+      "original_title": "Black Phone 2",
+      "overview": "Depuis son enlèvement, Finney, aujourd'hui âgé de 17 ans, lutte pour reprendre le cours d'une vie normale, alors que rien ni personne ne saurait arrêter Gwen, sa sœur de 15 ans. Cependant, celle-ci commence à recevoir des appels du sinistre téléphone noir dans ses rêves, où elle voit sans cesse trois garçons se faire pourchasser dans un camp de montagne appelé Alpine Lake. Déterminée à mettre fin à ces cauchemars et à en percer le mystère, Gwen persuade son frère de se rendre sur place.",
+      "popularity": 167.6059,
+      "poster_path": "/dIdsLxoG5bsxpuYIt6GMUQ3pNB9.jpg",
+      "release_date": "2025-10-15",
+      "title": "Black Phone 2",
+      "video": false,
+      "vote_average": 7.079,
+      "vote_count": 494
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7h0qCqkuQzmG5vXN3lGBc06reLd.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1468417,
+      "original_language": "en",
+      "original_title": "First Moon",
+      "overview": "Une jeune serveuse est enlevée par une secte religieuse, qui est déterminée à la guérir d'un virus transmis sexuellement par le loup-garou, ou à la tuer au passage. Parviendra-t-elle à s'échapper avant la première pleine lune ?",
+      "popularity": 180.452,
+      "poster_path": "/hcjYvv4k9qs0lDG1Q3GIglT30IW.jpg",
+      "release_date": "2025-05-06",
+      "title": "First Moon",
+      "video": false,
+      "vote_average": 5.706,
+      "vote_count": 17
     },
     {
       "adult": false,
@@ -211,32 +252,13 @@
       "original_language": "ja",
       "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
       "overview": "L'armée des pourfendeurs de démons est attirée dans la Forteresse Infinie, où Tanjiro, Zenitsu et Inosuke  affrontent de terrifiants démons de rang supérieur dans un combat désespéré alors que la bataille finale contre Kibutsuji Muzan commence.",
-      "popularity": 164.3147,
+      "popularity": 159.113,
       "poster_path": "/wXTU3AFmlUPbqjH68MZ989uHd6k.jpg",
       "release_date": "2025-07-18",
       "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
       "video": false,
-      "vote_average": 7.8,
-      "vote_count": 532
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/7h0qCqkuQzmG5vXN3lGBc06reLd.jpg",
-      "genre_ids": [
-        27,
-        53
-      ],
-      "id": 1468417,
-      "original_language": "en",
-      "original_title": "First Moon",
-      "overview": "Une jeune serveuse est enlevée par une secte religieuse, qui est déterminée à la guérir d'un virus transmis sexuellement par le loup-garou, ou à la tuer au passage. Parviendra-t-elle à s'échapper avant la première pleine lune ?",
-      "popularity": 179.1024,
-      "poster_path": "/hcjYvv4k9qs0lDG1Q3GIglT30IW.jpg",
-      "release_date": "2025-05-06",
-      "title": "First Moon",
-      "video": false,
-      "vote_average": 5.867,
-      "vote_count": 15
+      "vote_average": 7.794,
+      "vote_count": 535
     },
     {
       "adult": false,
@@ -250,53 +272,32 @@
       "original_language": "en",
       "original_title": "Now You See Me: Now You Don't",
       "overview": "Les Cavaliers sont de retour pour le braquage le plus impressionnant jamais imaginé ! Accompagnés d'un groupe de jeunes magiciens qui espèrent suivre leur trace, ils vont devoir repousser les limites de l'illusion pour orchestrer leur tour le plus spectaculaire : dérober le joyau le plus précieux du monde des mains d'une redoutable organisation criminelle…",
-      "popularity": 153.298,
+      "popularity": 160.4002,
       "poster_path": "/rfjuf6kNLVnH8qOk6UZJBHQHKlF.jpg",
       "release_date": "2025-11-12",
       "title": "Insaisissables 3",
       "video": false,
-      "vote_average": 6.9,
-      "vote_count": 94
+      "vote_average": 6.8,
+      "vote_count": 115
     },
     {
       "adult": false,
-      "backdrop_path": "/tLf5hjuO4gx62lVojPiHsIzCroh.jpg",
+      "backdrop_path": "/vZK3f5N8Fv2LcyFYLwt6dz0HE1H.jpg",
       "genre_ids": [
-        53,
-        28
-      ],
-      "id": 1025527,
-      "original_language": "fr",
-      "original_title": "Six jours",
-      "overview": "Nord de la France, 2005 : Malik, inspecteur de police, assiste impuissant à la mort d’une enfant suite à un kidnapping. En charge de l’enquête, il échoue à retrouver le meurtrier. DIX ANS PLUS TARD, sans élément nouveau, sans trace d'un dangereux criminel qui court toujours, l'affaire s’apprête à être classée définitivement. Mais quand de nouveaux faits en lien avec l’affaire se révèlent, Malik entame une course contre la montre dans l’espoir de résoudre l'enquête avant l’expiration du délai de prescription. Dans Six Jours. C’est le temps qui lui reste pour retrouver le coupable.",
-      "popularity": 128.7508,
-      "poster_path": "/foyiQu23zq4WhmffnQkFiNAvqcJ.jpg",
-      "release_date": "2024-12-11",
-      "title": "Six jours",
-      "video": false,
-      "vote_average": 5.918,
-      "vote_count": 73
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/gqTz24ZRsCP6AKjARmEivY7m0cK.jpg",
-      "genre_ids": [
-        16,
         28,
-        10749,
-        14
+        35
       ],
-      "id": 1218925,
-      "original_language": "ja",
-      "original_title": "チェンソーマン レゼ篇",
-      "overview": "Après avoir mit hors d'état de nuire Katana Man, Denji se demande avec l'agitation de sa vie s'il a toujours un cœur. Il va faire la rencontre de Reze, une jeune femme qui semble s'intéresser à lui. Leur relation s'épanouit jusqu'à ce que la vraie nature de Reze se révèle. Il va livrer un combat périlleux guidé par l'amour mais qui sera explosif.",
-      "popularity": 134.5325,
-      "poster_path": "/e6TnXsxaL4ys7Ldx2kf3RGRn5Uz.jpg",
-      "release_date": "2025-09-19",
-      "title": "Chainsaw Man – Le Film : L'arc de Reze",
+      "id": 1161617,
+      "original_language": "en",
+      "original_title": "Code 3",
+      "overview": "Une journée dans la vie de deux ambulanciers surmenés. Randy pense à démissionner, mais il doit d'abord effectuer une dernière garde de 24 heures pour former son remplaçant.",
+      "popularity": 127.447,
+      "poster_path": "/gIAYMDb5mIAeCAj76q1sRsKjkzo.jpg",
+      "release_date": "2025-09-12",
+      "title": "Code 3",
       "video": false,
-      "vote_average": 8.2,
-      "vote_count": 183
+      "vote_average": 7.113,
+      "vote_count": 97
     },
     {
       "adult": false,
@@ -312,7 +313,7 @@
       "original_language": "en",
       "original_title": "xXx",
       "overview": "Après une série de tests, Xander Cage dit « xXx », un spécialiste des sports extrêmes couvert de tatouages, est recruté par Augustus Gibbons, un agent de la National Security Agency (NSA), pour s’infiltrer dans une organisation criminelle et mettre fin à ses agissements. Dirigée par un certain Yorgi, celle‐ci se fait appeler « Anarchie 99 » et son siège se situe à Prague, en République tchèque. Gibbons est persuadé que Xander Cage réussira là où les espions conventionnels ont échoué.Ce dernier insiste toutefois pour accomplir cette mission à sa façon. Il se présente alors directement à Yorgi et se lie rapidement d’amitié avec lui, l’occasion pour Xander Cage de découvrir les terribles desseins de l’organisation.",
-      "popularity": 138.4961,
+      "popularity": 135.2649,
       "poster_path": "/kqOFMFcCfUf4CgKQhcNf7lOlRYV.jpg",
       "release_date": "2002-08-09",
       "title": "xXx",
@@ -322,22 +323,24 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/qskMJe62v9kPj4tD9UawIGW0WxD.jpg",
+      "backdrop_path": "/gqTz24ZRsCP6AKjARmEivY7m0cK.jpg",
       "genre_ids": [
-        80,
-        28
+        16,
+        28,
+        10749,
+        14
       ],
-      "id": 1096563,
-      "original_language": "en",
-      "original_title": "End of Loyalty",
-      "overview": "Lorsque le chef d'une famille criminelle notoire est assassiné, son fils Grant est déterminé à se venger et la seule personne qui peut l'empêcher de détruire la ville et de se détruire dans le processus est son meilleur ami et agent fédéral, Ray Rose.",
-      "popularity": 112.7418,
-      "poster_path": "/c4QA1rFQcyBZKaOOdUrDeL1G9Er.jpg",
-      "release_date": "2023-03-07",
-      "title": "End of Loyalty",
+      "id": 1218925,
+      "original_language": "ja",
+      "original_title": "チェンソーマン レゼ篇",
+      "overview": "Après avoir mit hors d'état de nuire Katana Man, Denji se demande avec l'agitation de sa vie s'il a toujours un cœur. Il va faire la rencontre de Reze, une jeune femme qui semble s'intéresser à lui. Leur relation s'épanouit jusqu'à ce que la vraie nature de Reze se révèle. Il va livrer un combat périlleux guidé par l'amour mais qui sera explosif.",
+      "popularity": 125.1156,
+      "poster_path": "/e6TnXsxaL4ys7Ldx2kf3RGRn5Uz.jpg",
+      "release_date": "2025-09-19",
+      "title": "Chainsaw Man – Le Film : L'arc de Reze",
       "video": false,
-      "vote_average": 5.833,
-      "vote_count": 6
+      "vote_average": 8.206,
+      "vote_count": 187
     },
     {
       "adult": false,
@@ -350,13 +353,32 @@
       "original_language": "ja",
       "original_title": "劇場版 呪術廻戦「渋谷事変 特別編集版」×「死滅回游 先行上映」",
       "overview": "",
-      "popularity": 133.644,
+      "popularity": 143.0085,
       "poster_path": "/qg4Qfsr0wWLTkRSIjI04NQzxB3w.jpg",
       "release_date": "2025-11-07",
       "title": "JUJUTSU KAISEN : Exécution",
       "video": false,
-      "vote_average": 0,
-      "vote_count": 0
+      "vote_average": 3.25,
+      "vote_count": 4
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tLf5hjuO4gx62lVojPiHsIzCroh.jpg",
+      "genre_ids": [
+        53,
+        28
+      ],
+      "id": 1025527,
+      "original_language": "fr",
+      "original_title": "Six jours",
+      "overview": "Nord de la France, 2005 : Malik, inspecteur de police, assiste impuissant à la mort d’une enfant suite à un kidnapping. En charge de l’enquête, il échoue à retrouver le meurtrier. DIX ANS PLUS TARD, sans élément nouveau, sans trace d'un dangereux criminel qui court toujours, l'affaire s’apprête à être classée définitivement. Mais quand de nouveaux faits en lien avec l’affaire se révèlent, Malik entame une course contre la montre dans l’espoir de résoudre l'enquête avant l’expiration du délai de prescription. Dans Six Jours. C’est le temps qui lui reste pour retrouver le coupable.",
+      "popularity": 112.5318,
+      "poster_path": "/foyiQu23zq4WhmffnQkFiNAvqcJ.jpg",
+      "release_date": "2024-12-11",
+      "title": "Six jours",
+      "video": false,
+      "vote_average": 5.893,
+      "vote_count": 75
     },
     {
       "adult": false,
@@ -370,35 +392,15 @@
       "original_language": "en",
       "original_title": "Roofman",
       "overview": "Jeffrey Manchester un vétéran et père en difficulté qui se met à cambrioler des McDonald's en perçant des trous dans leurs toits, ce qui lui vaut le surnom de « Roofman ». Après s'être évadé de prison, il vit secrètement dans un magasin Toys « R » Us pendant six mois, survivant sans être repéré tout en planifiant son prochain coup. Mais lorsqu'il tombe amoureux de Leigh, une mère divorcée, sa double vie commence à s'effondrer.",
-      "popularity": 120.9776,
+      "popularity": 113.3467,
       "poster_path": "/hNa3Itt5HUopulpeSlwOSLdLttb.jpg",
       "release_date": "2025-10-08",
       "title": "Roofman",
       "video": false,
-      "vote_average": 7.266,
-      "vote_count": 154
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/ygOR390GzOX5Quv0kAAcUNDG7fp.jpg",
-      "genre_ids": [
-        12,
-        28,
-        27
-      ],
-      "id": 1511789,
-      "original_language": "en",
-      "original_title": "Captain Hook: The Cursed Tides",
-      "overview": "",
-      "popularity": 106.4828,
-      "poster_path": "/bcP7FtskwsNp1ikpMQJzDPjofP5.jpg",
-      "release_date": "2025-07-11",
-      "title": "Captain Hook: The Cursed Tides",
-      "video": false,
-      "vote_average": 4.923,
-      "vote_count": 39
+      "vote_average": 7.197,
+      "vote_count": 160
     }
   ],
-  "total_pages": 53721,
-  "total_results": 1074404
+  "total_pages": 53730,
+  "total_results": 1074600
 }
