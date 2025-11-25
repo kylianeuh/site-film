@@ -10,95 +10,16 @@
         53
       ],
       "id": 1419406,
-      "original_language": "en",
+      "original_language": "zh",
       "original_title": "捕风追影",
       "overview": "La police de Macao fait sortir de sa retraite un expert en pistage pour l'aider à appréhender un dangereux groupe de voleurs professionnels.",
-      "popularity": 590.3429,
+      "popularity": 556.2084,
       "poster_path": "/t1PFVsGYdUHtPv0Xowoc9b4PAap.jpg",
       "release_date": "2025-08-16",
       "title": "The Shadow's Edge",
       "video": false,
-      "vote_average": 6.4,
-      "vote_count": 92
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/pHmWMsSrA8SvJPSOF64Dw7WMatr.jpg",
-      "genre_ids": [
-        28,
-        35
-      ],
-      "id": 1363123,
-      "original_language": "en",
-      "original_title": "The Family Plan 2",
-      "overview": "Maintenant que sa vie de tueur à gages appartient au passé, Dan rêve de fêter Noël avec ses enfants. Mais lorsqu'il apprend que sa fille a d'autres projets, il décide d'emmener sa famille en voyage à Londres, où ils seront confrontés à un ennemi inattendu.",
-      "popularity": 466.8658,
-      "poster_path": "/qlwplmgaj36GElSofHrykqXtebL.jpg",
-      "release_date": "2025-11-11",
-      "title": "The Family Plan 2",
-      "video": false,
-      "vote_average": 6.641,
-      "vote_count": 117
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/hpXBJxLD2SEf8l2CspmSeiHrBKX.jpg",
-      "genre_ids": [
-        18,
-        27,
-        14
-      ],
-      "id": 1062722,
-      "original_language": "en",
-      "original_title": "Frankenstein",
-      "overview": "Fin du XVIIIe siècle. Victor Frankenstein, scientifique visionnaire et ambitieux, se consacre corps et âme à un projet dément : recréer la vie à partir de restes humains, et ainsi remporter sa conquête obsédée de la mort. Financé par un mécène aux obscures motivations, Victor finit par donner vie à sa créature. Mais, au lieu de l’aimer comme un fils, il la rejette et l’enferme. Rejetée et meurtrie, celle-ci finit par se retourner contre lui.",
-      "popularity": 367.6054,
-      "poster_path": "/aSMz7X2yQaN0ojeXEmOonbIJFhU.jpg",
-      "release_date": "2025-10-17",
-      "title": "Frankenstein",
-      "video": false,
-      "vote_average": 7.771,
-      "vote_count": 1759
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/zpEWFNqoN8Qg1SzMMHmaGyOBTdW.jpg",
-      "genre_ids": [
-        28,
-        53,
-        80
-      ],
-      "id": 1054867,
-      "original_language": "en",
-      "original_title": "One Battle After Another",
-      "overview": "Bob Ferguson est un ancien révolutionnaire paranoïaque et désabusé, qui a jadis œuvré avec son ex, Perfidia, au sein du French 75, un groupe militant voué au renversement du gouvernement américain. Seize ans plus tard, Bob vit seul avec sa fille, Willa, quand celle-ci disparaît soudainement. Bob soupçonne son vieil ennemi d’antan, le Colonel Steven J. Lockjaw, d’être responsable de sa disparition. Il décide alors de renouer avec ses anciens frères d’armes pour retrouver sa fille, quitte à confronter les fantômes de son passé.",
-      "popularity": 274.793,
-      "poster_path": "/mnlzDEFOiut55lzM9Lt9ga8xpwo.jpg",
-      "release_date": "2025-09-23",
-      "title": "Une bataille après l'autre",
-      "video": false,
-      "vote_average": 7.489,
-      "vote_count": 1593
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/7FDVhmCur4LMOfnXMteiSCtsdOb.jpg",
-      "genre_ids": [
-        28,
-        12,
-        14
-      ],
-      "id": 1116465,
-      "original_language": "zh",
-      "original_title": "传说",
-      "overview": "Quand le professeur Chen remarque que la texture des objets découverts par ses étudiants lors d'une expédition sur un glacier ressemble étrangement à un pendentif en jade qu'il a vu dans ses rêves. Il soupçonne que le pendentif sert de pont entre le royaume des rêves et la réalité.",
-      "popularity": 291.3212,
-      "poster_path": "/2eLjgesRLYQ8kjfwusSwxgNFcHv.jpg",
-      "release_date": "2024-07-05",
-      "title": "A Legend",
-      "video": false,
-      "vote_average": 6.707,
-      "vote_count": 95
+      "vote_average": 6.411,
+      "vote_count": 96
     },
     {
       "adult": false,
@@ -112,13 +33,206 @@
       "original_language": "zh",
       "original_title": "749局",
       "overview": "L’histoire d’un jeune homme qui est entraîné dans un mystérieux bureau de lutte contre le crime au moment même où une catastrophe est déclenchée par des créatures inconnues se propageant à travers le monde.",
-      "popularity": 558.9286,
+      "popularity": 494.727,
       "poster_path": "/xW640PVBXLlzhrkQnAcvWNsehIO.jpg",
       "release_date": "2024-10-01",
       "title": "749 Bureau",
       "video": false,
-      "vote_average": 4.818,
-      "vote_count": 22
+      "vote_average": 5.12,
+      "vote_count": 25
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/93mQVskuy8kZOXPoLve8P2E5zdD.jpg",
+      "genre_ids": [
+        28,
+        35
+      ],
+      "id": 1363123,
+      "original_language": "en",
+      "original_title": "The Family Plan 2",
+      "overview": "Maintenant que sa vie de tueur à gages appartient au passé, Dan rêve de fêter Noël avec ses enfants. Mais lorsqu'il apprend que sa fille a d'autres projets, il décide d'emmener sa famille en voyage à Londres, où ils seront confrontés à un ennemi inattendu.",
+      "popularity": 429.3338,
+      "poster_path": "/qlwplmgaj36GElSofHrykqXtebL.jpg",
+      "release_date": "2025-11-11",
+      "title": "The Family Plan 2",
+      "video": false,
+      "vote_average": 6.661,
+      "vote_count": 137
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hpXBJxLD2SEf8l2CspmSeiHrBKX.jpg",
+      "genre_ids": [
+        18,
+        27,
+        14
+      ],
+      "id": 1062722,
+      "original_language": "en",
+      "original_title": "Frankenstein",
+      "overview": "Fin du XVIIIe siècle. Victor Frankenstein, scientifique visionnaire et ambitieux, se consacre corps et âme à un projet dément : recréer la vie à partir de restes humains, et ainsi remporter sa conquête obsédée de la mort. Financé par un mécène aux obscures motivations, Victor finit par donner vie à sa créature. Mais, au lieu de l’aimer comme un fils, il la rejette et l’enferme. Rejetée et meurtrie, celle-ci finit par se retourner contre lui.",
+      "popularity": 316.9688,
+      "poster_path": "/aSMz7X2yQaN0ojeXEmOonbIJFhU.jpg",
+      "release_date": "2025-10-17",
+      "title": "Frankenstein",
+      "video": false,
+      "vote_average": 7.767,
+      "vote_count": 1812
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7FDVhmCur4LMOfnXMteiSCtsdOb.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "id": 1116465,
+      "original_language": "zh",
+      "original_title": "传说",
+      "overview": "Quand le professeur Chen remarque que la texture des objets découverts par ses étudiants lors d'une expédition sur un glacier ressemble étrangement à un pendentif en jade qu'il a vu dans ses rêves. Il soupçonne que le pendentif sert de pont entre le royaume des rêves et la réalité.",
+      "popularity": 247.0924,
+      "poster_path": "/2eLjgesRLYQ8kjfwusSwxgNFcHv.jpg",
+      "release_date": "2024-07-05",
+      "title": "A Legend",
+      "video": false,
+      "vote_average": 6.692,
+      "vote_count": 99
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zpEWFNqoN8Qg1SzMMHmaGyOBTdW.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "id": 1054867,
+      "original_language": "en",
+      "original_title": "One Battle After Another",
+      "overview": "Bob Ferguson est un ancien révolutionnaire paranoïaque et désabusé, qui a jadis œuvré avec son ex, Perfidia, au sein du French 75, un groupe militant voué au renversement du gouvernement américain. Seize ans plus tard, Bob vit seul avec sa fille, Willa, quand celle-ci disparaît soudainement. Bob soupçonne son vieil ennemi d’antan, le Colonel Steven J. Lockjaw, d’être responsable de sa disparition. Il décide alors de renouer avec ses anciens frères d’armes pour retrouver sa fille, quitte à confronter les fantômes de son passé.",
+      "popularity": 227.3989,
+      "poster_path": "/mnlzDEFOiut55lzM9Lt9ga8xpwo.jpg",
+      "release_date": "2025-09-23",
+      "title": "Une bataille après l'autre",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 1608
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [],
+      "id": 1481331,
+      "original_language": "en",
+      "original_title": "Nahual",
+      "overview": "",
+      "popularity": 202.0019,
+      "poster_path": "/gQZn4Rx3LpIBnFunH1AKxAMYYd9.jpg",
+      "release_date": "2025-02-06",
+      "title": "Nahual",
+      "video": false,
+      "vote_average": 3.25,
+      "vote_count": 8
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/l8pwO23MCvqYumzozpxynCNfck1.jpg",
+      "genre_ids": [
+        14,
+        12,
+        10749
+      ],
+      "id": 967941,
+      "original_language": "en",
+      "original_title": "Wicked: For Good",
+      "overview": "Depuis qu'elle s'est opposée au Magicien d'Oz, Elphaba est surnommée la Méchante sorcière de l'Ouest par la population du Pays d'Oz qui pense qu'elle est maléfique. De son côté, Glinda est devenu la figure populaire du régime du Magicien et est surnommée la Bonne Glinda, tandis que Fiyero devient le capitaine de la garde du Magicien, bien qu'il doute encore de la culpabilité d'Elphaba.",
+      "popularity": 217.6535,
+      "poster_path": "/qMkHZ0OrQpv8yyU0og611uXBwKL.jpg",
+      "release_date": "2025-11-19",
+      "title": "Wicked : Partie II",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 209
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zmfaCjc4MNUWgEztT3pOOyMSMBw.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1426968,
+      "original_language": "es",
+      "original_title": "Ya no quedan junglas",
+      "overview": "",
+      "popularity": 198.7604,
+      "poster_path": "/pzKeASTj4HitqVXB1cdvswmMV50.jpg",
+      "release_date": "2025-09-26",
+      "title": "Ya no quedan junglas",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 9
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+      "genre_ids": [
+        878,
+        53
+      ],
+      "id": 755898,
+      "original_language": "en",
+      "original_title": "War of the Worlds",
+      "overview": "Une invasion gargantuesque approche dans cette nouvelle interprétation du légendaire roman homonyme devenu un classique de la science-fiction. La célèbre Eva Longoria partage l'affiche avec le rappeur/acteur Ice Cube, Michael O'Neill et Iman Benson, dans une aventure extraordinaire abordant des thématiques actuelles telles que la technologie, la surveillance et la protection de la vie privée.",
+      "popularity": 187.1167,
+      "poster_path": "/jnVnLfyA9MrBEsYx9vyq0e4dbLj.jpg",
+      "release_date": "2025-07-29",
+      "title": "La Guerre des mondes",
+      "video": false,
+      "vote_average": 4.3,
+      "vote_count": 751
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iYxzsEBJnFzcgX0amOD6NcaCuPz.jpg",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "id": 1242898,
+      "original_language": "en",
+      "original_title": "Predator: Badlands",
+      "overview": "Dans le futur sur une planète lointaine, un jeune Predator, exclu de son clan, trouve une alliée improbable en la personne de Thia et entreprend un voyage en territoire hostile, à la recherche de l'adversaire ultime.",
+      "popularity": 190.9707,
+      "poster_path": "/empQGO0pCVTndCpihyVpNfaLebl.jpg",
+      "release_date": "2025-11-05",
+      "title": "Predator: Badlands",
+      "video": false,
+      "vote_average": 7.427,
+      "vote_count": 427
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gtKglOSEq3d4MgQE4VsrT1sRkd0.jpg",
+      "genre_ids": [
+        16,
+        28
+      ],
+      "id": 1539104,
+      "original_language": "ja",
+      "original_title": "劇場版 呪術廻戦「渋谷事変 特別編集版」×「死滅回游 先行上映」",
+      "overview": "",
+      "popularity": 188.6217,
+      "poster_path": "/qg4Qfsr0wWLTkRSIjI04NQzxB3w.jpg",
+      "release_date": "2025-11-07",
+      "title": "JUJUTSU KAISEN : Exécution",
+      "video": false,
+      "vote_average": 3.717,
+      "vote_count": 30
     },
     {
       "adult": false,
@@ -132,7 +246,7 @@
       "original_language": "en",
       "original_title": "Operation Blood Hunt",
       "overview": "Sur une île isolée du Pacifique Sud, un groupe hétéroclite de militaires rejetés enquêtent ssur la disparition d'unités marines qui seraient aux mains de l'armée impériale japonaise.",
-      "popularity": 198.8556,
+      "popularity": 149.2425,
       "poster_path": "/wYf4Eq3c4iOa856tEwh3GHruHZW.jpg",
       "release_date": "2024-12-12",
       "title": "Operation Blood Hunt",
@@ -153,49 +267,13 @@
       "original_language": "zh",
       "original_title": "誤判",
       "overview": "Un jeune homme pauvre est accusé à tort de trafic de drogue après avoir été trompé. Un ancien procureur enquête sur l'affaire, découvre le complot d'une équipe d'avocats corrompus et rétablit la justice malgré l'obstruction des forces du mal.",
-      "popularity": 195.9899,
+      "popularity": 156.8479,
       "poster_path": "/2tH6utnYvlTpGvbQCs5FdeQIKFp.jpg",
       "release_date": "2024-12-08",
       "title": "The Prosecutor",
       "video": false,
-      "vote_average": 6.702,
+      "vote_average": 6.7,
       "vote_count": 141
-    },
-    {
-      "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [],
-      "id": 1481331,
-      "original_language": "en",
-      "original_title": "Nahual",
-      "overview": "",
-      "popularity": 232.9587,
-      "poster_path": "/gQZn4Rx3LpIBnFunH1AKxAMYYd9.jpg",
-      "release_date": "2025-02-06",
-      "title": "Nahual",
-      "video": false,
-      "vote_average": 3.25,
-      "vote_count": 8
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/ebyxeBh56QNXxSJgTnmz7fXAlwk.jpg",
-      "genre_ids": [
-        28,
-        878,
-        12
-      ],
-      "id": 1242898,
-      "original_language": "en",
-      "original_title": "Predator: Badlands",
-      "overview": "Dans le futur sur une planète lointaine, un jeune Predator, exclu de son clan, trouve une alliée improbable en la personne de Thia et entreprend un voyage en territoire hostile, à la recherche de l'adversaire ultime.",
-      "popularity": 212.2015,
-      "poster_path": "/empQGO0pCVTndCpihyVpNfaLebl.jpg",
-      "release_date": "2025-11-05",
-      "title": "Predator: Badlands",
-      "video": false,
-      "vote_average": 7.4,
-      "vote_count": 418
     },
     {
       "adult": false,
@@ -209,91 +287,13 @@
       "original_language": "en",
       "original_title": "Playdate",
       "overview": "Lorsque Brian, comptable au chômage, accepte de passer l'après-midi avec Jeff et leurs fils, il s'attend à un moment tranquille. Mais ils se retrouvent poursuivis par des mercenaires, et Brian, pris au dépourvu, doit surmonter des obstacles plus absurdes les uns que les autres. Ce père de banlieue se retrouve dans une aventure chaotique digne d'un film d'action.",
-      "popularity": 192.1914,
+      "popularity": 162.5684,
       "poster_path": "/h4vaRtMxokNjU1IDWouQxK6eN0o.jpg",
       "release_date": "2025-11-05",
       "title": "Une journée incontrôlable",
       "video": false,
-      "vote_average": 6.161,
-      "vote_count": 282
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
-      "genre_ids": [
-        878,
-        53
-      ],
-      "id": 755898,
-      "original_language": "en",
-      "original_title": "War of the Worlds",
-      "overview": "Une invasion gargantuesque approche dans cette nouvelle interprétation du légendaire roman homonyme devenu un classique de la science-fiction. La célèbre Eva Longoria partage l'affiche avec le rappeur/acteur Ice Cube, Michael O'Neill et Iman Benson, dans une aventure extraordinaire abordant des thématiques actuelles telles que la technologie, la surveillance et la protection de la vie privée.",
-      "popularity": 214.6803,
-      "poster_path": "/jnVnLfyA9MrBEsYx9vyq0e4dbLj.jpg",
-      "release_date": "2025-07-29",
-      "title": "La Guerre des mondes",
-      "video": false,
-      "vote_average": 4.294,
-      "vote_count": 749
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/l8pwO23MCvqYumzozpxynCNfck1.jpg",
-      "genre_ids": [
-        10749,
-        14,
-        12
-      ],
-      "id": 967941,
-      "original_language": "en",
-      "original_title": "Wicked: For Good",
-      "overview": "Depuis qu'elle s'est opposée au Magicien d'Oz, Elphaba est surnommée la Méchante sorcière de l'Ouest par la population du Pays d'Oz qui pense qu'elle est maléfique. De son côté, Glinda est devenu la figure populaire du régime du Magicien et est surnommée la Bonne Glinda, tandis que Fiyero devient le capitaine de la garde du Magicien, bien qu'il doute encore de la culpabilité d'Elphaba.",
-      "popularity": 224.8457,
-      "poster_path": "/qMkHZ0OrQpv8yyU0og611uXBwKL.jpg",
-      "release_date": "2025-11-19",
-      "title": "Wicked : Partie II",
-      "video": false,
-      "vote_average": 6.702,
-      "vote_count": 191
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/gtKglOSEq3d4MgQE4VsrT1sRkd0.jpg",
-      "genre_ids": [
-        16,
-        28
-      ],
-      "id": 1539104,
-      "original_language": "ja",
-      "original_title": "劇場版 呪術廻戦「渋谷事変 特別編集版」×「死滅回游 先行上映」",
-      "overview": "",
-      "popularity": 203.7372,
-      "poster_path": "/qg4Qfsr0wWLTkRSIjI04NQzxB3w.jpg",
-      "release_date": "2025-11-07",
-      "title": "JUJUTSU KAISEN : Exécution",
-      "video": false,
-      "vote_average": 3.717,
-      "vote_count": 30
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/9YqyNdvYkumiNaC67HuO2FrGuCy.jpg",
-      "genre_ids": [
-        28,
-        80,
-        53
-      ],
-      "id": 1426968,
-      "original_language": "es",
-      "original_title": "Ya no quedan junglas",
-      "overview": "",
-      "popularity": 222.0545,
-      "poster_path": "/pzKeASTj4HitqVXB1cdvswmMV50.jpg",
-      "release_date": "2025-09-26",
-      "title": "Ya no quedan junglas",
-      "video": false,
-      "vote_average": 6.4,
-      "vote_count": 9
+      "vote_average": 6.153,
+      "vote_count": 288
     },
     {
       "adult": false,
@@ -307,52 +307,13 @@
       "original_language": "en",
       "original_title": "Now You See Me: Now You Don't",
       "overview": "Les Cavaliers sont de retour pour le braquage le plus impressionnant jamais imaginé ! Accompagnés d'un groupe de jeunes magiciens qui espèrent suivre leur trace, ils vont devoir repousser les limites de l'illusion pour orchestrer leur tour le plus spectaculaire : dérober le joyau le plus précieux du monde des mains d'une redoutable organisation criminelle…",
-      "popularity": 155.9048,
+      "popularity": 145.9162,
       "poster_path": "/rfjuf6kNLVnH8qOk6UZJBHQHKlF.jpg",
       "release_date": "2025-11-12",
       "title": "Insaisissables 3",
       "video": false,
-      "vote_average": 6.196,
-      "vote_count": 232
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/wE1TZtB5G1fdiln3PPnnLhExuCz.jpg",
-      "genre_ids": [
-        28,
-        53,
-        80
-      ],
-      "id": 1296504,
-      "original_language": "en",
-      "original_title": "Stand Your Ground",
-      "overview": "",
-      "popularity": 143.8879,
-      "poster_path": "/vKB59pPIYvjRxxEXoRoyUfaiBoD.jpg",
-      "release_date": "2025-05-09",
-      "title": "Stand Your Ground",
-      "video": false,
-      "vote_average": 4.491,
-      "vote_count": 55
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/6zKjoOOb3OZnZuiHtQZn4Kd69Gq.jpg",
-      "genre_ids": [
-        27,
-        53
-      ],
-      "id": 1197137,
-      "original_language": "en",
-      "original_title": "Black Phone 2",
-      "overview": "Depuis son enlèvement, Finney, aujourd'hui âgé de 17 ans, lutte pour reprendre le cours d'une vie normale, alors que rien ni personne ne saurait arrêter Gwen, sa sœur de 15 ans. Cependant, celle-ci commence à recevoir des appels du sinistre téléphone noir dans ses rêves, où elle voit sans cesse trois garçons se faire pourchasser dans un camp de montagne appelé Alpine Lake. Déterminée à mettre fin à ces cauchemars et à en percer le mystère, Gwen persuade son frère de se rendre sur place.",
-      "popularity": 151.759,
-      "poster_path": "/dIdsLxoG5bsxpuYIt6GMUQ3pNB9.jpg",
-      "release_date": "2025-10-15",
-      "title": "Black Phone 2",
-      "video": false,
-      "vote_average": 6.859,
-      "vote_count": 588
+      "vote_average": 6.221,
+      "vote_count": 240
     },
     {
       "adult": false,
@@ -367,13 +328,52 @@
       "original_language": "ja",
       "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
       "overview": "L'armée des pourfendeurs de démons est attirée dans la Forteresse Infinie, où Tanjiro, Zenitsu et Inosuke  affrontent de terrifiants démons de rang supérieur dans un combat désespéré alors que la bataille finale contre Kibutsuji Muzan commence.",
-      "popularity": 153.3624,
+      "popularity": 142.5335,
       "poster_path": "/wXTU3AFmlUPbqjH68MZ989uHd6k.jpg",
       "release_date": "2025-07-18",
       "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
       "video": false,
-      "vote_average": 7.588,
-      "vote_count": 570
+      "vote_average": 7.599,
+      "vote_count": 573
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7vd3pBecT2WFfZZd4rj887TcyGx.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1197137,
+      "original_language": "en",
+      "original_title": "Black Phone 2",
+      "overview": "Depuis son enlèvement, Finney, aujourd'hui âgé de 17 ans, lutte pour reprendre le cours d'une vie normale, alors que rien ni personne ne saurait arrêter Gwen, sa sœur de 15 ans. Cependant, celle-ci commence à recevoir des appels du sinistre téléphone noir dans ses rêves, où elle voit sans cesse trois garçons se faire pourchasser dans un camp de montagne appelé Alpine Lake. Déterminée à mettre fin à ces cauchemars et à en percer le mystère, Gwen persuade son frère de se rendre sur place.",
+      "popularity": 132.3259,
+      "poster_path": "/dIdsLxoG5bsxpuYIt6GMUQ3pNB9.jpg",
+      "release_date": "2025-10-15",
+      "title": "Black Phone 2",
+      "video": false,
+      "vote_average": 6.856,
+      "vote_count": 593
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wE1TZtB5G1fdiln3PPnnLhExuCz.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "id": 1296504,
+      "original_language": "en",
+      "original_title": "Stand Your Ground",
+      "overview": "",
+      "popularity": 121.8802,
+      "poster_path": "/vKB59pPIYvjRxxEXoRoyUfaiBoD.jpg",
+      "release_date": "2025-05-09",
+      "title": "Stand Your Ground",
+      "video": false,
+      "vote_average": 4.6,
+      "vote_count": 56
     },
     {
       "adult": false,
@@ -389,15 +389,15 @@
       "original_language": "en",
       "original_title": "xXx",
       "overview": "Après une série de tests, Xander Cage dit « xXx », un spécialiste des sports extrêmes couvert de tatouages, est recruté par Augustus Gibbons, un agent de la National Security Agency (NSA), pour s’infiltrer dans une organisation criminelle et mettre fin à ses agissements. Dirigée par un certain Yorgi, celle‐ci se fait appeler « Anarchie 99 » et son siège se situe à Prague, en République tchèque. Gibbons est persuadé que Xander Cage réussira là où les espions conventionnels ont échoué.Ce dernier insiste toutefois pour accomplir cette mission à sa façon. Il se présente alors directement à Yorgi et se lie rapidement d’amitié avec lui, l’occasion pour Xander Cage de découvrir les terribles desseins de l’organisation.",
-      "popularity": 139.4599,
+      "popularity": 119.3997,
       "poster_path": "/kqOFMFcCfUf4CgKQhcNf7lOlRYV.jpg",
       "release_date": "2002-08-09",
       "title": "xXx",
       "video": false,
-      "vote_average": 5.976,
-      "vote_count": 4671
+      "vote_average": 5.975,
+      "vote_count": 4672
     }
   ],
-  "total_pages": 53833,
-  "total_results": 1076652
+  "total_pages": 53850,
+  "total_results": 1076995
 }
