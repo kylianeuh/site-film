@@ -3,26 +3,6 @@
   "results": [
     {
       "adult": false,
-      "backdrop_path": "/lf8IZ86ajGpgbuyHCZrXUeAMmvy.jpg",
-      "genre_ids": [
-        28,
-        12,
-        878
-      ],
-      "id": 1033462,
-      "original_language": "zh",
-      "original_title": "749局",
-      "overview": "L’histoire d’un jeune homme qui est entraîné dans un mystérieux bureau de lutte contre le crime au moment même où une catastrophe est déclenchée par des créatures inconnues se propageant à travers le monde.",
-      "popularity": 396.6788,
-      "poster_path": "/xW640PVBXLlzhrkQnAcvWNsehIO.jpg",
-      "release_date": "2024-10-01",
-      "title": "749 Bureau",
-      "video": false,
-      "vote_average": 5.61,
-      "vote_count": 41
-    },
-    {
-      "adult": false,
       "backdrop_path": "/5h2EsPKNDdB3MAtOk9MB9Ycg9Rz.jpg",
       "genre_ids": [
         16,
@@ -41,7 +21,27 @@
       "title": "Zootopie 2",
       "video": false,
       "vote_average": 7.6,
-      "vote_count": 142
+      "vote_count": 204
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lf8IZ86ajGpgbuyHCZrXUeAMmvy.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 1033462,
+      "original_language": "zh",
+      "original_title": "749局",
+      "overview": "L’histoire d’un jeune homme qui est entraîné dans un mystérieux bureau de lutte contre le crime au moment même où une catastrophe est déclenchée par des créatures inconnues se propageant à travers le monde.",
+      "popularity": 396.6788,
+      "poster_path": "/xW640PVBXLlzhrkQnAcvWNsehIO.jpg",
+      "release_date": "2024-10-01",
+      "title": "749 Bureau",
+      "video": false,
+      "vote_average": 5.8,
+      "vote_count": 43
     },
     {
       "adult": false,
@@ -60,8 +60,8 @@
       "release_date": "2025-08-16",
       "title": "The Shadow's Edge",
       "video": false,
-      "vote_average": 6.34,
-      "vote_count": 125
+      "vote_average": 6.332,
+      "vote_count": 128
     },
     {
       "adult": false,
@@ -79,8 +79,8 @@
       "release_date": "2025-09-18",
       "title": "Altered",
       "video": false,
-      "vote_average": 6.6,
-      "vote_count": 36
+      "vote_average": 6.5,
+      "vote_count": 40
     },
     {
       "adult": false,
@@ -98,8 +98,28 @@
       "release_date": "2025-11-11",
       "title": "The Family Plan 2",
       "video": false,
-      "vote_average": 6.779,
-      "vote_count": 228
+      "vote_average": 6.743,
+      "vote_count": 255
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pAyImoslSnpMgjRwhaS5ZEdl8UI.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "id": 1448560,
+      "original_language": "en",
+      "original_title": "Wildcat",
+      "overview": "Une ancienne équipe d'opérations spéciales se réunit pour réaliser un braquage afin de sauver la vie de la fille de leur chef.",
+      "popularity": 223.9224,
+      "poster_path": "/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg",
+      "release_date": "2025-11-19",
+      "title": "Wildcat",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 19
     },
     {
       "adult": false,
@@ -118,28 +138,8 @@
       "release_date": "2025-11-19",
       "title": "Wicked : Partie II",
       "video": false,
-      "vote_average": 6.783,
-      "vote_count": 318
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/hpXBJxLD2SEf8l2CspmSeiHrBKX.jpg",
-      "genre_ids": [
-        18,
-        27,
-        14
-      ],
-      "id": 1062722,
-      "original_language": "en",
-      "original_title": "Frankenstein",
-      "overview": "Fin du XVIIIe siècle. Victor Frankenstein, scientifique visionnaire et ambitieux, se consacre corps et âme à un projet dément : recréer la vie à partir de restes humains, et ainsi remporter sa conquête obsédée de la mort. Financé par un mécène aux obscures motivations, Victor finit par donner vie à sa créature. Mais, au lieu de l’aimer comme un fils, il la rejette et l’enferme. Rejetée et meurtrie, celle-ci finit par se retourner contre lui.",
-      "popularity": 192.548,
-      "poster_path": "/aSMz7X2yQaN0ojeXEmOonbIJFhU.jpg",
-      "release_date": "2025-10-17",
-      "title": "Frankenstein",
-      "video": false,
-      "vote_average": 7.776,
-      "vote_count": 1956
+      "vote_average": 6.765,
+      "vote_count": 339
     },
     {
       "adult": false,
@@ -158,8 +158,67 @@
       "release_date": "2025-07-31",
       "title": "La place du mort",
       "video": false,
-      "vote_average": 7.044,
-      "vote_count": 90
+      "vote_average": 7.084,
+      "vote_count": 101
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8lqfrOBQ2EcY7znD3LxTYcvlh25.jpg",
+      "genre_ids": [
+        28,
+        80
+      ],
+      "id": 949709,
+      "original_language": "zh",
+      "original_title": "危机航线",
+      "overview": "Gao Haojun, un expert en sécurité internationale, est détourné par des hommes armés lors du premier vol de l'avion de ligne A380, et sa fille aveugle est l'une des otages sous couverture, un fait qu'il ne sait pas.",
+      "popularity": 202.777,
+      "poster_path": "/b8xNJ39aOtEk3I7MFt8XJuN2bGS.jpg",
+      "release_date": "2024-09-29",
+      "title": "High Forces",
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 22
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nt0HRxlzOXRpPJtl2FmeBCO6MeR.jpg",
+      "genre_ids": [
+        27,
+        14,
+        10749
+      ],
+      "id": 1246049,
+      "original_language": "fr",
+      "original_title": "Dracula",
+      "overview": "Au XVe siècle, le Prince Vladimir renie Dieu après la perte brutale et cruelle de son épouse. Il hérite alors d’une malédiction : la vie éternelle. Il devient Dracula. Condamné à errer à travers les siècles, il n’aura plus qu’un seul espoir : celui de retrouver son amour perdu.",
+      "popularity": 193.2672,
+      "poster_path": "/vevuZVvb72VrbDzHiz4D8Z8XuGF.jpg",
+      "release_date": "2025-07-30",
+      "title": "Dracula",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 477
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hpXBJxLD2SEf8l2CspmSeiHrBKX.jpg",
+      "genre_ids": [
+        18,
+        14,
+        27
+      ],
+      "id": 1062722,
+      "original_language": "en",
+      "original_title": "Frankenstein",
+      "overview": "Fin du XVIIIe siècle. Victor Frankenstein, scientifique visionnaire et ambitieux, se consacre corps et âme à un projet dément : recréer la vie à partir de restes humains, et ainsi remporter sa conquête obsédée de la mort. Financé par un mécène aux obscures motivations, Victor finit par donner vie à sa créature. Mais, au lieu de l’aimer comme un fils, il la rejette et l’enferme. Rejetée et meurtrie, celle-ci finit par se retourner contre lui.",
+      "popularity": 192.548,
+      "poster_path": "/aSMz7X2yQaN0ojeXEmOonbIJFhU.jpg",
+      "release_date": "2025-10-17",
+      "title": "Frankenstein",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 1985
     },
     {
       "adult": false,
@@ -177,8 +236,8 @@
       "release_date": "2025-10-20",
       "title": "Border Hunters",
       "video": false,
-      "vote_average": 8.5,
-      "vote_count": 4
+      "vote_average": 8.8,
+      "vote_count": 5
     },
     {
       "adult": false,
@@ -196,12 +255,12 @@
       "release_date": "2024-08-16",
       "title": "Art of Eight Limbs",
       "video": false,
-      "vote_average": 6.161,
-      "vote_count": 28
+      "vote_average": 6.293,
+      "vote_count": 29
     },
     {
       "adult": false,
-      "backdrop_path": "/iYxzsEBJnFzcgX0amOD6NcaCuPz.jpg",
+      "backdrop_path": "/7hDFhV4ng4cHgSnxvO0MIb11Sbp.jpg",
       "genre_ids": [
         28,
         878,
@@ -216,8 +275,8 @@
       "release_date": "2025-11-05",
       "title": "Predator: Badlands",
       "video": false,
-      "vote_average": 7.437,
-      "vote_count": 483
+      "vote_average": 7.4,
+      "vote_count": 501
     },
     {
       "adult": false,
@@ -235,28 +294,8 @@
       "release_date": "2025-07-29",
       "title": "La Guerre des mondes",
       "video": false,
-      "vote_average": 4.305,
-      "vote_count": 758
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/7FDVhmCur4LMOfnXMteiSCtsdOb.jpg",
-      "genre_ids": [
-        28,
-        12,
-        14
-      ],
-      "id": 1116465,
-      "original_language": "zh",
-      "original_title": "传说",
-      "overview": "Quand le professeur Chen remarque que la texture des objets découverts par ses étudiants lors d'une expédition sur un glacier ressemble étrangement à un pendentif en jade qu'il a vu dans ses rêves. Il soupçonne que le pendentif sert de pont entre le royaume des rêves et la réalité.",
-      "popularity": 146.3264,
-      "poster_path": "/fpyR8YZ0UpWTVn8AetrUN4Bql9t.jpg",
-      "release_date": "2024-07-05",
-      "title": "A Legend",
-      "video": false,
-      "vote_average": 6.833,
-      "vote_count": 114
+      "vote_average": 4.3,
+      "vote_count": 759
     },
     {
       "adult": false,
@@ -275,8 +314,28 @@
       "release_date": "2025-03-17",
       "title": "High Ground",
       "video": false,
-      "vote_average": 5.922,
-      "vote_count": 32
+      "vote_average": 6,
+      "vote_count": 33
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7FDVhmCur4LMOfnXMteiSCtsdOb.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "id": 1116465,
+      "original_language": "zh",
+      "original_title": "传说",
+      "overview": "Quand le professeur Chen remarque que la texture des objets découverts par ses étudiants lors d'une expédition sur un glacier ressemble étrangement à un pendentif en jade qu'il a vu dans ses rêves. Il soupçonne que le pendentif sert de pont entre le royaume des rêves et la réalité.",
+      "popularity": 146.3264,
+      "poster_path": "/fpyR8YZ0UpWTVn8AetrUN4Bql9t.jpg",
+      "release_date": "2024-07-05",
+      "title": "A Legend",
+      "video": false,
+      "vote_average": 6.863,
+      "vote_count": 118
     },
     {
       "adult": false,
@@ -295,7 +354,7 @@
       "title": "JUJUTSU KAISEN : Exécution",
       "video": false,
       "vote_average": 4.526,
-      "vote_count": 38
+      "vote_count": 39
     },
     {
       "adult": false,
@@ -314,76 +373,13 @@
       "release_date": "2025-09-23",
       "title": "Une bataille après l'autre",
       "video": false,
-      "vote_average": 7.492,
-      "vote_count": 1692
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/1t7BMQiYCXI9YLvuMiGwJpO93Kz.jpg",
-      "genre_ids": [
-        35,
-        16,
-        12,
-        27
-      ],
-      "id": 203101,
-      "original_language": "ja",
-      "original_title": "学園黙示録 HIGHSCHOOL OF THE DEAD ドリフターズ・オブ・ザ・デッド",
-      "overview": "Takashi et les autres survivants se retrouvent sur l'île de Tokonosu grâce à la barque trouvée sur la rive. Une île paradisiaque à laquelle les zombies ne peuvent pas accéder, dans cette atmosphère de terreur, quoi de mieux ?\r Après avoir trouvé une boutique de maillots de bains inhabitée, la baignade est inévitable pour les femmes, tandis que les hommes, eux, se chargent de trouver à manger !\r Mais durant la cuisson du poisson, une odeur étrange se fait ressentir : de l'hortensia ! Nos héros sont alors pris de violentes hallucinations, et surtout de leurs fantasmes...",
-      "popularity": 128.747,
-      "poster_path": "/qXy2J2oy6JF369gZuUIQkr7MQn0.jpg",
-      "release_date": "2011-04-25",
-      "title": "High School of the Dead OVA: Drifters of the Dead",
-      "video": false,
-      "vote_average": 7.4,
-      "vote_count": 472
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-      "genre_ids": [
-        16,
-        28,
-        14,
-        53
-      ],
-      "id": 1311031,
-      "original_language": "ja",
-      "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
-      "overview": "L'armée des pourfendeurs de démons est attirée dans la Forteresse Infinie, où Tanjiro, Zenitsu et Inosuke  affrontent de terrifiants démons de rang supérieur dans un combat désespéré alors que la bataille finale contre Kibutsuji Muzan commence.",
-      "popularity": 126.0622,
-      "poster_path": "/wXTU3AFmlUPbqjH68MZ989uHd6k.jpg",
-      "release_date": "2025-07-18",
-      "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
-      "video": false,
-      "vote_average": 7.591,
-      "vote_count": 580
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/ufqytAlziHq5pljKByGJ8IKhtEZ.jpg",
-      "genre_ids": [
-        53,
-        80,
-        9648
-      ],
-      "id": 425274,
-      "original_language": "en",
-      "original_title": "Now You See Me: Now You Don't",
-      "overview": "Les Cavaliers sont de retour pour le braquage le plus impressionnant jamais imaginé ! Accompagnés d'un groupe de jeunes magiciens qui espèrent suivre leur trace, ils vont devoir repousser les limites de l'illusion pour orchestrer leur tour le plus spectaculaire : dérober le joyau le plus précieux du monde des mains d'une redoutable organisation criminelle…",
-      "popularity": 118.5741,
-      "poster_path": "/rfjuf6kNLVnH8qOk6UZJBHQHKlF.jpg",
-      "release_date": "2025-11-12",
-      "title": "Insaisissables 3",
-      "video": false,
-      "vote_average": 6.3,
-      "vote_count": 283
+      "vote_average": 7.5,
+      "vote_count": 1710
     },
     {
       "adult": false,
       "backdrop_path": "/ulEVubPGxPXik31qcmBTt4oupgM.jpg",
       "genre_ids": [
-        35,
         80,
         878
       ],
@@ -397,9 +393,9 @@
       "title": "Bugonia",
       "video": false,
       "vote_average": 7.6,
-      "vote_count": 498
+      "vote_count": 530
     }
   ],
-  "total_pages": 53938,
-  "total_results": 1078753
+  "total_pages": 53957,
+  "total_results": 1079133
 }
