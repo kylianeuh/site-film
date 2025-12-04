@@ -20,283 +20,8 @@
       "release_date": "2025-11-26",
       "title": "Zootopie 2",
       "video": false,
-      "vote_average": 7.736,
-      "vote_count": 273
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/4BtL2vvEufDXDP4u6xQjjQ1Y2aT.jpg",
-      "genre_ids": [
-        28,
-        80,
-        53
-      ],
-      "id": 1419406,
-      "original_language": "zh",
-      "original_title": "捕风追影",
-      "overview": "La police de Macao fait sortir de sa retraite un expert en pistage pour l'aider à appréhender un dangereux groupe de voleurs professionnels.",
-      "popularity": 286.3787,
-      "poster_path": "/t1PFVsGYdUHtPv0Xowoc9b4PAap.jpg",
-      "release_date": "2025-08-16",
-      "title": "The Shadow's Edge",
-      "video": false,
-      "vote_average": 6.345,
-      "vote_count": 129
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/lf8IZ86ajGpgbuyHCZrXUeAMmvy.jpg",
-      "genre_ids": [
-        28,
-        12,
-        878
-      ],
-      "id": 1033462,
-      "original_language": "zh",
-      "original_title": "749局",
-      "overview": "L’histoire d’un jeune homme qui est entraîné dans un mystérieux bureau de lutte contre le crime au moment même où une catastrophe est déclenchée par des créatures inconnues se propageant à travers le monde.",
-      "popularity": 235.4213,
-      "poster_path": "/xW640PVBXLlzhrkQnAcvWNsehIO.jpg",
-      "release_date": "2024-10-01",
-      "title": "749 Bureau",
-      "video": false,
-      "vote_average": 5.9,
-      "vote_count": 46
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/pAyImoslSnpMgjRwhaS5ZEdl8UI.jpg",
-      "genre_ids": [
-        28,
-        53,
-        80
-      ],
-      "id": 1448560,
-      "original_language": "en",
-      "original_title": "Wildcat",
-      "overview": "Une ancienne équipe d'opérations spéciales se réunit pour réaliser un braquage afin de sauver la vie de la fille de leur chef.",
-      "popularity": 232.0316,
-      "poster_path": "/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg",
-      "release_date": "2025-11-19",
-      "title": "Wildcat",
-      "video": false,
-      "vote_average": 6.4,
-      "vote_count": 22
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/8lqfrOBQ2EcY7znD3LxTYcvlh25.jpg",
-      "genre_ids": [
-        28,
-        80
-      ],
-      "id": 949709,
-      "original_language": "zh",
-      "original_title": "危机航线",
-      "overview": "Gao Haojun, un expert en sécurité internationale, est détourné par des hommes armés lors du premier vol de l'avion de ligne A380, et sa fille aveugle est l'une des otages sous couverture, un fait qu'il ne sait pas.",
-      "popularity": 247.6237,
-      "poster_path": "/b8xNJ39aOtEk3I7MFt8XJuN2bGS.jpg",
-      "release_date": "2024-09-29",
-      "title": "High Forces",
-      "video": false,
-      "vote_average": 6.1,
-      "vote_count": 22
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/q9bvjUkpKltPE0S9oxci2pmD1Zx.jpg",
-      "genre_ids": [
-        878,
-        28
-      ],
-      "id": 1309012,
-      "original_language": "en",
-      "original_title": "Altered",
-      "overview": "Dans un présent alternatif, les humains génétiquement améliorés dominent la société. Les parias Léon et Chloé se battent pour la justice contre des politiciens corrompus exploitant la disparité génétique, risquant tout pour défier le système oppressif.",
-      "popularity": 200.9637,
-      "poster_path": "/6QlAcGRaUrgHcZ4WTBh5lsPnzKx.jpg",
-      "release_date": "2025-09-18",
-      "title": "Altered",
-      "video": false,
-      "vote_average": 6.489,
-      "vote_count": 45
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/otSXrUWOTX7tTigLBMFKOV8n47r.jpg",
-      "genre_ids": [
-        27,
-        14,
-        10749
-      ],
-      "id": 1246049,
-      "original_language": "fr",
-      "original_title": "Dracula",
-      "overview": "Au XVe siècle, le Prince Vladimir renie Dieu après la perte brutale et cruelle de son épouse. Il hérite alors d’une malédiction : la vie éternelle. Il devient Dracula. Condamné à errer à travers les siècles, il n’aura plus qu’un seul espoir : celui de retrouver son amour perdu.",
-      "popularity": 242.7993,
-      "poster_path": "/vevuZVvb72VrbDzHiz4D8Z8XuGF.jpg",
-      "release_date": "2025-07-30",
-      "title": "Dracula",
-      "video": false,
-      "vote_average": 7.052,
-      "vote_count": 490
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/ytCi1wg6YHpYcFRWCO2jpzN31Kf.jpg",
-      "genre_ids": [
-        28,
-        53,
-        80
-      ],
-      "id": 1196573,
-      "original_language": "en",
-      "original_title": "She Rides Shotgun",
-      "overview": "Après des années de prison, Nate s'est fait de dangereux ennemis, dont le puissant gang criminel pour lequel il travaillait en prison. Pour prendre un nouveau départ, Nate rompt tout lien avec son ancien gang dès sa sortie, mais celui-ci décide de s'en prendre à sa famille. Nate récupère Polly, sa timide fille de dix ans qu'il connaît à peine, et prend la fuite pour sa sécurité.",
-      "popularity": 178.292,
-      "poster_path": "/gqWCnMLPOAWuD5HbUs4GNv3AGSj.jpg",
-      "release_date": "2025-07-31",
-      "title": "La Place du mort",
-      "video": false,
-      "vote_average": 7.127,
-      "vote_count": 114
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/tRdorrIjlybrGsebXOzgF7vRyYy.jpg",
-      "genre_ids": [
-        28,
-        53
-      ],
-      "id": 1469354,
-      "original_language": "en",
-      "original_title": "Border Hunters",
-      "overview": "Lorsqu’un jeune Américain meurt d’une surdose de fentanyl au Mexique, l’ex-espion Abraham Woodhill est chargé de la mission d’anéantir les cartels responsables. Avec l’aide de l’ex-agent détenu Jake Byrne, l’infâme « White Devil », il déclenche une violente opération capitale à travers les villages, la jungle et les retranchements des cartels. Mettant en vedette Dean Norris et Julio Macias.",
-      "popularity": 190.9987,
-      "poster_path": "/16aP0pZDH5s4Gyg80Tc5A9RRTeS.jpg",
-      "release_date": "2025-10-20",
-      "title": "Border Hunters",
-      "video": false,
-      "vote_average": 8.8,
-      "vote_count": 6
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/7nAVXGHHtaNcdsqvDXmY6R9N0fG.jpg",
-      "genre_ids": [
-        28,
-        35
-      ],
-      "id": 1363123,
-      "original_language": "en",
-      "original_title": "The Family Plan 2",
-      "overview": "Maintenant que sa vie de tueur à gages appartient au passé, Dan rêve de fêter Noël avec ses enfants. Mais lorsqu'il apprend que sa fille a d'autres projets, il décide d'emmener sa famille en voyage à Londres, où ils seront confrontés à un ennemi inattendu.",
-      "popularity": 171.4991,
-      "poster_path": "/qlwplmgaj36GElSofHrykqXtebL.jpg",
-      "release_date": "2025-11-11",
-      "title": "The Family Plan 2",
-      "video": false,
-      "vote_average": 6.675,
-      "vote_count": 280
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/l8pwO23MCvqYumzozpxynCNfck1.jpg",
-      "genre_ids": [
-        14,
-        12,
-        10749
-      ],
-      "id": 967941,
-      "original_language": "en",
-      "original_title": "Wicked: For Good",
-      "overview": "Depuis qu'elle s'est opposée au Magicien d'Oz, Elphaba est surnommée la Méchante sorcière de l'Ouest par la population du Pays d'Oz qui pense qu'elle est maléfique. De son côté, Glinda est devenu la figure populaire du régime du Magicien et est surnommée la Bonne Glinda, tandis que Fiyero devient le capitaine de la garde du Magicien, bien qu'il doute encore de la culpabilité d'Elphaba.",
-      "popularity": 179.3955,
-      "poster_path": "/qMkHZ0OrQpv8yyU0og611uXBwKL.jpg",
-      "release_date": "2025-11-19",
-      "title": "Wicked : Partie II",
-      "video": false,
-      "vote_average": 6.8,
-      "vote_count": 359
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/ebyxeBh56QNXxSJgTnmz7fXAlwk.jpg",
-      "genre_ids": [
-        28,
-        878,
-        12
-      ],
-      "id": 1242898,
-      "original_language": "en",
-      "original_title": "Predator: Badlands",
-      "overview": "Dans le futur sur une planète lointaine, un jeune Predator, exclu de son clan, trouve une alliée improbable en la personne de Thia et entreprend un voyage en territoire hostile, à la recherche de l'adversaire ultime.",
-      "popularity": 192.8758,
-      "poster_path": "/empQGO0pCVTndCpihyVpNfaLebl.jpg",
-      "release_date": "2025-11-05",
-      "title": "Predator: Badlands",
-      "video": false,
-      "vote_average": 7.4,
-      "vote_count": 527
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/cVzAhirOhKh91AB1TFcGn0Rh5c3.jpg",
-      "genre_ids": [
-        28,
-        53
-      ],
-      "id": 1208561,
-      "original_language": "en",
-      "original_title": "Art of Eight Limbs",
-      "overview": "En mission au Myanmar, un analyste de données de la CIA et un kickboxer à temps partiel doivent infiltrer un tournoi d’arts martiaux qui sert de couverture à un marchand d’armes vendant du gaz neurotoxique VX. Son objectif: fournir un dispositif de détection crucial, aux alliés. Cependant, alors que la mission devient incontrôlable, il est forcé de faire face aux combattants les plus impitoyables du monde, étant considéré comme la dernière ligne de défense contre une menace mondiale imminente.",
-      "popularity": 144.6175,
-      "poster_path": "/xVvwD7qDqBlMP4CYx6l7JNuXoNE.jpg",
-      "release_date": "2024-08-16",
-      "title": "Art of Eight Limbs",
-      "video": false,
-      "vote_average": 6.484,
-      "vote_count": 32
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/6bzabqH399ioM3nZScwZtzGaHIy.jpg",
-      "genre_ids": [
-        878,
-        12,
-        28
-      ],
-      "id": 533533,
-      "original_language": "en",
-      "original_title": "TRON: Ares",
-      "overview": "Julian, directeur de Dillinger System, a créé avec l’IA Arès un supersoldat humanoïde sans sensations, version vivante de son programme de sécurité. Mais ce prototype 3D se désintègre après 30 minutes. Eve Kim, programmeuse et PDG de la firme rivale Encom, découvre dans les archives du fondateur Kevin Flynn un code capable de rendre permanent tout élément généré par l’IA. Sur ordre de Julian, Arès passe dans le monde réel pour s’en emparer. Mais au contact d’Eve, qui œuvre à des projets écologiques et médicaux en mémoire de sa sœur, l’entité apprend la compassion et trahit son patron. Furieux, celui-ci lance à ses trousses Athena, sa plus redoutable soldate virtuelle.",
-      "popularity": 412.9015,
-      "poster_path": "/tkILExgVXhNLoxy4KNgCk9PC4lU.jpg",
-      "release_date": "2025-10-08",
-      "title": "Tron : Ares",
-      "video": false,
-      "vote_average": 6.4,
-      "vote_count": 469
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/hpXBJxLD2SEf8l2CspmSeiHrBKX.jpg",
-      "genre_ids": [
-        18,
-        14,
-        27
-      ],
-      "id": 1062722,
-      "original_language": "en",
-      "original_title": "Frankenstein",
-      "overview": "Fin du XVIIIe siècle. Victor Frankenstein, scientifique visionnaire et ambitieux, se consacre corps et âme à un projet dément : recréer la vie à partir de restes humains, et ainsi remporter sa conquête obsédée de la mort. Financé par un mécène aux obscures motivations, Victor finit par donner vie à sa créature. Mais, au lieu de l’aimer comme un fils, il la rejette et l’enferme. Rejetée et meurtrie, celle-ci finit par se retourner contre lui.",
-      "popularity": 149.7549,
-      "poster_path": "/aSMz7X2yQaN0ojeXEmOonbIJFhU.jpg",
-      "release_date": "2025-10-17",
-      "title": "Frankenstein",
-      "video": false,
-      "vote_average": 7.768,
-      "vote_count": 2030
+      "vote_average": 7.741,
+      "vote_count": 307
     },
     {
       "adult": false,
@@ -315,27 +40,48 @@
       "release_date": "2025-11-30",
       "title": "Troll 2",
       "video": false,
-      "vote_average": 6.984,
-      "vote_count": 63
+      "vote_average": 6.7,
+      "vote_count": 86
     },
     {
       "adult": false,
-      "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+      "backdrop_path": "/6bzabqH399ioM3nZScwZtzGaHIy.jpg",
       "genre_ids": [
         878,
+        12,
+        28
+      ],
+      "id": 533533,
+      "original_language": "en",
+      "original_title": "TRON: Ares",
+      "overview": "Julian, directeur de Dillinger System, a créé avec l’IA Arès un supersoldat humanoïde sans sensations, version vivante de son programme de sécurité. Mais ce prototype 3D se désintègre après 30 minutes. Eve Kim, programmeuse et PDG de la firme rivale Encom, découvre dans les archives du fondateur Kevin Flynn un code capable de rendre permanent tout élément généré par l’IA. Sur ordre de Julian, Arès passe dans le monde réel pour s’en emparer. Mais au contact d’Eve, qui œuvre à des projets écologiques et médicaux en mémoire de sa sœur, l’entité apprend la compassion et trahit son patron. Furieux, celui-ci lance à ses trousses Athena, sa plus redoutable soldate virtuelle.",
+      "popularity": 412.9015,
+      "poster_path": "/szi21Cz6bAPQ47QER5iSCkP6JWI.jpg",
+      "release_date": "2025-10-08",
+      "title": "Tron : Ares",
+      "video": false,
+      "vote_average": 6.441,
+      "vote_count": 499
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4BtL2vvEufDXDP4u6xQjjQ1Y2aT.jpg",
+      "genre_ids": [
+        28,
+        80,
         53
       ],
-      "id": 755898,
-      "original_language": "en",
-      "original_title": "War of the Worlds",
-      "overview": "Une invasion gargantuesque approche dans cette nouvelle interprétation du légendaire roman homonyme devenu un classique de la science-fiction. La célèbre Eva Longoria partage l'affiche avec le rappeur/acteur Ice Cube, Michael O'Neill et Iman Benson, dans une aventure extraordinaire abordant des thématiques actuelles telles que la technologie, la surveillance et la protection de la vie privée.",
-      "popularity": 154.7204,
-      "poster_path": "/jnVnLfyA9MrBEsYx9vyq0e4dbLj.jpg",
-      "release_date": "2025-07-29",
-      "title": "La Guerre des mondes",
+      "id": 1419406,
+      "original_language": "zh",
+      "original_title": "捕风追影",
+      "overview": "La police de Macao fait sortir de sa retraite un expert en pistage pour l'aider à appréhender un dangereux groupe de voleurs professionnels.",
+      "popularity": 286.3787,
+      "poster_path": "/t1PFVsGYdUHtPv0Xowoc9b4PAap.jpg",
+      "release_date": "2025-08-16",
+      "title": "The Shadow's Edge",
       "video": false,
-      "vote_average": 4.293,
-      "vote_count": 762
+      "vote_average": 6.385,
+      "vote_count": 131
     },
     {
       "adult": false,
@@ -359,22 +105,257 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/eMBYlgFTHfZaTz96eJxlkeMsKo9.jpg",
+      "backdrop_path": "/8lqfrOBQ2EcY7znD3LxTYcvlh25.jpg",
       "genre_ids": [
-        16,
+        28,
+        80
+      ],
+      "id": 949709,
+      "original_language": "zh",
+      "original_title": "危机航线",
+      "overview": "Gao Haojun, un expert en sécurité internationale, est détourné par des hommes armés lors du premier vol de l'avion de ligne A380, et sa fille aveugle est l'une des otages sous couverture, un fait qu'il ne sait pas.",
+      "popularity": 247.6237,
+      "poster_path": "/b8xNJ39aOtEk3I7MFt8XJuN2bGS.jpg",
+      "release_date": "2024-09-29",
+      "title": "High Forces",
+      "video": false,
+      "vote_average": 6,
+      "vote_count": 24
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/otSXrUWOTX7tTigLBMFKOV8n47r.jpg",
+      "genre_ids": [
+        27,
+        14,
+        10749
+      ],
+      "id": 1246049,
+      "original_language": "fr",
+      "original_title": "Dracula",
+      "overview": "Au XVe siècle, le Prince Vladimir renie Dieu après la perte brutale et cruelle de son épouse. Il hérite alors d’une malédiction : la vie éternelle. Il devient Dracula. Condamné à errer à travers les siècles, il n’aura plus qu’un seul espoir : celui de retrouver son amour perdu.",
+      "popularity": 242.7993,
+      "poster_path": "/vevuZVvb72VrbDzHiz4D8Z8XuGF.jpg",
+      "release_date": "2025-07-30",
+      "title": "Dracula",
+      "video": false,
+      "vote_average": 7.067,
+      "vote_count": 501
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lf8IZ86ajGpgbuyHCZrXUeAMmvy.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 1033462,
+      "original_language": "zh",
+      "original_title": "749局",
+      "overview": "L’histoire d’un jeune homme qui est entraîné dans un mystérieux bureau de lutte contre le crime au moment même où une catastrophe est déclenchée par des créatures inconnues se propageant à travers le monde.",
+      "popularity": 235.4213,
+      "poster_path": "/xW640PVBXLlzhrkQnAcvWNsehIO.jpg",
+      "release_date": "2024-10-01",
+      "title": "749 Bureau",
+      "video": false,
+      "vote_average": 6,
+      "vote_count": 49
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pAyImoslSnpMgjRwhaS5ZEdl8UI.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "id": 1448560,
+      "original_language": "en",
+      "original_title": "Wildcat",
+      "overview": "Une ancienne équipe d'opérations spéciales se réunit pour réaliser un braquage afin de sauver la vie de la fille de leur chef.",
+      "popularity": 232.0316,
+      "poster_path": "/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg",
+      "release_date": "2025-11-19",
+      "title": "Wildcat",
+      "video": false,
+      "vote_average": 6.25,
+      "vote_count": 24
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/q9bvjUkpKltPE0S9oxci2pmD1Zx.jpg",
+      "genre_ids": [
+        878,
         28
       ],
-      "id": 1539104,
-      "original_language": "ja",
-      "original_title": "劇場版 呪術廻戦「渋谷事変 特別編集版」×「死滅回游 先行上映」",
-      "overview": "",
-      "popularity": 125.7399,
-      "poster_path": "/qg4Qfsr0wWLTkRSIjI04NQzxB3w.jpg",
-      "release_date": "2025-11-07",
-      "title": "JUJUTSU KAISEN : Exécution",
+      "id": 1309012,
+      "original_language": "en",
+      "original_title": "Altered",
+      "overview": "Dans un présent alternatif, les humains génétiquement améliorés dominent la société. Les parias Léon et Chloé se battent pour la justice contre des politiciens corrompus exploitant la disparité génétique, risquant tout pour défier le système oppressif.",
+      "popularity": 200.9637,
+      "poster_path": "/6QlAcGRaUrgHcZ4WTBh5lsPnzKx.jpg",
+      "release_date": "2025-09-18",
+      "title": "Altered",
       "video": false,
-      "vote_average": 4.8,
-      "vote_count": 40
+      "vote_average": 6.617,
+      "vote_count": 47
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ebyxeBh56QNXxSJgTnmz7fXAlwk.jpg",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "id": 1242898,
+      "original_language": "en",
+      "original_title": "Predator: Badlands",
+      "overview": "Dans le futur sur une planète lointaine, un jeune Predator, exclu de son clan, trouve une alliée improbable en la personne de Thia et entreprend un voyage en territoire hostile, à la recherche de l'adversaire ultime.",
+      "popularity": 192.8758,
+      "poster_path": "/empQGO0pCVTndCpihyVpNfaLebl.jpg",
+      "release_date": "2025-11-05",
+      "title": "Predator: Badlands",
+      "video": false,
+      "vote_average": 7.389,
+      "vote_count": 533
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tRdorrIjlybrGsebXOzgF7vRyYy.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1469354,
+      "original_language": "en",
+      "original_title": "Border Hunters",
+      "overview": "Lorsqu’un jeune Américain meurt d’une surdose de fentanyl au Mexique, l’ex-espion Abraham Woodhill est chargé de la mission d’anéantir les cartels responsables. Avec l’aide de l’ex-agent détenu Jake Byrne, l’infâme « White Devil », il déclenche une violente opération capitale à travers les villages, la jungle et les retranchements des cartels. Mettant en vedette Dean Norris et Julio Macias.",
+      "popularity": 190.9987,
+      "poster_path": "/16aP0pZDH5s4Gyg80Tc5A9RRTeS.jpg",
+      "release_date": "2025-10-20",
+      "title": "Border Hunters",
+      "video": false,
+      "vote_average": 8.8,
+      "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/l8pwO23MCvqYumzozpxynCNfck1.jpg",
+      "genre_ids": [
+        14,
+        12,
+        10749
+      ],
+      "id": 967941,
+      "original_language": "en",
+      "original_title": "Wicked: For Good",
+      "overview": "Depuis qu'elle s'est opposée au Magicien d'Oz, Elphaba est surnommée la Méchante sorcière de l'Ouest par la population du Pays d'Oz qui pense qu'elle est maléfique. De son côté, Glinda est devenu la figure populaire du régime du Magicien et est surnommée la Bonne Glinda, tandis que Fiyero devient le capitaine de la garde du Magicien, bien qu'il doute encore de la culpabilité d'Elphaba.",
+      "popularity": 179.3955,
+      "poster_path": "/qMkHZ0OrQpv8yyU0og611uXBwKL.jpg",
+      "release_date": "2025-11-19",
+      "title": "Wicked : Partie II",
+      "video": false,
+      "vote_average": 6.767,
+      "vote_count": 362
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ytCi1wg6YHpYcFRWCO2jpzN31Kf.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "id": 1196573,
+      "original_language": "en",
+      "original_title": "She Rides Shotgun",
+      "overview": "Après des années de prison, Nate s'est fait de dangereux ennemis, dont le puissant gang criminel pour lequel il travaillait en prison. Pour prendre un nouveau départ, Nate rompt tout lien avec son ancien gang dès sa sortie, mais celui-ci décide de s'en prendre à sa famille. Nate récupère Polly, sa timide fille de dix ans qu'il connaît à peine, et prend la fuite pour sa sécurité.",
+      "popularity": 178.292,
+      "poster_path": "/gqWCnMLPOAWuD5HbUs4GNv3AGSj.jpg",
+      "release_date": "2025-07-31",
+      "title": "La Place du mort",
+      "video": false,
+      "vote_average": 7.117,
+      "vote_count": 124
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7nAVXGHHtaNcdsqvDXmY6R9N0fG.jpg",
+      "genre_ids": [
+        28,
+        35
+      ],
+      "id": 1363123,
+      "original_language": "en",
+      "original_title": "The Family Plan 2",
+      "overview": "Maintenant que sa vie de tueur à gages appartient au passé, Dan rêve de fêter Noël avec ses enfants. Mais lorsqu'il apprend que sa fille a d'autres projets, il décide d'emmener sa famille en voyage à Londres, où ils seront confrontés à un ennemi inattendu.",
+      "popularity": 171.4991,
+      "poster_path": "/qlwplmgaj36GElSofHrykqXtebL.jpg",
+      "release_date": "2025-11-11",
+      "title": "The Family Plan 2",
+      "video": false,
+      "vote_average": 6.676,
+      "vote_count": 287
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+      "genre_ids": [
+        878,
+        53
+      ],
+      "id": 755898,
+      "original_language": "en",
+      "original_title": "War of the Worlds",
+      "overview": "Une invasion gargantuesque approche dans cette nouvelle interprétation du légendaire roman homonyme devenu un classique de la science-fiction. La célèbre Eva Longoria partage l'affiche avec le rappeur/acteur Ice Cube, Michael O'Neill et Iman Benson, dans une aventure extraordinaire abordant des thématiques actuelles telles que la technologie, la surveillance et la protection de la vie privée.",
+      "popularity": 154.7204,
+      "poster_path": "/jnVnLfyA9MrBEsYx9vyq0e4dbLj.jpg",
+      "release_date": "2025-07-29",
+      "title": "La Guerre des mondes",
+      "video": false,
+      "vote_average": 4.296,
+      "vote_count": 763
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hpXBJxLD2SEf8l2CspmSeiHrBKX.jpg",
+      "genre_ids": [
+        18,
+        14,
+        27
+      ],
+      "id": 1062722,
+      "original_language": "en",
+      "original_title": "Frankenstein",
+      "overview": "Fin du XVIIIe siècle. Victor Frankenstein, scientifique visionnaire et ambitieux, se consacre corps et âme à un projet dément : recréer la vie à partir de restes humains, et ainsi remporter sa conquête obsédée de la mort. Financé par un mécène aux obscures motivations, Victor finit par donner vie à sa créature. Mais, au lieu de l’aimer comme un fils, il la rejette et l’enferme. Rejetée et meurtrie, celle-ci finit par se retourner contre lui.",
+      "popularity": 149.7549,
+      "poster_path": "/aSMz7X2yQaN0ojeXEmOonbIJFhU.jpg",
+      "release_date": "2025-10-17",
+      "title": "Frankenstein",
+      "video": false,
+      "vote_average": 7.771,
+      "vote_count": 2042
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cVzAhirOhKh91AB1TFcGn0Rh5c3.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1208561,
+      "original_language": "en",
+      "original_title": "Art of Eight Limbs",
+      "overview": "En mission au Myanmar, un analyste de données de la CIA et un kickboxer à temps partiel doivent infiltrer un tournoi d’arts martiaux qui sert de couverture à un marchand d’armes vendant du gaz neurotoxique VX. Son objectif: fournir un dispositif de détection crucial, aux alliés. Cependant, alors que la mission devient incontrôlable, il est forcé de faire face aux combattants les plus impitoyables du monde, étant considéré comme la dernière ligne de défense contre une menace mondiale imminente.",
+      "popularity": 144.6175,
+      "poster_path": "/xVvwD7qDqBlMP4CYx6l7JNuXoNE.jpg",
+      "release_date": "2024-08-16",
+      "title": "Art of Eight Limbs",
+      "video": false,
+      "vote_average": 6.484,
+      "vote_count": 32
     },
     {
       "adult": false,
@@ -395,9 +376,28 @@
       "title": "Zootopie",
       "video": false,
       "vote_average": 7.755,
-      "vote_count": 17172
+      "vote_count": 17180
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eMBYlgFTHfZaTz96eJxlkeMsKo9.jpg",
+      "genre_ids": [
+        16,
+        28
+      ],
+      "id": 1539104,
+      "original_language": "ja",
+      "original_title": "劇場版 呪術廻戦「渋谷事変 特別編集版」×「死滅回游 先行上映」",
+      "overview": "",
+      "popularity": 125.7399,
+      "poster_path": "/qg4Qfsr0wWLTkRSIjI04NQzxB3w.jpg",
+      "release_date": "2025-11-07",
+      "title": "JUJUTSU KAISEN : Exécution",
+      "video": false,
+      "vote_average": 5.136,
+      "vote_count": 44
     }
   ],
-  "total_pages": 54002,
-  "total_results": 1080037
+  "total_pages": 54008,
+  "total_results": 1080141
 }
