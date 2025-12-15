@@ -15,13 +15,13 @@
       "original_language": "en",
       "original_title": "Zootopia 2",
       "overview": "Judy Hopps et Nick Wilde, après avoir résolu la plus grande affaire criminelle de l'histoire de Zootopie, découvrent que leur collaboration n'est pas aussi solide qu'ils le pensaient lorsque le chef Bogo leur ordonne de participer à un programme de thérapie réservé aux coéquipiers en crise. Leur partenariat sera même soumis à rude épreuve lorsqu'ils devront éclaircir - sous couverture et dans des quartiers inconnus de la ville - un nouveau mystère et s'engager sur la piste sinueuse d'un serpent venimeux fraîchement arrivé dans la cité animale...",
-      "popularity": 409.1167,
+      "popularity": 431.2602,
       "poster_path": "/8KL0XQaKDAV7KzveZzSoCZ0eaq7.jpg",
       "release_date": "2025-11-26",
       "title": "Zootopie 2",
       "video": false,
-      "vote_average": 7.7,
-      "vote_count": 556
+      "vote_average": 7.665,
+      "vote_count": 587
     },
     {
       "adult": false,
@@ -35,72 +35,33 @@
       "original_language": "en",
       "original_title": "The Running Man",
       "overview": "Dans un futur proche, les participants du jeu télévisé Running Man sont traqués en direct par des chasseurs professionnels. Ils doivent survivre 30 jours sous les yeux d’un public avide de violence. Ben Richards, prêt à tout pour sauver sa fille malade, est forcé de participer par un producteur impitoyable. Mais son courage et sa révolte feront de lui le favori du public… et la pire menace du système.",
-      "popularity": 370.0244,
+      "popularity": 429.9601,
       "poster_path": "/3tbnGsJpxtndRkxHeq3uq7VymzI.jpg",
       "release_date": "2025-11-11",
       "title": "Running Man",
       "video": false,
-      "vote_average": 6.752,
-      "vote_count": 404
+      "vote_average": 6.786,
+      "vote_count": 467
     },
     {
       "adult": false,
-      "backdrop_path": "/min9ZUDZbiguTiQ7yz1Hbqk78HT.jpg",
+      "backdrop_path": "/fiRDzpcJe7qz3yIR43hdXIE3NHv.jpg",
       "genre_ids": [
-        878,
-        12,
-        28
+        53,
+        9648,
+        18
       ],
-      "id": 533533,
+      "id": 812583,
       "original_language": "en",
-      "original_title": "TRON: Ares",
-      "overview": "Julian, directeur de Dillinger System, a créé avec l’IA Arès un supersoldat humanoïde sans sensations, version vivante de son programme de sécurité. Mais ce prototype 3D se désintègre après 30 minutes. Eve Kim, programmeuse et PDG de la firme rivale Encom, découvre dans les archives du fondateur Kevin Flynn un code capable de rendre permanent tout élément généré par l’IA. Sur ordre de Julian, Arès passe dans le monde réel pour s’en emparer. Mais au contact d’Ève, qui œuvre à des projets écologiques et médicaux en mémoire de sa sœur, l’entité apprend la compassion et trahit son patron. Furieux, celui-ci lance à ses trousses Athéna, sa plus redoutable soldate virtuelle.",
-      "popularity": 257.7556,
-      "poster_path": "/szi21Cz6bAPQ47QER5iSCkP6JWI.jpg",
-      "release_date": "2025-10-08",
-      "title": "Tron : Ares",
+      "original_title": "Wake Up Dead Man: A Knives Out Mystery",
+      "overview": "Le détective Benoit Blanc collabore avec un jeune prêtre pour enquêter sur un crime totalement inexplicable perpétré dans l'église d'une petite ville au sombre passé.",
+      "popularity": 368.6188,
+      "poster_path": "/x56yV1MunQDBZp6Rs4Fks3KdeD0.jpg",
+      "release_date": "2025-11-26",
+      "title": "Wake Up Dead Man : Une histoire à couteaux tirés",
       "video": false,
-      "vote_average": 6.558,
-      "vote_count": 707
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/bhhgVjnZ69ZoCGYvVT3djnAWSJA.jpg",
-      "genre_ids": [
-        27,
-        53
-      ],
-      "id": 1228246,
-      "original_language": "en",
-      "original_title": "Five Nights at Freddy's 2",
-      "overview": "N'importe qui peut survivre à cinq nuits. Cette fois, il n'y aura pas de seconde chance.",
-      "popularity": 256.386,
-      "poster_path": "/enRyaRthhsuAqBwzYKqb7VfCJg.jpg",
-      "release_date": "2025-12-03",
-      "title": "Five Nights at Freddy's 2",
-      "video": false,
-      "vote_average": 6.333,
-      "vote_count": 159
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/lZYMXx74pWmbj5Q5jp1QaMvmuuR.jpg",
-      "genre_ids": [
-        28,
-        14,
-        53
-      ],
-      "id": 1180831,
-      "original_language": "no",
-      "original_title": "Troll 2",
-      "overview": "Lorsqu'un nouveau troll sème la dévastation dans le pays, Nora, Andreas et le major Kris se lancent dans la plus périlleuse des missions.",
-      "popularity": 234.9032,
-      "poster_path": "/5s33v65FEzVtt9X6G5EuHP9dbwx.jpg",
-      "release_date": "2025-11-30",
-      "title": "Troll 2",
-      "video": false,
-      "vote_average": 6.764,
-      "vote_count": 242
+      "vote_average": 7.404,
+      "vote_count": 471
     },
     {
       "adult": false,
@@ -114,13 +75,72 @@
       "original_language": "en",
       "original_title": "Hunting Season",
       "overview": "Un père célibataire est prêt à tout pour protéger sa fille de 13 ans du monde corrompu qui l'entoure.",
-      "popularity": 279.6949,
+      "popularity": 308.7835,
       "poster_path": "/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
       "release_date": "2025-12-05",
       "title": "Hunting Season",
       "video": false,
-      "vote_average": 6.868,
-      "vote_count": 19
+      "vote_average": 7.208,
+      "vote_count": 24
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/min9ZUDZbiguTiQ7yz1Hbqk78HT.jpg",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "id": 533533,
+      "original_language": "en",
+      "original_title": "TRON: Ares",
+      "overview": "Julian, directeur de Dillinger System, a créé avec l’IA Arès un supersoldat humanoïde sans sensations, version vivante de son programme de sécurité. Mais ce prototype 3D se désintègre après 30 minutes. Eve Kim, programmeuse et PDG de la firme rivale Encom, découvre dans les archives du fondateur Kevin Flynn un code capable de rendre permanent tout élément généré par l’IA. Sur ordre de Julian, Arès passe dans le monde réel pour s’en emparer. Mais au contact d’Ève, qui œuvre à des projets écologiques et médicaux en mémoire de sa sœur, l’entité apprend la compassion et trahit son patron. Furieux, celui-ci lance à ses trousses Athéna, sa plus redoutable soldate virtuelle.",
+      "popularity": 253.831,
+      "poster_path": "/szi21Cz6bAPQ47QER5iSCkP6JWI.jpg",
+      "release_date": "2025-10-08",
+      "title": "Tron : Ares",
+      "video": false,
+      "vote_average": 6.554,
+      "vote_count": 730
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bhhgVjnZ69ZoCGYvVT3djnAWSJA.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1228246,
+      "original_language": "en",
+      "original_title": "Five Nights at Freddy's 2",
+      "overview": "N'importe qui peut survivre à cinq nuits. Cette fois, il n'y aura pas de seconde chance.",
+      "popularity": 242.7947,
+      "poster_path": "/enRyaRthhsuAqBwzYKqb7VfCJg.jpg",
+      "release_date": "2025-12-03",
+      "title": "Five Nights at Freddy's 2",
+      "video": false,
+      "vote_average": 6.371,
+      "vote_count": 171
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lZYMXx74pWmbj5Q5jp1QaMvmuuR.jpg",
+      "genre_ids": [
+        28,
+        14,
+        53
+      ],
+      "id": 1180831,
+      "original_language": "no",
+      "original_title": "Troll 2",
+      "overview": "Lorsqu'un nouveau troll sème la dévastation dans le pays, Nora, Andreas et le major Kris se lancent dans la plus périlleuse des missions.",
+      "popularity": 229.6894,
+      "poster_path": "/5s33v65FEzVtt9X6G5EuHP9dbwx.jpg",
+      "release_date": "2025-11-30",
+      "title": "Troll 2",
+      "video": false,
+      "vote_average": 6.724,
+      "vote_count": 255
     },
     {
       "adult": false,
@@ -134,33 +154,34 @@
       "original_language": "en",
       "original_title": "High Rollers",
       "overview": "Un voleur doit réussir un dangereux braquage dans un casino lorsque son ennemi juré kidnappe sa compagne. Pris entre des criminels rivaux et la poursuite du FBI, il risque tout pour la sauver et remporter le gros lot.",
-      "popularity": 229.569,
+      "popularity": 254.4481,
       "poster_path": "/AwFpie51ZWRN7y8e7KReKFMxnT9.jpg",
       "release_date": "2025-03-14",
       "title": "‎Cash Out 2: High Rollers",
       "video": false,
-      "vote_average": 6.435,
-      "vote_count": 78
+      "vote_average": 6.5,
+      "vote_count": 79
     },
     {
       "adult": false,
-      "backdrop_path": "/w57nxiBIODAYHLRs1xmrCY9zEFe.jpg",
+      "backdrop_path": "/1dqFuNiutgBdNF9d5QOQBWHHvft.jpg",
       "genre_ids": [
         28,
-        18,
-        14
+        80,
+        35,
+        53
       ],
-      "id": 1083637,
-      "original_language": "kn",
-      "original_title": "ಕಾಂತಾರ: ಅಧ್ಯಾಯ - ೧",
-      "overview": "À l’époque de la puissante dynastie Kadamba, se révèle l’origine de Kaadubettu Shiva. Le récit nous entraîne dans une nature indomptée, entre mythes enfouis et légendes oubliées, pour dévoiler les mystères de son passé.",
-      "popularity": 191.1917,
-      "poster_path": "/ehQPboTPaIMkMUOoNOh8e7pZ5Rp.jpg",
-      "release_date": "2025-10-01",
-      "title": "Kantara A Legend: Chapter 1",
+      "id": 1217602,
+      "original_language": "en",
+      "original_title": "London Calling",
+      "overview": "Après avoir raté un coup, Tommy Ward s'enfuit à Los Angeles et conclut un marché : devenir le mentor du fils maladroit de son patron en échange d'un retour chez lui. Mais une mission de routine se transforme en une nuit de fusillades, de tueurs et de chaos, tandis que ce duo étrange lutte pour survivre et obtenir la rédemption.",
+      "popularity": 252.0753,
+      "poster_path": "/cpQ4VxBJO7vGV3IUdKzSNf4tH9V.jpg",
+      "release_date": "2025-09-18",
+      "title": "London Calling",
       "video": false,
       "vote_average": 7,
-      "vote_count": 47
+      "vote_count": 46
     },
     {
       "adult": false,
@@ -175,33 +196,33 @@
       "original_language": "ja",
       "original_title": "劇場版 チェンソーマン レゼ篇",
       "overview": "Après avoir mit hors d'état de nuire Katana Man, Denji se demande avec l'agitation de sa vie s'il a toujours un cœur. Il va faire la rencontre de Reze, une jeune femme qui semble s'intéresser à lui. Leur relation s'épanouit jusqu'à ce que la vraie nature de Reze se révèle. Il va livrer un combat périlleux guidé par l'amour mais qui sera explosif.",
-      "popularity": 205.0445,
+      "popularity": 210.4862,
       "poster_path": "/cHcG6wXRPjIbeUqydKdG7r0oMmc.jpg",
       "release_date": "2025-09-19",
       "title": "Chainsaw Man – Le Film : L'arc de Reze",
       "video": false,
-      "vote_average": 8.236,
-      "vote_count": 363
+      "vote_average": 8.273,
+      "vote_count": 388
     },
     {
       "adult": false,
-      "backdrop_path": "/aANEJh0COcHKG6pBw9qnO4wZRRC.jpg",
+      "backdrop_path": "/w57nxiBIODAYHLRs1xmrCY9zEFe.jpg",
       "genre_ids": [
-        53,
-        9648,
-        18
+        28,
+        18,
+        14
       ],
-      "id": 812583,
-      "original_language": "en",
-      "original_title": "Wake Up Dead Man: A Knives Out Mystery",
-      "overview": "Le détective Benoit Blanc collabore avec un jeune prêtre pour enquêter sur un crime totalement inexplicable perpétré dans l'église d'une petite ville au sombre passé.",
-      "popularity": 332.8821,
-      "poster_path": "/x56yV1MunQDBZp6Rs4Fks3KdeD0.jpg",
-      "release_date": "2025-11-26",
-      "title": "Wake Up Dead Man : Une histoire à couteaux tirés",
+      "id": 1083637,
+      "original_language": "kn",
+      "original_title": "ಕಾಂತಾರ: ಅಧ್ಯಾಯ - ೧",
+      "overview": "À l’époque de la puissante dynastie Kadamba, se révèle l’origine de Kaadubettu Shiva. Le récit nous entraîne dans une nature indomptée, entre mythes enfouis et légendes oubliées, pour dévoiler les mystères de son passé.",
+      "popularity": 188.9485,
+      "poster_path": "/ehQPboTPaIMkMUOoNOh8e7pZ5Rp.jpg",
+      "release_date": "2025-10-01",
+      "title": "Kantara A Legend: Chapter 1",
       "video": false,
-      "vote_average": 7.4,
-      "vote_count": 300
+      "vote_average": 7,
+      "vote_count": 47
     },
     {
       "adult": false,
@@ -216,13 +237,13 @@
       "original_language": "ru",
       "original_title": "Первый отряд",
       "overview": "Sur le front de l'Est, le conflit perdure entre les armées allemandes et soviétiques, contraintes à une guerre de position pendant l'hiver. Parallèlement à ce combat, une autre bataille se joue à coup de pouvoirs occultes: Du côté des SS, l'Ahnenerbe se lance dans la résurrection du baron von Wolff, un chevalier tué en Russie, il y a 700 ans avec ses hommes. Le renfort d'une armée de morts vivants devrait faire basculer la balance du côté allemand.Pour contrer ce plan, la section 6 des services secrets soviétiques compte sur sa pièce maîtresse, Nadia, une jeune fille dotée de pouvoirs paranormaux. Envoyée sur le front, sous couverture, Nadia est cependant victime d'une attaque aérienne, qui la laisse amnésique et coupée de sa base. Elle est en plus pourchassée par des tueuses de l'Ahnenerbe , qui cherche à éliminer tous les membres de la section 6.",
-      "popularity": 162.1625,
+      "popularity": 143.0239,
       "poster_path": "/lgylqeZP6pFQQmH7M9AwyoLhfoJ.jpg",
       "release_date": "2009-05-13",
       "title": "First Squad - Le Moment de Vérité",
       "video": false,
-      "vote_average": 6.2,
-      "vote_count": 132
+      "vote_average": 6.192,
+      "vote_count": 133
     },
     {
       "adult": false,
@@ -236,33 +257,13 @@
       "original_language": "en",
       "original_title": "Predator: Badlands",
       "overview": "Dans le futur sur une planète lointaine, un jeune Predator, exclu de son clan, trouve une alliée improbable en la personne de Thia et entreprend un voyage en territoire hostile, à la recherche de l'adversaire ultime.",
-      "popularity": 156.8185,
+      "popularity": 163.7653,
       "poster_path": "/empQGO0pCVTndCpihyVpNfaLebl.jpg",
       "release_date": "2025-11-05",
       "title": "Predator: Badlands",
       "video": false,
-      "vote_average": 7.3,
-      "vote_count": 617
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/lf8IZ86ajGpgbuyHCZrXUeAMmvy.jpg",
-      "genre_ids": [
-        28,
-        12,
-        878
-      ],
-      "id": 1033462,
-      "original_language": "zh",
-      "original_title": "749局",
-      "overview": "L’histoire d’un jeune homme qui est entraîné dans un mystérieux bureau de lutte contre le crime au moment même où une catastrophe est déclenchée par des créatures inconnues se propageant à travers le monde.",
-      "popularity": 135.2512,
-      "poster_path": "/xW640PVBXLlzhrkQnAcvWNsehIO.jpg",
-      "release_date": "2024-10-01",
-      "title": "749 Bureau",
-      "video": false,
-      "vote_average": 6.1,
-      "vote_count": 55
+      "vote_average": 7.344,
+      "vote_count": 635
     },
     {
       "adult": false,
@@ -275,13 +276,13 @@
       "original_language": "en",
       "original_title": "War of the Worlds",
       "overview": "Une invasion gargantuesque approche dans cette nouvelle interprétation du légendaire roman homonyme devenu un classique de la science-fiction. La célèbre Eva Longoria partage l'affiche avec le rappeur/acteur Ice Cube, Michael O'Neill et Iman Benson, dans une aventure extraordinaire abordant des thématiques actuelles telles que la technologie, la surveillance et la protection de la vie privée.",
-      "popularity": 152.9582,
+      "popularity": 157.8447,
       "poster_path": "/jnVnLfyA9MrBEsYx9vyq0e4dbLj.jpg",
       "release_date": "2025-07-29",
       "title": "La Guerre des mondes",
       "video": false,
-      "vote_average": 4.279,
-      "vote_count": 775
+      "vote_average": 4.275,
+      "vote_count": 777
     },
     {
       "adult": false,
@@ -295,13 +296,33 @@
       "original_language": "zh",
       "original_title": "捕风追影",
       "overview": "Un mystérieux mafieux et ses 7 fils adoptifs manipulent et ridiculisent la police en piratant le système de surveillance ultramoderne de la ville, dans le but de récupérer une fortune en crypto-monnaie. La police devenue impuissante doit faire appel à un ancien expert qui va s’associer avec une jeune policière à laquelle il est lié par un secret qu’elle ignore. Une partie d’échec commence alors, où les cerveaux et la loyauté seront mis à l’épreuve.",
-      "popularity": 136.0678,
+      "popularity": 140.8736,
       "poster_path": "/t1PFVsGYdUHtPv0Xowoc9b4PAap.jpg",
       "release_date": "2025-08-16",
       "title": "The Shadow's Edge",
       "video": false,
-      "vote_average": 6.503,
+      "vote_average": 6.5,
       "vote_count": 154
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lf8IZ86ajGpgbuyHCZrXUeAMmvy.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 1033462,
+      "original_language": "zh",
+      "original_title": "749局",
+      "overview": "L’histoire d’un jeune homme qui est entraîné dans un mystérieux bureau de lutte contre le crime au moment même où une catastrophe est déclenchée par des créatures inconnues se propageant à travers le monde.",
+      "popularity": 136.4739,
+      "poster_path": "/xW640PVBXLlzhrkQnAcvWNsehIO.jpg",
+      "release_date": "2024-10-01",
+      "title": "749 Bureau",
+      "video": false,
+      "vote_average": 6.2,
+      "vote_count": 56
     },
     {
       "adult": false,
@@ -315,13 +336,13 @@
       "original_language": "en",
       "original_title": "Wildcat",
       "overview": "Une ancienne équipe d'opérations spéciales se réunit pour réaliser un braquage afin de sauver la vie de la fille de leur chef.",
-      "popularity": 129.7872,
+      "popularity": 127.5277,
       "poster_path": "/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg",
       "release_date": "2025-11-19",
       "title": "Wildcat",
       "video": false,
-      "vote_average": 6.08,
-      "vote_count": 44
+      "vote_average": 6.076,
+      "vote_count": 46
     },
     {
       "adult": false,
@@ -335,13 +356,13 @@
       "original_language": "en",
       "original_title": "Old Henry",
       "overview": "Un fermier veuf et son fils accueillent avec méfiance un homme mystérieux et blessé, détenteur d'une sacoche remplie d'argent.",
-      "popularity": 123.9923,
+      "popularity": 110.699,
       "poster_path": "/eE1SL0QoDsvAMqQly56IkRtlN1W.jpg",
       "release_date": "2021-10-01",
       "title": "Old Henry",
       "video": false,
       "vote_average": 7.285,
-      "vote_count": 641
+      "vote_count": 642
     },
     {
       "adult": false,
@@ -355,13 +376,13 @@
       "original_language": "fr",
       "original_title": "Dracula",
       "overview": "Au XVe siècle, le Prince Vladimir renie Dieu après la perte brutale et cruelle de son épouse. Il hérite alors d’une malédiction : la vie éternelle. Il devient Dracula. Condamné à errer à travers les siècles, il n’aura plus qu’un seul espoir : celui de retrouver son amour perdu.",
-      "popularity": 123.7537,
+      "popularity": 120.6109,
       "poster_path": "/vevuZVvb72VrbDzHiz4D8Z8XuGF.jpg",
       "release_date": "2025-07-30",
       "title": "Dracula",
       "video": false,
-      "vote_average": 7.108,
-      "vote_count": 600
+      "vote_average": 7.086,
+      "vote_count": 607
     },
     {
       "adult": false,
@@ -374,35 +395,15 @@
       "original_language": "es",
       "original_title": "Dímelo bajito",
       "overview": "Tout est sous contrôle dans la vie de Kamila : études, vie sociale, son image... Mais le retour inattendu de ses voisins, les frères Di Bianco, après 7 ans d'absence, change tout. Thiago lui avait volé son premier baiser, Taylor était son meilleur ami, mais leur retour va chambouler l'univers de Kami. Arriveront-ils à surmonter le passé qui les lie ? Ou les choses vont-elles encore s'envenimer ?",
-      "popularity": 115.5482,
+      "popularity": 120.1437,
       "poster_path": "/6NugNYN0Q2VUwYh3JwtVYPQFfHX.jpg",
       "release_date": "2025-12-11",
       "title": "Dis-le-moi tout bas",
       "video": false,
-      "vote_average": 6.893,
-      "vote_count": 14
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/l8pwO23MCvqYumzozpxynCNfck1.jpg",
-      "genre_ids": [
-        14,
-        12,
-        10749
-      ],
-      "id": 967941,
-      "original_language": "en",
-      "original_title": "Wicked: For Good",
-      "overview": "Depuis qu'elle s'est opposée au Magicien d'Oz, Elphaba est surnommée la Méchante sorcière de l'Ouest par la population du Pays d'Oz qui pense qu'elle est maléfique. De son côté, Glinda est devenu la figure populaire du régime du Magicien et est surnommée la Bonne Glinda, tandis que Fiyero devient le capitaine de la garde du Magicien, bien qu'il doute encore de la culpabilité d'Elphaba.",
-      "popularity": 101.1394,
-      "poster_path": "/qMkHZ0OrQpv8yyU0og611uXBwKL.jpg",
-      "release_date": "2025-11-19",
-      "title": "Wicked : Partie II",
-      "video": false,
-      "vote_average": 6.73,
-      "vote_count": 434
+      "vote_average": 6.38,
+      "vote_count": 25
     }
   ],
-  "total_pages": 54145,
-  "total_results": 1082895
+  "total_pages": 54159,
+  "total_results": 1083161
 }
