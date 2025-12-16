@@ -20,8 +20,8 @@
       "release_date": "2025-11-26",
       "title": "Zootopie 2",
       "video": false,
-      "vote_average": 7.665,
-      "vote_count": 587
+      "vote_average": 7.668,
+      "vote_count": 601
     },
     {
       "adult": false,
@@ -40,8 +40,8 @@
       "release_date": "2025-11-11",
       "title": "Running Man",
       "video": false,
-      "vote_average": 6.786,
-      "vote_count": 467
+      "vote_average": 6.814,
+      "vote_count": 506
     },
     {
       "adult": false,
@@ -56,12 +56,12 @@
       "original_title": "Wake Up Dead Man: A Knives Out Mystery",
       "overview": "Le détective Benoit Blanc collabore avec un jeune prêtre pour enquêter sur un crime totalement inexplicable perpétré dans l'église d'une petite ville au sombre passé.",
       "popularity": 368.6188,
-      "poster_path": "/x56yV1MunQDBZp6Rs4Fks3KdeD0.jpg",
+      "poster_path": "/qlUqHz8M1x3a2gZSggXY2t1qhNo.jpg",
       "release_date": "2025-11-26",
       "title": "Wake Up Dead Man : Une histoire à couteaux tirés",
       "video": false,
-      "vote_average": 7.404,
-      "vote_count": 471
+      "vote_average": 7.335,
+      "vote_count": 560
     },
     {
       "adult": false,
@@ -80,67 +80,8 @@
       "release_date": "2025-12-05",
       "title": "Hunting Season",
       "video": false,
-      "vote_average": 7.208,
-      "vote_count": 24
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/min9ZUDZbiguTiQ7yz1Hbqk78HT.jpg",
-      "genre_ids": [
-        878,
-        12,
-        28
-      ],
-      "id": 533533,
-      "original_language": "en",
-      "original_title": "TRON: Ares",
-      "overview": "Julian, directeur de Dillinger System, a créé avec l’IA Arès un supersoldat humanoïde sans sensations, version vivante de son programme de sécurité. Mais ce prototype 3D se désintègre après 30 minutes. Eve Kim, programmeuse et PDG de la firme rivale Encom, découvre dans les archives du fondateur Kevin Flynn un code capable de rendre permanent tout élément généré par l’IA. Sur ordre de Julian, Arès passe dans le monde réel pour s’en emparer. Mais au contact d’Ève, qui œuvre à des projets écologiques et médicaux en mémoire de sa sœur, l’entité apprend la compassion et trahit son patron. Furieux, celui-ci lance à ses trousses Athéna, sa plus redoutable soldate virtuelle.",
-      "popularity": 253.831,
-      "poster_path": "/szi21Cz6bAPQ47QER5iSCkP6JWI.jpg",
-      "release_date": "2025-10-08",
-      "title": "Tron : Ares",
-      "video": false,
-      "vote_average": 6.554,
-      "vote_count": 730
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/bhhgVjnZ69ZoCGYvVT3djnAWSJA.jpg",
-      "genre_ids": [
-        27,
-        53
-      ],
-      "id": 1228246,
-      "original_language": "en",
-      "original_title": "Five Nights at Freddy's 2",
-      "overview": "N'importe qui peut survivre à cinq nuits. Cette fois, il n'y aura pas de seconde chance.",
-      "popularity": 242.7947,
-      "poster_path": "/enRyaRthhsuAqBwzYKqb7VfCJg.jpg",
-      "release_date": "2025-12-03",
-      "title": "Five Nights at Freddy's 2",
-      "video": false,
-      "vote_average": 6.371,
-      "vote_count": 171
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/lZYMXx74pWmbj5Q5jp1QaMvmuuR.jpg",
-      "genre_ids": [
-        28,
-        14,
-        53
-      ],
-      "id": 1180831,
-      "original_language": "no",
-      "original_title": "Troll 2",
-      "overview": "Lorsqu'un nouveau troll sème la dévastation dans le pays, Nora, Andreas et le major Kris se lancent dans la plus périlleuse des missions.",
-      "popularity": 229.6894,
-      "poster_path": "/5s33v65FEzVtt9X6G5EuHP9dbwx.jpg",
-      "release_date": "2025-11-30",
-      "title": "Troll 2",
-      "video": false,
-      "vote_average": 6.724,
-      "vote_count": 255
+      "vote_average": 7.222,
+      "vote_count": 27
     },
     {
       "adult": false,
@@ -161,6 +102,26 @@
       "video": false,
       "vote_average": 6.5,
       "vote_count": 79
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/min9ZUDZbiguTiQ7yz1Hbqk78HT.jpg",
+      "genre_ids": [
+        878,
+        12,
+        28
+      ],
+      "id": 533533,
+      "original_language": "en",
+      "original_title": "TRON: Ares",
+      "overview": "Julian, directeur de Dillinger System, a créé avec l’IA Arès un supersoldat humanoïde sans sensations, version vivante de son programme de sécurité. Mais ce prototype 3D se désintègre après 30 minutes. Eve Kim, programmeuse et PDG de la firme rivale Encom, découvre dans les archives du fondateur Kevin Flynn un code capable de rendre permanent tout élément généré par l’IA. Sur ordre de Julian, Arès passe dans le monde réel pour s’en emparer. Mais au contact d’Ève, qui œuvre à des projets écologiques et médicaux en mémoire de sa sœur, l’entité apprend la compassion et trahit son patron. Furieux, celui-ci lance à ses trousses Athéna, sa plus redoutable soldate virtuelle.",
+      "popularity": 253.831,
+      "poster_path": "/szi21Cz6bAPQ47QER5iSCkP6JWI.jpg",
+      "release_date": "2025-10-08",
+      "title": "Tron : Ares",
+      "video": false,
+      "vote_average": 6.556,
+      "vote_count": 734
     },
     {
       "adult": false,
@@ -185,6 +146,45 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/bhhgVjnZ69ZoCGYvVT3djnAWSJA.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1228246,
+      "original_language": "en",
+      "original_title": "Five Nights at Freddy's 2",
+      "overview": "N'importe qui peut survivre à cinq nuits. Cette fois, il n'y aura pas de seconde chance.",
+      "popularity": 242.7947,
+      "poster_path": "/enRyaRthhsuAqBwzYKqb7VfCJg.jpg",
+      "release_date": "2025-12-03",
+      "title": "Five Nights at Freddy's 2",
+      "video": false,
+      "vote_average": 6.394,
+      "vote_count": 174
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lZYMXx74pWmbj5Q5jp1QaMvmuuR.jpg",
+      "genre_ids": [
+        28,
+        14,
+        53
+      ],
+      "id": 1180831,
+      "original_language": "no",
+      "original_title": "Troll 2",
+      "overview": "Lorsqu'un nouveau troll sème la dévastation dans le pays, Nora, Andreas et le major Kris se lancent dans la plus périlleuse des missions.",
+      "popularity": 229.6894,
+      "poster_path": "/5s33v65FEzVtt9X6G5EuHP9dbwx.jpg",
+      "release_date": "2025-11-30",
+      "title": "Troll 2",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 256
+    },
+    {
+      "adult": false,
       "backdrop_path": "/kfXgo2rMF1A19celCwLyQ4Xwpf8.jpg",
       "genre_ids": [
         16,
@@ -201,8 +201,8 @@
       "release_date": "2025-09-19",
       "title": "Chainsaw Man – Le Film : L'arc de Reze",
       "video": false,
-      "vote_average": 8.273,
-      "vote_count": 388
+      "vote_average": 8.281,
+      "vote_count": 399
     },
     {
       "adult": false,
@@ -221,8 +221,47 @@
       "release_date": "2025-10-01",
       "title": "Kantara A Legend: Chapter 1",
       "video": false,
-      "vote_average": 7,
-      "vote_count": 47
+      "vote_average": 6.979,
+      "vote_count": 48
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ebyxeBh56QNXxSJgTnmz7fXAlwk.jpg",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "id": 1242898,
+      "original_language": "en",
+      "original_title": "Predator: Badlands",
+      "overview": "Dans le futur sur une planète lointaine, un jeune Predator, exclu de son clan, trouve une alliée improbable en la personne de Thia et entreprend un voyage en territoire hostile, à la recherche de l'adversaire ultime.",
+      "popularity": 163.7653,
+      "poster_path": "/empQGO0pCVTndCpihyVpNfaLebl.jpg",
+      "release_date": "2025-11-05",
+      "title": "Predator: Badlands",
+      "video": false,
+      "vote_average": 7.338,
+      "vote_count": 637
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+      "genre_ids": [
+        878,
+        53
+      ],
+      "id": 755898,
+      "original_language": "en",
+      "original_title": "War of the Worlds",
+      "overview": "Une invasion gargantuesque approche dans cette nouvelle interprétation du légendaire roman homonyme devenu un classique de la science-fiction. La célèbre Eva Longoria partage l'affiche avec le rappeur/acteur Ice Cube, Michael O'Neill et Iman Benson, dans une aventure extraordinaire abordant des thématiques actuelles telles que la technologie, la surveillance et la protection de la vie privée.",
+      "popularity": 157.8447,
+      "poster_path": "/jnVnLfyA9MrBEsYx9vyq0e4dbLj.jpg",
+      "release_date": "2025-07-29",
+      "title": "La Guerre des mondes",
+      "video": false,
+      "vote_average": 4.271,
+      "vote_count": 778
     },
     {
       "adult": false,
@@ -247,45 +286,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/ebyxeBh56QNXxSJgTnmz7fXAlwk.jpg",
-      "genre_ids": [
-        28,
-        878,
-        12
-      ],
-      "id": 1242898,
-      "original_language": "en",
-      "original_title": "Predator: Badlands",
-      "overview": "Dans le futur sur une planète lointaine, un jeune Predator, exclu de son clan, trouve une alliée improbable en la personne de Thia et entreprend un voyage en territoire hostile, à la recherche de l'adversaire ultime.",
-      "popularity": 163.7653,
-      "poster_path": "/empQGO0pCVTndCpihyVpNfaLebl.jpg",
-      "release_date": "2025-11-05",
-      "title": "Predator: Badlands",
-      "video": false,
-      "vote_average": 7.344,
-      "vote_count": 635
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
-      "genre_ids": [
-        878,
-        53
-      ],
-      "id": 755898,
-      "original_language": "en",
-      "original_title": "War of the Worlds",
-      "overview": "Une invasion gargantuesque approche dans cette nouvelle interprétation du légendaire roman homonyme devenu un classique de la science-fiction. La célèbre Eva Longoria partage l'affiche avec le rappeur/acteur Ice Cube, Michael O'Neill et Iman Benson, dans une aventure extraordinaire abordant des thématiques actuelles telles que la technologie, la surveillance et la protection de la vie privée.",
-      "popularity": 157.8447,
-      "poster_path": "/jnVnLfyA9MrBEsYx9vyq0e4dbLj.jpg",
-      "release_date": "2025-07-29",
-      "title": "La Guerre des mondes",
-      "video": false,
-      "vote_average": 4.275,
-      "vote_count": 777
-    },
-    {
-      "adult": false,
       "backdrop_path": "/4BtL2vvEufDXDP4u6xQjjQ1Y2aT.jpg",
       "genre_ids": [
         28,
@@ -301,8 +301,8 @@
       "release_date": "2025-08-16",
       "title": "The Shadow's Edge",
       "video": false,
-      "vote_average": 6.5,
-      "vote_count": 154
+      "vote_average": 6.526,
+      "vote_count": 155
     },
     {
       "adult": false,
@@ -321,8 +321,8 @@
       "release_date": "2024-10-01",
       "title": "749 Bureau",
       "video": false,
-      "vote_average": 6.2,
-      "vote_count": 56
+      "vote_average": 6.214,
+      "vote_count": 57
     },
     {
       "adult": false,
@@ -341,69 +341,70 @@
       "release_date": "2025-11-19",
       "title": "Wildcat",
       "video": false,
-      "vote_average": 6.076,
+      "vote_average": 6.1,
       "vote_count": 46
     },
     {
       "adult": false,
-      "backdrop_path": "/1uCX0fpYOdvrTIYulFymWOP08HT.jpg",
+      "backdrop_path": "/8btfz81bOJ2lC7cujYBTw03wzg3.jpg",
       "genre_ids": [
-        37,
-        28,
-        18
+        16,
+        14,
+        12,
+        28
       ],
-      "id": 785663,
-      "original_language": "en",
-      "original_title": "Old Henry",
-      "overview": "Un fermier veuf et son fils accueillent avec méfiance un homme mystérieux et blessé, détenteur d'une sacoche remplie d'argent.",
-      "popularity": 110.699,
-      "poster_path": "/eE1SL0QoDsvAMqQly56IkRtlN1W.jpg",
-      "release_date": "2021-10-01",
-      "title": "Old Henry",
+      "id": 980477,
+      "original_language": "zh",
+      "original_title": "哪吒之魔童闹海",
+      "overview": "Après la catastrophe, bien que les âmes de Ne Zha et d'Ao Bing aient été sauvées, leurs corps sont menacés de destruction. Pour leur redonner vie, Taiyi Zhenren se tourne vers le lotus mystique aux sept couleurs dans une tentative audacieuse de les reconstruire et de changer leur destin.",
+      "popularity": 127.1462,
+      "poster_path": "/avdkkjd7As6z9HDcaHCVHvGuxVy.jpg",
+      "release_date": "2025-01-29",
+      "title": "Ne Zha 2",
       "video": false,
-      "vote_average": 7.285,
-      "vote_count": 642
+      "vote_average": 8.08,
+      "vote_count": 495
     },
     {
       "adult": false,
-      "backdrop_path": "/xZa334CMleJwMVMJDH23xpHio5p.jpg",
+      "backdrop_path": "/mPtPJzBkwksUoMEKpkZqxBrlKpZ.jpg",
       "genre_ids": [
         27,
-        14,
-        10749
+        53
       ],
-      "id": 1246049,
-      "original_language": "fr",
-      "original_title": "Dracula",
-      "overview": "Au XVe siècle, le Prince Vladimir renie Dieu après la perte brutale et cruelle de son épouse. Il hérite alors d’une malédiction : la vie éternelle. Il devient Dracula. Condamné à errer à travers les siècles, il n’aura plus qu’un seul espoir : celui de retrouver son amour perdu.",
-      "popularity": 120.6109,
-      "poster_path": "/vevuZVvb72VrbDzHiz4D8Z8XuGF.jpg",
-      "release_date": "2025-07-30",
-      "title": "Dracula",
+      "id": 1422096,
+      "original_language": "en",
+      "original_title": "Good Boy",
+      "overview": "Un chien fidèle déménage avec son maître dans une maison de campagne, où il découvre l'existence de forces surnaturelles qui rôdent dans l'ombre. Alors que des entités maléfiques menacent son maître, le courageux chien se bat pour protéger celui qu'il aime le plus.",
+      "popularity": 126.1474,
+      "poster_path": "/kXz2i96ED9FaauvUvupLrXdB1mo.jpg",
+      "release_date": "2025-10-01",
+      "title": "Good Boy",
       "video": false,
-      "vote_average": 7.086,
-      "vote_count": 607
+      "vote_average": 6.795,
+      "vote_count": 352
     },
     {
       "adult": false,
-      "backdrop_path": "/rtv6da2U8poERiAZSAbCOePXzql.jpg",
+      "backdrop_path": "/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
       "genre_ids": [
-        10749,
-        18
+        878,
+        12,
+        14
       ],
-      "id": 1379963,
-      "original_language": "es",
-      "original_title": "Dímelo bajito",
-      "overview": "Tout est sous contrôle dans la vie de Kamila : études, vie sociale, son image... Mais le retour inattendu de ses voisins, les frères Di Bianco, après 7 ans d'absence, change tout. Thiago lui avait volé son premier baiser, Taylor était son meilleur ami, mais leur retour va chambouler l'univers de Kami. Arriveront-ils à surmonter le passé qui les lie ? Ou les choses vont-elles encore s'envenimer ?",
-      "popularity": 120.1437,
-      "poster_path": "/6NugNYN0Q2VUwYh3JwtVYPQFfHX.jpg",
-      "release_date": "2025-12-11",
-      "title": "Dis-le-moi tout bas",
+      "id": 83533,
+      "original_language": "en",
+      "original_title": "Avatar: Fire and Ash",
+      "overview": "Le troisième volet de la saga Avatar.  Après avoir exploré la forêt luxuriante dans Avatar 1 et les océans dans Avatar 2 : La Voie de l’Eau, Avatar 3 : Feu et Cendres s’aventurera dans des paysages volcaniques à couper le souffle. Le film introduira une nouvelle tribu Na’vi, surnommée le peuple des cendres, vivant à proximité d’un volcan actif. Ces Na’vi, bien plus belliqueux que les clans vus jusqu’à présent, représenteront un défi de taille pour Jake Sully et sa famille.  Selon James Cameron, cette tribu apportera une nouvelle dynamique à l’univers de Pandora, en incarnant une force conflictuelle influencée par un environnement extrême.",
+      "popularity": 121.0001,
+      "poster_path": "/5BnOt0PRymp5mXuoKv1unQ9x8I8.jpg",
+      "release_date": "2025-12-17",
+      "title": "Avatar : De feu et de cendres",
       "video": false,
-      "vote_average": 6.38,
-      "vote_count": 25
+      "vote_average": 0,
+      "vote_count": 0
     }
   ],
-  "total_pages": 54159,
-  "total_results": 1083161
+  "total_pages": 54168,
+  "total_results": 1083350
 }
