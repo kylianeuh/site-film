@@ -18,8 +18,27 @@
       "release_date": "2025-11-12",
       "title": "Insaisissables 3",
       "video": false,
-      "vote_average": 6.376,
-      "vote_count": 468
+      "vote_average": 6.393,
+      "vote_count": 496
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yCatt8lmp3oRFEcOZF8KHhsiASQ.jpg",
+      "genre_ids": [
+        28,
+        10752
+      ],
+      "id": 1223601,
+      "original_language": "fi",
+      "original_title": "Sisu 2",
+      "overview": "1946. Aatami Korpi retourne là où sa famille a été massacrée pendant la guerre. Il y démonte la maison familiale et la charge sur un camion, déterminé à la reconstruire en lieu sûr. Lorsque les Soviétiques apprennent son retour, l'assassin de sa famille met tout en œuvre pour en finir et tuer l'ancien soldat légendaire. Mais Aatami n’est pas surnommé « l'homme qui refuse de mourir » pour rien…",
+      "popularity": 399.919,
+      "poster_path": "/5zShXWMi5f4Cb883DnQbrpPZYIN.jpg",
+      "release_date": "2025-10-21",
+      "title": "Sisu : Le Chemin de la vengeance",
+      "video": false,
+      "vote_average": 7.814,
+      "vote_count": 165
     },
     {
       "adult": false,
@@ -38,27 +57,8 @@
       "release_date": "2025-11-11",
       "title": "Running Man",
       "video": false,
-      "vote_average": 6.9,
-      "vote_count": 612
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/yCatt8lmp3oRFEcOZF8KHhsiASQ.jpg",
-      "genre_ids": [
-        28,
-        10752
-      ],
-      "id": 1223601,
-      "original_language": "fi",
-      "original_title": "Sisu 2",
-      "overview": "1946. Aatami Korpi retourne là où sa famille a été massacrée pendant la guerre. Il y démonte la maison familiale et la charge sur un camion, déterminé à la reconstruire en lieu sûr. Lorsque les Soviétiques apprennent son retour, l'assassin de sa famille met tout en œuvre pour en finir et tuer l'ancien soldat légendaire. Mais Aatami n’est pas surnommé « l'homme qui refuse de mourir » pour rien…",
-      "popularity": 399.919,
-      "poster_path": "/5zShXWMi5f4Cb883DnQbrpPZYIN.jpg",
-      "release_date": "2025-10-21",
-      "title": "Sisu : Le Chemin de la vengeance",
-      "video": false,
-      "vote_average": 7.796,
-      "vote_count": 140
+      "vote_average": 6.887,
+      "vote_count": 631
     },
     {
       "adult": false,
@@ -79,8 +79,8 @@
       "release_date": "2025-11-26",
       "title": "Zootopie 2",
       "video": false,
-      "vote_average": 7.646,
-      "vote_count": 649
+      "vote_average": 7.6,
+      "vote_count": 654
     },
     {
       "adult": false,
@@ -99,8 +99,28 @@
       "release_date": "2025-11-26",
       "title": "Wake Up Dead Man : Une histoire à couteaux tirés",
       "video": false,
-      "vote_average": 7.3,
-      "vote_count": 726
+      "vote_average": 7.318,
+      "vote_count": 763
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
+      "genre_ids": [
+        878,
+        12,
+        14
+      ],
+      "id": 83533,
+      "original_language": "en",
+      "original_title": "Avatar: Fire and Ash",
+      "overview": "Après la mort de Neteyam, Jake et Neytiri affrontent leur chagrin tout en faisant face au Peuple des Cendres, une tribu Na’vi redoutable menée par le fougueux Varang, alors que le conflit sur Pandora s’intensifie et qu’une nouvelle quête morale s’amorce.",
+      "popularity": 287.0338,
+      "poster_path": "/5BnOt0PRymp5mXuoKv1unQ9x8I8.jpg",
+      "release_date": "2025-12-17",
+      "title": "Avatar : De feu et de cendres",
+      "video": false,
+      "vote_average": 7.219,
+      "vote_count": 187
     },
     {
       "adult": false,
@@ -118,8 +138,8 @@
       "release_date": "2025-10-30",
       "title": "Worldbreaker",
       "video": false,
-      "vote_average": 6.3,
-      "vote_count": 16
+      "vote_average": 6.4,
+      "vote_count": 19
     },
     {
       "adult": false,
@@ -139,8 +159,8 @@
       "release_date": "2025-09-18",
       "title": "London Calling",
       "video": false,
-      "vote_average": 7.2,
-      "vote_count": 53
+      "vote_average": 7.036,
+      "vote_count": 55
     },
     {
       "adult": false,
@@ -159,32 +179,12 @@
       "release_date": "2025-12-05",
       "title": "Hunting Season",
       "video": false,
-      "vote_average": 7.014,
-      "vote_count": 35
+      "vote_average": 7.013,
+      "vote_count": 39
     },
     {
       "adult": false,
-      "backdrop_path": "/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
-      "genre_ids": [
-        878,
-        12,
-        14
-      ],
-      "id": 83533,
-      "original_language": "en",
-      "original_title": "Avatar: Fire and Ash",
-      "overview": "Après la mort de Neteyam, Jake et Neytiri affrontent leur chagrin tout en faisant face au Peuple des Cendres, une tribu Na’vi redoutable menée par le fougueux Varang, alors que le conflit sur Pandora s’intensifie et qu’une nouvelle quête morale s’amorce.",
-      "popularity": 287.0338,
-      "poster_path": "/5BnOt0PRymp5mXuoKv1unQ9x8I8.jpg",
-      "release_date": "2025-12-17",
-      "title": "Avatar : De feu et de cendres",
-      "video": false,
-      "vote_average": 7.3,
-      "vote_count": 119
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/bhhgVjnZ69ZoCGYvVT3djnAWSJA.jpg",
+      "backdrop_path": "/54BOXpX2ieTXMDzHymdDMnUIzYG.jpg",
       "genre_ids": [
         27,
         53
@@ -198,8 +198,8 @@
       "release_date": "2025-12-03",
       "title": "Five Nights at Freddy's 2",
       "video": false,
-      "vote_average": 6.348,
-      "vote_count": 194
+      "vote_average": 6.343,
+      "vote_count": 197
     },
     {
       "adult": false,
@@ -218,8 +218,8 @@
       "release_date": "2025-10-08",
       "title": "Tron : Ares",
       "video": false,
-      "vote_average": 6.573,
-      "vote_count": 764
+      "vote_average": 6.566,
+      "vote_count": 769
     },
     {
       "adult": false,
@@ -238,8 +238,47 @@
       "release_date": "2025-03-14",
       "title": "‎Cash Out 2: High Rollers",
       "video": false,
-      "vote_average": 6.567,
-      "vote_count": 82
+      "vote_average": 6.608,
+      "vote_count": 83
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lZYMXx74pWmbj5Q5jp1QaMvmuuR.jpg",
+      "genre_ids": [
+        28,
+        14,
+        53
+      ],
+      "id": 1180831,
+      "original_language": "no",
+      "original_title": "Troll 2",
+      "overview": "Lorsqu'un nouveau troll sème la dévastation dans le pays, Nora, Andreas et le major Kris se lancent dans la plus périlleuse des missions.",
+      "popularity": 143.1386,
+      "poster_path": "/5s33v65FEzVtt9X6G5EuHP9dbwx.jpg",
+      "release_date": "2025-11-30",
+      "title": "Troll 2",
+      "video": false,
+      "vote_average": 6.642,
+      "vote_count": 285
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+      "genre_ids": [
+        878,
+        53
+      ],
+      "id": 755898,
+      "original_language": "en",
+      "original_title": "War of the Worlds",
+      "overview": "Une invasion gargantuesque approche dans cette nouvelle interprétation du légendaire roman homonyme devenu un classique de la science-fiction. La célèbre Eva Longoria partage l'affiche avec le rappeur/acteur Ice Cube, Michael O'Neill et Iman Benson, dans une aventure extraordinaire abordant des thématiques actuelles telles que la technologie, la surveillance et la protection de la vie privée.",
+      "popularity": 139.7636,
+      "poster_path": "/jnVnLfyA9MrBEsYx9vyq0e4dbLj.jpg",
+      "release_date": "2025-07-29",
+      "title": "La Guerre des mondes",
+      "video": false,
+      "vote_average": 4.274,
+      "vote_count": 783
     },
     {
       "adult": false,
@@ -259,47 +298,8 @@
       "release_date": "2025-09-19",
       "title": "Chainsaw Man – Le Film : L'arc de Reze",
       "video": false,
-      "vote_average": 8.303,
-      "vote_count": 441
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/lZYMXx74pWmbj5Q5jp1QaMvmuuR.jpg",
-      "genre_ids": [
-        28,
-        14,
-        53
-      ],
-      "id": 1180831,
-      "original_language": "no",
-      "original_title": "Troll 2",
-      "overview": "Lorsqu'un nouveau troll sème la dévastation dans le pays, Nora, Andreas et le major Kris se lancent dans la plus périlleuse des missions.",
-      "popularity": 143.1386,
-      "poster_path": "/5s33v65FEzVtt9X6G5EuHP9dbwx.jpg",
-      "release_date": "2025-11-30",
-      "title": "Troll 2",
-      "video": false,
-      "vote_average": 6.702,
-      "vote_count": 276
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
-      "genre_ids": [
-        878,
-        53
-      ],
-      "id": 755898,
-      "original_language": "en",
-      "original_title": "War of the Worlds",
-      "overview": "Une invasion gargantuesque approche dans cette nouvelle interprétation du légendaire roman homonyme devenu un classique de la science-fiction. La célèbre Eva Longoria partage l'affiche avec le rappeur/acteur Ice Cube, Michael O'Neill et Iman Benson, dans une aventure extraordinaire abordant des thématiques actuelles telles que la technologie, la surveillance et la protection de la vie privée.",
-      "popularity": 139.7636,
-      "poster_path": "/jnVnLfyA9MrBEsYx9vyq0e4dbLj.jpg",
-      "release_date": "2025-07-29",
-      "title": "La Guerre des mondes",
-      "video": false,
-      "vote_average": 4.3,
-      "vote_count": 782
+      "vote_average": 8.3,
+      "vote_count": 445
     },
     {
       "adult": false,
@@ -318,28 +318,8 @@
       "release_date": "2025-11-05",
       "title": "Predator: Badlands",
       "video": false,
-      "vote_average": 7.338,
-      "vote_count": 648
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/w57nxiBIODAYHLRs1xmrCY9zEFe.jpg",
-      "genre_ids": [
-        28,
-        18,
-        14
-      ],
-      "id": 1083637,
-      "original_language": "kn",
-      "original_title": "ಕಾಂತಾರ: ಅಧ್ಯಾಯ - ೧",
-      "overview": "À l’époque de la puissante dynastie Kadamba, se révèle l’origine de Kaadubettu Shiva. Le récit nous entraîne dans une nature indomptée, entre mythes enfouis et légendes oubliées, pour dévoiler les mystères de son passé.",
-      "popularity": 126.3175,
-      "poster_path": "/ehQPboTPaIMkMUOoNOh8e7pZ5Rp.jpg",
-      "release_date": "2025-10-01",
-      "title": "Kantara A Legend: Chapter 1",
-      "video": false,
-      "vote_average": 7.058,
-      "vote_count": 52
+      "vote_average": 7.324,
+      "vote_count": 651
     },
     {
       "adult": false,
@@ -363,6 +343,26 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/w57nxiBIODAYHLRs1xmrCY9zEFe.jpg",
+      "genre_ids": [
+        28,
+        18,
+        14
+      ],
+      "id": 1083637,
+      "original_language": "kn",
+      "original_title": "ಕಾಂತಾರ: ಅಧ್ಯಾಯ - ೧",
+      "overview": "À l’époque de la puissante dynastie Kadamba, se révèle l’origine de Kaadubettu Shiva. Le récit nous entraîne dans une nature indomptée, entre mythes enfouis et légendes oubliées, pour dévoiler les mystères de son passé.",
+      "popularity": 126.3175,
+      "poster_path": "/ehQPboTPaIMkMUOoNOh8e7pZ5Rp.jpg",
+      "release_date": "2025-10-01",
+      "title": "Kantara A Legend: Chapter 1",
+      "video": false,
+      "vote_average": 7.038,
+      "vote_count": 53
+    },
+    {
+      "adult": false,
       "backdrop_path": "/rtv6da2U8poERiAZSAbCOePXzql.jpg",
       "genre_ids": [
         10749,
@@ -377,31 +377,29 @@
       "release_date": "2025-12-11",
       "title": "Dis-le-moi tout bas",
       "video": false,
-      "vote_average": 5.967,
-      "vote_count": 46
+      "vote_average": 6.011,
+      "vote_count": 47
     },
     {
       "adult": false,
-      "backdrop_path": "/8btfz81bOJ2lC7cujYBTw03wzg3.jpg",
+      "backdrop_path": "/k3xS5HuixDQXRFg4eX9vLohuGjP.jpg",
       "genre_ids": [
-        16,
-        14,
-        12,
-        28
+        27,
+        53
       ],
-      "id": 980477,
-      "original_language": "zh",
-      "original_title": "哪吒之魔童闹海",
-      "overview": "Après la catastrophe, bien que les âmes de Ne Zha et d'Ao Bing aient été sauvées, leurs corps sont menacés de destruction. Pour leur redonner vie, Taiyi Zhenren se tourne vers le lotus mystique aux sept couleurs dans une tentative audacieuse de les reconstruire et de changer leur destin.",
-      "popularity": 108.9323,
-      "poster_path": "/avdkkjd7As6z9HDcaHCVHvGuxVy.jpg",
-      "release_date": "2025-01-29",
-      "title": "Ne Zha 2",
+      "id": 1162858,
+      "original_language": "en",
+      "original_title": "The Other",
+      "overview": "",
+      "popularity": 114.7999,
+      "poster_path": "/kE6FV8Lc9Aqir6OlgaNgnbFcy9E.jpg",
+      "release_date": "2025-04-26",
+      "title": "The Other",
       "video": false,
-      "vote_average": 8.075,
-      "vote_count": 501
+      "vote_average": 5.7,
+      "vote_count": 34
     }
   ],
-  "total_pages": 54224,
-  "total_results": 1084474
+  "total_pages": 54240,
+  "total_results": 1084800
 }
