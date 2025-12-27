@@ -18,8 +18,8 @@
       "release_date": "2025-12-17",
       "title": "Avatar : De feu et de cendres",
       "video": false,
-      "vote_average": 7.361,
-      "vote_count": 624
+      "vote_average": 7.356,
+      "vote_count": 662
     },
     {
       "adult": false,
@@ -38,28 +38,27 @@
       "release_date": "2025-09-18",
       "title": "Submersion",
       "video": false,
-      "vote_average": 6.09,
-      "vote_count": 234
+      "vote_average": 6.153,
+      "vote_count": 258
     },
     {
       "adult": false,
-      "backdrop_path": "/dHSz0tSFuO2CsXJ1CApSauP9Ncl.jpg",
+      "backdrop_path": "/54BOXpX2ieTXMDzHymdDMnUIzYG.jpg",
       "genre_ids": [
-        53,
-        80,
-        9648
+        27,
+        53
       ],
-      "id": 425274,
+      "id": 1228246,
       "original_language": "en",
-      "original_title": "Now You See Me: Now You Don't",
-      "overview": "Les Cavaliers sont de retour pour le braquage le plus impressionnant jamais imaginé ! Accompagnés d'un groupe de jeunes magiciens qui espèrent suivre leur trace, ils vont devoir repousser les limites de l'illusion pour orchestrer leur tour le plus spectaculaire : dérober le joyau le plus précieux du monde des mains d'une redoutable organisation criminelle…",
-      "popularity": 325.1351,
-      "poster_path": "/oflTA5ZezgU60G30auSIsmrKF6H.jpg",
-      "release_date": "2025-11-12",
-      "title": "Insaisissables 3",
+      "original_title": "Five Nights at Freddy's 2",
+      "overview": "Un an s’est écoulé depuis le cauchemar surnaturel survenu chez Freddy Fazbear's Pizza. Un effroyable nouveau chapitre d'horreur s'ouvre lorsqu’Abby, la sœur de Mike, ancien agent de sécurité, s'échappe à la recherche de ses amis animatroniques : Freddy, Bonnie, Chica et Foxy. Alors que de terrifiants événements se déclenchent, de sombres secrets sur les véritables origines de Freddy sont révélés, libérant une horreur oubliée depuis des décennies.",
+      "popularity": 358.7269,
+      "poster_path": "/zaKVvYUJRqgz48FadyxWqGi4m3Z.jpg",
+      "release_date": "2025-12-03",
+      "title": "Five Nights at Freddy's 2",
       "video": false,
-      "vote_average": 6.51,
-      "vote_count": 627
+      "vote_average": 6.8,
+      "vote_count": 328
     },
     {
       "adult": false,
@@ -80,27 +79,28 @@
       "release_date": "2025-11-26",
       "title": "Zootopie 2",
       "video": false,
-      "vote_average": 7.645,
-      "vote_count": 727
+      "vote_average": 7.634,
+      "vote_count": 740
     },
     {
       "adult": false,
-      "backdrop_path": "/54BOXpX2ieTXMDzHymdDMnUIzYG.jpg",
+      "backdrop_path": "/dHSz0tSFuO2CsXJ1CApSauP9Ncl.jpg",
       "genre_ids": [
-        27,
-        53
+        53,
+        80,
+        9648
       ],
-      "id": 1228246,
+      "id": 425274,
       "original_language": "en",
-      "original_title": "Five Nights at Freddy's 2",
-      "overview": "Un an s’est écoulé depuis le cauchemar surnaturel survenu chez Freddy Fazbear's Pizza. Un effroyable nouveau chapitre d'horreur s'ouvre lorsqu’Abby, la sœur de Mike, ancien agent de sécurité, s'échappe à la recherche de ses amis animatroniques : Freddy, Bonnie, Chica et Foxy. Alors que de terrifiants événements se déclenchent, de sombres secrets sur les véritables origines de Freddy sont révélés, libérant une horreur oubliée depuis des décennies.n'y aura pas de seconde chance.",
-      "popularity": 358.7269,
-      "poster_path": "/zaKVvYUJRqgz48FadyxWqGi4m3Z.jpg",
-      "release_date": "2025-12-03",
-      "title": "Five Nights at Freddy's 2",
+      "original_title": "Now You See Me: Now You Don't",
+      "overview": "Les Cavaliers sont de retour pour le braquage le plus impressionnant jamais imaginé ! Accompagnés d'un groupe de jeunes magiciens qui espèrent suivre leur trace, ils vont devoir repousser les limites de l'illusion pour orchestrer leur tour le plus spectaculaire : dérober le joyau le plus précieux du monde des mains d'une redoutable organisation criminelle…",
+      "popularity": 325.1351,
+      "poster_path": "/oflTA5ZezgU60G30auSIsmrKF6H.jpg",
+      "release_date": "2025-11-12",
+      "title": "Insaisissables 3",
       "video": false,
-      "vote_average": 6.648,
-      "vote_count": 288
+      "vote_average": 6.511,
+      "vote_count": 635
     },
     {
       "adult": false,
@@ -118,47 +118,8 @@
       "release_date": "2025-10-21",
       "title": "Sisu : Le Chemin de la vengeance",
       "video": false,
-      "vote_average": 7.514,
-      "vote_count": 279
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/AePlQ3osZShJmbNj8tzQ3NoMTQF.jpg",
-      "genre_ids": [
-        28,
-        53,
-        9648
-      ],
-      "id": 1013446,
-      "original_language": "fr",
-      "original_title": "Reflet dans un diamant mort",
-      "overview": "Suite à la disparition soudaine de sa voisine de chambre, un ancien agent secret, reclus dans un palace de la Côte d’Azur, s’imagine que ses ennemis jurés refont surface. Surtout la redoutable Serpentik, qu’il n’a jamais réussi à démasquer. Oscillant entre présent et passé, il remonte le film de sa vie, au risque de découvrir qu’il n’y tenait pas forcément le meilleur rôle. Et que les diamants sont loin d’être éternels…",
-      "popularity": 223.1252,
-      "poster_path": "/scOBEcIfVlG890tKV5XI42t0EhU.jpg",
-      "release_date": "2025-06-25",
-      "title": "Reflet dans un diamant mort",
-      "video": false,
-      "vote_average": 5.927,
-      "vote_count": 48
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/hvut2slhhgJ31UNa9Df7jFfAS0x.jpg",
-      "genre_ids": [
-        28,
-        53
-      ],
-      "id": 1336189,
-      "original_language": "en",
-      "original_title": "Delivery Run",
-      "overview": "Lee, un livreur de repas accro au jeu et lourdement endetté, effectue une livraison dans la campagne enneigée du Minnesota lorsqu'il est pris en chasse par un chasse-neige. Sans que Lee n'en connaisse la raison, le conducteur de l'engin semble vouloir l'éliminer. Débute alors une course poursuite périlleuse…",
-      "popularity": 207.9071,
-      "poster_path": "/eCA5maHDlZtXNTtiLXenwnEw7tc.jpg",
-      "release_date": "2025-09-10",
-      "title": "Delivery Run",
-      "video": false,
-      "vote_average": 5.475,
-      "vote_count": 20
+      "vote_average": 7.466,
+      "vote_count": 296
     },
     {
       "adult": false,
@@ -182,6 +143,85 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/fepnF3W4VP3s8ui8nDtrlsFVYwO.jpg",
+      "genre_ids": [
+        28,
+        9648,
+        18
+      ],
+      "id": 1247002,
+      "original_language": "ko",
+      "original_title": "파과",
+      "overview": "Une tueuse vieillissante rencontre un jeune protégé désireux d'apprendre le métier.",
+      "popularity": 230.5155,
+      "poster_path": "/du65x58CJrMMThuiT85kBFMYi0Z.jpg",
+      "release_date": "2025-04-30",
+      "title": "The Old Woman with the Knife",
+      "video": false,
+      "vote_average": 6.588,
+      "vote_count": 41
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AePlQ3osZShJmbNj8tzQ3NoMTQF.jpg",
+      "genre_ids": [
+        28,
+        53,
+        9648
+      ],
+      "id": 1013446,
+      "original_language": "fr",
+      "original_title": "Reflet dans un diamant mort",
+      "overview": "Suite à la disparition soudaine de sa voisine de chambre, un ancien agent secret, reclus dans un palace de la Côte d’Azur, s’imagine que ses ennemis jurés refont surface. Surtout la redoutable Serpentik, qu’il n’a jamais réussi à démasquer. Oscillant entre présent et passé, il remonte le film de sa vie, au risque de découvrir qu’il n’y tenait pas forcément le meilleur rôle. Et que les diamants sont loin d’être éternels…",
+      "popularity": 223.1252,
+      "poster_path": "/scOBEcIfVlG890tKV5XI42t0EhU.jpg",
+      "release_date": "2025-06-25",
+      "title": "Reflet dans un diamant mort",
+      "video": false,
+      "vote_average": 5.949,
+      "vote_count": 49
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ncI1PlBcANixIkgQSnjsSRz4OyT.jpg",
+      "genre_ids": [
+        28,
+        53,
+        9648
+      ],
+      "id": 1439112,
+      "original_language": "en",
+      "original_title": "Muzzle: City of Wolves",
+      "overview": "L'officier du LAPD Jake Rosser s'efforce de mener une vie paisible avec sa famille et l'officier retraité du K-9, Socks. Cependant, la tranquillité se transforme en chaos lorsqu'un gang les cible lors d'une attaque brutale. Aux côtés de son nouveau partenaire Argos, Jake se lance dans une quête incessante de justice, déterminé à protéger ses proches.",
+      "popularity": 220.8391,
+      "poster_path": "/8qTMRmC07XCGidnKQFLbRM3FoDU.jpg",
+      "release_date": "2025-11-13",
+      "title": "Muzzle: City of Wolves",
+      "video": false,
+      "vote_average": 6.935,
+      "vote_count": 46
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hvut2slhhgJ31UNa9Df7jFfAS0x.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1336189,
+      "original_language": "en",
+      "original_title": "Delivery Run",
+      "overview": "Lee, un livreur de repas accro au jeu et lourdement endetté, effectue une livraison dans la campagne enneigée du Minnesota lorsqu'il est pris en chasse par un chasse-neige. Sans que Lee n'en connaisse la raison, le conducteur de l'engin semble vouloir l'éliminer. Débute alors une course poursuite périlleuse…",
+      "popularity": 207.9071,
+      "poster_path": "/eCA5maHDlZtXNTtiLXenwnEw7tc.jpg",
+      "release_date": "2025-09-10",
+      "title": "Delivery Run",
+      "video": false,
+      "vote_average": 5.5,
+      "vote_count": 20
+    },
+    {
+      "adult": false,
       "backdrop_path": "/hyc9gq0Oq5THKak7tB7oqC2Rd6z.jpg",
       "genre_ids": [
         37,
@@ -197,8 +237,27 @@
       "release_date": "2025-06-13",
       "title": "La Dernière Chevauchée",
       "video": false,
-      "vote_average": 6.2,
-      "vote_count": 104
+      "vote_average": 6.229,
+      "vote_count": 105
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+      "genre_ids": [
+        878,
+        53
+      ],
+      "id": 755898,
+      "original_language": "en",
+      "original_title": "War of the Worlds",
+      "overview": "Une invasion gargantuesque approche dans cette nouvelle interprétation du légendaire roman homonyme devenu un classique de la science-fiction. La célèbre Eva Longoria partage l'affiche avec le rappeur/acteur Ice Cube, Michael O'Neill et Iman Benson, dans une aventure extraordinaire abordant des thématiques actuelles telles que la technologie, la surveillance et la protection de la vie privée.",
+      "popularity": 193.4612,
+      "poster_path": "/jnVnLfyA9MrBEsYx9vyq0e4dbLj.jpg",
+      "release_date": "2025-07-29",
+      "title": "La Guerre des mondes",
+      "video": false,
+      "vote_average": 4.249,
+      "vote_count": 796
     },
     {
       "adult": false,
@@ -221,61 +280,22 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/ncI1PlBcANixIkgQSnjsSRz4OyT.jpg",
-      "genre_ids": [
-        28,
-        53,
-        9648
-      ],
-      "id": 1439112,
-      "original_language": "en",
-      "original_title": "Muzzle: City of Wolves",
-      "overview": "L'officier du LAPD Jake Rosser s'efforce de mener une vie paisible avec sa famille et l'officier retraité du K-9, Socks. Cependant, la tranquillité se transforme en chaos lorsqu'un gang les cible lors d'une attaque brutale. Aux côtés de son nouveau partenaire Argos, Jake se lance dans une quête incessante de justice, déterminé à protéger ses proches.",
-      "popularity": 220.8391,
-      "poster_path": "/8qTMRmC07XCGidnKQFLbRM3FoDU.jpg",
-      "release_date": "2025-11-13",
-      "title": "Muzzle: City of Wolves",
-      "video": false,
-      "vote_average": 6.8,
-      "vote_count": 40
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
-      "genre_ids": [
-        878,
-        53
-      ],
-      "id": 755898,
-      "original_language": "en",
-      "original_title": "War of the Worlds",
-      "overview": "Une invasion gargantuesque approche dans cette nouvelle interprétation du légendaire roman homonyme devenu un classique de la science-fiction. La célèbre Eva Longoria partage l'affiche avec le rappeur/acteur Ice Cube, Michael O'Neill et Iman Benson, dans une aventure extraordinaire abordant des thématiques actuelles telles que la technologie, la surveillance et la protection de la vie privée.",
-      "popularity": 193.4612,
-      "poster_path": "/jnVnLfyA9MrBEsYx9vyq0e4dbLj.jpg",
-      "release_date": "2025-07-29",
-      "title": "La Guerre des mondes",
-      "video": false,
-      "vote_average": 4.25,
-      "vote_count": 793
-    },
-    {
-      "adult": false,
       "backdrop_path": "/x3s2lEGNguUnQ5YH3Goq7Ud7Lcn.jpg",
       "genre_ids": [
         28,
         53
       ],
       "id": 1491902,
-      "original_language": "en",
-      "original_title": "Bang: storm of bullets",
+      "original_language": "th",
+      "original_title": "ปัง",
       "overview": "Un tueur à gages impitoyable qui, après avoir échappé de peu une tentative fatale sur sa vie, trahit son gang dans le but de trouver le pardon mais finit par devenir lui-même une cible.",
       "popularity": 156.5649,
-      "poster_path": "/8SUzKOqe2ectvhYdSnR7Vq2F3n1.jpg",
+      "poster_path": "/iRSQqEhxGJ2SbDjaJeWnZqmiywB.jpg",
       "release_date": "2025-07-11",
-      "title": "Bang: storm of bullets",
+      "title": "ปัง",
       "video": false,
-      "vote_average": 6.306,
-      "vote_count": 18
+      "vote_average": 6.375,
+      "vote_count": 20
     },
     {
       "adult": false,
@@ -294,8 +314,27 @@
       "release_date": "2025-11-26",
       "title": "Wake Up Dead Man : Une histoire à couteaux tirés",
       "video": false,
-      "vote_average": 7.2,
-      "vote_count": 1104
+      "vote_average": 7.201,
+      "vote_count": 1140
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gtuXARxjGdfsGFqEwggBB8zUJza.jpg",
+      "genre_ids": [
+        35,
+        28
+      ],
+      "id": 1589891,
+      "original_language": "es",
+      "original_title": "La hora de los valientes",
+      "overview": "Un psychologue condamné à des travaux d'intérêt général aide un policier torturé par une infidélité. Ensemble, ils affrontent le danger et s'offrent une seconde chance.",
+      "popularity": 141.4284,
+      "poster_path": "/dkqhodrNPdwI25kNW8SmANQI7Wv.jpg",
+      "release_date": "2025-12-18",
+      "title": "Thérapie de choc",
+      "video": false,
+      "vote_average": 7.598,
+      "vote_count": 41
     },
     {
       "adult": false,
@@ -314,27 +353,8 @@
       "release_date": "2025-11-11",
       "title": "Running Man",
       "video": false,
-      "vote_average": 6.82,
-      "vote_count": 740
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/gtuXARxjGdfsGFqEwggBB8zUJza.jpg",
-      "genre_ids": [
-        35,
-        28
-      ],
-      "id": 1589891,
-      "original_language": "es",
-      "original_title": "La hora de los valientes",
-      "overview": "Un psychologue condamné à des travaux d'intérêt général aide un policier torturé par une infidélité. Ensemble, ils affrontent le danger et s'offrent une seconde chance.",
-      "popularity": 141.4284,
-      "poster_path": "/dkqhodrNPdwI25kNW8SmANQI7Wv.jpg",
-      "release_date": "2025-12-18",
-      "title": "Thérapie de choc",
-      "video": false,
-      "vote_average": 7.871,
-      "vote_count": 35
+      "vote_average": 6.827,
+      "vote_count": 754
     },
     {
       "adult": false,
@@ -353,8 +373,8 @@
       "release_date": "2025-08-16",
       "title": "The Shadow's Edge",
       "video": false,
-      "vote_average": 6.611,
-      "vote_count": 175
+      "vote_average": 6.6,
+      "vote_count": 179
     },
     {
       "adult": false,
@@ -373,30 +393,10 @@
       "release_date": "2022-12-14",
       "title": "Avatar : La Voie de l'eau",
       "video": false,
-      "vote_average": 7.608,
-      "vote_count": 13273
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/min9ZUDZbiguTiQ7yz1Hbqk78HT.jpg",
-      "genre_ids": [
-        878,
-        12,
-        28
-      ],
-      "id": 533533,
-      "original_language": "en",
-      "original_title": "TRON: Ares",
-      "overview": "Julian, directeur de Dillinger System, a créé avec l’IA Arès un supersoldat humanoïde sans sensations, version vivante de son programme de sécurité. Mais ce prototype 3D se désintègre après 30 minutes. Eve Kim, programmeuse et PDG de la firme rivale Encom, découvre dans les archives du fondateur Kevin Flynn un code capable de rendre permanent tout élément généré par l’IA. Sur ordre de Julian, Arès passe dans le monde réel pour s’en emparer. Mais au contact d’Ève, qui œuvre à des projets écologiques et médicaux en mémoire de sa sœur, l’entité apprend la compassion et trahit son patron. Furieux, celui-ci lance à ses trousses Athéna, sa plus redoutable soldate virtuelle.",
-      "popularity": 122.4584,
-      "poster_path": "/szi21Cz6bAPQ47QER5iSCkP6JWI.jpg",
-      "release_date": "2025-10-08",
-      "title": "Tron : Ares",
-      "video": false,
-      "vote_average": 6.582,
-      "vote_count": 815
+      "vote_average": 7.607,
+      "vote_count": 13277
     }
   ],
-  "total_pages": 54331,
-  "total_results": 1086620
+  "total_pages": 54351,
+  "total_results": 1087016
 }
