@@ -18,8 +18,8 @@
       "release_date": "2025-12-17",
       "title": "Avatar : De feu et de cendres",
       "video": false,
-      "vote_average": 7.376,
-      "vote_count": 1009
+      "vote_average": 7.39,
+      "vote_count": 1054
     },
     {
       "adult": false,
@@ -37,8 +37,8 @@
       "release_date": "2025-10-29",
       "title": "La Légende de Baahubali, l’épopée – Version Director’s Cut",
       "video": false,
-      "vote_average": 6.375,
-      "vote_count": 16
+      "vote_average": 6.6,
+      "vote_count": 17
     },
     {
       "adult": false,
@@ -59,8 +59,8 @@
       "release_date": "2025-11-26",
       "title": "Zootopie 2",
       "video": false,
-      "vote_average": 7.656,
-      "vote_count": 897
+      "vote_average": 7.651,
+      "vote_count": 920
     },
     {
       "adult": false,
@@ -79,47 +79,8 @@
       "release_date": "2025-07-23",
       "title": "Omniscient Reader: The Prophecy",
       "video": false,
-      "vote_average": 6.7,
-      "vote_count": 38
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/54BOXpX2ieTXMDzHymdDMnUIzYG.jpg",
-      "genre_ids": [
-        27,
-        53
-      ],
-      "id": 1228246,
-      "original_language": "en",
-      "original_title": "Five Nights at Freddy's 2",
-      "overview": "Un an s’est écoulé depuis le cauchemar surnaturel survenu chez Freddy Fazbear's Pizza. Un effroyable nouveau chapitre d'horreur s'ouvre lorsqu’Abby, la sœur de Mike, ancien agent de sécurité, s'échappe à la recherche de ses amis animatroniques : Freddy, Bonnie, Chica et Foxy. Alors que de terrifiants événements se déclenchent, de sombres secrets sur les véritables origines de Freddy sont révélés, libérant une horreur oubliée depuis des décennies.",
-      "popularity": 235.2566,
-      "poster_path": "/zaKVvYUJRqgz48FadyxWqGi4m3Z.jpg",
-      "release_date": "2025-12-03",
-      "title": "Five Nights at Freddy's 2",
-      "video": false,
-      "vote_average": 6.824,
-      "vote_count": 478
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/6iXTBfCzWKlFCmHxu5oaeZ3an9G.jpg",
-      "genre_ids": [
-        878,
-        12,
-        18
-      ],
-      "id": 982843,
-      "original_language": "ko",
-      "original_title": "대홍수",
-      "overview": "Alors que l'Apocalypse menace la Terre, une lutte à la vie à la mort dans un appartement submergé par les eaux devient rapidement le seul espoir de subsister pour l'humanité.",
-      "popularity": 206.2724,
-      "poster_path": "/7eO8JlexvT8uyqBVdsPcbk3CE7a.jpg",
-      "release_date": "2025-09-18",
-      "title": "Submersion",
-      "video": false,
-      "vote_average": 6.089,
-      "vote_count": 383
+      "vote_average": 6.705,
+      "vote_count": 39
     },
     {
       "adult": false,
@@ -138,8 +99,47 @@
       "release_date": "2025-07-18",
       "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
       "video": false,
-      "vote_average": 7.649,
-      "vote_count": 633
+      "vote_average": 7.648,
+      "vote_count": 636
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/54BOXpX2ieTXMDzHymdDMnUIzYG.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1228246,
+      "original_language": "en",
+      "original_title": "Five Nights at Freddy's 2",
+      "overview": "Un an s’est écoulé depuis le cauchemar surnaturel survenu chez Freddy Fazbear's Pizza. Un effroyable nouveau chapitre d'horreur s'ouvre lorsqu’Abby, la sœur de Mike, ancien agent de sécurité, s'échappe à la recherche de ses amis animatroniques : Freddy, Bonnie, Chica et Foxy. Alors que de terrifiants événements se déclenchent, de sombres secrets sur les véritables origines de Freddy sont révélés, libérant une horreur oubliée depuis des décennies.",
+      "popularity": 235.2566,
+      "poster_path": "/zaKVvYUJRqgz48FadyxWqGi4m3Z.jpg",
+      "release_date": "2025-12-03",
+      "title": "Five Nights at Freddy's 2",
+      "video": false,
+      "vote_average": 6.818,
+      "vote_count": 488
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6iXTBfCzWKlFCmHxu5oaeZ3an9G.jpg",
+      "genre_ids": [
+        878,
+        12,
+        18
+      ],
+      "id": 982843,
+      "original_language": "ko",
+      "original_title": "대홍수",
+      "overview": "Alors que l'Apocalypse menace la Terre, une lutte à la vie à la mort dans un appartement submergé par les eaux devient rapidement le seul espoir de subsister pour l'humanité.",
+      "popularity": 206.2724,
+      "poster_path": "/7eO8JlexvT8uyqBVdsPcbk3CE7a.jpg",
+      "release_date": "2025-09-18",
+      "title": "Submersion",
+      "video": false,
+      "vote_average": 6.082,
+      "vote_count": 391
     },
     {
       "adult": false,
@@ -162,26 +162,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/dHSz0tSFuO2CsXJ1CApSauP9Ncl.jpg",
-      "genre_ids": [
-        53,
-        80,
-        9648
-      ],
-      "id": 425274,
-      "original_language": "en",
-      "original_title": "Now You See Me: Now You Don't",
-      "overview": "Les Cavaliers sont de retour pour le braquage le plus impressionnant jamais imaginé ! Accompagnés d'un groupe de jeunes magiciens qui espèrent suivre leur trace, ils vont devoir repousser les limites de l'illusion pour orchestrer leur tour le plus spectaculaire : dérober le joyau le plus précieux du monde des mains d'une redoutable organisation criminelle…",
-      "popularity": 191.1209,
-      "poster_path": "/oflTA5ZezgU60G30auSIsmrKF6H.jpg",
-      "release_date": "2025-11-12",
-      "title": "Insaisissables 3",
-      "video": false,
-      "vote_average": 6.564,
-      "vote_count": 754
-    },
-    {
-      "adult": false,
       "backdrop_path": "/9pdoEzieGdUTlRWTAO7QP8q1tIo.jpg",
       "genre_ids": [
         80,
@@ -199,8 +179,28 @@
       "release_date": "2025-04-16",
       "title": "야당",
       "video": false,
-      "vote_average": 7.071,
-      "vote_count": 28
+      "vote_average": 7.172,
+      "vote_count": 29
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dHSz0tSFuO2CsXJ1CApSauP9Ncl.jpg",
+      "genre_ids": [
+        53,
+        80,
+        9648
+      ],
+      "id": 425274,
+      "original_language": "en",
+      "original_title": "Now You See Me: Now You Don't",
+      "overview": "Les Cavaliers sont de retour pour le braquage le plus impressionnant jamais imaginé ! Accompagnés d'un groupe de jeunes magiciens qui espèrent suivre leur trace, ils vont devoir repousser les limites de l'illusion pour orchestrer leur tour le plus spectaculaire : dérober le joyau le plus précieux du monde des mains d'une redoutable organisation criminelle…",
+      "popularity": 191.1209,
+      "poster_path": "/oflTA5ZezgU60G30auSIsmrKF6H.jpg",
+      "release_date": "2025-11-12",
+      "title": "Insaisissables 3",
+      "video": false,
+      "vote_average": 6.552,
+      "vote_count": 766
     },
     {
       "adult": false,
@@ -219,8 +219,28 @@
       "release_date": "2025-08-01",
       "title": "Risqué",
       "video": false,
-      "vote_average": 5.056,
-      "vote_count": 9
+      "vote_average": 4.75,
+      "vote_count": 10
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ncI1PlBcANixIkgQSnjsSRz4OyT.jpg",
+      "genre_ids": [
+        28,
+        53,
+        9648
+      ],
+      "id": 1439112,
+      "original_language": "en",
+      "original_title": "Muzzle: City of Wolves",
+      "overview": "L'officier du LAPD Jake Rosser s'efforce de mener une vie paisible avec sa famille et l'officier retraité du K-9, Socks. Cependant, la tranquillité se transforme en chaos lorsqu'un gang les cible lors d'une attaque brutale. Aux côtés de son nouveau partenaire Argos, Jake se lance dans une quête incessante de justice, déterminé à protéger ses proches.",
+      "popularity": 170.3879,
+      "poster_path": "/8qTMRmC07XCGidnKQFLbRM3FoDU.jpg",
+      "release_date": "2025-11-13",
+      "title": "Muzzle: City of Wolves",
+      "video": false,
+      "vote_average": 6.731,
+      "vote_count": 67
     },
     {
       "adult": false,
@@ -244,26 +264,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/ncI1PlBcANixIkgQSnjsSRz4OyT.jpg",
-      "genre_ids": [
-        28,
-        53,
-        9648
-      ],
-      "id": 1439112,
-      "original_language": "en",
-      "original_title": "Muzzle: City of Wolves",
-      "overview": "L'officier du LAPD Jake Rosser s'efforce de mener une vie paisible avec sa famille et l'officier retraité du K-9, Socks. Cependant, la tranquillité se transforme en chaos lorsqu'un gang les cible lors d'une attaque brutale. Aux côtés de son nouveau partenaire Argos, Jake se lance dans une quête incessante de justice, déterminé à protéger ses proches.",
-      "popularity": 170.3879,
-      "poster_path": "/8qTMRmC07XCGidnKQFLbRM3FoDU.jpg",
-      "release_date": "2025-11-13",
-      "title": "Muzzle: City of Wolves",
-      "video": false,
-      "vote_average": 6.8,
-      "vote_count": 65
-    },
-    {
-      "adult": false,
       "backdrop_path": "/nZFJgk5nWSZju9JW76hbv5lUegw.jpg",
       "genre_ids": [
         28,
@@ -278,66 +278,8 @@
       "release_date": "2025-07-11",
       "title": "Bang",
       "video": false,
-      "vote_average": 6.279,
-      "vote_count": 34
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/yCatt8lmp3oRFEcOZF8KHhsiASQ.jpg",
-      "genre_ids": [
-        28,
-        10752
-      ],
-      "id": 1223601,
-      "original_language": "fi",
-      "original_title": "Sisu 2",
-      "overview": "1946. Aatami Korpi retourne là où sa famille a été massacrée pendant la guerre. Il y démonte la maison familiale et la charge sur un camion, déterminé à la reconstruire en lieu sûr. Lorsque les Soviétiques apprennent son retour, l'assassin de sa famille met tout en œuvre pour en finir et tuer l'ancien soldat légendaire. Mais Aatami n’est pas surnommé « l'homme qui refuse de mourir » pour rien…",
-      "popularity": 127.4726,
-      "poster_path": "/5zShXWMi5f4Cb883DnQbrpPZYIN.jpg",
-      "release_date": "2025-10-21",
-      "title": "Sisu : Le Chemin de la vengeance",
-      "video": false,
-      "vote_average": 7.497,
-      "vote_count": 386
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/cd8YDn7M0lfaHhZdU6MvCDxPalP.jpg",
-      "genre_ids": [
-        28,
-        12,
-        878
-      ],
-      "id": 76600,
-      "original_language": "en",
-      "original_title": "Avatar: The Way of Water",
-      "overview": "Une dizaine d'années s'est écoulée depuis les précédents évènements survenus sur Pandora. Jake Sully et Neytiri sont devenus parents. Leur vie idyllique, proche de la nature, est menacée lorsque la « Ressources Développement Administration », dangereuse organisation non-gouvernementale, est de retour sur Pandora. Contraints de quitter leur habitat naturel, Jake et sa famille se rendent sur les récifs, où ils pensent trouver asile. Mais ils tombent sur un clan, les Metkayina, aux mœurs différentes des leurs.",
-      "popularity": 123.6401,
-      "poster_path": "/kQYx143yujkwyjJdZH2skOGeQfA.jpg",
-      "release_date": "2022-12-14",
-      "title": "Avatar : La Voie de l'eau",
-      "video": false,
-      "vote_average": 7.604,
-      "vote_count": 13388
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/sK3z0Naed3H1Wuh7a21YRVMxYqt.jpg",
-      "genre_ids": [
-        9648,
-        53
-      ],
-      "id": 1368166,
-      "original_language": "en",
-      "original_title": "The Housemaid",
-      "overview": "À sa sortie de prison, Millie Calloway décroche un emploi de femme de ménage en résidence chez la riche famille Winchester, composée de Nina, son mari Andrew et leur fille Cecelia. Mais ce qui ressemblait à un nouveau départ, pour la jeune femme qui souhaite se reconstruire, se transforme vite en cauchemar. Millie découvre en effet que rien dans cette maison parfaite n’est ce qu’il paraît. Entre manipulations psychologiques, secrets de famille et désirs interdits, Millie navigue à vue sur un océan de mensonges, de trahisons et de jeux de pouvoir.",
-      "popularity": 124.9179,
-      "poster_path": "/szdrVdnS8XAzqFyzPDhYXaJk7EK.jpg",
-      "release_date": "2025-12-18",
-      "title": "La Femme de ménage",
-      "video": false,
-      "vote_average": 7.585,
-      "vote_count": 147
+      "vote_average": 6.365,
+      "vote_count": 37
     },
     {
       "adult": false,
@@ -356,28 +298,27 @@
       "release_date": "2025-08-16",
       "title": "The Shadow's Edge",
       "video": false,
-      "vote_average": 6.628,
-      "vote_count": 188
+      "vote_average": 6.635,
+      "vote_count": 189
     },
     {
       "adult": false,
-      "backdrop_path": "/ebyxeBh56QNXxSJgTnmz7fXAlwk.jpg",
+      "backdrop_path": "/yCatt8lmp3oRFEcOZF8KHhsiASQ.jpg",
       "genre_ids": [
         28,
-        878,
-        12
+        10752
       ],
-      "id": 1242898,
-      "original_language": "en",
-      "original_title": "Predator: Badlands",
-      "overview": "Dans le futur sur une planète lointaine, un jeune Predator, exclu de son clan, trouve une alliée improbable en la personne de Thia et entreprend un voyage en territoire hostile, à la recherche de l'adversaire ultime.",
-      "popularity": 122.3151,
-      "poster_path": "/empQGO0pCVTndCpihyVpNfaLebl.jpg",
-      "release_date": "2025-11-05",
-      "title": "Predator: Badlands",
+      "id": 1223601,
+      "original_language": "fi",
+      "original_title": "Sisu 2",
+      "overview": "1946. Aatami Korpi retourne là où sa famille a été massacrée pendant la guerre. Il y démonte la maison familiale et la charge sur un camion, déterminé à la reconstruire en lieu sûr. Lorsque les Soviétiques apprennent son retour, l'assassin de sa famille met tout en œuvre pour en finir et tuer l'ancien soldat légendaire. Mais Aatami n’est pas surnommé « l'homme qui refuse de mourir » pour rien…",
+      "popularity": 127.4726,
+      "poster_path": "/5zShXWMi5f4Cb883DnQbrpPZYIN.jpg",
+      "release_date": "2025-10-21",
+      "title": "Sisu : Le Chemin de la vengeance",
       "video": false,
-      "vote_average": 7.317,
-      "vote_count": 724
+      "vote_average": 7.468,
+      "vote_count": 396
     },
     {
       "adult": false,
@@ -396,10 +337,69 @@
       "release_date": "2025-11-19",
       "title": "Wicked : Partie II",
       "video": false,
-      "vote_average": 6.7,
-      "vote_count": 581
+      "vote_average": 6.721,
+      "vote_count": 597
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sK3z0Naed3H1Wuh7a21YRVMxYqt.jpg",
+      "genre_ids": [
+        9648,
+        53
+      ],
+      "id": 1368166,
+      "original_language": "en",
+      "original_title": "The Housemaid",
+      "overview": "À sa sortie de prison, Millie Calloway décroche un emploi de femme de ménage en résidence chez la riche famille Winchester, composée de Nina, son mari Andrew et leur fille Cecelia. Mais ce qui ressemblait à un nouveau départ, pour la jeune femme qui souhaite se reconstruire, se transforme vite en cauchemar. Millie découvre en effet que rien dans cette maison parfaite n’est ce qu’il paraît. Entre manipulations psychologiques, secrets de famille et désirs interdits, Millie navigue à vue sur un océan de mensonges, de trahisons et de jeux de pouvoir.",
+      "popularity": 124.9179,
+      "poster_path": "/szdrVdnS8XAzqFyzPDhYXaJk7EK.jpg",
+      "release_date": "2025-12-18",
+      "title": "La Femme de ménage",
+      "video": false,
+      "vote_average": 7.5,
+      "vote_count": 160
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cd8YDn7M0lfaHhZdU6MvCDxPalP.jpg",
+      "genre_ids": [
+        28,
+        12,
+        878
+      ],
+      "id": 76600,
+      "original_language": "en",
+      "original_title": "Avatar: The Way of Water",
+      "overview": "Une dizaine d'années s'est écoulée depuis les précédents évènements survenus sur Pandora. Jake Sully et Neytiri sont devenus parents. Leur vie idyllique, proche de la nature, est menacée lorsque la « Ressources Développement Administration », dangereuse organisation non-gouvernementale, est de retour sur Pandora. Contraints de quitter leur habitat naturel, Jake et sa famille se rendent sur les récifs, où ils pensent trouver asile. Mais ils tombent sur un clan, les Metkayina, aux mœurs différentes des leurs.",
+      "popularity": 123.6401,
+      "poster_path": "/kQYx143yujkwyjJdZH2skOGeQfA.jpg",
+      "release_date": "2022-12-14",
+      "title": "Avatar : La Voie de l'eau",
+      "video": false,
+      "vote_average": 7.605,
+      "vote_count": 13399
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ebyxeBh56QNXxSJgTnmz7fXAlwk.jpg",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "id": 1242898,
+      "original_language": "en",
+      "original_title": "Predator: Badlands",
+      "overview": "Dans le futur sur une planète lointaine, un jeune Predator, exclu de son clan, trouve une alliée improbable en la personne de Thia et entreprend un voyage en territoire hostile, à la recherche de l'adversaire ultime.",
+      "popularity": 122.3151,
+      "poster_path": "/empQGO0pCVTndCpihyVpNfaLebl.jpg",
+      "release_date": "2025-11-05",
+      "title": "Predator: Badlands",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 729
     }
   ],
-  "total_pages": 54481,
-  "total_results": 1089602
+  "total_pages": 54488,
+  "total_results": 1089755
 }
