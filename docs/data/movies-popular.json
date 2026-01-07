@@ -13,13 +13,13 @@
       "original_language": "en",
       "original_title": "Avatar: Fire and Ash",
       "overview": "Après la mort de Neteyam, Jake et Neytiri affrontent leur chagrin tout en faisant face au Peuple des Cendres, une tribu Na’vi redoutable menée par le fougueux Varang, alors que le conflit sur Pandora s’intensifie et qu’une nouvelle quê morale s’amorce.",
-      "popularity": 497.1497,
+      "popularity": 451.2067,
       "poster_path": "/cfGTBeMJU5C4Q2yEq8Nh6rPspn6.jpg",
       "release_date": "2025-12-17",
       "title": "Avatar : De feu et de cendres",
       "video": false,
       "vote_average": 7.353,
-      "vote_count": 1150
+      "vote_count": 1198
     },
     {
       "adult": false,
@@ -33,13 +33,33 @@
       "original_language": "de",
       "original_title": "Der Tiger",
       "overview": "Front de l'Est, 1943 : l'équipage d'un char Tigre allemand se voit confier une dangereuse mission loin derrière les lignes de front âprement disputées. Durant leur traversée de ce no man's land, ils doivent affronter l'ennemi ainsi que leurs propres démons.",
-      "popularity": 449.4732,
+      "popularity": 460.3539,
       "poster_path": "/s8rCTOHsyM9vylRtpuQocVNQ5wO.jpg",
       "release_date": "2025-09-18",
       "title": "The Tank",
       "video": false,
-      "vote_average": 7.2,
-      "vote_count": 100
+      "vote_average": 7.231,
+      "vote_count": 119
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ebyxeBh56QNXxSJgTnmz7fXAlwk.jpg",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "id": 1242898,
+      "original_language": "en",
+      "original_title": "Predator: Badlands",
+      "overview": "Jugé trop faible et indigne par son père, chef de la tribu des Yautja, Dek est sur le point de se faire exécuter par son frère Kwei. Mais au dernier moment, celui-ci préfère se sacrifier pour favoriser sa fuite. Décidé à prouver son courage, le jeune paria se rend sur la planète Genna pour y capturer le Kalisk, un monstre réputé invincible. Confronté à une nature hostile et imprévisible, le guerrier inexpérimenté doit sa survie à Thia, une androïde privée de la partie inférieure de son corps depuis son affrontement avec le Kalisk. Avec l'aide de celle-ci, Dek amorce sa traque de la terrible créature, convoitée par des scientifiques pour ses formidables dons de régénération.",
+      "popularity": 709.8901,
+      "poster_path": "/sLmaEOr0s9IK1Kq1akGZXErTa75.jpg",
+      "release_date": "2025-11-05",
+      "title": "Predator: Badlands",
+      "video": false,
+      "vote_average": 7.493,
+      "vote_count": 883
     },
     {
       "adult": false,
@@ -55,13 +75,13 @@
       "original_language": "en",
       "original_title": "Zootopia 2",
       "overview": "Judy Hopps et Nick Wilde explorent à nouveau Zootopie, entre mystères, rires et rencontres inattendues. À travers chaque rue et chaque instant, ils découvrent que l’amitié et la curiosité transforment le quotidien en moments magiques.",
-      "popularity": 368.2829,
+      "popularity": 324.8749,
       "poster_path": "/hBI7Wrps6tDjhEzBxJgoPLhbmT1.jpg",
       "release_date": "2025-11-26",
       "title": "Zootopie 2",
       "video": false,
-      "vote_average": 7.6,
-      "vote_count": 954
+      "vote_average": 7.626,
+      "vote_count": 971
     },
     {
       "adult": false,
@@ -74,53 +94,13 @@
       "original_language": "te",
       "original_title": "Baahubali: The Epic",
       "overview": "Sauvé des eaux à la naissance, Shiva développe en grandissant une force prodigieuse et un courage exceptionnel. Parvenu à l’âge adulte, il décide d’escalader la vertigineuse cascade qui domine son village. Il découvre au sommet un monde inconnu et fait la rencontre d’Avanthika, une guerrière rebelle qui lutte pour libérer la reine Devasena, prisonnière de l’empire de Mahishmati. Fasciné par la détermination de la jeune femme, Shiva décide de lui venir en aide, ignorant encore ses propres liens avec ce royaume – dont il est en réalité le prince héritier : Baahubali.",
-      "popularity": 337.9912,
+      "popularity": 271.2865,
       "poster_path": "/fDfe8Ru6u9VCzswgDYquxkHTxmQ.jpg",
       "release_date": "2025-10-29",
       "title": "La Légende de Baahubali, l’épopée – Version Director’s Cut",
       "video": false,
       "vote_average": 6.15,
       "vote_count": 20
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/fP6L6V42980QmuoyyGXCmWphwpT.jpg",
-      "genre_ids": [
-        28,
-        12,
-        14
-      ],
-      "id": 1131759,
-      "original_language": "ko",
-      "original_title": "전지적 독자 시점",
-      "overview": "KIM Dokja est l'unique lecteur du web-roman fantastique \"Les trois façons de survivre dans un monde en ruine\". Quand le roman devient la réalité, Dokja est le seul qui connaît comment l'histoire - et maintenant le monde réel - se termine. Avec ses compagnons, il s'efforce de sauver le monde en écrivant un nouveau chapitre et en changeant la fin.",
-      "popularity": 263.1256,
-      "poster_path": "/lWQRM7IOCyJT9E5kOnoUvZNELHQ.jpg",
-      "release_date": "2025-07-23",
-      "title": "Omniscient Reader: The Prophecy",
-      "video": false,
-      "vote_average": 6.8,
-      "vote_count": 40
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-      "genre_ids": [
-        16,
-        28,
-        14
-      ],
-      "id": 1311031,
-      "original_language": "ja",
-      "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
-      "overview": "L'armée des pourfendeurs de démons est attirée dans la Forteresse Infinie, où Tanjiro, Zenitsu et Inosuke  affrontent de terrifiants démons de rang supérieur dans un combat désespéré alors que la bataille finale contre Kibutsuji Muzan commence.",
-      "popularity": 248.0777,
-      "poster_path": "/wXTU3AFmlUPbqjH68MZ989uHd6k.jpg",
-      "release_date": "2025-07-18",
-      "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
-      "video": false,
-      "vote_average": 7.635,
-      "vote_count": 638
     },
     {
       "adult": false,
@@ -134,17 +114,57 @@
       "original_language": "en",
       "original_title": "Trap House",
       "overview": "À El Paso, au Texas, un agent infiltré de la DEA et son partenaire se lancent dans un jeu du chat et de la souris avec un groupe de voleurs audacieux : leurs propres adolescents rebelles. Les ados ont décidé de voler de l'argent à un dangereux cartel en utilisant les tactiques de leurs parents et leurs informations top secrètes.",
-      "popularity": 238.3835,
+      "popularity": 239.2973,
       "poster_path": "/nB7FNwWluEChCGSlGkG4mprhQHw.jpg",
       "release_date": "2025-11-14",
       "title": "Trap House",
       "video": false,
-      "vote_average": 6.241,
-      "vote_count": 87
+      "vote_average": 6.38,
+      "vote_count": 96
     },
     {
       "adult": false,
-      "backdrop_path": "/54BOXpX2ieTXMDzHymdDMnUIzYG.jpg",
+      "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14
+      ],
+      "id": 1311031,
+      "original_language": "ja",
+      "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+      "overview": "L'armée des pourfendeurs de démons est attirée dans la Forteresse Infinie, où Tanjiro, Zenitsu et Inosuke  affrontent de terrifiants démons de rang supérieur dans un combat désespéré alors que la bataille finale contre Kibutsuji Muzan commence.",
+      "popularity": 212.4229,
+      "poster_path": "/wXTU3AFmlUPbqjH68MZ989uHd6k.jpg",
+      "release_date": "2025-07-18",
+      "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
+      "video": false,
+      "vote_average": 7.638,
+      "vote_count": 642
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fP6L6V42980QmuoyyGXCmWphwpT.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "id": 1131759,
+      "original_language": "ko",
+      "original_title": "전지적 독자 시점",
+      "overview": "KIM Dokja est l'unique lecteur du web-roman fantastique \"Les trois façons de survivre dans un monde en ruine\". Quand le roman devient la réalité, Dokja est le seul qui connaît comment l'histoire - et maintenant le monde réel - se termine. Avec ses compagnons, il s'efforce de sauver le monde en écrivant un nouveau chapitre et en changeant la fin.",
+      "popularity": 201.8734,
+      "poster_path": "/lWQRM7IOCyJT9E5kOnoUvZNELHQ.jpg",
+      "release_date": "2025-07-23",
+      "title": "Omniscient Reader: The Prophecy",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 40
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mOeBBD49M72vCEXzgA1dS2MwGno.jpg",
       "genre_ids": [
         27,
         53
@@ -153,13 +173,13 @@
       "original_language": "en",
       "original_title": "Five Nights at Freddy's 2",
       "overview": "Un an s’est écoulé depuis le cauchemar surnaturel survenu chez Freddy Fazbear's Pizza. Un effroyable nouveau chapitre d'horreur s'ouvre lorsqu’Abby, la sœur de Mike, ancien agent de sécurité, s'échappe à la recherche de ses amis animatroniques : Freddy, Bonnie, Chica et Foxy. Alors que de terrifiants événements se déclenchent, de sombres secrets sur les véritables origines de Freddy sont révélés, libérant une horreur oubliée depuis des décennies.",
-      "popularity": 204.1861,
+      "popularity": 178.0246,
       "poster_path": "/zaKVvYUJRqgz48FadyxWqGi4m3Z.jpg",
       "release_date": "2025-12-03",
       "title": "Five Nights at Freddy's 2",
       "video": false,
-      "vote_average": 6.784,
-      "vote_count": 507
+      "vote_average": 6.778,
+      "vote_count": 519
     },
     {
       "adult": false,
@@ -172,33 +192,13 @@
       "original_language": "en",
       "original_title": "War of the Worlds",
       "overview": "Une invasion gargantuesque approche dans cette nouvelle interprétation du légendaire roman homonyme devenu un classique de la science-fiction. La célèbre Eva Longoria partage l'affiche avec le rappeur/acteur Ice Cube, Michael O'Neill et Iman Benson, dans une aventure extraordinaire abordant des thématiques actuelles telles que la technologie, la surveillance et la protection de la vie privée.",
-      "popularity": 198.4593,
+      "popularity": 171.3365,
       "poster_path": "/jnVnLfyA9MrBEsYx9vyq0e4dbLj.jpg",
       "release_date": "2025-07-29",
       "title": "La Guerre des mondes",
       "video": false,
-      "vote_average": 4.222,
+      "vote_average": 4.22,
       "vote_count": 815
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/6iXTBfCzWKlFCmHxu5oaeZ3an9G.jpg",
-      "genre_ids": [
-        878,
-        12,
-        18
-      ],
-      "id": 982843,
-      "original_language": "ko",
-      "original_title": "대홍수",
-      "overview": "Alors que l'Apocalypse menace la Terre, une lutte à la vie à la mort dans un appartement submergé par les eaux devient rapidement le seul espoir de subsister pour l'humanité.",
-      "popularity": 180.5172,
-      "poster_path": "/7eO8JlexvT8uyqBVdsPcbk3CE7a.jpg",
-      "release_date": "2025-09-18",
-      "title": "Submersion",
-      "video": false,
-      "vote_average": 6.036,
-      "vote_count": 419
     },
     {
       "adult": false,
@@ -212,13 +212,72 @@
       "original_language": "en",
       "original_title": "Now You See Me: Now You Don't",
       "overview": "Les Cavaliers sont de retour pour le braquage le plus impressionnant jamais imaginé ! Accompagnés d'un groupe de jeunes magiciens qui espèrent suivre leur trace, ils vont devoir repousser les limites de l'illusion pour orchestrer leur tour le plus spectaculaire : dérober le joyau le plus précieux du monde des mains d'une redoutable organisation criminelle…",
-      "popularity": 180.4383,
+      "popularity": 153.6233,
       "poster_path": "/oflTA5ZezgU60G30auSIsmrKF6H.jpg",
       "release_date": "2025-11-12",
       "title": "Insaisissables 3",
       "video": false,
-      "vote_average": 6.56,
-      "vote_count": 797
+      "vote_average": 6.584,
+      "vote_count": 810
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6iXTBfCzWKlFCmHxu5oaeZ3an9G.jpg",
+      "genre_ids": [
+        878,
+        12,
+        18
+      ],
+      "id": 982843,
+      "original_language": "ko",
+      "original_title": "대홍수",
+      "overview": "Alors que l'Apocalypse menace la Terre, une lutte à la vie à la mort dans un appartement submergé par les eaux devient rapidement le seul espoir de subsister pour l'humanité.",
+      "popularity": 143.7167,
+      "poster_path": "/7eO8JlexvT8uyqBVdsPcbk3CE7a.jpg",
+      "release_date": "2025-09-18",
+      "title": "Submersion",
+      "video": false,
+      "vote_average": 6.016,
+      "vote_count": 434
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sK3z0Naed3H1Wuh7a21YRVMxYqt.jpg",
+      "genre_ids": [
+        9648,
+        53
+      ],
+      "id": 1368166,
+      "original_language": "en",
+      "original_title": "The Housemaid",
+      "overview": "À sa sortie de prison, Millie Calloway décroche un emploi de femme de ménage en résidence chez la riche famille Winchester, composée de Nina, son mari Andrew et leur fille Cecelia. Mais ce qui ressemblait à un nouveau départ, pour la jeune femme qui souhaite se reconstruire, se transforme vite en cauchemar. Millie découvre en effet que rien dans cette maison parfaite n’est ce qu’il paraît. Entre manipulations psychologiques, secrets de famille et désirs interdits, Millie navigue à vue sur un océan de mensonges, de trahisons et de jeux de pouvoir.",
+      "popularity": 164.6169,
+      "poster_path": "/szdrVdnS8XAzqFyzPDhYXaJk7EK.jpg",
+      "release_date": "2025-12-18",
+      "title": "La Femme de ménage",
+      "video": false,
+      "vote_average": 7.264,
+      "vote_count": 227
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/novE5UrqfLIFEMe5QBnjm18GG4E.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1512623,
+      "original_language": "en",
+      "original_title": "Risqué",
+      "overview": "",
+      "popularity": 139.6736,
+      "poster_path": "/h6OsRrDwbspLnKMvlFl57QFDP7d.jpg",
+      "release_date": "2025-08-01",
+      "title": "Risqué",
+      "video": false,
+      "vote_average": 5.975,
+      "vote_count": 20
     },
     {
       "adult": false,
@@ -234,72 +293,13 @@
       "original_language": "ko",
       "original_title": "야당",
       "overview": "",
-      "popularity": 164.796,
+      "popularity": 132.8431,
       "poster_path": "/k4yTwFqvQDApqaoFdgubsbYcuno.jpg",
       "release_date": "2025-04-16",
       "title": "야당",
       "video": false,
       "vote_average": 7,
       "vote_count": 31
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/novE5UrqfLIFEMe5QBnjm18GG4E.jpg",
-      "genre_ids": [
-        28,
-        80,
-        53
-      ],
-      "id": 1512623,
-      "original_language": "en",
-      "original_title": "Risqué",
-      "overview": "",
-      "popularity": 162.1471,
-      "poster_path": "/h6OsRrDwbspLnKMvlFl57QFDP7d.jpg",
-      "release_date": "2025-08-01",
-      "title": "Risqué",
-      "video": false,
-      "vote_average": 5.045,
-      "vote_count": 11
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/sK3z0Naed3H1Wuh7a21YRVMxYqt.jpg",
-      "genre_ids": [
-        9648,
-        53
-      ],
-      "id": 1368166,
-      "original_language": "en",
-      "original_title": "The Housemaid",
-      "overview": "À sa sortie de prison, Millie Calloway décroche un emploi de femme de ménage en résidence chez la riche famille Winchester, composée de Nina, son mari Andrew et leur fille Cecelia. Mais ce qui ressemblait à un nouveau départ, pour la jeune femme qui souhaite se reconstruire, se transforme vite en cauchemar. Millie découvre en effet que rien dans cette maison parfaite n’est ce qu’il paraît. Entre manipulations psychologiques, secrets de famille et désirs interdits, Millie navigue à vue sur un océan de mensonges, de trahisons et de jeux de pouvoir.",
-      "popularity": 154.5697,
-      "poster_path": "/szdrVdnS8XAzqFyzPDhYXaJk7EK.jpg",
-      "release_date": "2025-12-18",
-      "title": "La Femme de ménage",
-      "video": false,
-      "vote_average": 7.3,
-      "vote_count": 203
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/ncI1PlBcANixIkgQSnjsSRz4OyT.jpg",
-      "genre_ids": [
-        28,
-        53,
-        9648
-      ],
-      "id": 1439112,
-      "original_language": "en",
-      "original_title": "Muzzle: City of Wolves",
-      "overview": "L'officier du LAPD Jake Rosser s'efforce de mener une vie paisible avec sa famille et l'officier retraité du K-9, Socks. Cependant, la tranquillité se transforme en chaos lorsqu'un gang les cible lors d'une attaque brutale. Aux côtés de son nouveau partenaire Argos, Jake se lance dans une quête incessante de justice, déterminé à protéger ses proches.",
-      "popularity": 151.0337,
-      "poster_path": "/8qTMRmC07XCGidnKQFLbRM3FoDU.jpg",
-      "release_date": "2025-11-13",
-      "title": "Muzzle: City of Wolves",
-      "video": false,
-      "vote_average": 6.76,
-      "vote_count": 75
     },
     {
       "adult": false,
@@ -313,13 +313,53 @@
       "original_language": "zh",
       "original_title": "捕风追影",
       "overview": "Un mystérieux mafieux et ses 7 fils adoptifs manipulent et ridiculisent la police en piratant le système de surveillance ultramoderne de la ville, dans le but de récupérer une fortune en crypto-monnaie. La police devenue impuissante doit faire appel à un ancien expert qui va s’associer avec une jeune policière à laquelle il est lié par un secret qu’elle ignore. Une partie d’échec commence alors, où les cerveaux et la loyauté seront mis à l’épreuve.",
-      "popularity": 144.0416,
+      "popularity": 134.0184,
       "poster_path": "/t1PFVsGYdUHtPv0Xowoc9b4PAap.jpg",
       "release_date": "2025-08-16",
       "title": "The Shadow's Edge",
       "video": false,
       "vote_average": 6.6,
       "vote_count": 191
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ncI1PlBcANixIkgQSnjsSRz4OyT.jpg",
+      "genre_ids": [
+        28,
+        53,
+        9648
+      ],
+      "id": 1439112,
+      "original_language": "en",
+      "original_title": "Muzzle: City of Wolves",
+      "overview": "L'officier du LAPD Jake Rosser s'efforce de mener une vie paisible avec sa famille et l'officier retraité du K-9, Socks. Cependant, la tranquillité se transforme en chaos lorsqu'un gang les cible lors d'une attaque brutale. Aux côtés de son nouveau partenaire Argos, Jake se lance dans une quête incessante de justice, déterminé à protéger ses proches.",
+      "popularity": 126.1801,
+      "poster_path": "/8qTMRmC07XCGidnKQFLbRM3FoDU.jpg",
+      "release_date": "2025-11-13",
+      "title": "Muzzle: City of Wolves",
+      "video": false,
+      "vote_average": 6.725,
+      "vote_count": 80
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mkjdussWOjts0Se6hEwfTQdwCv2.jpg",
+      "genre_ids": [
+        35,
+        80,
+        18
+      ],
+      "id": 2757,
+      "original_language": "en",
+      "original_title": "Adaptation.",
+      "overview": "Le scénariste Charlie Kaufman est rongé par le doute. Engagé pour adapter à l'écran un livre tiré de la vie de John Laroche, chasseur et trafiquant d'orchidées dans les Everglades, il est totalement bloqué. Comme Susan Orlean, la brillante journaliste new-yorkaise qui a rédigé le roman, Charlie est incapable de vivre une véritable histoire d'amour. Donald, son frère jumeau, aggrave la situation : non seulement, il réussit sans peine comme scénariste, mais il remporte également un franc succès auprès des femmes, ce qui n'est pas le cas de Charlie. Un jour, ce dernier croit avoir trouvé une solution : il va utiliser ses problèmes personnels comme base d'un scénario sur Laroche et Susan Orlean. Mais alors que l'inspiration vient et que l'histoire prend forme, Charlie va déclencher une série d'évènements qui vont bouleverser la vie de tous les protagonistes.",
+      "popularity": 111.9496,
+      "poster_path": "/ndlNK6qIQTCfalWuN4In1ZhHA0U.jpg",
+      "release_date": "2002-12-06",
+      "title": "Adaptation.",
+      "video": false,
+      "vote_average": 7.345,
+      "vote_count": 2678
     },
     {
       "adult": false,
@@ -333,12 +373,12 @@
       "original_language": "ko",
       "original_title": "파과",
       "overview": "Une tueuse vieillissante rencontre un jeune protégé désireux d'apprendre le métier.",
-      "popularity": 142.414,
-      "poster_path": "/du65x58CJrMMThuiT85kBFMYi0Z.jpg",
+      "popularity": 112.6963,
+      "poster_path": "/A9yJjkI7GdqeFYMyUe4PebA2NIw.jpg",
       "release_date": "2025-04-30",
       "title": "The Old Woman with the Knife",
       "video": false,
-      "vote_average": 6.459,
+      "vote_average": 6.5,
       "vote_count": 49
     },
     {
@@ -352,55 +392,15 @@
       "original_language": "th",
       "original_title": "ปัง",
       "overview": "Un tueur à gages impitoyable qui, après avoir échappé de peu une tentative fatale sur sa vie, trahit son gang dans le but de trouver le pardon mais finit par devenir lui-même une cible.",
-      "popularity": 130.3288,
+      "popularity": 111.902,
       "poster_path": "/iRSQqEhxGJ2SbDjaJeWnZqmiywB.jpg",
       "release_date": "2025-07-11",
       "title": "Bang",
       "video": false,
-      "vote_average": 6.5,
-      "vote_count": 38
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/l8pwO23MCvqYumzozpxynCNfck1.jpg",
-      "genre_ids": [
-        14,
-        12,
-        10749
-      ],
-      "id": 967941,
-      "original_language": "en",
-      "original_title": "Wicked: For Good",
-      "overview": "Depuis qu'elle s'est opposée au Magicien d'Oz, Elphaba est surnommée la Méchante sorcière de l'Ouest par la population du Pays d'Oz qui pense qu'elle est maléfique. De son côté, Glinda est devenu la figure populaire du régime du Magicien et est surnommée la Bonne Glinda, tandis que Fiyero devient le capitaine de la garde du Magicien, bien qu'il doute encore de la culpabilité d'Elphaba.",
-      "popularity": 128.3437,
-      "poster_path": "/qMkHZ0OrQpv8yyU0og611uXBwKL.jpg",
-      "release_date": "2025-11-19",
-      "title": "Wicked : Partie II",
-      "video": false,
-      "vote_average": 6.69,
-      "vote_count": 638
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/ebyxeBh56QNXxSJgTnmz7fXAlwk.jpg",
-      "genre_ids": [
-        28,
-        878,
-        12
-      ],
-      "id": 1242898,
-      "original_language": "en",
-      "original_title": "Predator: Badlands",
-      "overview": "Jugé trop faible et indigne par son père, chef de la tribu des Yautja, Dek est sur le point de se faire exécuter par son frère Kwei. Mais au dernier moment, celui-ci préfère se sacrifier pour favoriser sa fuite. Décidé à prouver son courage, le jeune paria se rend sur la planète Genna pour y capturer le Kalisk, un monstre réputé invincible. Confronté à une nature hostile et imprévisible, le guerrier inexpérimenté doit sa survie à Thia, une androïde privée de la partie inférieure de son corps depuis son affrontement avec le Kalisk. Avec l'aide de celle-ci, Dek amorce sa traque de la terrible créature, convoitée par des scientifiques pour ses formidables dons de régénération.",
-      "popularity": 125.1842,
-      "poster_path": "/empQGO0pCVTndCpihyVpNfaLebl.jpg",
-      "release_date": "2025-11-05",
-      "title": "Predator: Badlands",
-      "video": false,
-      "vote_average": 7.3,
-      "vote_count": 745
+      "vote_average": 6.338,
+      "vote_count": 40
     }
   ],
-  "total_pages": 54535,
-  "total_results": 1090698
+  "total_pages": 54550,
+  "total_results": 1090990
 }
