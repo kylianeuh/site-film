@@ -18,8 +18,8 @@
       "release_date": "2025-11-05",
       "title": "Predator : Badlands",
       "video": false,
-      "vote_average": 7.764,
-      "vote_count": 1320
+      "vote_average": 7.772,
+      "vote_count": 1350
     },
     {
       "adult": false,
@@ -38,8 +38,8 @@
       "release_date": "2025-10-16",
       "title": "Icefall",
       "video": false,
-      "vote_average": 6.8,
-      "vote_count": 66
+      "vote_average": 6.757,
+      "vote_count": 68
     },
     {
       "adult": false,
@@ -58,8 +58,8 @@
       "release_date": "2025-12-17",
       "title": "Avatar : De feu et de cendres",
       "video": false,
-      "vote_average": 7.4,
-      "vote_count": 1381
+      "vote_average": 7.364,
+      "vote_count": 1396
     },
     {
       "adult": false,
@@ -78,8 +78,8 @@
       "release_date": "2025-09-18",
       "title": "The Tank",
       "video": false,
-      "vote_average": 7.026,
-      "vote_count": 194
+      "vote_average": 6.96,
+      "vote_count": 201
     },
     {
       "adult": false,
@@ -101,7 +101,7 @@
       "title": "Zootopie 2",
       "video": false,
       "vote_average": 7.6,
-      "vote_count": 1047
+      "vote_count": 1055
     },
     {
       "adult": false,
@@ -120,8 +120,8 @@
       "release_date": "2025-11-14",
       "title": "Trap House",
       "video": false,
-      "vote_average": 6.333,
-      "vote_count": 138
+      "vote_average": 6.321,
+      "vote_count": 140
     },
     {
       "adult": false,
@@ -139,8 +139,8 @@
       "release_date": "2025-10-29",
       "title": "La Légende de Baahubali, l’épopée – Version Director’s Cut",
       "video": false,
-      "vote_average": 5.9,
-      "vote_count": 21
+      "vote_average": 5.727,
+      "vote_count": 22
     },
     {
       "adult": false,
@@ -158,8 +158,8 @@
       "release_date": "2025-12-18",
       "title": "La Femme de ménage",
       "video": false,
-      "vote_average": 7.231,
-      "vote_count": 318
+      "vote_average": 7.216,
+      "vote_count": 327
     },
     {
       "adult": false,
@@ -178,8 +178,8 @@
       "release_date": "2025-07-18",
       "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
       "video": false,
-      "vote_average": 7.638,
-      "vote_count": 651
+      "vote_average": 7.63,
+      "vote_count": 652
     },
     {
       "adult": false,
@@ -197,8 +197,8 @@
       "release_date": "2025-07-29",
       "title": "La Guerre des mondes",
       "video": false,
-      "vote_average": 4.2,
-      "vote_count": 829
+      "vote_average": 4.224,
+      "vote_count": 830
     },
     {
       "adult": false,
@@ -217,8 +217,27 @@
       "release_date": "2026-01-06",
       "title": "People We Meet on Vacation",
       "video": false,
-      "vote_average": 7.293,
-      "vote_count": 140
+      "vote_average": 7.216,
+      "vote_count": 162
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mOeBBD49M72vCEXzgA1dS2MwGno.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1228246,
+      "original_language": "en",
+      "original_title": "Five Nights at Freddy's 2",
+      "overview": "Un an s’est écoulé depuis le cauchemar surnaturel survenu chez Freddy Fazbear's Pizza. Un effroyable nouveau chapitre d'horreur s'ouvre lorsqu’Abby, la sœur de Mike, ancien agent de sécurité, s'échappe à la recherche de ses amis animatroniques : Freddy, Bonnie, Chica et Foxy. Alors que de terrifiants événements se déclenchent, de sombres secrets sur les véritables origines de Freddy sont révélés, libérant une horreur oubliée depuis des décennies.",
+      "popularity": 125.4234,
+      "poster_path": "/zaKVvYUJRqgz48FadyxWqGi4m3Z.jpg",
+      "release_date": "2025-12-03",
+      "title": "Five Nights at Freddy's 2",
+      "video": false,
+      "vote_average": 6.79,
+      "vote_count": 575
     },
     {
       "adult": false,
@@ -257,67 +276,8 @@
       "release_date": "2025-11-12",
       "title": "Insaisissables 3",
       "video": false,
-      "vote_average": 6.574,
-      "vote_count": 866
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/mOeBBD49M72vCEXzgA1dS2MwGno.jpg",
-      "genre_ids": [
-        27,
-        53
-      ],
-      "id": 1228246,
-      "original_language": "en",
-      "original_title": "Five Nights at Freddy's 2",
-      "overview": "Un an s’est écoulé depuis le cauchemar surnaturel survenu chez Freddy Fazbear's Pizza. Un effroyable nouveau chapitre d'horreur s'ouvre lorsqu’Abby, la sœur de Mike, ancien agent de sécurité, s'échappe à la recherche de ses amis animatroniques : Freddy, Bonnie, Chica et Foxy. Alors que de terrifiants événements se déclenchent, de sombres secrets sur les véritables origines de Freddy sont révélés, libérant une horreur oubliée depuis des décennies.",
-      "popularity": 125.4234,
-      "poster_path": "/zaKVvYUJRqgz48FadyxWqGi4m3Z.jpg",
-      "release_date": "2025-12-03",
-      "title": "Five Nights at Freddy's 2",
-      "video": false,
-      "vote_average": 6.8,
-      "vote_count": 571
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/novE5UrqfLIFEMe5QBnjm18GG4E.jpg",
-      "genre_ids": [
-        28,
-        80,
-        53
-      ],
-      "id": 1512623,
-      "original_language": "en",
-      "original_title": "Risqué",
-      "overview": "",
-      "popularity": 109.7123,
-      "poster_path": "/h6OsRrDwbspLnKMvlFl57QFDP7d.jpg",
-      "release_date": "2025-08-01",
-      "title": "Risqué",
-      "video": false,
-      "vote_average": 7.446,
-      "vote_count": 37
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/6iXTBfCzWKlFCmHxu5oaeZ3an9G.jpg",
-      "genre_ids": [
-        878,
-        12,
-        18
-      ],
-      "id": 982843,
-      "original_language": "ko",
-      "original_title": "대홍수",
-      "overview": "Alors que l'Apocalypse menace la Terre, une lutte à la vie à la mort dans un appartement submergé par les eaux devient rapidement le seul espoir de subsister pour l'humanité.",
-      "popularity": 105.6605,
-      "poster_path": "/7eO8JlexvT8uyqBVdsPcbk3CE7a.jpg",
-      "release_date": "2025-09-18",
-      "title": "Submersion",
-      "video": false,
-      "vote_average": 6.047,
-      "vote_count": 470
+      "vote_average": 6.576,
+      "vote_count": 868
     },
     {
       "adult": false,
@@ -341,7 +301,47 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/tn95fumbkVAgXjOuw9CQOg0aYQz.jpg",
+      "backdrop_path": "/novE5UrqfLIFEMe5QBnjm18GG4E.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1512623,
+      "original_language": "en",
+      "original_title": "Risqué",
+      "overview": "",
+      "popularity": 109.7123,
+      "poster_path": "/h6OsRrDwbspLnKMvlFl57QFDP7d.jpg",
+      "release_date": "2025-08-01",
+      "title": "Risqué",
+      "video": false,
+      "vote_average": 7.4,
+      "vote_count": 37
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6iXTBfCzWKlFCmHxu5oaeZ3an9G.jpg",
+      "genre_ids": [
+        878,
+        12,
+        18
+      ],
+      "id": 982843,
+      "original_language": "ko",
+      "original_title": "대홍수",
+      "overview": "Alors que l'Apocalypse menace la Terre, une lutte à la vie à la mort dans un appartement submergé par les eaux devient rapidement le seul espoir de subsister pour l'humanité.",
+      "popularity": 105.6605,
+      "poster_path": "/7eO8JlexvT8uyqBVdsPcbk3CE7a.jpg",
+      "release_date": "2025-09-18",
+      "title": "Submersion",
+      "video": false,
+      "vote_average": 6.049,
+      "vote_count": 472
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4BtL2vvEufDXDP4u6xQjjQ1Y2aT.jpg",
       "genre_ids": [
         28,
         80,
@@ -356,27 +356,8 @@
       "release_date": "2025-08-16",
       "title": "The Shadow's Edge",
       "video": false,
-      "vote_average": 6.905,
-      "vote_count": 238
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/bAYEj5QmPKxxEuwhOtDtcaBYdnm.jpg",
-      "genre_ids": [
-        27,
-        9648
-      ],
-      "id": 772462,
-      "original_language": "es",
-      "original_title": "No Me Sigas",
-      "overview": "",
-      "popularity": 82.5868,
-      "poster_path": "/gop4DwcBeb9T3JTaxwDEHdJNqSq.jpg",
-      "release_date": "2025-10-30",
-      "title": "No Me Sigas",
-      "video": false,
-      "vote_average": 6.2,
-      "vote_count": 25
+      "vote_average": 6.998,
+      "vote_count": 254
     },
     {
       "adult": false,
@@ -397,8 +378,28 @@
       "video": false,
       "vote_average": 4.7,
       "vote_count": 12
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zpEWFNqoN8Qg1SzMMHmaGyOBTdW.jpg",
+      "genre_ids": [
+        53,
+        80,
+        28
+      ],
+      "id": 1054867,
+      "original_language": "en",
+      "original_title": "One Battle After Another",
+      "overview": "Bob Ferguson est un ancien révolutionnaire paranoïaque et désabusé, qui a jadis œuvré avec son ex, Perfidia, au sein du French 75, un groupe militant voué au renversement du gouvernement américain. Seize ans plus tard, Bob vit seul avec sa fille, Willa, quand celle-ci disparaît soudainement. Bob soupçonne son vieil ennemi d’antan, le Colonel Steven J. Lockjaw, d’être responsable de sa disparition. Il décide alors de renouer avec ses anciens frères d’armes pour retrouver sa fille, quitte à confronter les fantômes de son passé.",
+      "popularity": 90.4131,
+      "poster_path": "/mnlzDEFOiut55lzM9Lt9ga8xpwo.jpg",
+      "release_date": "2025-09-23",
+      "title": "Une bataille après l'autre",
+      "video": false,
+      "vote_average": 7.447,
+      "vote_count": 2375
     }
   ],
-  "total_pages": 54636,
-  "total_results": 1092710
+  "total_pages": 54650,
+  "total_results": 1092999
 }
