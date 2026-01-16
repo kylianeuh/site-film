@@ -18,8 +18,8 @@
       "release_date": "2025-11-05",
       "title": "Predator : Badlands",
       "video": false,
-      "vote_average": 7.782,
-      "vote_count": 1386
+      "vote_average": 7.783,
+      "vote_count": 1414
     },
     {
       "adult": false,
@@ -38,12 +38,12 @@
       "release_date": "2025-10-16",
       "title": "Icefall",
       "video": false,
-      "vote_average": 6.8,
-      "vote_count": 69
+      "vote_average": 6.779,
+      "vote_count": 70
     },
     {
       "adult": false,
-      "backdrop_path": "/vm4H1DivjQoNIm0Vs6i3CTzFxQ0.jpg",
+      "backdrop_path": "/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
       "genre_ids": [
         878,
         12,
@@ -58,8 +58,26 @@
       "release_date": "2025-12-17",
       "title": "Avatar : De feu et de cendres",
       "video": false,
-      "vote_average": 7.359,
-      "vote_count": 1423
+      "vote_average": 7.36,
+      "vote_count": 1439
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mFDQ8f2lPHorGwtuE0fjnUIbKLF.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 62029,
+      "original_language": "it",
+      "original_title": "Bingo Bongo",
+      "overview": "Un singe comme l'homme trouvé dans la jungle du Congo est amené à Milan, en Italie et est appelé Bingo Bongo. Seulement Laura, anthropologue, croit en ses qualités humaines.",
+      "popularity": 244.1736,
+      "poster_path": "/cqiWWn2tnQwJHFmAMaLR2JdRbzC.jpg",
+      "release_date": "1982-12-23",
+      "title": "Bingo Bongo",
+      "video": false,
+      "vote_average": 5.711,
+      "vote_count": 166
     },
     {
       "adult": false,
@@ -78,8 +96,8 @@
       "release_date": "2025-09-18",
       "title": "The Tank",
       "video": false,
-      "vote_average": 6.995,
-      "vote_count": 215
+      "vote_average": 7.012,
+      "vote_count": 217
     },
     {
       "adult": false,
@@ -101,7 +119,7 @@
       "title": "Zootopie 2",
       "video": false,
       "vote_average": 7.6,
-      "vote_count": 1068
+      "vote_count": 1075
     },
     {
       "adult": false,
@@ -119,8 +137,8 @@
       "release_date": "2025-12-18",
       "title": "La Femme de ménage",
       "video": false,
-      "vote_average": 7.232,
-      "vote_count": 345
+      "vote_average": 7.2,
+      "vote_count": 357
     },
     {
       "adult": false,
@@ -139,8 +157,8 @@
       "release_date": "2025-11-14",
       "title": "Trap House",
       "video": false,
-      "vote_average": 6.348,
-      "vote_count": 141
+      "vote_average": 6.385,
+      "vote_count": 143
     },
     {
       "adult": false,
@@ -178,27 +196,8 @@
       "release_date": "2025-07-18",
       "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
       "video": false,
-      "vote_average": 7.635,
-      "vote_count": 657
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
-      "genre_ids": [
-        878,
-        53
-      ],
-      "id": 755898,
-      "original_language": "en",
-      "original_title": "War of the Worlds",
-      "overview": "Une invasion gargantuesque approche dans cette nouvelle interprétation du légendaire roman homonyme devenu un classique de la science-fiction. La célèbre Eva Longoria partage l'affiche avec le rappeur/acteur Ice Cube, Michael O'Neill et Iman Benson, dans une aventure extraordinaire abordant des thématiques actuelles telles que la technologie, la surveillance et la protection de la vie privée.",
-      "popularity": 129.0439,
-      "poster_path": "/jnVnLfyA9MrBEsYx9vyq0e4dbLj.jpg",
-      "release_date": "2025-07-29",
-      "title": "La Guerre des mondes",
-      "video": false,
-      "vote_average": 4.224,
-      "vote_count": 835
+      "vote_average": 7.636,
+      "vote_count": 658
     },
     {
       "adult": false,
@@ -217,8 +216,27 @@
       "release_date": "2026-01-06",
       "title": "People We Meet on Vacation",
       "video": false,
-      "vote_average": 7.225,
-      "vote_count": 189
+      "vote_average": 7.199,
+      "vote_count": 209
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+      "genre_ids": [
+        878,
+        53
+      ],
+      "id": 755898,
+      "original_language": "en",
+      "original_title": "War of the Worlds",
+      "overview": "Une invasion gargantuesque approche dans cette nouvelle interprétation du légendaire roman homonyme devenu un classique de la science-fiction. La célèbre Eva Longoria partage l'affiche avec le rappeur/acteur Ice Cube, Michael O'Neill et Iman Benson, dans une aventure extraordinaire abordant des thématiques actuelles telles que la technologie, la surveillance et la protection de la vie privée.",
+      "popularity": 129.0439,
+      "poster_path": "/jnVnLfyA9MrBEsYx9vyq0e4dbLj.jpg",
+      "release_date": "2025-07-29",
+      "title": "La Guerre des mondes",
+      "video": false,
+      "vote_average": 4.222,
+      "vote_count": 837
     },
     {
       "adult": false,
@@ -237,8 +255,8 @@
       "release_date": "2024-10-13",
       "title": "Erbsünde - Veil of Sin",
       "video": false,
-      "vote_average": 5.2,
-      "vote_count": 5
+      "vote_average": 4.667,
+      "vote_count": 6
     },
     {
       "adult": false,
@@ -257,27 +275,8 @@
       "release_date": "2025-07-23",
       "title": "Omniscient Reader: The Prophecy",
       "video": false,
-      "vote_average": 6.8,
-      "vote_count": 42
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/mOeBBD49M72vCEXzgA1dS2MwGno.jpg",
-      "genre_ids": [
-        27,
-        53
-      ],
-      "id": 1228246,
-      "original_language": "en",
-      "original_title": "Five Nights at Freddy's 2",
-      "overview": "Un an s’est écoulé depuis le cauchemar surnaturel survenu chez Freddy Fazbear's Pizza. Un effroyable nouveau chapitre d'horreur s'ouvre lorsqu’Abby, la sœur de Mike, ancien agent de sécurité, s'échappe à la recherche de ses amis animatroniques : Freddy, Bonnie, Chica et Foxy. Alors que de terrifiants événements se déclenchent, de sombres secrets sur les véritables origines de Freddy sont révélés, libérant une horreur oubliée depuis des décennies.",
-      "popularity": 102.3757,
-      "poster_path": "/zaKVvYUJRqgz48FadyxWqGi4m3Z.jpg",
-      "release_date": "2025-12-03",
-      "title": "Five Nights at Freddy's 2",
-      "video": false,
-      "vote_average": 6.788,
-      "vote_count": 582
+      "vote_average": 6.872,
+      "vote_count": 43
     },
     {
       "adult": false,
@@ -296,8 +295,27 @@
       "release_date": "2025-11-12",
       "title": "Insaisissables 3",
       "video": false,
-      "vote_average": 6.573,
-      "vote_count": 875
+      "vote_average": 6.571,
+      "vote_count": 878
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mOeBBD49M72vCEXzgA1dS2MwGno.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1228246,
+      "original_language": "en",
+      "original_title": "Five Nights at Freddy's 2",
+      "overview": "Un an s’est écoulé depuis le cauchemar surnaturel survenu chez Freddy Fazbear's Pizza. Un effroyable nouveau chapitre d'horreur s'ouvre lorsqu’Abby, la sœur de Mike, ancien agent de sécurité, s'échappe à la recherche de ses amis animatroniques : Freddy, Bonnie, Chica et Foxy. Alors que de terrifiants événements se déclenchent, de sombres secrets sur les véritables origines de Freddy sont révélés, libérant une horreur oubliée depuis des décennies.",
+      "popularity": 102.3757,
+      "poster_path": "/zaKVvYUJRqgz48FadyxWqGi4m3Z.jpg",
+      "release_date": "2025-12-03",
+      "title": "Five Nights at Freddy's 2",
+      "video": false,
+      "vote_average": 6.802,
+      "vote_count": 589
     },
     {
       "adult": false,
@@ -316,28 +334,27 @@
       "release_date": "2025-08-01",
       "title": "Risqué",
       "video": false,
-      "vote_average": 7.449,
-      "vote_count": 39
+      "vote_average": 7.476,
+      "vote_count": 41
     },
     {
       "adult": false,
-      "backdrop_path": "/4BtL2vvEufDXDP4u6xQjjQ1Y2aT.jpg",
+      "backdrop_path": "/ufuabtiOem0kHeYz6b8x8MjBb2L.jpg",
       "genre_ids": [
-        28,
-        80,
-        53
+        35,
+        18
       ],
-      "id": 1419406,
-      "original_language": "zh",
-      "original_title": "捕风追影",
-      "overview": "Un mystérieux mafieux et ses 7 fils adoptifs manipulent et ridiculisent la police en piratant le système de surveillance ultramoderne de la ville, dans le but de récupérer une fortune en crypto-monnaie. La police devenue impuissante doit faire appel à un ancien expert qui va s’associer avec une jeune policière à laquelle il est lié par un secret qu’elle ignore. Une partie d’échec commence alors, où les cerveaux et la loyauté seront mis à l’épreuve.",
-      "popularity": 94.8051,
-      "poster_path": "/t1PFVsGYdUHtPv0Xowoc9b4PAap.jpg",
-      "release_date": "2025-08-16",
-      "title": "The Shadow's Edge",
+      "id": 1208348,
+      "original_language": "en",
+      "original_title": "Rental Family",
+      "overview": "Campé dans le Tokyo d’aujourd’hui, un acteur américain en crise professionnelle, embauché par une agence japonaise de « famille à louer », un emploi étrange qui lui fait jouer différents rôles auprès de parfaits inconnus. Plongeant dans le monde ses clients, il commence à former de véritables liens qui brouillent la frontière entre la fiction et la réalité. Face aux questions morales soulevées par son travail, il redécouvre un but, un sentiment d’appartenance et la beauté discrète des connexions humaines.",
+      "popularity": 96.4492,
+      "poster_path": "/7y4MMgdikoGMvQX8oEJNKMASUWr.jpg",
+      "release_date": "2025-11-20",
+      "title": "Rental Family",
       "video": false,
-      "vote_average": 6.994,
-      "vote_count": 265
+      "vote_average": 7.7,
+      "vote_count": 100
     },
     {
       "adult": false,
@@ -356,49 +373,30 @@
       "release_date": "2025-09-18",
       "title": "Submersion",
       "video": false,
-      "vote_average": 6,
-      "vote_count": 480
+      "vote_average": 6.036,
+      "vote_count": 483
     },
     {
       "adult": false,
-      "backdrop_path": "/ufuabtiOem0kHeYz6b8x8MjBb2L.jpg",
+      "backdrop_path": "/4BtL2vvEufDXDP4u6xQjjQ1Y2aT.jpg",
       "genre_ids": [
-        35,
-        18
-      ],
-      "id": 1208348,
-      "original_language": "en",
-      "original_title": "Rental Family",
-      "overview": "Campé dans le Tokyo d’aujourd’hui, un acteur américain en crise professionnelle, embauché par une agence japonaise de « famille à louer », un emploi étrange qui lui fait jouer différents rôles auprès de parfaits inconnus. Plongeant dans le monde ses clients, il commence à former de véritables liens qui brouillent la frontière entre la fiction et la réalité. Face aux questions morales soulevées par son travail, il redécouvre un but, un sentiment d’appartenance et la beauté discrète des connexions humaines.",
-      "popularity": 96.4492,
-      "poster_path": "/rmA5MF9FrPeOScTHnXcalzx0Ha4.jpg",
-      "release_date": "2025-11-20",
-      "title": "Rental Family",
-      "video": false,
-      "vote_average": 7.79,
-      "vote_count": 81
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/zpEWFNqoN8Qg1SzMMHmaGyOBTdW.jpg",
-      "genre_ids": [
-        53,
+        28,
         80,
-        28
+        53
       ],
-      "id": 1054867,
-      "original_language": "en",
-      "original_title": "One Battle After Another",
-      "overview": "Bob Ferguson est un ancien révolutionnaire paranoïaque et désabusé, qui a jadis œuvré avec son ex, Perfidia, au sein du French 75, un groupe militant voué au renversement du gouvernement américain. Seize ans plus tard, Bob vit seul avec sa fille, Willa, quand celle-ci disparaît soudainement. Bob soupçonne son vieil ennemi d’antan, le Colonel Steven J. Lockjaw, d’être responsable de sa disparition. Il décide alors de renouer avec ses anciens frères d’armes pour retrouver sa fille, quitte à confronter les fantômes de son passé.",
-      "popularity": 86.2501,
-      "poster_path": "/mnlzDEFOiut55lzM9Lt9ga8xpwo.jpg",
-      "release_date": "2025-09-23",
-      "title": "Une bataille après l'autre",
+      "id": 1419406,
+      "original_language": "zh",
+      "original_title": "捕风追影",
+      "overview": "Un mystérieux mafieux et ses 7 fils adoptifs manipulent et ridiculisent la police en piratant le système de surveillance ultramoderne de la ville, dans le but de récupérer une fortune en crypto-monnaie. La police devenue impuissante doit faire appel à un ancien expert qui va s’associer avec une jeune policière à laquelle il est lié par un secret qu’elle ignore. Une partie d’échec commence alors, où les cerveaux et la loyauté seront mis à l’épreuve.",
+      "popularity": 94.8051,
+      "poster_path": "/t1PFVsGYdUHtPv0Xowoc9b4PAap.jpg",
+      "release_date": "2025-08-16",
+      "title": "The Shadow's Edge",
       "video": false,
-      "vote_average": 7.441,
-      "vote_count": 2400
+      "vote_average": 7.045,
+      "vote_count": 275
     }
   ],
-  "total_pages": 54670,
-  "total_results": 1093397
+  "total_pages": 54696,
+  "total_results": 1093918
 }
