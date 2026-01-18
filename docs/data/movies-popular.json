@@ -13,13 +13,13 @@
       "original_language": "en",
       "original_title": "Predator: Badlands",
       "overview": "Jugé trop faible et indigne par son père, chef de la tribu des Yautja, Dek est sur le point de se faire exécuter par son frère Kwei. Mais au dernier moment, celui-ci préfère se sacrifier pour favoriser sa fuite. Décidé à prouver son courage, le jeune paria se rend sur la planète Genna pour y capturer le Kalisk, un monstre réputé invincible. Confronté à une nature hostile et imprévisible, le guerrier inexpérimenté doit sa survie à Thia, une androïde privée de la partie inférieure de son corps depuis son affrontement avec le Kalisk. Avec l'aide de celle-ci, Dek amorce sa traque de la terrible créature, convoitée par des scientifiques pour ses formidables dons de régénération.",
-      "popularity": 472.2313,
+      "popularity": 420.2485,
       "poster_path": "/empQGO0pCVTndCpihyVpNfaLebl.jpg",
       "release_date": "2025-11-05",
       "title": "Predator : Badlands",
       "video": false,
-      "vote_average": 7.8,
-      "vote_count": 1434
+      "vote_average": 7.788,
+      "vote_count": 1476
     },
     {
       "adult": false,
@@ -33,13 +33,13 @@
       "original_language": "en",
       "original_title": "Icefall",
       "overview": "Un garde-chasse autochtone arrête un braconnier qui sait où se trouve une cachette avec des millions de dollars. Traqué par des criminels et des flics corrompus, les deux doivent faire équipe pour trouver l'argent avant eux et pour s'échapper à travers un lac en dégel.",
-      "popularity": 320.9231,
+      "popularity": 291.7639,
       "poster_path": "/5Byv6nznAb2Izd0gHpODOXnuSbo.jpg",
       "release_date": "2025-10-16",
       "title": "Icefall",
       "video": false,
-      "vote_average": 6.767,
-      "vote_count": 75
+      "vote_average": 6.686,
+      "vote_count": 78
     },
     {
       "adult": false,
@@ -53,33 +53,13 @@
       "original_language": "en",
       "original_title": "Avatar: Fire and Ash",
       "overview": "Après la mort de Neteyam, Jake et Neytiri affrontent leur chagrin tout en faisant face au Peuple des Cendres, une tribu Na’vi redoutable menée par le fougueux Varang, alors que le conflit sur Pandora s’intensifie et qu’une nouvelle quê morale s’amorce.",
-      "popularity": 289.2573,
+      "popularity": 285.5173,
       "poster_path": "/cfGTBeMJU5C4Q2yEq8Nh6rPspn6.jpg",
       "release_date": "2025-12-17",
       "title": "Avatar : De feu et de cendres",
       "video": false,
       "vote_average": 7.355,
-      "vote_count": 1451
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/vMxOmgmBGegjVObjlb8ugsjGgkD.jpg",
-      "genre_ids": [
-        10752,
-        28,
-        18
-      ],
-      "id": 1252037,
-      "original_language": "de",
-      "original_title": "Der Tiger",
-      "overview": "Front de l'Est, 1943 : l'équipage d'un char Tigre allemand se voit confier une dangereuse mission loin derrière les lignes de front âprement disputées. Durant leur traversée de ce no man's land, ils doivent affronter l'ennemi ainsi que leurs propres démons.",
-      "popularity": 208.7288,
-      "poster_path": "/s8rCTOHsyM9vylRtpuQocVNQ5wO.jpg",
-      "release_date": "2025-09-18",
-      "title": "The Tank",
-      "video": false,
-      "vote_average": 7.005,
-      "vote_count": 221
+      "vote_count": 1474
     },
     {
       "adult": false,
@@ -95,13 +75,55 @@
       "original_language": "en",
       "original_title": "Zootopia 2",
       "overview": "Judy Hopps et Nick Wilde explorent à nouveau Zootopie, entre mystères, rires et rencontres inattendues. À travers chaque rue et chaque instant, ils découvrent que l’amitié et la curiosité transforment le quotidien en moments magiques.",
-      "popularity": 201.8847,
+      "popularity": 201.7295,
       "poster_path": "/hBI7Wrps6tDjhEzBxJgoPLhbmT1.jpg",
       "release_date": "2025-11-26",
       "title": "Zootopie 2",
       "video": false,
-      "vote_average": 7.605,
-      "vote_count": 1085
+      "vote_average": 7.615,
+      "vote_count": 1102
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vMxOmgmBGegjVObjlb8ugsjGgkD.jpg",
+      "genre_ids": [
+        10752,
+        28,
+        18
+      ],
+      "id": 1252037,
+      "original_language": "de",
+      "original_title": "Der Tiger",
+      "overview": "Front de l'Est, 1943 : l'équipage d'un char Tigre allemand se voit confier une dangereuse mission loin derrière les lignes de front âprement disputées. Durant leur traversée de ce no man's land, ils doivent affronter l'ennemi ainsi que leurs propres démons.",
+      "popularity": 187.6576,
+      "poster_path": "/s8rCTOHsyM9vylRtpuQocVNQ5wO.jpg",
+      "release_date": "2025-09-18",
+      "title": "The Tank",
+      "video": false,
+      "vote_average": 7.021,
+      "vote_count": 233
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kwNIQW7egAmI66sb0zIugMbpCfU.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80,
+        18,
+        9648
+      ],
+      "id": 1306368,
+      "original_language": "en",
+      "original_title": "The Rip",
+      "overview": "La méfiance s'installe quand une équipe de flics de Miami découvre des millions en cash dans une planque délabrée. Plus personne ne sait quoi penser... ni à qui se fier.",
+      "popularity": 291.2808,
+      "poster_path": "/hMoQlTlUlesatqxOtzVLZjkU9Wm.jpg",
+      "release_date": "2026-01-13",
+      "title": "The Rip",
+      "video": false,
+      "vote_average": 7.148,
+      "vote_count": 203
     },
     {
       "adult": false,
@@ -114,13 +136,13 @@
       "original_language": "en",
       "original_title": "The Housemaid",
       "overview": "À sa sortie de prison, Millie Calloway décroche un emploi de femme de ménage en résidence chez la riche famille Winchester, composée de Nina, son mari Andrew et leur fille Cecelia. Mais ce qui ressemblait à un nouveau départ, pour la jeune femme qui souhaite se reconstruire, se transforme vite en cauchemar. Millie découvre en effet que rien dans cette maison parfaite n’est ce qu’il paraît. Entre manipulations psychologiques, secrets de famille et désirs interdits, Millie navigue à vue sur un océan de mensonges, de trahisons et de jeux de pouvoir.",
-      "popularity": 163.3652,
+      "popularity": 186.2816,
       "poster_path": "/szdrVdnS8XAzqFyzPDhYXaJk7EK.jpg",
       "release_date": "2025-12-18",
       "title": "La Femme de ménage",
       "video": false,
-      "vote_average": 7.23,
-      "vote_count": 381
+      "vote_average": 7.183,
+      "vote_count": 407
     },
     {
       "adult": false,
@@ -132,13 +154,32 @@
       "original_language": "it",
       "original_title": "Bingo Bongo",
       "overview": "Un singe comme l'homme trouvé dans la jungle du Congo est amené à Milan, en Italie et est appelé Bingo Bongo. Seulement Laura, anthropologue, croit en ses qualités humaines.",
-      "popularity": 160.6295,
+      "popularity": 164.3929,
       "poster_path": "/cqiWWn2tnQwJHFmAMaLR2JdRbzC.jpg",
       "release_date": "1982-12-23",
       "title": "Bingo Bongo",
       "video": false,
       "vote_average": 5.711,
       "vote_count": 166
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+      "genre_ids": [
+        878,
+        53
+      ],
+      "id": 755898,
+      "original_language": "en",
+      "original_title": "War of the Worlds",
+      "overview": "Une invasion gargantuesque approche dans cette nouvelle interprétation du légendaire roman homonyme devenu un classique de la science-fiction. La célèbre Eva Longoria partage l'affiche avec le rappeur/acteur Ice Cube, Michael O'Neill et Iman Benson, dans une aventure extraordinaire abordant des thématiques actuelles telles que la technologie, la surveillance et la protection de la vie privée.",
+      "popularity": 136.4181,
+      "poster_path": "/jnVnLfyA9MrBEsYx9vyq0e4dbLj.jpg",
+      "release_date": "2025-07-29",
+      "title": "La Guerre des mondes",
+      "video": false,
+      "vote_average": 4.226,
+      "vote_count": 840
     },
     {
       "adult": false,
@@ -152,32 +193,13 @@
       "original_language": "en",
       "original_title": "Trap House",
       "overview": "À El Paso, au Texas, un agent infiltré de la DEA et son partenaire se lancent dans un jeu du chat et de la souris avec un groupe de voleurs audacieux : leurs propres adolescents rebelles. Les ados ont décidé de voler de l'argent à un dangereux cartel en utilisant les tactiques de leurs parents et leurs informations top secrètes.",
-      "popularity": 135.4772,
+      "popularity": 120.4269,
       "poster_path": "/nB7FNwWluEChCGSlGkG4mprhQHw.jpg",
       "release_date": "2025-11-14",
       "title": "Trap House",
       "video": false,
-      "vote_average": 6.44,
-      "vote_count": 150
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/wCwZ4ljSsWyZyTiyk1tGQtBHTDx.jpg",
-      "genre_ids": [
-        28,
-        18
-      ],
-      "id": 1511417,
-      "original_language": "te",
-      "original_title": "Baahubali: The Epic",
-      "overview": "Sauvé des eaux à la naissance, Shiva développe en grandissant une force prodigieuse et un courage exceptionnel. Parvenu à l’âge adulte, il décide d’escalader la vertigineuse cascade qui domine son village. Il découvre au sommet un monde inconnu et fait la rencontre d’Avanthika, une guerrière rebelle qui lutte pour libérer la reine Devasena, prisonnière de l’empire de Mahishmati. Fasciné par la détermination de la jeune femme, Shiva décide de lui venir en aide, ignorant encore ses propres liens avec ce royaume – dont il est en réalité le prince héritier : Baahubali.",
-      "popularity": 131.4832,
-      "poster_path": "/fDfe8Ru6u9VCzswgDYquxkHTxmQ.jpg",
-      "release_date": "2025-10-29",
-      "title": "La Légende de Baahubali, l’épopée – Version Director’s Cut",
-      "video": false,
-      "vote_average": 5.7,
-      "vote_count": 22
+      "vote_average": 6.478,
+      "vote_count": 156
     },
     {
       "adult": false,
@@ -191,32 +213,32 @@
       "original_language": "ja",
       "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
       "overview": "L'armée des pourfendeurs de démons est attirée dans la Forteresse Infinie, où Tanjiro, Zenitsu et Inosuke  affrontent de terrifiants démons de rang supérieur dans un combat désespéré alors que la bataille finale contre Kibutsuji Muzan commence.",
-      "popularity": 131.3128,
+      "popularity": 127.4235,
       "poster_path": "/wXTU3AFmlUPbqjH68MZ989uHd6k.jpg",
       "release_date": "2025-07-18",
       "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
       "video": false,
-      "vote_average": 7.637,
-      "vote_count": 659
+      "vote_average": 7.645,
+      "vote_count": 662
     },
     {
       "adult": false,
-      "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+      "backdrop_path": "/wCwZ4ljSsWyZyTiyk1tGQtBHTDx.jpg",
       "genre_ids": [
-        878,
-        53
+        28,
+        18
       ],
-      "id": 755898,
-      "original_language": "en",
-      "original_title": "War of the Worlds",
-      "overview": "Une invasion gargantuesque approche dans cette nouvelle interprétation du légendaire roman homonyme devenu un classique de la science-fiction. La célèbre Eva Longoria partage l'affiche avec le rappeur/acteur Ice Cube, Michael O'Neill et Iman Benson, dans une aventure extraordinaire abordant des thématiques actuelles telles que la technologie, la surveillance et la protection de la vie privée.",
-      "popularity": 128.4569,
-      "poster_path": "/jnVnLfyA9MrBEsYx9vyq0e4dbLj.jpg",
-      "release_date": "2025-07-29",
-      "title": "La Guerre des mondes",
+      "id": 1511417,
+      "original_language": "te",
+      "original_title": "Baahubali: The Epic",
+      "overview": "Sauvé des eaux à la naissance, Shiva développe en grandissant une force prodigieuse et un courage exceptionnel. Parvenu à l’âge adulte, il décide d’escalader la vertigineuse cascade qui domine son village. Il découvre au sommet un monde inconnu et fait la rencontre d’Avanthika, une guerrière rebelle qui lutte pour libérer la reine Devasena, prisonnière de l’empire de Mahishmati. Fasciné par la détermination de la jeune femme, Shiva décide de lui venir en aide, ignorant encore ses propres liens avec ce royaume – dont il est en réalité le prince héritier : Baahubali.",
+      "popularity": 115.5531,
+      "poster_path": "/fDfe8Ru6u9VCzswgDYquxkHTxmQ.jpg",
+      "release_date": "2025-10-29",
+      "title": "La Légende de Baahubali, l’épopée – Version Director’s Cut",
       "video": false,
-      "vote_average": 4.222,
-      "vote_count": 837
+      "vote_average": 5.7,
+      "vote_count": 22
     },
     {
       "adult": false,
@@ -230,53 +252,13 @@
       "original_language": "en",
       "original_title": "People We Meet on Vacation",
       "overview": "Poppy, l'esprit libre. Alex, le casanier. Compagnons de voyage depuis longtemps, ces deux amis improbables se demandent s'ils ne formeraient pas le couple parfait.",
-      "popularity": 124.0432,
+      "popularity": 94.5774,
       "poster_path": "/9JvLhsZ7FoO2YfAqSl3T7aprs3B.jpg",
       "release_date": "2026-01-06",
       "title": "People We Meet on Vacation",
       "video": false,
-      "vote_average": 7.212,
-      "vote_count": 226
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/j3OksPD3jY3vhqf1sKOWXWLQEMB.jpg",
-      "genre_ids": [
-        27,
-        28,
-        878
-      ],
-      "id": 1301122,
-      "original_language": "en",
-      "original_title": "Erbsünde - Veil of Sin",
-      "overview": "",
-      "popularity": 108.933,
-      "poster_path": "/3daBOc5ZcICXMzAVNhzJTSgweaP.jpg",
-      "release_date": "2024-10-13",
-      "title": "Erbsünde - Veil of Sin",
-      "video": false,
-      "vote_average": 4.667,
-      "vote_count": 6
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/fP6L6V42980QmuoyyGXCmWphwpT.jpg",
-      "genre_ids": [
-        28,
-        12,
-        14
-      ],
-      "id": 1131759,
-      "original_language": "ko",
-      "original_title": "전지적 독자 시점",
-      "overview": "KIM Dokja est l'unique lecteur du web-roman fantastique \"Les trois façons de survivre dans un monde en ruine\". Quand le roman devient la réalité, Dokja est le seul qui connaît comment l'histoire - et maintenant le monde réel - se termine. Avec ses compagnons, il s'efforce de sauver le monde en écrivant un nouveau chapitre et en changeant la fin.",
-      "popularity": 108.446,
-      "poster_path": "/lWQRM7IOCyJT9E5kOnoUvZNELHQ.jpg",
-      "release_date": "2025-07-23",
-      "title": "Omniscient Reader: The Prophecy",
-      "video": false,
-      "vote_average": 6.9,
-      "vote_count": 44
+      "vote_average": 7.176,
+      "vote_count": 250
     },
     {
       "adult": false,
@@ -291,13 +273,53 @@
       "original_language": "zh",
       "original_title": "捕风追影",
       "overview": "Un mystérieux mafieux et ses 7 fils adoptifs manipulent et ridiculisent la police en piratant le système de surveillance ultramoderne de la ville, dans le but de récupérer une fortune en crypto-monnaie. La police devenue impuissante doit faire appel à un ancien expert qui va s’associer avec une jeune policière à laquelle il est lié par un secret qu’elle ignore. Une partie d’échec commence alors, où les cerveaux et la loyauté seront mis à l’épreuve.",
-      "popularity": 101.5904,
+      "popularity": 108.9707,
       "poster_path": "/t1PFVsGYdUHtPv0Xowoc9b4PAap.jpg",
       "release_date": "2025-08-16",
       "title": "The Shadow's Edge",
       "video": false,
-      "vote_average": 7.087,
-      "vote_count": 283
+      "vote_average": 7.101,
+      "vote_count": 293
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/fP6L6V42980QmuoyyGXCmWphwpT.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "id": 1131759,
+      "original_language": "ko",
+      "original_title": "전지적 독자 시점",
+      "overview": "KIM Dokja est l'unique lecteur du web-roman fantastique \"Les trois façons de survivre dans un monde en ruine\". Quand le roman devient la réalité, Dokja est le seul qui connaît comment l'histoire - et maintenant le monde réel - se termine. Avec ses compagnons, il s'efforce de sauver le monde en écrivant un nouveau chapitre et en changeant la fin.",
+      "popularity": 105.772,
+      "poster_path": "/lWQRM7IOCyJT9E5kOnoUvZNELHQ.jpg",
+      "release_date": "2025-07-23",
+      "title": "Omniscient Reader: The Prophecy",
+      "video": false,
+      "vote_average": 6.722,
+      "vote_count": 45
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/j3OksPD3jY3vhqf1sKOWXWLQEMB.jpg",
+      "genre_ids": [
+        27,
+        28,
+        878
+      ],
+      "id": 1301122,
+      "original_language": "en",
+      "original_title": "Erbsünde - Veil of Sin",
+      "overview": "",
+      "popularity": 90.1256,
+      "poster_path": "/3daBOc5ZcICXMzAVNhzJTSgweaP.jpg",
+      "release_date": "2024-10-13",
+      "title": "Erbsünde - Veil of Sin",
+      "video": false,
+      "vote_average": 5.357,
+      "vote_count": 14
     },
     {
       "adult": false,
@@ -311,13 +333,32 @@
       "original_language": "en",
       "original_title": "Now You See Me: Now You Don't",
       "overview": "Les Cavaliers sont de retour pour le braquage le plus impressionnant jamais imaginé ! Accompagnés d'un groupe de jeunes magiciens qui espèrent suivre leur trace, ils vont devoir repousser les limites de l'illusion pour orchestrer leur tour le plus spectaculaire : dérober le joyau le plus précieux du monde des mains d'une redoutable organisation criminelle…",
-      "popularity": 100.4047,
+      "popularity": 103.9344,
       "poster_path": "/ie5Xe7ptwL1X108NEwECgXqhbAM.jpg",
       "release_date": "2025-11-12",
       "title": "Insaisissables 3",
       "video": false,
-      "vote_average": 6.575,
-      "vote_count": 882
+      "vote_average": 6.576,
+      "vote_count": 890
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ufuabtiOem0kHeYz6b8x8MjBb2L.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 1208348,
+      "original_language": "en",
+      "original_title": "Rental Family",
+      "overview": "Campé dans le Tokyo d’aujourd’hui, un acteur américain en crise professionnelle, embauché par une agence japonaise de « famille à louer », un emploi étrange qui lui fait jouer différents rôles auprès de parfaits inconnus. Plongeant dans le monde ses clients, il commence à former de véritables liens qui brouillent la frontière entre la fiction et la réalité. Face aux questions morales soulevées par son travail, il redécouvre un but, un sentiment d’appartenance et la beauté discrète des connexions humaines.",
+      "popularity": 103.1799,
+      "poster_path": "/7y4MMgdikoGMvQX8oEJNKMASUWr.jpg",
+      "release_date": "2025-11-20",
+      "title": "Rental Family",
+      "video": false,
+      "vote_average": 7.859,
+      "vote_count": 142
     },
     {
       "adult": false,
@@ -331,51 +372,13 @@
       "original_language": "en",
       "original_title": "Risqué",
       "overview": "",
-      "popularity": 97.6459,
+      "popularity": 95.7737,
       "poster_path": "/h6OsRrDwbspLnKMvlFl57QFDP7d.jpg",
       "release_date": "2025-08-01",
       "title": "Risqué",
       "video": false,
-      "vote_average": 7.489,
-      "vote_count": 44
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/ufuabtiOem0kHeYz6b8x8MjBb2L.jpg",
-      "genre_ids": [
-        35,
-        18
-      ],
-      "id": 1208348,
-      "original_language": "en",
-      "original_title": "Rental Family",
-      "overview": "Campé dans le Tokyo d’aujourd’hui, un acteur américain en crise professionnelle, embauché par une agence japonaise de « famille à louer », un emploi étrange qui lui fait jouer différents rôles auprès de parfaits inconnus. Plongeant dans le monde ses clients, il commence à former de véritables liens qui brouillent la frontière entre la fiction et la réalité. Face aux questions morales soulevées par son travail, il redécouvre un but, un sentiment d’appartenance et la beauté discrète des connexions humaines.",
-      "popularity": 95.7149,
-      "poster_path": "/7y4MMgdikoGMvQX8oEJNKMASUWr.jpg",
-      "release_date": "2025-11-20",
-      "title": "Rental Family",
-      "video": false,
-      "vote_average": 7.618,
-      "vote_count": 110
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/mOeBBD49M72vCEXzgA1dS2MwGno.jpg",
-      "genre_ids": [
-        27,
-        53
-      ],
-      "id": 1228246,
-      "original_language": "en",
-      "original_title": "Five Nights at Freddy's 2",
-      "overview": "Un an s’est écoulé depuis le cauchemar surnaturel survenu chez Freddy Fazbear's Pizza. Un effroyable nouveau chapitre d'horreur s'ouvre lorsqu’Abby, la sœur de Mike, ancien agent de sécurité, s'échappe à la recherche de ses amis animatroniques : Freddy, Bonnie, Chica et Foxy. Alors que de terrifiants événements se déclenchent, de sombres secrets sur les véritables origines de Freddy sont révélés, libérant une horreur oubliée depuis des décennies.",
-      "popularity": 94.3377,
-      "poster_path": "/zaKVvYUJRqgz48FadyxWqGi4m3Z.jpg",
-      "release_date": "2025-12-03",
-      "title": "Five Nights at Freddy's 2",
-      "video": false,
-      "vote_average": 6.781,
-      "vote_count": 597
+      "vote_average": 7.544,
+      "vote_count": 45
     },
     {
       "adult": false,
@@ -389,15 +392,15 @@
       "original_language": "ko",
       "original_title": "대홍수",
       "overview": "Alors que l'Apocalypse menace la Terre, une lutte à la vie à la mort dans un appartement submergé par les eaux devient rapidement le seul espoir de subsister pour l'humanité.",
-      "popularity": 89.9539,
+      "popularity": 88.736,
       "poster_path": "/7eO8JlexvT8uyqBVdsPcbk3CE7a.jpg",
       "release_date": "2025-09-18",
       "title": "Submersion",
       "video": false,
-      "vote_average": 6.032,
-      "vote_count": 486
+      "vote_average": 6.031,
+      "vote_count": 493
     }
   ],
-  "total_pages": 54706,
-  "total_results": 1094119
+  "total_pages": 54728,
+  "total_results": 1094541
 }
