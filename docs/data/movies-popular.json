@@ -18,8 +18,8 @@
       "release_date": "2025-11-05",
       "title": "Predator : Badlands",
       "video": false,
-      "vote_average": 7.788,
-      "vote_count": 1476
+      "vote_average": 7.794,
+      "vote_count": 1501
     },
     {
       "adult": false,
@@ -38,70 +38,8 @@
       "release_date": "2025-10-16",
       "title": "Icefall",
       "video": false,
-      "vote_average": 6.686,
-      "vote_count": 78
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
-      "genre_ids": [
-        878,
-        12,
-        14
-      ],
-      "id": 83533,
-      "original_language": "en",
-      "original_title": "Avatar: Fire and Ash",
-      "overview": "Après la mort de Neteyam, Jake et Neytiri affrontent leur chagrin tout en faisant face au Peuple des Cendres, une tribu Na’vi redoutable menée par le fougueux Varang, alors que le conflit sur Pandora s’intensifie et qu’une nouvelle quê morale s’amorce.",
-      "popularity": 285.5173,
-      "poster_path": "/cfGTBeMJU5C4Q2yEq8Nh6rPspn6.jpg",
-      "release_date": "2025-12-17",
-      "title": "Avatar : De feu et de cendres",
-      "video": false,
-      "vote_average": 7.355,
-      "vote_count": 1474
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
-      "genre_ids": [
-        16,
-        35,
-        12,
-        10751,
-        9648
-      ],
-      "id": 1084242,
-      "original_language": "en",
-      "original_title": "Zootopia 2",
-      "overview": "Judy Hopps et Nick Wilde explorent à nouveau Zootopie, entre mystères, rires et rencontres inattendues. À travers chaque rue et chaque instant, ils découvrent que l’amitié et la curiosité transforment le quotidien en moments magiques.",
-      "popularity": 201.7295,
-      "poster_path": "/hBI7Wrps6tDjhEzBxJgoPLhbmT1.jpg",
-      "release_date": "2025-11-26",
-      "title": "Zootopie 2",
-      "video": false,
-      "vote_average": 7.615,
-      "vote_count": 1102
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/vMxOmgmBGegjVObjlb8ugsjGgkD.jpg",
-      "genre_ids": [
-        10752,
-        28,
-        18
-      ],
-      "id": 1252037,
-      "original_language": "de",
-      "original_title": "Der Tiger",
-      "overview": "Front de l'Est, 1943 : l'équipage d'un char Tigre allemand se voit confier une dangereuse mission loin derrière les lignes de front âprement disputées. Durant leur traversée de ce no man's land, ils doivent affronter l'ennemi ainsi que leurs propres démons.",
-      "popularity": 187.6576,
-      "poster_path": "/s8rCTOHsyM9vylRtpuQocVNQ5wO.jpg",
-      "release_date": "2025-09-18",
-      "title": "The Tank",
-      "video": false,
-      "vote_average": 7.021,
-      "vote_count": 233
+      "vote_average": 6.524,
+      "vote_count": 85
     },
     {
       "adult": false,
@@ -122,8 +60,70 @@
       "release_date": "2026-01-13",
       "title": "The Rip",
       "video": false,
-      "vote_average": 7.148,
-      "vote_count": 203
+      "vote_average": 7.167,
+      "vote_count": 330
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
+      "genre_ids": [
+        878,
+        12,
+        14
+      ],
+      "id": 83533,
+      "original_language": "en",
+      "original_title": "Avatar: Fire and Ash",
+      "overview": "Après la mort de Neteyam, Jake et Neytiri affrontent leur chagrin tout en faisant face au Peuple des Cendres, une tribu Na’vi redoutable menée par le fougueux Varang, alors que le conflit sur Pandora s’intensifie et qu’une nouvelle quê morale s’amorce.",
+      "popularity": 285.5173,
+      "poster_path": "/cfGTBeMJU5C4Q2yEq8Nh6rPspn6.jpg",
+      "release_date": "2025-12-17",
+      "title": "Avatar : De feu et de cendres",
+      "video": false,
+      "vote_average": 7.353,
+      "vote_count": 1493
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7nfpkR9XsQ1lBNCXSSHxGV7Dkxe.jpg",
+      "genre_ids": [
+        16,
+        35,
+        12,
+        10751,
+        9648
+      ],
+      "id": 1084242,
+      "original_language": "en",
+      "original_title": "Zootopia 2",
+      "overview": "Judy Hopps et Nick Wilde explorent à nouveau Zootopie, entre mystères, rires et rencontres inattendues. À travers chaque rue et chaque instant, ils découvrent que l’amitié et la curiosité transforment le quotidien en moments magiques.",
+      "popularity": 201.7295,
+      "poster_path": "/hBI7Wrps6tDjhEzBxJgoPLhbmT1.jpg",
+      "release_date": "2025-11-26",
+      "title": "Zootopie 2",
+      "video": false,
+      "vote_average": 7.612,
+      "vote_count": 1112
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vMxOmgmBGegjVObjlb8ugsjGgkD.jpg",
+      "genre_ids": [
+        10752,
+        28,
+        18
+      ],
+      "id": 1252037,
+      "original_language": "de",
+      "original_title": "Der Tiger",
+      "overview": "Front de l'Est, 1943 : l'équipage d'un char Tigre allemand se voit confier une dangereuse mission loin derrière les lignes de front âprement disputées. Durant leur traversée de ce no man's land, ils doivent affronter l'ennemi ainsi que leurs propres démons.",
+      "popularity": 187.6576,
+      "poster_path": "/s8rCTOHsyM9vylRtpuQocVNQ5wO.jpg",
+      "release_date": "2025-09-18",
+      "title": "The Tank",
+      "video": false,
+      "vote_average": 7.05,
+      "vote_count": 242
     },
     {
       "adult": false,
@@ -141,8 +141,8 @@
       "release_date": "2025-12-18",
       "title": "La Femme de ménage",
       "video": false,
-      "vote_average": 7.183,
-      "vote_count": 407
+      "vote_average": 7.173,
+      "vote_count": 426
     },
     {
       "adult": false,
@@ -178,28 +178,8 @@
       "release_date": "2025-07-29",
       "title": "La Guerre des mondes",
       "video": false,
-      "vote_average": 4.226,
-      "vote_count": 840
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/oIJjO1CvEdTMFNkWfHaV0RB584G.jpg",
-      "genre_ids": [
-        28,
-        80,
-        53
-      ],
-      "id": 628847,
-      "original_language": "en",
-      "original_title": "Trap House",
-      "overview": "À El Paso, au Texas, un agent infiltré de la DEA et son partenaire se lancent dans un jeu du chat et de la souris avec un groupe de voleurs audacieux : leurs propres adolescents rebelles. Les ados ont décidé de voler de l'argent à un dangereux cartel en utilisant les tactiques de leurs parents et leurs informations top secrètes.",
-      "popularity": 120.4269,
-      "poster_path": "/nB7FNwWluEChCGSlGkG4mprhQHw.jpg",
-      "release_date": "2025-11-14",
-      "title": "Trap House",
-      "video": false,
-      "vote_average": 6.478,
-      "vote_count": 156
+      "vote_average": 4.225,
+      "vote_count": 844
     },
     {
       "adult": false,
@@ -218,8 +198,28 @@
       "release_date": "2025-07-18",
       "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
       "video": false,
-      "vote_average": 7.645,
+      "vote_average": 7.644,
       "vote_count": 662
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oIJjO1CvEdTMFNkWfHaV0RB584G.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 628847,
+      "original_language": "en",
+      "original_title": "Trap House",
+      "overview": "À El Paso, au Texas, un agent infiltré de la DEA et son partenaire se lancent dans un jeu du chat et de la souris avec un groupe de voleurs audacieux : leurs propres adolescents rebelles. Les ados ont décidé de voler de l'argent à un dangereux cartel en utilisant les tactiques de leurs parents et leurs informations top secrètes.",
+      "popularity": 120.4269,
+      "poster_path": "/nB7FNwWluEChCGSlGkG4mprhQHw.jpg",
+      "release_date": "2025-11-14",
+      "title": "Trap House",
+      "video": false,
+      "vote_average": 6.525,
+      "vote_count": 162
     },
     {
       "adult": false,
@@ -242,26 +242,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/qth56RA3rkUlhbDRDKGeMJEssdi.jpg",
-      "genre_ids": [
-        10749,
-        35,
-        18
-      ],
-      "id": 1034716,
-      "original_language": "en",
-      "original_title": "People We Meet on Vacation",
-      "overview": "Poppy, l'esprit libre. Alex, le casanier. Compagnons de voyage depuis longtemps, ces deux amis improbables se demandent s'ils ne formeraient pas le couple parfait.",
-      "popularity": 94.5774,
-      "poster_path": "/9JvLhsZ7FoO2YfAqSl3T7aprs3B.jpg",
-      "release_date": "2026-01-06",
-      "title": "People We Meet on Vacation",
-      "video": false,
-      "vote_average": 7.176,
-      "vote_count": 250
-    },
-    {
-      "adult": false,
       "backdrop_path": "/4BtL2vvEufDXDP4u6xQjjQ1Y2aT.jpg",
       "genre_ids": [
         28,
@@ -278,8 +258,8 @@
       "release_date": "2025-08-16",
       "title": "The Shadow's Edge",
       "video": false,
-      "vote_average": 7.101,
-      "vote_count": 293
+      "vote_average": 7.139,
+      "vote_count": 299
     },
     {
       "adult": false,
@@ -298,28 +278,8 @@
       "release_date": "2025-07-23",
       "title": "Omniscient Reader: The Prophecy",
       "video": false,
-      "vote_average": 6.722,
+      "vote_average": 6.678,
       "vote_count": 45
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/j3OksPD3jY3vhqf1sKOWXWLQEMB.jpg",
-      "genre_ids": [
-        27,
-        28,
-        878
-      ],
-      "id": 1301122,
-      "original_language": "en",
-      "original_title": "Erbsünde - Veil of Sin",
-      "overview": "",
-      "popularity": 90.1256,
-      "poster_path": "/3daBOc5ZcICXMzAVNhzJTSgweaP.jpg",
-      "release_date": "2024-10-13",
-      "title": "Erbsünde - Veil of Sin",
-      "video": false,
-      "vote_average": 5.357,
-      "vote_count": 14
     },
     {
       "adult": false,
@@ -338,12 +298,12 @@
       "release_date": "2025-11-12",
       "title": "Insaisissables 3",
       "video": false,
-      "vote_average": 6.576,
-      "vote_count": 890
+      "vote_average": 6.577,
+      "vote_count": 899
     },
     {
       "adult": false,
-      "backdrop_path": "/ufuabtiOem0kHeYz6b8x8MjBb2L.jpg",
+      "backdrop_path": "/c30cOCYtnydXAQBGFmdMQisy5pB.jpg",
       "genre_ids": [
         35,
         18
@@ -357,8 +317,28 @@
       "release_date": "2025-11-20",
       "title": "Rental Family",
       "video": false,
-      "vote_average": 7.859,
-      "vote_count": 142
+      "vote_average": 7.919,
+      "vote_count": 160
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/dT1p0K1szMAUBuE2bibouDQdNb8.jpg",
+      "genre_ids": [
+        27,
+        53,
+        878
+      ],
+      "id": 1272837,
+      "original_language": "en",
+      "original_title": "28 Years Later: The Bone Temple",
+      "overview": "Le docteur Kelson noue une relation aussi troublante qu'inattendue dont les répercussions sont susceptibles de bouleverser le monde. De l'autre côté, la rencontre entre Spike et Jimmy Crystal tourne au cauchemar.",
+      "popularity": 96.3689,
+      "poster_path": "/9Q1KexhHbHJFbiKjV4PUeMFt64N.jpg",
+      "release_date": "2026-01-14",
+      "title": "28 ans plus tard : Le Temple des morts",
+      "video": false,
+      "vote_average": 7.033,
+      "vote_count": 121
     },
     {
       "adult": false,
@@ -382,25 +362,45 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/8vLt9TYFZdAwYtqImvggTM5yFnF.jpg",
+      "backdrop_path": "/qth56RA3rkUlhbDRDKGeMJEssdi.jpg",
       "genre_ids": [
-        878,
-        12,
+        10749,
+        35,
         18
       ],
-      "id": 982843,
-      "original_language": "ko",
-      "original_title": "대홍수",
-      "overview": "Alors que l'Apocalypse menace la Terre, une lutte à la vie à la mort dans un appartement submergé par les eaux devient rapidement le seul espoir de subsister pour l'humanité.",
-      "popularity": 88.736,
-      "poster_path": "/7eO8JlexvT8uyqBVdsPcbk3CE7a.jpg",
-      "release_date": "2025-09-18",
-      "title": "Submersion",
+      "id": 1034716,
+      "original_language": "en",
+      "original_title": "People We Meet on Vacation",
+      "overview": "Poppy, l'esprit libre. Alex, le casanier. Compagnons de voyage depuis longtemps, ces deux amis improbables se demandent s'ils ne formeraient pas le couple parfait.",
+      "popularity": 94.5774,
+      "poster_path": "/9JvLhsZ7FoO2YfAqSl3T7aprs3B.jpg",
+      "release_date": "2026-01-06",
+      "title": "People We Meet on Vacation",
       "video": false,
-      "vote_average": 6.031,
-      "vote_count": 493
+      "vote_average": 7.116,
+      "vote_count": 272
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/j3OksPD3jY3vhqf1sKOWXWLQEMB.jpg",
+      "genre_ids": [
+        27,
+        28,
+        878
+      ],
+      "id": 1301122,
+      "original_language": "en",
+      "original_title": "Erbsünde - Veil of Sin",
+      "overview": "En quête d'un sujet d'aventure dans les bois, un groupe d'étudiants en journalisme réveille un être surhumain de sa chambre cryogénique perdue. S'ensuit une longue nuit de traque et de désespoir.",
+      "popularity": 90.1256,
+      "poster_path": "/3daBOc5ZcICXMzAVNhzJTSgweaP.jpg",
+      "release_date": "2024-10-13",
+      "title": "Erbsünde - Veil of Sin",
+      "video": false,
+      "vote_average": 5.133,
+      "vote_count": 15
     }
   ],
-  "total_pages": 54728,
-  "total_results": 1094541
+  "total_pages": 54740,
+  "total_results": 1094797
 }
