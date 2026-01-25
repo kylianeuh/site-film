@@ -18,8 +18,8 @@
       "release_date": "2026-01-13",
       "title": "The Rip",
       "video": false,
-      "vote_average": 7.056,
-      "vote_count": 627
+      "vote_average": 7.041,
+      "vote_count": 672
     },
     {
       "adult": false,
@@ -38,8 +38,8 @@
       "release_date": "2025-12-11",
       "title": "Dust Bunny",
       "video": false,
-      "vote_average": 6.847,
-      "vote_count": 87
+      "vote_average": 6.766,
+      "vote_count": 93
     },
     {
       "adult": false,
@@ -58,8 +58,8 @@
       "release_date": "2025-11-05",
       "title": "Predator : Badlands",
       "video": false,
-      "vote_average": 7.789,
-      "vote_count": 1597
+      "vote_average": 7.779,
+      "vote_count": 1615
     },
     {
       "adult": false,
@@ -78,28 +78,8 @@
       "release_date": "2025-12-17",
       "title": "Avatar : De feu et de cendres",
       "video": false,
-      "vote_average": 7.327,
-      "vote_count": 1570
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/gQimJqYMKCkwHIo8wwYKhmnCfBr.jpg",
-      "genre_ids": [
-        28,
-        80,
-        53
-      ],
-      "id": 1242501,
-      "original_language": "en",
-      "original_title": "Icefall",
-      "overview": "Un garde-chasse autochtone arrête un braconnier qui sait où se trouve une cachette avec des millions de dollars. Traqué par des criminels et des flics corrompus, les deux doivent faire équipe pour trouver l'argent avant eux et pour s'échapper à travers un lac en dégel.",
-      "popularity": 168.7192,
-      "poster_path": "/5Byv6nznAb2Izd0gHpODOXnuSbo.jpg",
-      "release_date": "2025-10-16",
-      "title": "Icefall",
-      "video": false,
-      "vote_average": 6.423,
-      "vote_count": 98
+      "vote_average": 7.326,
+      "vote_count": 1584
     },
     {
       "adult": false,
@@ -120,8 +100,28 @@
       "release_date": "2025-11-26",
       "title": "Zootopie 2",
       "video": false,
-      "vote_average": 7.592,
-      "vote_count": 1143
+      "vote_average": 7.6,
+      "vote_count": 1160
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gQimJqYMKCkwHIo8wwYKhmnCfBr.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1242501,
+      "original_language": "en",
+      "original_title": "Icefall",
+      "overview": "Un garde-chasse autochtone arrête un braconnier qui sait où se trouve une cachette avec des millions de dollars. Traqué par des criminels et des flics corrompus, les deux doivent faire équipe pour trouver l'argent avant eux et pour s'échapper à travers un lac en dégel.",
+      "popularity": 168.7192,
+      "poster_path": "/5Byv6nznAb2Izd0gHpODOXnuSbo.jpg",
+      "release_date": "2025-10-16",
+      "title": "Icefall",
+      "video": false,
+      "vote_average": 6.381,
+      "vote_count": 101
     },
     {
       "adult": false,
@@ -139,12 +139,12 @@
       "release_date": "2025-12-18",
       "title": "La Femme de ménage",
       "video": false,
-      "vote_average": 7.096,
-      "vote_count": 490
+      "vote_average": 7.088,
+      "vote_count": 503
     },
     {
       "adult": false,
-      "backdrop_path": "/kVSUUWiXoNwq2wVCZ4Mcqkniqvr.jpg",
+      "backdrop_path": "/gbjK8p5S1aLXWCwOoXqr9aWZvqG.jpg",
       "genre_ids": [
         16,
         10751,
@@ -161,28 +161,8 @@
       "release_date": "2025-12-16",
       "title": "Bob l'éponge, le film : Un pour tous, tous pirates !",
       "video": false,
-      "vote_average": 6.402,
-      "vote_count": 92
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/vMxOmgmBGegjVObjlb8ugsjGgkD.jpg",
-      "genre_ids": [
-        10752,
-        28,
-        18
-      ],
-      "id": 1252037,
-      "original_language": "de",
-      "original_title": "Der Tiger",
-      "overview": "Front de l'Est, 1943 : l'équipage d'un char Tigre allemand se voit confier une dangereuse mission loin derrière les lignes de front âprement disputées. Durant leur traversée de ce no man's land, ils doivent affronter l'ennemi ainsi que leurs propres démons.",
-      "popularity": 133.513,
-      "poster_path": "/s8rCTOHsyM9vylRtpuQocVNQ5wO.jpg",
-      "release_date": "2025-09-18",
-      "title": "The Tank",
-      "video": false,
-      "vote_average": 7,
-      "vote_count": 265
+      "vote_average": 6.515,
+      "vote_count": 101
     },
     {
       "adult": false,
@@ -203,8 +183,28 @@
       "release_date": "2026-01-16",
       "title": "Killer Whale",
       "video": false,
-      "vote_average": 5.672,
-      "vote_count": 32
+      "vote_average": 5.625,
+      "vote_count": 36
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vMxOmgmBGegjVObjlb8ugsjGgkD.jpg",
+      "genre_ids": [
+        10752,
+        28,
+        18
+      ],
+      "id": 1252037,
+      "original_language": "de",
+      "original_title": "Der Tiger",
+      "overview": "Front de l'Est, 1943 : l'équipage d'un char Tigre allemand se voit confier une dangereuse mission loin derrière les lignes de front âprement disputées. Durant leur traversée de ce no man's land, ils doivent affronter l'ennemi ainsi que leurs propres démons.",
+      "popularity": 133.513,
+      "poster_path": "/s8rCTOHsyM9vylRtpuQocVNQ5wO.jpg",
+      "release_date": "2025-09-18",
+      "title": "The Tank",
+      "video": false,
+      "vote_average": 7.002,
+      "vote_count": 269
     },
     {
       "adult": false,
@@ -222,8 +222,8 @@
       "release_date": "2025-07-29",
       "title": "La Guerre des mondes",
       "video": false,
-      "vote_average": 4.232,
-      "vote_count": 859
+      "vote_average": 4.229,
+      "vote_count": 860
     },
     {
       "adult": false,
@@ -242,8 +242,48 @@
       "release_date": "2025-07-18",
       "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
       "video": false,
-      "vote_average": 7.668,
-      "vote_count": 675
+      "vote_average": 7.671,
+      "vote_count": 678
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xGbNoh7aWmU81oYuxJoFI07Rz5I.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "id": 1326878,
+      "original_language": "en",
+      "original_title": "Strangers",
+      "overview": "Voulant se venger de son mari violent, la vie d'une femme prend un tournant sombre lorsqu'elle rencontre un mystérieux tueur à gages. Entraînée dans une folle idylle, cela dégénère en une frénésie justicière. Alors que les victimes s'accumulent, elle commence à percer la vraie nature de son partenaire et les secrets qu'ils cachent tous deux.",
+      "popularity": 104.969,
+      "poster_path": "/ohpuwSBMgP44OPduPkpOtLxh90w.jpg",
+      "release_date": "2024-08-16",
+      "title": "Strangers",
+      "video": false,
+      "vote_average": 5,
+      "vote_count": 16
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
+      "genre_ids": [
+        27,
+        28,
+        53
+      ],
+      "id": 1233413,
+      "original_language": "en",
+      "original_title": "Sinners",
+      "overview": "Alors qu’ils cherchent à s’affranchir d’un lourd passé, deux frères jumeaux reviennent dans leur ville natale pour repartir à zéro. Mais ils comprennent qu’une puissance maléfique bien plus redoutable guette leur retour avec impatience.",
+      "popularity": 99.1979,
+      "poster_path": "/9ZmdDOIbiFCZOvRXBQ7muWUu32l.jpg",
+      "release_date": "2025-04-16",
+      "title": "Sinners",
+      "video": false,
+      "vote_average": 7.495,
+      "vote_count": 3315
     },
     {
       "adult": false,
@@ -262,8 +302,8 @@
       "release_date": "2026-01-14",
       "title": "28 ans plus tard : Le Temple des morts",
       "video": false,
-      "vote_average": 7.202,
-      "vote_count": 203
+      "vote_average": 7.239,
+      "vote_count": 218
     },
     {
       "adult": false,
@@ -283,8 +323,8 @@
       "release_date": "2025-08-16",
       "title": "The Shadow's Edge",
       "video": false,
-      "vote_average": 7.2,
-      "vote_count": 323
+      "vote_average": 7.158,
+      "vote_count": 326
     },
     {
       "adult": false,
@@ -302,28 +342,8 @@
       "release_date": "2025-10-29",
       "title": "La Légende de Baahubali, l’épopée – Version Director’s Cut",
       "video": false,
-      "vote_average": 6.1,
-      "vote_count": 25
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/oIJjO1CvEdTMFNkWfHaV0RB584G.jpg",
-      "genre_ids": [
-        28,
-        80,
-        53
-      ],
-      "id": 628847,
-      "original_language": "en",
-      "original_title": "Trap House",
-      "overview": "À El Paso, au Texas, un agent infiltré de la DEA et son partenaire se lancent dans un jeu du chat et de la souris avec un groupe de voleurs audacieux : leurs propres adolescents rebelles. Les ados ont décidé de voler de l'argent à un dangereux cartel en utilisant les tactiques de leurs parents et leurs informations top secrètes.",
-      "popularity": 86.5192,
-      "poster_path": "/nB7FNwWluEChCGSlGkG4mprhQHw.jpg",
-      "release_date": "2025-11-14",
-      "title": "Trap House",
-      "video": false,
-      "vote_average": 6.578,
-      "vote_count": 173
+      "vote_average": 6.173,
+      "vote_count": 26
     },
     {
       "adult": false,
@@ -343,7 +363,27 @@
       "title": "Insaisissables 3",
       "video": false,
       "vote_average": 6.583,
-      "vote_count": 936
+      "vote_count": 941
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oIJjO1CvEdTMFNkWfHaV0RB584G.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 628847,
+      "original_language": "en",
+      "original_title": "Trap House",
+      "overview": "À El Paso, au Texas, un agent infiltré de la DEA et son partenaire se lancent dans un jeu du chat et de la souris avec un groupe de voleurs audacieux : leurs propres adolescents rebelles. Les ados ont décidé de voler de l'argent à un dangereux cartel en utilisant les tactiques de leurs parents et leurs informations top secrètes.",
+      "popularity": 86.5192,
+      "poster_path": "/nB7FNwWluEChCGSlGkG4mprhQHw.jpg",
+      "release_date": "2025-11-14",
+      "title": "Trap House",
+      "video": false,
+      "vote_average": 6.612,
+      "vote_count": 174
     },
     {
       "adult": false,
@@ -362,52 +402,10 @@
       "release_date": "2025-07-23",
       "title": "Omniscient Reader: The Prophecy",
       "video": false,
-      "vote_average": 6.622,
-      "vote_count": 49
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
-      "genre_ids": [
-        27,
-        28,
-        53
-      ],
-      "id": 1233413,
-      "original_language": "en",
-      "original_title": "Sinners",
-      "overview": "Alors qu’ils cherchent à s’affranchir d’un lourd passé, deux frères jumeaux reviennent dans leur ville natale pour repartir à zéro. Mais ils comprennent qu’une puissance maléfique bien plus redoutable guette leur retour avec impatience.",
-      "popularity": 99.1979,
-      "poster_path": "/9ZmdDOIbiFCZOvRXBQ7muWUu32l.jpg",
-      "release_date": "2025-04-16",
-      "title": "Sinners",
-      "video": false,
-      "vote_average": 7.497,
-      "vote_count": 3295
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/2OHa6ukEq3Hce7Pc2kvu8wkmMFY.jpg",
-      "genre_ids": [
-        28,
-        12,
-        53,
-        80,
-        18
-      ],
-      "id": 7451,
-      "original_language": "en",
-      "original_title": "xXx",
-      "overview": "Après une série de tests, Xander Cage dit « xXx », un spécialiste des sports extrêmes couvert de tatouages, est recruté par Augustus Gibbons, un agent de la National Security Agency (NSA), pour s’infiltrer dans une organisation criminelle et mettre fin à ses agissements. Dirigée par un certain Yorgi, celle‐ci se fait appeler « Anarchie 99 » et son siège se situe à Prague, en République tchèque. Gibbons est persuadé que Xander Cage réussira là où les espions conventionnels ont échoué.Ce dernier insiste toutefois pour accomplir cette mission à sa façon. Il se présente alors directement à Yorgi et se lie rapidement d’amitié avec lui, l’occasion pour Xander Cage de découvrir les terribles desseins de l’organisation.",
-      "popularity": 76.1029,
-      "poster_path": "/o7GKHohhZ124UkTxP7mHyDnPpK6.jpg",
-      "release_date": "2002-08-09",
-      "title": "xXx",
-      "video": false,
-      "vote_average": 5.983,
-      "vote_count": 4742
+      "vote_average": 6.6,
+      "vote_count": 50
     }
   ],
-  "total_pages": 54812,
-  "total_results": 1096239
+  "total_pages": 54830,
+  "total_results": 1096585
 }
