@@ -3,7 +3,27 @@
   "results": [
     {
       "adult": false,
-      "backdrop_path": "/cz4vLJrmaV1zJlRYbxqtvLzeLWB.jpg",
+      "backdrop_path": "/tyjXlexbNZQ0ZT1KEJslQtBirqc.jpg",
+      "genre_ids": [
+        12,
+        53,
+        878
+      ],
+      "id": 840464,
+      "original_language": "en",
+      "original_title": "Greenland 2: Migration",
+      "overview": "Après l'impact dévastateur d'une comète qui a réduit la Terre en ruines, la famille Garrity doit quitter la sécurité de son bunker au Groenland. Commence alors un périple pour leur survie et l'avenir de l'Humanité à travers un monde dévasté à la recherche d'un nouveau foyer.",
+      "popularity": 506.1661,
+      "poster_path": "/9eaHOemq2Ch5rYPJ0uXcipZUYpS.jpg",
+      "release_date": "2026-01-07",
+      "title": "Greenland : Migration",
+      "video": false,
+      "vote_average": 6.541,
+      "vote_count": 182
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qE02kCXOOqINs0iRBjKoZbp8cg8.jpg",
       "genre_ids": [
         28,
         35,
@@ -19,8 +39,8 @@
       "release_date": "2026-01-28",
       "title": "Team Démolition",
       "video": false,
-      "vote_average": 6.291,
-      "vote_count": 55
+      "vote_average": 6.3,
+      "vote_count": 82
     },
     {
       "adult": false,
@@ -41,8 +61,8 @@
       "release_date": "2025-11-26",
       "title": "Zootopie 2",
       "video": false,
-      "vote_average": 7.608,
-      "vote_count": 1314
+      "vote_average": 7.6,
+      "vote_count": 1344
     },
     {
       "adult": false,
@@ -62,28 +82,8 @@
       "release_date": "2025-08-16",
       "title": "The Shadow's Edge",
       "video": false,
-      "vote_average": 7.216,
-      "vote_count": 354
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/tyjXlexbNZQ0ZT1KEJslQtBirqc.jpg",
-      "genre_ids": [
-        12,
-        53,
-        878
-      ],
-      "id": 840464,
-      "original_language": "en",
-      "original_title": "Greenland 2: Migration",
-      "overview": "Après l'impact dévastateur d'une comète qui a réduit la Terre en ruines, la famille Garrity doit quitter la sécurité de son bunker au Groenland. Commence alors un périple pour leur survie et l'avenir de l'Humanité à travers un monde dévasté à la recherche d'un nouveau foyer.",
-      "popularity": 506.1661,
-      "poster_path": "/mu05wZK0MH2bYmuO7hXwZECqC1X.jpg",
-      "release_date": "2026-01-07",
-      "title": "Greenland : Migration",
-      "video": false,
-      "vote_average": 6.543,
-      "vote_count": 162
+      "vote_average": 7.2,
+      "vote_count": 357
     },
     {
       "adult": false,
@@ -102,48 +102,8 @@
       "release_date": "2026-01-13",
       "title": "The Rip",
       "video": false,
-      "vote_average": 7.045,
-      "vote_count": 888
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/xGbNoh7aWmU81oYuxJoFI07Rz5I.jpg",
-      "genre_ids": [
-        28,
-        53,
-        80
-      ],
-      "id": 1326878,
-      "original_language": "en",
-      "original_title": "Strangers",
-      "overview": "Voulant se venger de son mari violent, la vie d'une femme prend un tournant sombre lorsqu'elle rencontre un mystérieux tueur à gages. Entraînée dans une folle idylle, cela dégénère en une frénésie justicière. Alors que les victimes s'accumulent, elle commence à percer la vraie nature de son partenaire et les secrets qu'ils cachent tous deux.",
-      "popularity": 234.1454,
-      "poster_path": "/ohpuwSBMgP44OPduPkpOtLxh90w.jpg",
-      "release_date": "2024-08-16",
-      "title": "Strangers",
-      "video": false,
-      "vote_average": 5.5,
-      "vote_count": 24
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/AecGG1XVCmkk7fT10ko3FC0dLIP.jpg",
-      "genre_ids": [
-        28,
-        14,
-        53
-      ],
-      "id": 1043197,
-      "original_language": "en",
-      "original_title": "Dust Bunny",
-      "overview": "Une petite fille de huit ans pense qu'un monstre tapi sous son lit a mangé sa famille. Elle se rapproche de sa voisine pour l'aider à tuer le monstre.",
-      "popularity": 204.3943,
-      "poster_path": "/vobigFZFvbYPf6ElYJu07P9rH8C.jpg",
-      "release_date": "2025-12-11",
-      "title": "Dust Bunny",
-      "video": false,
-      "vote_average": 6.563,
-      "vote_count": 130
+      "vote_average": 7.052,
+      "vote_count": 905
     },
     {
       "adult": false,
@@ -162,8 +122,28 @@
       "release_date": "2025-12-24",
       "title": "Anaconda",
       "video": false,
-      "vote_average": 5.992,
-      "vote_count": 246
+      "vote_average": 5.982,
+      "vote_count": 279
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xGbNoh7aWmU81oYuxJoFI07Rz5I.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80
+      ],
+      "id": 1326878,
+      "original_language": "en",
+      "original_title": "Strangers",
+      "overview": "Voulant se venger de son mari violent, la vie d'une femme prend un tournant sombre lorsqu'elle rencontre un mystérieux tueur à gages. Entraînée dans une folle idylle, cela dégénère en une frénésie justicière. Alors que les victimes s'accumulent, elle commence à percer la vraie nature de son partenaire et les secrets qu'ils cachent tous deux.",
+      "popularity": 234.1454,
+      "poster_path": "/v6hYeC1asK2ZRU7Ygukn4tV1zlS.jpg",
+      "release_date": "2024-08-16",
+      "title": "Strangers",
+      "video": false,
+      "vote_average": 5.827,
+      "vote_count": 26
     },
     {
       "adult": false,
@@ -182,8 +162,26 @@
       "release_date": "2025-11-05",
       "title": "Predator : Badlands",
       "video": false,
-      "vote_average": 7.758,
-      "vote_count": 1711
+      "vote_average": 7.757,
+      "vote_count": 1723
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/eUERZRVjCTNdgnESlQxyaOJ2d4K.jpg",
+      "genre_ids": [
+        28
+      ],
+      "id": 1584215,
+      "original_language": "en",
+      "original_title": "The Internship",
+      "overview": "Une tueuse surentrainée et sans pitié, élevée depuis son enfance dans un programme top-secret de la CIA uniquement connu sous le nom L’Internat, est prête à démanteler l’institution qui lui a volé sa jeunesse. Elle rassemble les autres internes et mène une insurrection sanglante, poussant la CIA à déployer des forces toutes aussi mortelles pour les arrêter.",
+      "popularity": 210.3517,
+      "poster_path": "/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg",
+      "release_date": "2026-01-13",
+      "title": "The Internship",
+      "video": false,
+      "vote_average": 6.242,
+      "vote_count": 33
     },
     {
       "adult": false,
@@ -202,8 +200,28 @@
       "release_date": "2025-12-17",
       "title": "Avatar : De feu et de cendres",
       "video": false,
-      "vote_average": 7.3,
-      "vote_count": 1648
+      "vote_average": 7.302,
+      "vote_count": 1653
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AecGG1XVCmkk7fT10ko3FC0dLIP.jpg",
+      "genre_ids": [
+        28,
+        14,
+        53
+      ],
+      "id": 1043197,
+      "original_language": "en",
+      "original_title": "Dust Bunny",
+      "overview": "Une petite fille de huit ans pense qu'un monstre tapi sous son lit a mangé sa famille. Elle se rapproche de sa voisine pour l'aider à tuer le monstre.",
+      "popularity": 204.3943,
+      "poster_path": "/vobigFZFvbYPf6ElYJu07P9rH8C.jpg",
+      "release_date": "2025-12-11",
+      "title": "Dust Bunny",
+      "video": false,
+      "vote_average": 6.573,
+      "vote_count": 133
     },
     {
       "adult": false,
@@ -224,8 +242,8 @@
       "release_date": "2025-12-16",
       "title": "Bob l'éponge, le film : Un pour tous, tous pirates !",
       "video": false,
-      "vote_average": 6.637,
-      "vote_count": 142
+      "vote_average": 6.691,
+      "vote_count": 144
     },
     {
       "adult": false,
@@ -244,7 +262,7 @@
       "title": "La Femme de ménage",
       "video": false,
       "vote_average": 7.1,
-      "vote_count": 559
+      "vote_count": 560
     },
     {
       "adult": false,
@@ -263,26 +281,8 @@
       "release_date": "2025-10-16",
       "title": "Icefall",
       "video": false,
-      "vote_average": 6.471,
-      "vote_count": 105
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/eUERZRVjCTNdgnESlQxyaOJ2d4K.jpg",
-      "genre_ids": [
-        28
-      ],
-      "id": 1584215,
-      "original_language": "en",
-      "original_title": "The Internship",
-      "overview": "Une tueuse surentrainée et sans pitié, élevée depuis son enfance dans un programme top-secret de la CIA uniquement connu sous le nom L’Internat, est prête à démanteler l’institution qui lui a volé sa jeunesse. Elle rassemble les autres internes et mène une insurrection sanglante, poussant la CIA à déployer des forces toutes aussi mortelles pour les arrêter.",
-      "popularity": 210.3517,
-      "poster_path": "/27j9fRcvtaskGPsuHXvVTAi1fEc.jpg",
-      "release_date": "2026-01-13",
-      "title": "The Internship",
-      "video": false,
-      "vote_average": 6.281,
-      "vote_count": 32
+      "vote_average": 6.439,
+      "vote_count": 106
     },
     {
       "adult": false,
@@ -322,8 +322,8 @@
       "release_date": "2026-01-16",
       "title": "Killer Whale",
       "video": false,
-      "vote_average": 5.693,
-      "vote_count": 44
+      "vote_average": 5.7,
+      "vote_count": 45
     },
     {
       "adult": false,
@@ -342,8 +342,28 @@
       "release_date": "2025-09-18",
       "title": "The Tank",
       "video": false,
-      "vote_average": 6.988,
-      "vote_count": 290
+      "vote_average": 6.978,
+      "vote_count": 291
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oN4TQ1TxchynXlFiXFBL3NHLT54.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        18
+      ],
+      "id": 1167307,
+      "original_language": "en",
+      "original_title": "David",
+      "overview": "Des chants du cœur de sa mère aux murmures d'un Dieu fidèle, l'histoire de David commence dans une dévotion silencieuse. Lorsque le géant Goliath se lève pour terroriser une nation, un jeune berger armé uniquement d'une fronde, de quelques pierres et d'une foi inébranlable s'avance. Poursuivi par le pouvoir et animé par un but précis, son parcours met à l'épreuve les limites de la loyauté, de l'amour et du courage, et culmine dans une bataille qui ne vise pas seulement la couronne, mais aussi l'âme d'un royaume.",
+      "popularity": 100.0763,
+      "poster_path": "/bESlrLOrsQ9gKzaGQGHXKOyIUtX.jpg",
+      "release_date": "2025-12-14",
+      "title": "David",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 42
     },
     {
       "adult": false,
@@ -362,8 +382,8 @@
       "release_date": "2025-07-18",
       "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
       "video": false,
-      "vote_average": 7.676,
-      "vote_count": 686
+      "vote_average": 7.68,
+      "vote_count": 687
     },
     {
       "adult": false,
@@ -382,30 +402,10 @@
       "release_date": "2025-04-16",
       "title": "Sinners",
       "video": false,
-      "vote_average": 7.487,
-      "vote_count": 3451
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/d10VuEOMroY7ngQi2FUhJH72k0e.jpg",
-      "genre_ids": [
-        16,
-        10751,
-        18
-      ],
-      "id": 1167307,
-      "original_language": "en",
-      "original_title": "David",
-      "overview": "Des chants du cœur de sa mère aux murmures d'un Dieu fidèle, l'histoire de David commence dans une dévotion silencieuse. Lorsque le géant Goliath se lève pour terroriser une nation, un jeune berger armé uniquement d'une fronde, de quelques pierres et d'une foi inébranlable s'avance. Poursuivi par le pouvoir et animé par un but précis, son parcours met à l'épreuve les limites de la loyauté, de l'amour et du courage, et culmine dans une bataille qui ne vise pas seulement la couronne, mais aussi l'âme d'un royaume.",
-      "popularity": 100.0763,
-      "poster_path": "/7lFG1WrCwAxBfyGK8ahlBVzXno7.jpg",
-      "release_date": "2025-12-14",
-      "title": "David",
-      "video": false,
-      "vote_average": 7.784,
-      "vote_count": 37
+      "vote_average": 7.49,
+      "vote_count": 3469
     }
   ],
-  "total_pages": 54926,
-  "total_results": 1098508
+  "total_pages": 54944,
+  "total_results": 1098870
 }
