@@ -20,7 +20,7 @@
       "title": "Team Démolition",
       "video": false,
       "vote_average": 6.825,
-      "vote_count": 397
+      "vote_count": 424
     },
     {
       "adult": false,
@@ -39,8 +39,8 @@
       "release_date": "2026-01-07",
       "title": "Greenland : Migration",
       "video": false,
-      "vote_average": 6.502,
-      "vote_count": 321
+      "vote_average": 6.528,
+      "vote_count": 337
     },
     {
       "adult": false,
@@ -58,8 +58,8 @@
       "release_date": "2025-12-18",
       "title": "La Femme de ménage",
       "video": false,
-      "vote_average": 7.139,
-      "vote_count": 776
+      "vote_average": 7.157,
+      "vote_count": 845
     },
     {
       "adult": false,
@@ -80,8 +80,8 @@
       "release_date": "2025-11-26",
       "title": "Zootopie 2",
       "video": false,
-      "vote_average": 7.629,
-      "vote_count": 1541
+      "vote_average": 7.62,
+      "vote_count": 1566
     },
     {
       "adult": false,
@@ -102,7 +102,7 @@
       "title": "The Shadow's Edge",
       "video": false,
       "vote_average": 7.2,
-      "vote_count": 398
+      "vote_count": 401
     },
     {
       "adult": false,
@@ -113,7 +113,7 @@
         53
       ],
       "id": 1601243,
-      "original_language": "en",
+      "original_language": "tr",
       "original_title": "Oscar Shaw",
       "overview": "Après avoir pris sa retraite de la police, un détective implacable hanté par la perte tragique de son ami le plus proche se lance dans une périlleuse quête de vengeance, cherchant la rédemption et luttant pour rendre justice aux rues qu'il avait autrefois juré de protéger.",
       "popularity": 266.9077,
@@ -123,26 +123,6 @@
       "video": false,
       "vote_average": 5.8,
       "vote_count": 14
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/lAtuFCx6cYkNBmTMSNnLE0qlCLx.jpg",
-      "genre_ids": [
-        28,
-        80,
-        10749
-      ],
-      "id": 1271895,
-      "original_language": "zh",
-      "original_title": "96分鐘",
-      "overview": "Après avoir embarqué dans un train à grande vitesse piégé, un homme mène une course contre la montre désespérée pour désamorcer une bombe et sauver la vie des passagers.",
-      "popularity": 191.3204,
-      "poster_path": "/5HefFZDvzHAR4qWEMExLfyM0qLs.jpg",
-      "release_date": "2025-09-05",
-      "title": "96 Minutes",
-      "video": false,
-      "vote_average": 5.769,
-      "vote_count": 26
     },
     {
       "adult": false,
@@ -166,6 +146,26 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/lAtuFCx6cYkNBmTMSNnLE0qlCLx.jpg",
+      "genre_ids": [
+        28,
+        80,
+        10749
+      ],
+      "id": 1271895,
+      "original_language": "zh",
+      "original_title": "96分鐘",
+      "overview": "Après avoir embarqué dans un train à grande vitesse piégé, un homme mène une course contre la montre désespérée pour désamorcer une bombe et sauver la vie des passagers.",
+      "popularity": 191.3204,
+      "poster_path": "/5HefFZDvzHAR4qWEMExLfyM0qLs.jpg",
+      "release_date": "2025-09-05",
+      "title": "96 Minutes",
+      "video": false,
+      "vote_average": 5.4,
+      "vote_count": 30
+    },
+    {
+      "adult": false,
       "backdrop_path": "/swxhEJsAWms6X1fDZ4HdbvYBSf9.jpg",
       "genre_ids": [
         12,
@@ -181,8 +181,8 @@
       "release_date": "2025-12-24",
       "title": "Anaconda",
       "video": false,
-      "vote_average": 5.844,
-      "vote_count": 464
+      "vote_average": 5.845,
+      "vote_count": 475
     },
     {
       "adult": false,
@@ -199,8 +199,8 @@
       "release_date": "2026-01-13",
       "title": "The Internship",
       "video": false,
-      "vote_average": 6.1,
-      "vote_count": 38
+      "vote_average": 6.051,
+      "vote_count": 39
     },
     {
       "adult": false,
@@ -219,8 +219,8 @@
       "release_date": "2025-12-17",
       "title": "Avatar : De feu et de cendres",
       "video": false,
-      "vote_average": 7.3,
-      "vote_count": 1693
+      "vote_average": 7.298,
+      "vote_count": 1698
     },
     {
       "adult": false,
@@ -239,8 +239,8 @@
       "release_date": "2025-11-05",
       "title": "Predator : Badlands",
       "video": false,
-      "vote_average": 7.751,
-      "vote_count": 1806
+      "vote_average": 7.754,
+      "vote_count": 1816
     },
     {
       "adult": false,
@@ -259,48 +259,8 @@
       "release_date": "2026-01-13",
       "title": "The Rip",
       "video": false,
-      "vote_average": 7.026,
-      "vote_count": 1067
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/oN4TQ1TxchynXlFiXFBL3NHLT54.jpg",
-      "genre_ids": [
-        16,
-        10751,
-        18
-      ],
-      "id": 1167307,
-      "original_language": "en",
-      "original_title": "David",
-      "overview": "Des chants du cœur de sa mère aux murmures d'un Dieu fidèle, l'histoire de David commence dans une dévotion silencieuse. Lorsque le géant Goliath se lève pour terroriser une nation, un jeune berger armé uniquement d'une fronde, de quelques pierres et d'une foi inébranlable s'avance. Poursuivi par le pouvoir et animé par un but précis, son parcours met à l'épreuve les limites de la loyauté, de l'amour et du courage, et culmine dans une bataille qui ne vise pas seulement la couronne, mais aussi l'âme d'un royaume.",
-      "popularity": 114.0993,
-      "poster_path": "/bESlrLOrsQ9gKzaGQGHXKOyIUtX.jpg",
-      "release_date": "2025-12-14",
-      "title": "David",
-      "video": false,
-      "vote_average": 8.023,
-      "vote_count": 65
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
-      "genre_ids": [
-        18,
-        10749,
-        36
-      ],
-      "id": 858024,
-      "original_language": "en",
-      "original_title": "Hamnet",
-      "overview": "Angleterre, 1580. Un professeur de latin fauché, fait la connaissance d’Agnes, jeune femme à l’esprit libre. Fascinés l’un par l’autre, ils entament une liaison fougueuse avant de se marier et d’avoir trois enfants. Tandis que Will tente sa chance comme dramaturge à Londres, Agnes assume seule les tâches domestiques. Lorsqu’un drame se produit, le couple, autrefois profondément uni, vacille. Mais c’est de leur épreuve commune que naîtra l’inspiration d’un chef d’œuvre universel.",
-      "popularity": 118.4984,
-      "poster_path": "/slwXcH3iTRUe9ywOa4teTSzAGeB.jpg",
-      "release_date": "2025-11-26",
-      "title": "Hamnet",
-      "video": false,
-      "vote_average": 7.7,
-      "vote_count": 285
+      "vote_average": 7.04,
+      "vote_count": 1088
     },
     {
       "adult": false,
@@ -323,6 +283,46 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        36
+      ],
+      "id": 858024,
+      "original_language": "en",
+      "original_title": "Hamnet",
+      "overview": "Angleterre, 1580. Un professeur de latin fauché, fait la connaissance d’Agnes, jeune femme à l’esprit libre. Fascinés l’un par l’autre, ils entament une liaison fougueuse avant de se marier et d’avoir trois enfants. Tandis que Will tente sa chance comme dramaturge à Londres, Agnes assume seule les tâches domestiques. Lorsqu’un drame se produit, le couple, autrefois profondément uni, vacille. Mais c’est de leur épreuve commune que naîtra l’inspiration d’un chef d’œuvre universel.",
+      "popularity": 118.4984,
+      "poster_path": "/slwXcH3iTRUe9ywOa4teTSzAGeB.jpg",
+      "release_date": "2025-11-26",
+      "title": "Hamnet",
+      "video": false,
+      "vote_average": 7.742,
+      "vote_count": 312
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oN4TQ1TxchynXlFiXFBL3NHLT54.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        18
+      ],
+      "id": 1167307,
+      "original_language": "en",
+      "original_title": "David",
+      "overview": "Des chants du cœur de sa mère aux murmures d'un Dieu fidèle, l'histoire de David commence dans une dévotion silencieuse. Lorsque le géant Goliath se lève pour terroriser une nation, un jeune berger armé uniquement d'une fronde, de quelques pierres et d'une foi inébranlable s'avance. Poursuivi par le pouvoir et animé par un but précis, son parcours met à l'épreuve les limites de la loyauté, de l'amour et du courage, et culmine dans une bataille qui ne vise pas seulement la couronne, mais aussi l'âme d'un royaume.",
+      "popularity": 114.0993,
+      "poster_path": "/bESlrLOrsQ9gKzaGQGHXKOyIUtX.jpg",
+      "release_date": "2025-12-14",
+      "title": "David",
+      "video": false,
+      "vote_average": 8.05,
+      "vote_count": 70
+    },
+    {
+      "adult": false,
       "backdrop_path": "/uCGzI1EtQWXG5yRPB5PSyOdFNcC.jpg",
       "genre_ids": [
         28,
@@ -338,8 +338,28 @@
       "release_date": "2026-01-28",
       "title": "Shelter",
       "video": false,
-      "vote_average": 7.655,
-      "vote_count": 29
+      "vote_average": 7.645,
+      "vote_count": 31
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hO2jx1H3XafR7Y8QbFgVH1sHTY9.jpg",
+      "genre_ids": [
+        27,
+        53,
+        35
+      ],
+      "id": 1198994,
+      "original_language": "en",
+      "original_title": "Send Help",
+      "overview": "Linda Liddle est maltraitée depuis toujours par son patron macho et sexiste, Bradley Preston. Leur relation conflictuelle atteint un nouveau degré lorsque Linda et Bradley se retrouvent coincés sur une île déserte, suite à l'écrasement en mer de l'avion privé qui les transportait. Pour ces deux collègues que tout oppose, l’heure semble venue de surmonter les griefs du passé et d'unir leurs forces pour tenter de survivre. Mais leur combat prend très vite la forme d'une ultime épreuve de force, où chacun tente de se venger de l’autre.",
+      "popularity": 96.3278,
+      "poster_path": "/74VMvWDNxQopExKmFJ7TpFUtlbt.jpg",
+      "release_date": "2026-01-22",
+      "title": "Send Help",
+      "video": false,
+      "vote_average": 6.995,
+      "vote_count": 185
     },
     {
       "adult": false,
@@ -361,26 +381,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/hO2jx1H3XafR7Y8QbFgVH1sHTY9.jpg",
-      "genre_ids": [
-        27,
-        53,
-        35
-      ],
-      "id": 1198994,
-      "original_language": "en",
-      "original_title": "Send Help",
-      "overview": "Linda Liddle est maltraitée depuis toujours par son patron macho et sexiste, Bradley Preston. Leur relation conflictuelle atteint un nouveau degré lorsque Linda et Bradley se retrouvent coincés sur une île déserte, suite à l'écrasement en mer de l'avion privé qui les transportait. Pour ces deux collègues que tout oppose, l’heure semble venue de surmonter les griefs du passé et d'unir leurs forces pour tenter de survivre. Mais leur combat prend très vite la forme d'une ultime épreuve de force, où chacun tente de se venger de l’autre.",
-      "popularity": 96.3278,
-      "poster_path": "/74VMvWDNxQopExKmFJ7TpFUtlbt.jpg",
-      "release_date": "2026-01-22",
-      "title": "Send Help",
-      "video": false,
-      "vote_average": 7.009,
-      "vote_count": 172
-    },
-    {
-      "adult": false,
       "backdrop_path": "/AecGG1XVCmkk7fT10ko3FC0dLIP.jpg",
       "genre_ids": [
         28,
@@ -396,10 +396,10 @@
       "release_date": "2025-12-11",
       "title": "Dust Bunny",
       "video": false,
-      "vote_average": 6.689,
-      "vote_count": 152
+      "vote_average": 6.7,
+      "vote_count": 153
     }
   ],
-  "total_pages": 55087,
-  "total_results": 1101725
+  "total_pages": 55102,
+  "total_results": 1102028
 }
