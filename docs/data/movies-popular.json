@@ -18,8 +18,8 @@
       "release_date": "2026-01-07",
       "title": "Greenland : Migration",
       "video": false,
-      "vote_average": 6.554,
-      "vote_count": 395
+      "vote_average": 6.541,
+      "vote_count": 403
     },
     {
       "adult": false,
@@ -37,8 +37,8 @@
       "release_date": "2025-12-18",
       "title": "La Femme de ménage",
       "video": false,
-      "vote_average": 7.192,
-      "vote_count": 1000
+      "vote_average": 7.195,
+      "vote_count": 1014
     },
     {
       "adult": false,
@@ -58,8 +58,27 @@
       "release_date": "2026-01-28",
       "title": "Team Démolition",
       "video": false,
-      "vote_average": 6.853,
-      "vote_count": 521
+      "vote_average": 6.844,
+      "vote_count": 529
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9uakM2woks0JV8HKIc4oatIVS88.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1315303,
+      "original_language": "en",
+      "original_title": "Primate",
+      "overview": "Au lieu de rimer avec plages et retrouvailles, le retour de Lucy sur son île tropicale natale tourne au cauchemar lorsque le chimpanzé de la famille, d’une intelligence exceptionnelle, sombre dans une frénésie enragée. La nuit se mue alors en un chaos terrifiant. En l’absence de son père et sans aucun secours possible, ce paradis devient une prison et Lucy et ses amis doivent affronter un prédateur mortel en qui ils avaient autrefois toute confiance.",
+      "popularity": 256.9391,
+      "poster_path": "/HtXHAH4PQjpw2RLsIrHGbeng1n.jpg",
+      "release_date": "2026-01-01",
+      "title": "Primate",
+      "video": false,
+      "vote_average": 6.561,
+      "vote_count": 204
     },
     {
       "adult": false,
@@ -80,28 +99,8 @@
       "release_date": "2025-11-26",
       "title": "Zootopie 2",
       "video": false,
-      "vote_average": 7.625,
-      "vote_count": 1625
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/6D6M5z4reppUxo2cnBEKI02Csp1.jpg",
-      "genre_ids": [
-        28,
-        80,
-        53
-      ],
-      "id": 1601243,
-      "original_language": "en",
-      "original_title": "Oscar Shaw",
-      "overview": "Après avoir pris sa retraite de la police, un détective implacable hanté par la perte tragique de son ami le plus proche se lance dans une périlleuse quête de vengeance, cherchant la rédemption et luttant pour rendre justice aux rues qu'il avait autrefois juré de protéger.",
-      "popularity": 208.9421,
-      "poster_path": "/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",
-      "release_date": "2026-01-09",
-      "title": "Oscar Shaw",
-      "video": false,
-      "vote_average": 6.1,
-      "vote_count": 17
+      "vote_average": 7.614,
+      "vote_count": 1634
     },
     {
       "adult": false,
@@ -121,31 +120,32 @@
       "release_date": "2025-08-16",
       "title": "The Shadow's Edge",
       "video": false,
-      "vote_average": 7.222,
-      "vote_count": 419
+      "vote_average": 7.214,
+      "vote_count": 423
     },
     {
       "adult": false,
-      "backdrop_path": "/9uakM2woks0JV8HKIc4oatIVS88.jpg",
+      "backdrop_path": "/6D6M5z4reppUxo2cnBEKI02Csp1.jpg",
       "genre_ids": [
-        27,
+        28,
+        80,
         53
       ],
-      "id": 1315303,
+      "id": 1601243,
       "original_language": "en",
-      "original_title": "Primate",
-      "overview": "Au lieu de rimer avec plages et retrouvailles, le retour de Lucy sur son île tropicale natale tourne au cauchemar lorsque le chimpanzé de la famille, d’une intelligence exceptionnelle, sombre dans une frénésie enragée. La nuit se mue alors en un chaos terrifiant. En l’absence de son père et sans aucun secours possible, ce paradis devient une prison et Lucy et ses amis doivent affronter un prédateur mortel en qui ils avaient autrefois toute confiance.",
-      "popularity": 256.9391,
-      "poster_path": "/seHZ5tcGX08Bprm3qvwzFwSd39r.jpg",
-      "release_date": "2026-01-01",
-      "title": "Primate",
+      "original_title": "Oscar Shaw",
+      "overview": "Après avoir pris sa retraite de la police, un détective implacable hanté par la perte tragique de son ami le plus proche se lance dans une périlleuse quête de vengeance, cherchant la rédemption et luttant pour rendre justice aux rues qu'il avait autrefois juré de protéger.",
+      "popularity": 208.9421,
+      "poster_path": "/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",
+      "release_date": "2026-01-09",
+      "title": "Oscar Shaw",
       "video": false,
-      "vote_average": 6.617,
-      "vote_count": 175
+      "vote_average": 6.333,
+      "vote_count": 18
     },
     {
       "adult": false,
-      "backdrop_path": "/6h7w8R4BA7vubEmEEW5vYEjuoz6.jpg",
+      "backdrop_path": "/bHtlDAORBQiYKCJMwDP9WBgcQHM.jpg",
       "genre_ids": [
         18
       ],
@@ -158,8 +158,28 @@
       "release_date": "2025-12-19",
       "title": "Marty Supreme",
       "video": false,
-      "vote_average": 7.684,
-      "vote_count": 620
+      "vote_average": 7.6,
+      "vote_count": 647
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "id": 1242898,
+      "original_language": "en",
+      "original_title": "Predator: Badlands",
+      "overview": "Jugé trop faible et indigne par son père, chef de la tribu des Yautja, Dek est sur le point de se faire exécuter par son frère Kwei. Mais au dernier moment, celui-ci préfère se sacrifier pour favoriser sa fuite. Décidé à prouver son courage, le jeune paria se rend sur la planète Genna pour y capturer le Kalisk, un monstre réputé invincible. Confronté à une nature hostile et imprévisible, le guerrier inexpérimenté doit sa survie à Thia, une androïde privée de la partie inférieure de son corps depuis son affrontement avec le Kalisk. Avec l'aide de celle-ci, Dek amorce sa traque de la terrible créature, convoitée par des scientifiques pour ses formidables dons de régénération.",
+      "popularity": 151.2137,
+      "poster_path": "/empQGO0pCVTndCpihyVpNfaLebl.jpg",
+      "release_date": "2025-11-05",
+      "title": "Predator : Badlands",
+      "video": false,
+      "vote_average": 7.737,
+      "vote_count": 1882
     },
     {
       "adult": false,
@@ -178,28 +198,8 @@
       "release_date": "2025-11-14",
       "title": "La Reine du crime présente : Meurtre à l'Ambassade",
       "video": false,
-      "vote_average": 5.672,
+      "vote_average": 5.7,
       "vote_count": 32
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/ebyxeBh56QNXxSJgTnmz7fXAlwk.jpg",
-      "genre_ids": [
-        28,
-        878,
-        12
-      ],
-      "id": 1242898,
-      "original_language": "en",
-      "original_title": "Predator: Badlands",
-      "overview": "Jugé trop faible et indigne par son père, chef de la tribu des Yautja, Dek est sur le point de se faire exécuter par son frère Kwei. Mais au dernier moment, celui-ci préfère se sacrifier pour favoriser sa fuite. Décidé à prouver son courage, le jeune paria se rend sur la planète Genna pour y capturer le Kalisk, un monstre réputé invincible. Confronté à une nature hostile et imprévisible, le guerrier inexpérimenté doit sa survie à Thia, une androïde privée de la partie inférieure de son corps depuis son affrontement avec le Kalisk. Avec l'aide de celle-ci, Dek amorce sa traque de la terrible créature, convoitée par des scientifiques pour ses formidables dons de régénération.",
-      "popularity": 151.2137,
-      "poster_path": "/empQGO0pCVTndCpihyVpNfaLebl.jpg",
-      "release_date": "2025-11-05",
-      "title": "Predator : Badlands",
-      "video": false,
-      "vote_average": 7.75,
-      "vote_count": 1859
     },
     {
       "adult": false,
@@ -218,8 +218,8 @@
       "release_date": "2025-12-17",
       "title": "Avatar : De feu et de cendres",
       "video": false,
-      "vote_average": 7.295,
-      "vote_count": 1736
+      "vote_average": 7.292,
+      "vote_count": 1740
     },
     {
       "adult": false,
@@ -238,8 +238,8 @@
       "release_date": "2025-09-05",
       "title": "96 Minutes",
       "video": false,
-      "vote_average": 5.6,
-      "vote_count": 38
+      "vote_average": 5.825,
+      "vote_count": 40
     },
     {
       "adult": false,
@@ -261,26 +261,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
-      "genre_ids": [
-        18,
-        10749,
-        36
-      ],
-      "id": 858024,
-      "original_language": "en",
-      "original_title": "Hamnet",
-      "overview": "Angleterre, 1580. Un professeur de latin fauché, fait la connaissance d’Agnes, jeune femme à l’esprit libre. Fascinés l’un par l’autre, ils entament une liaison fougueuse avant de se marier et d’avoir trois enfants. Tandis que Will tente sa chance comme dramaturge à Londres, Agnes assume seule les tâches domestiques. Lorsqu’un drame se produit, le couple, autrefois profondément uni, vacille. Mais c’est de leur épreuve commune que naîtra l’inspiration d’un chef d’œuvre universel.",
-      "popularity": 104.8253,
-      "poster_path": "/4mi0UFdr40vUIbiWSj2wuZDTNvB.jpg",
-      "release_date": "2025-11-26",
-      "title": "Hamnet",
-      "video": false,
-      "vote_average": 7.8,
-      "vote_count": 447
-    },
-    {
-      "adult": false,
       "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
       "genre_ids": [
         878,
@@ -296,7 +276,48 @@
       "title": "La Guerre des mondes",
       "video": false,
       "vote_average": 4.221,
-      "vote_count": 883
+      "vote_count": 884
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1Xdsq7U7bvJJd2X7Jg4qNaKVkYO.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80,
+        18
+      ],
+      "id": 1426964,
+      "original_language": "pt",
+      "original_title": "Salve Geral: Irmandade",
+      "overview": "Alors qu'une vague de violence sans précédent secoue São Paulo, une avocate liée au milieu criminel doit négocier avec la police pour sauver sa nièce qui a été enlevée.",
+      "popularity": 105.9388,
+      "poster_path": "/cBv1XzLMA2T6b7iXCLkXsg4iJzW.jpg",
+      "release_date": "2026-02-10",
+      "title": "L'Appel du chaos",
+      "video": false,
+      "vote_average": 3.4,
+      "vote_count": 10
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
+      "genre_ids": [
+        18,
+        10749,
+        36
+      ],
+      "id": 858024,
+      "original_language": "en",
+      "original_title": "Hamnet",
+      "overview": "Angleterre, 1580. Un professeur de latin fauché, fait la connaissance d’Agnes, jeune femme à l’esprit libre. Fascinés l’un par l’autre, ils entament une liaison fougueuse avant de se marier et d’avoir trois enfants. Tandis que Will tente sa chance comme dramaturge à Londres, Agnes assume seule les tâches domestiques. Lorsqu’un drame se produit, le couple, autrefois profondément uni, vacille. Mais c’est de leur épreuve commune que naîtra l’inspiration d’un chef d’œuvre universel.",
+      "popularity": 104.8253,
+      "poster_path": "/4mi0UFdr40vUIbiWSj2wuZDTNvB.jpg",
+      "release_date": "2025-11-26",
+      "title": "Hamnet",
+      "video": false,
+      "vote_average": 7.782,
+      "vote_count": 466
     },
     {
       "adult": false,
@@ -311,72 +332,12 @@
       "original_title": "The Rip",
       "overview": "La méfiance s'installe quand une équipe de flics de Miami découvre des millions en cash dans une planque délabrée. Plus personne ne sait quoi penser... ni à qui se fier.",
       "popularity": 103.1158,
-      "poster_path": "/eaQ0cSWisBLkAh5RxYmt9fR5QCX.jpg",
+      "poster_path": "/hMoQlTlUlesatqxOtzVLZjkU9Wm.jpg",
       "release_date": "2026-01-13",
       "title": "The Rip",
       "video": false,
-      "vote_average": 7.038,
-      "vote_count": 1129
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/oN4TQ1TxchynXlFiXFBL3NHLT54.jpg",
-      "genre_ids": [
-        16,
-        10751,
-        18
-      ],
-      "id": 1167307,
-      "original_language": "en",
-      "original_title": "David",
-      "overview": "Des chants du cœur de sa mère aux murmures d'un Dieu fidèle, l'histoire de David commence dans une dévotion silencieuse. Lorsque le géant Goliath se lève pour terroriser une nation, un jeune berger armé uniquement d'une fronde, de quelques pierres et d'une foi inébranlable s'avance. Poursuivi par le pouvoir et animé par un but précis, son parcours met à l'épreuve les limites de la loyauté, de l'amour et du courage, et culmine dans une bataille qui ne vise pas seulement la couronne, mais aussi l'âme d'un royaume.",
-      "popularity": 91.2325,
-      "poster_path": "/bESlrLOrsQ9gKzaGQGHXKOyIUtX.jpg",
-      "release_date": "2025-12-14",
-      "title": "David",
-      "video": false,
-      "vote_average": 8.019,
-      "vote_count": 79
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/AecGG1XVCmkk7fT10ko3FC0dLIP.jpg",
-      "genre_ids": [
-        14,
-        28,
-        53
-      ],
-      "id": 1043197,
-      "original_language": "en",
-      "original_title": "Dust Bunny",
-      "overview": "Aurora, dix ans, demande à un tueur à gages d'éliminer le monstre qui, selon elle, a dévoré toute sa famille. Pour la protéger, il devra affronter une horde d'assassins tout en acceptant l'idée que certains monstres existent bel et bien.",
-      "popularity": 92.0337,
-      "poster_path": "/qaRuV4cbAbrCngM5b7NkGqARDIg.jpg",
-      "release_date": "2025-12-11",
-      "title": "Dust Bunny",
-      "video": false,
-      "vote_average": 6.7,
-      "vote_count": 164
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
-      "genre_ids": [
-        28,
-        80,
-        53
-      ],
-      "id": 1290821,
-      "original_language": "en",
-      "original_title": "Shelter",
-      "overview": "Mason vit isolé sur une île écossaise. Après avoir sauvé une jeune fille de l'océan lors d'une terrible tempête, il déclenche une série d'événements qui provoquent une violente attaque dans son refuge...",
-      "popularity": 79.5575,
-      "poster_path": "/9IMI2957lMIQ0ovHspmpJtMN3nu.jpg",
-      "release_date": "2026-01-28",
-      "title": "Shelter",
-      "video": false,
-      "vote_average": 7.538,
-      "vote_count": 39
+      "vote_average": 7,
+      "vote_count": 1136
     },
     {
       "adult": false,
@@ -395,10 +356,50 @@
       "release_date": "2025-12-24",
       "title": "Anaconda",
       "video": false,
-      "vote_average": 5.821,
-      "vote_count": 554
+      "vote_average": 5.815,
+      "vote_count": 556
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AecGG1XVCmkk7fT10ko3FC0dLIP.jpg",
+      "genre_ids": [
+        14,
+        28,
+        53
+      ],
+      "id": 1043197,
+      "original_language": "en",
+      "original_title": "Dust Bunny",
+      "overview": "Aurora, dix ans, demande à un tueur à gages d'éliminer le monstre qui, selon elle, a dévoré toute sa famille. Pour la protéger, il devra affronter une horde d'assassins tout en acceptant l'idée que certains monstres existent bel et bien.",
+      "popularity": 92.0337,
+      "poster_path": "/qaRuV4cbAbrCngM5b7NkGqARDIg.jpg",
+      "release_date": "2025-12-11",
+      "title": "Dust Bunny",
+      "video": false,
+      "vote_average": 6.675,
+      "vote_count": 164
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oN4TQ1TxchynXlFiXFBL3NHLT54.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        18
+      ],
+      "id": 1167307,
+      "original_language": "en",
+      "original_title": "David",
+      "overview": "Des chants du cœur de sa mère aux murmures d'un Dieu fidèle, l'histoire de David commence dans une dévotion silencieuse. Lorsque le géant Goliath se lève pour terroriser une nation, un jeune berger armé uniquement d'une fronde, de quelques pierres et d'une foi inébranlable s'avance. Poursuivi par le pouvoir et animé par un but précis, son parcours met à l'épreuve les limites de la loyauté, de l'amour et du courage, et culmine dans une bataille qui ne vise pas seulement la couronne, mais aussi l'âme d'un royaume.",
+      "popularity": 91.2325,
+      "poster_path": "/bESlrLOrsQ9gKzaGQGHXKOyIUtX.jpg",
+      "release_date": "2025-12-14",
+      "title": "David",
+      "video": false,
+      "vote_average": 8.044,
+      "vote_count": 80
     }
   ],
-  "total_pages": 55155,
-  "total_results": 1103081
+  "total_pages": 55178,
+  "total_results": 1103546
 }
