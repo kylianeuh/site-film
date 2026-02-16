@@ -18,27 +18,8 @@
       "release_date": "2026-01-07",
       "title": "Greenland : Migration",
       "video": false,
-      "vote_average": 6.545,
-      "vote_count": 421
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/tNONILTe9OJz574KZWaLze4v6RC.jpg",
-      "genre_ids": [
-        9648,
-        53
-      ],
-      "id": 1368166,
-      "original_language": "en",
-      "original_title": "The Housemaid",
-      "overview": "En quête d’un nouveau départ, Millie accepte un poste de femme de ménage à demeure chez Nina et Andrew Winchester, un couple aussi riche qu’énigmatique. Ce qui s’annonce comme l’emploi idéal se transforme rapidement en un jeu dangereux, mêlant séduction, secrets et manipulations. Derrière les portes closes du manoir Winchester se cache un monde de faux-semblants et de révélations inattendues... Un tourbillon de suspense et de scandales qui vous tiendra en haleine jusqu’à la dernière seconde.",
-      "popularity": 242.6557,
-      "poster_path": "/28Dn93nuxH8PmDLUVQLCjLNVxKD.jpg",
-      "release_date": "2025-12-18",
-      "title": "La Femme de ménage",
-      "video": false,
-      "vote_average": 7.195,
-      "vote_count": 1079
+      "vote_average": 6.549,
+      "vote_count": 428
     },
     {
       "adult": false,
@@ -56,8 +37,28 @@
       "release_date": "2026-01-01",
       "title": "Primate",
       "video": false,
-      "vote_average": 6.578,
-      "vote_count": 256
+      "vote_average": 6.61,
+      "vote_count": 281
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tNONILTe9OJz574KZWaLze4v6RC.jpg",
+      "genre_ids": [
+        18,
+        9648,
+        53
+      ],
+      "id": 1368166,
+      "original_language": "en",
+      "original_title": "The Housemaid",
+      "overview": "En quête d’un nouveau départ, Millie accepte un poste de femme de ménage à demeure chez Nina et Andrew Winchester, un couple aussi riche qu’énigmatique. Ce qui s’annonce comme l’emploi idéal se transforme rapidement en un jeu dangereux, mêlant séduction, secrets et manipulations. Derrière les portes closes du manoir Winchester se cache un monde de faux-semblants et de révélations inattendues... Un tourbillon de suspense et de scandales qui vous tiendra en haleine jusqu’à la dernière seconde.",
+      "popularity": 242.6557,
+      "poster_path": "/28Dn93nuxH8PmDLUVQLCjLNVxKD.jpg",
+      "release_date": "2025-12-18",
+      "title": "La Femme de ménage",
+      "video": false,
+      "vote_average": 7.203,
+      "vote_count": 1098
     },
     {
       "adult": false,
@@ -77,8 +78,8 @@
       "release_date": "2026-01-28",
       "title": "Team Démolition",
       "video": false,
-      "vote_average": 6.833,
-      "vote_count": 564
+      "vote_average": 6.9,
+      "vote_count": 580
     },
     {
       "adult": false,
@@ -99,8 +100,8 @@
       "release_date": "2025-11-26",
       "title": "Zootopie 2",
       "video": false,
-      "vote_average": 7.6,
-      "vote_count": 1661
+      "vote_average": 7.607,
+      "vote_count": 1680
     },
     {
       "adult": false,
@@ -120,8 +121,8 @@
       "release_date": "2026-02-10",
       "title": "L'Appel du chaos",
       "video": false,
-      "vote_average": 4.143,
-      "vote_count": 21
+      "vote_average": 4.273,
+      "vote_count": 22
     },
     {
       "adult": false,
@@ -141,46 +142,27 @@
       "release_date": "2025-08-16",
       "title": "The Shadow's Edge",
       "video": false,
-      "vote_average": 7.203,
-      "vote_count": 427
+      "vote_average": 7.209,
+      "vote_count": 428
     },
     {
       "adult": false,
-      "backdrop_path": "/6D6M5z4reppUxo2cnBEKI02Csp1.jpg",
+      "backdrop_path": "/o0jRpVznKXuLvoXQX9UTKVtGjxK.jpg",
       "genre_ids": [
-        28,
-        80,
-        53
-      ],
-      "id": 1601243,
-      "original_language": "en",
-      "original_title": "Oscar Shaw",
-      "overview": "Après avoir pris sa retraite de la police, un détective implacable hanté par la perte tragique de son ami le plus proche se lance dans une périlleuse quête de vengeance, cherchant la rédemption et luttant pour rendre justice aux rues qu'il avait autrefois juré de protéger.",
-      "popularity": 168.4517,
-      "poster_path": "/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",
-      "release_date": "2026-01-09",
-      "title": "Oscar Shaw",
-      "video": false,
-      "vote_average": 6.368,
-      "vote_count": 19
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/bHtlDAORBQiYKCJMwDP9WBgcQHM.jpg",
-      "genre_ids": [
+        10749,
         18
       ],
-      "id": 1317288,
+      "id": 1317672,
       "original_language": "en",
-      "original_title": "Marty Supreme",
-      "overview": "Marty Mauser, 23 ans, aspire à devenir le meilleur athlète sur la scène mondiale du tennis de table. Le sport est sous-représenté aux États-Unis, ce qui rend difficile le financement de ses compétitions à l'étranger. Il est toutefois prêt à tout pour arriver à ses fins, y compris nouer des liens avec une ancienne actrice et son riche mari entrepreneur. Son entêtement pose un problème pour les personnes de son entourage, qui font souvent les frais de ses choix cavaliers.",
-      "popularity": 162.1375,
-      "poster_path": "/bT5Y8w67r7tj3wFiFGvy72V5znJ.jpg",
-      "release_date": "2025-12-19",
-      "title": "Marty Supreme",
+      "original_title": "Love Me Love Me",
+      "overview": "Après la mort de son frère, June s'installe à Milan pour repartir de zéro et trouve du réconfort en sortant avec Will, l'élève modèle de sa nouvelle école. Mais le meilleur ami de Will, James, adepte de combats clandestins de MMA, attise une rivalité qui se mue en attirance irrésistible. June doit alors choisir entre la sécurité et un amour qui remet en question tout ce qu'elle pensait vouloir.",
+      "popularity": 196.3749,
+      "poster_path": "/erKr74Xexw2OrkRJiFQW3Jnnub0.jpg",
+      "release_date": "2026-02-12",
+      "title": "Love Me Love Me",
       "video": false,
-      "vote_average": 7.6,
-      "vote_count": 697
+      "vote_average": 6.085,
+      "vote_count": 65
     },
     {
       "adult": false,
@@ -199,8 +181,85 @@
       "release_date": "2025-11-05",
       "title": "Predator : Badlands",
       "video": false,
-      "vote_average": 7.729,
-      "vote_count": 1931
+      "vote_average": 7.732,
+      "vote_count": 1957
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6D6M5z4reppUxo2cnBEKI02Csp1.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1601243,
+      "original_language": "en",
+      "original_title": "Oscar Shaw",
+      "overview": "Après avoir pris sa retraite de la police, un détective implacable hanté par la perte tragique de son ami le plus proche se lance dans une périlleuse quête de vengeance, cherchant la rédemption et luttant pour rendre justice aux rues qu'il avait autrefois juré de protéger.",
+      "popularity": 168.4517,
+      "poster_path": "/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",
+      "release_date": "2026-01-09",
+      "title": "Oscar Shaw",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 19
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bHtlDAORBQiYKCJMwDP9WBgcQHM.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1317288,
+      "original_language": "en",
+      "original_title": "Marty Supreme",
+      "overview": "Marty Mauser, 23 ans, aspire à devenir le meilleur athlète sur la scène mondiale du tennis de table. Le sport est sous-représenté aux États-Unis, ce qui rend difficile le financement de ses compétitions à l'étranger. Il est toutefois prêt à tout pour arriver à ses fins, y compris nouer des liens avec une ancienne actrice et son riche mari entrepreneur. Son entêtement pose un problème pour les personnes de son entourage, qui font souvent les frais de ses choix cavaliers.",
+      "popularity": 162.1375,
+      "poster_path": "/uHW98ECguEciJIRBoefjZfEK6wq.jpg",
+      "release_date": "2025-12-19",
+      "title": "Marty Supreme",
+      "video": false,
+      "vote_average": 7.594,
+      "vote_count": 730
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/w1Z1I9PqTK5UjG6RVAFXLCjp1Sw.jpg",
+      "genre_ids": [
+        878,
+        28,
+        53
+      ],
+      "id": 434853,
+      "original_language": "en",
+      "original_title": "Space/Time",
+      "overview": "Après qu'un test fatal ait mis fin à leur projet, une équipe de scientifiques discrédités s'aventure dans le monde criminel pour reconstruire un moteur spatial interdit qui pourrait sauver l'humanité ou la détruire complètement.",
+      "popularity": 161.3661,
+      "poster_path": "/uje1ecKMnNpZp0at5TxlvVgVXqI.jpg",
+      "release_date": "2025-05-01",
+      "title": "Space/Time",
+      "video": false,
+      "vote_average": 5,
+      "vote_count": 12
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/oGAYQOhfuXMh9Cpp4LNfzI5uDS3.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1316092,
+      "original_language": "en",
+      "original_title": "“Wuthering Heights”",
+      "overview": "Sur les landes balayées par le vent du Yorkshire, la passion dévorante entre Catherine Earnshaw et Heathcliff se transforme en une obsession destructrice, bouleversant leurs vies et celles de leur entourage.​",
+      "popularity": 155.6359,
+      "poster_path": "/yEa8UQA71rjKhCq04mATDNOIT2B.jpg",
+      "release_date": "2026-02-11",
+      "title": "“Hurlevent”",
+      "video": false,
+      "vote_average": 6.831,
+      "vote_count": 145
     },
     {
       "adult": false,
@@ -215,12 +274,31 @@
       "original_title": "Avatar: Fire and Ash",
       "overview": "Après la mort de Neteyam, Jake et Neytiri affrontent leur chagrin tout en faisant face au Peuple des Cendres, une tribu Na’vi redoutable menée par le fougueux Varang, alors que le conflit sur Pandora s’intensifie et qu’une nouvelle quê morale s’amorce.",
       "popularity": 135.5176,
-      "poster_path": "/5eATVqK2WVQi0D3wjzM5OP8EqZv.jpg",
+      "poster_path": "/5BnOt0PRymp5mXuoKv1unQ9x8I8.jpg",
       "release_date": "2025-12-17",
       "title": "Avatar : De feu et de cendres",
       "video": false,
-      "vote_average": 7.287,
-      "vote_count": 1754
+      "vote_average": 7.289,
+      "vote_count": 1757
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+      "genre_ids": [
+        878,
+        53
+      ],
+      "id": 755898,
+      "original_language": "en",
+      "original_title": "War of the Worlds",
+      "overview": "Une invasion gargantuesque approche dans cette nouvelle interprétation du légendaire roman homonyme devenu un classique de la science-fiction. La célèbre Eva Longoria partage l'affiche avec le rappeur/acteur Ice Cube, Michael O'Neill et Iman Benson, dans une aventure extraordinaire abordant des thématiques actuelles telles que la technologie, la surveillance et la protection de la vie privée.",
+      "popularity": 123.7033,
+      "poster_path": "/jnVnLfyA9MrBEsYx9vyq0e4dbLj.jpg",
+      "release_date": "2025-07-29",
+      "title": "La Guerre des mondes",
+      "video": false,
+      "vote_average": 4.221,
+      "vote_count": 888
     },
     {
       "adult": false,
@@ -257,46 +335,8 @@
       "release_date": "2026-01-13",
       "title": "The Internship",
       "video": false,
-      "vote_average": 6.2,
-      "vote_count": 44
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/sYM02XfZhqvlixmRkDcseQ6Xllk.jpg",
-      "genre_ids": [
-        10749,
-        18
-      ],
-      "id": 1316092,
-      "original_language": "en",
-      "original_title": "“Wuthering Heights”",
-      "overview": "Sur les landes balayées par le vent du Yorkshire, la passion dévorante entre Catherine Earnshaw et Heathcliff se transforme en une obsession destructrice, bouleversant leurs vies et celles de leur entourage.​",
-      "popularity": 155.6359,
-      "poster_path": "/yEa8UQA71rjKhCq04mATDNOIT2B.jpg",
-      "release_date": "2026-02-11",
-      "title": "“Hurlevent”",
-      "video": false,
-      "vote_average": 6.9,
-      "vote_count": 110
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
-      "genre_ids": [
-        878,
-        53
-      ],
-      "id": 755898,
-      "original_language": "en",
-      "original_title": "War of the Worlds",
-      "overview": "Une invasion gargantuesque approche dans cette nouvelle interprétation du légendaire roman homonyme devenu un classique de la science-fiction. La célèbre Eva Longoria partage l'affiche avec le rappeur/acteur Ice Cube, Michael O'Neill et Iman Benson, dans une aventure extraordinaire abordant des thématiques actuelles telles que la technologie, la surveillance et la protection de la vie privée.",
-      "popularity": 123.7033,
-      "poster_path": "/jnVnLfyA9MrBEsYx9vyq0e4dbLj.jpg",
-      "release_date": "2025-07-29",
-      "title": "La Guerre des mondes",
-      "video": false,
-      "vote_average": 4.225,
-      "vote_count": 886
+      "vote_average": 6.223,
+      "vote_count": 47
     },
     {
       "adult": false,
@@ -315,27 +355,8 @@
       "release_date": "2025-09-05",
       "title": "96 Minutes",
       "video": false,
-      "vote_average": 5.762,
-      "vote_count": 42
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/o0jRpVznKXuLvoXQX9UTKVtGjxK.jpg",
-      "genre_ids": [
-        10749,
-        18
-      ],
-      "id": 1317672,
-      "original_language": "en",
-      "original_title": "Love Me Love Me",
-      "overview": "Après la mort de son frère, June s'installe à Milan pour repartir de zéro et trouve du réconfort en sortant avec Will, l'élève modèle de sa nouvelle école. Mais le meilleur ami de Will, James, adepte de combats clandestins de MMA, attise une rivalité qui se mue en attirance irrésistible. June doit alors choisir entre la sécurité et un amour qui remet en question tout ce qu'elle pensait vouloir.",
-      "popularity": 196.3749,
-      "poster_path": "/erKr74Xexw2OrkRJiFQW3Jnnub0.jpg",
-      "release_date": "2026-02-12",
-      "title": "Love Me Love Me",
-      "video": false,
-      "vote_average": 6.193,
-      "vote_count": 44
+      "vote_average": 5.796,
+      "vote_count": 49
     },
     {
       "adult": false,
@@ -354,50 +375,29 @@
       "release_date": "2026-01-13",
       "title": "The Rip",
       "video": false,
-      "vote_average": 7.054,
-      "vote_count": 1160
+      "vote_average": 7.058,
+      "vote_count": 1173
     },
     {
       "adult": false,
-      "backdrop_path": "/swxhEJsAWms6X1fDZ4HdbvYBSf9.jpg",
+      "backdrop_path": "/yWZc7ZglTAecVLKHS0oROuetKce.jpg",
       "genre_ids": [
-        12,
-        35,
-        27
+        80,
+        53
       ],
-      "id": 1234731,
+      "id": 1171145,
       "original_language": "en",
-      "original_title": "Anaconda",
-      "overview": "Doug et Griff sont amis d'enfance et partagent depuis toujours un objectif un peu fou : réaliser leur propre remake d’Anaconda en plein cœur de l'Amazonie. Mais le rêve vire rapidement au cauchemar lorsqu'un véritable serpent géant fait son apparition et transforme leur plateau déjà chaotique en un piège mortel. Le film qu'ils mourraient d'envie de faire… va vraiment devenir mortel !",
-      "popularity": 87.4857,
-      "poster_path": "/5EbKjIowNw5yExzrhvu231GFVCf.jpg",
-      "release_date": "2025-12-24",
-      "title": "Anaconda",
+      "original_title": "Crime 101",
+      "overview": "Un voleur insaisissable, dont les braquages spectaculaires mystifient la police. Lorsqu’il repère le coup du siècle, son chemin croise celui d’une courtière en assurances désabusée, elle-même à un tournant de sa vie. Convaincu qu’il tient une piste, un détective tenace se rapproche dangereusement de l’opération, faisant monter la tension d’un cran. À l’approche de ce braquage, la ligne entre chasseur et proie devient de plus en plus floue, et les trois protagonistes devront faire des choix cruciaux, tout en réalisant qu’il est désormais trop tard pour faire marche arrière.",
+      "popularity": 91.1549,
+      "poster_path": "/cz6VIBoOKopo3pymqRkNiVc2M7.jpg",
+      "release_date": "2026-02-11",
+      "title": "Crime 101",
       "video": false,
-      "vote_average": 5.819,
-      "vote_count": 571
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/oN4TQ1TxchynXlFiXFBL3NHLT54.jpg",
-      "genre_ids": [
-        16,
-        10751,
-        18
-      ],
-      "id": 1167307,
-      "original_language": "en",
-      "original_title": "David",
-      "overview": "Des chants du cœur de sa mère aux murmures d'un Dieu fidèle, l'histoire de David commence dans une dévotion silencieuse. Lorsque le géant Goliath se lève pour terroriser une nation, un jeune berger armé uniquement d'une fronde, de quelques pierres et d'une foi inébranlable s'avance. Poursuivi par le pouvoir et animé par un but précis, son parcours met à l'épreuve les limites de la loyauté, de l'amour et du courage, et culmine dans une bataille qui ne vise pas seulement la couronne, mais aussi l'âme d'un royaume.",
-      "popularity": 83.7794,
-      "poster_path": "/bESlrLOrsQ9gKzaGQGHXKOyIUtX.jpg",
-      "release_date": "2025-12-14",
-      "title": "David",
-      "video": false,
-      "vote_average": 8.066,
-      "vote_count": 83
+      "vote_average": 7.7,
+      "vote_count": 32
     }
   ],
-  "total_pages": 55196,
-  "total_results": 1103906
+  "total_pages": 55207,
+  "total_results": 1104127
 }
