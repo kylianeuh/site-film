@@ -3,26 +3,6 @@
   "results": [
     {
       "adult": false,
-      "backdrop_path": "/tyjXlexbNZQ0ZT1KEJslQtBirqc.jpg",
-      "genre_ids": [
-        12,
-        53,
-        878
-      ],
-      "id": 840464,
-      "original_language": "en",
-      "original_title": "Greenland 2: Migration",
-      "overview": "Après l'impact dévastateur d'une comète qui a réduit la Terre en ruines, la famille Garrity doit quitter la sécurité de son bunker au Groenland. Commence alors un périple pour leur survie et l'avenir de l'Humanité à travers un monde dévasté à la recherche d'un nouveau foyer.",
-      "popularity": 322.113,
-      "poster_path": "/9eaHOemq2Ch5rYPJ0uXcipZUYpS.jpg",
-      "release_date": "2026-01-07",
-      "title": "Greenland : Migration",
-      "video": false,
-      "vote_average": 6.533,
-      "vote_count": 449
-    },
-    {
-      "adult": false,
       "backdrop_path": "/w1Z1I9PqTK5UjG6RVAFXLCjp1Sw.jpg",
       "genre_ids": [
         878,
@@ -38,8 +18,28 @@
       "release_date": "2025-05-01",
       "title": "Space/Time",
       "video": false,
-      "vote_average": 5.605,
-      "vote_count": 19
+      "vote_average": 5.762,
+      "vote_count": 21
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tyjXlexbNZQ0ZT1KEJslQtBirqc.jpg",
+      "genre_ids": [
+        12,
+        53,
+        878
+      ],
+      "id": 840464,
+      "original_language": "en",
+      "original_title": "Greenland 2: Migration",
+      "overview": "Après l'impact dévastateur d'une comète qui a réduit la Terre en ruines, la famille Garrity doit quitter la sécurité de son bunker au Groenland. Commence alors un périple pour leur survie et l'avenir de l'Humanité à travers un monde dévasté à la recherche d'un nouveau foyer.",
+      "popularity": 322.113,
+      "poster_path": "/9eaHOemq2Ch5rYPJ0uXcipZUYpS.jpg",
+      "release_date": "2026-01-07",
+      "title": "Greenland : Migration",
+      "video": false,
+      "vote_average": 6.531,
+      "vote_count": 459
     },
     {
       "adult": false,
@@ -57,29 +57,8 @@
       "release_date": "2026-01-01",
       "title": "Primate",
       "video": false,
-      "vote_average": 6.64,
-      "vote_count": 311
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/cz4vLJrmaV1zJlRYbxqtvLzeLWB.jpg",
-      "genre_ids": [
-        28,
-        35,
-        80,
-        9648
-      ],
-      "id": 1168190,
-      "original_language": "en",
-      "original_title": "The Wrecking Crew",
-      "overview": "Deux demi-frères brouillés, Jonny et James, se réunissent après la mort mystérieuse de leur père. Durant leur quête de la vérité, des secrets enfouis révèlent un complot qui menace de détruire leur famille.",
-      "popularity": 223.5958,
-      "poster_path": "/ec0bwYUEYBhcHutx4nIShLzX7Dl.jpg",
-      "release_date": "2026-01-28",
-      "title": "Team Démolition",
-      "video": false,
-      "vote_average": 6.857,
-      "vote_count": 601
+      "vote_average": 6.649,
+      "vote_count": 323
     },
     {
       "adult": false,
@@ -99,8 +78,29 @@
       "release_date": "2026-02-10",
       "title": "L'Appel du chaos",
       "video": false,
-      "vote_average": 4.857,
-      "vote_count": 28
+      "vote_average": 4.767,
+      "vote_count": 30
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cz4vLJrmaV1zJlRYbxqtvLzeLWB.jpg",
+      "genre_ids": [
+        28,
+        35,
+        80,
+        9648
+      ],
+      "id": 1168190,
+      "original_language": "en",
+      "original_title": "The Wrecking Crew",
+      "overview": "Deux demi-frères brouillés, Jonny et James, se réunissent après la mort mystérieuse de leur père. Durant leur quête de la vérité, des secrets enfouis révèlent un complot qui menace de détruire leur famille.",
+      "popularity": 223.5958,
+      "poster_path": "/ec0bwYUEYBhcHutx4nIShLzX7Dl.jpg",
+      "release_date": "2026-01-28",
+      "title": "Team Démolition",
+      "video": false,
+      "vote_average": 6.873,
+      "vote_count": 611
     },
     {
       "adult": false,
@@ -121,8 +121,8 @@
       "release_date": "2025-11-26",
       "title": "Zootopie 2",
       "video": false,
-      "vote_average": 7.605,
-      "vote_count": 1708
+      "vote_average": 7.607,
+      "vote_count": 1714
     },
     {
       "adult": false,
@@ -141,86 +141,8 @@
       "release_date": "2025-12-18",
       "title": "La Femme de ménage",
       "video": false,
-      "vote_average": 7.207,
-      "vote_count": 1131
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/o0jRpVznKXuLvoXQX9UTKVtGjxK.jpg",
-      "genre_ids": [
-        10749,
-        18
-      ],
-      "id": 1317672,
-      "original_language": "en",
-      "original_title": "Love Me Love Me",
-      "overview": "Après la mort de son frère, June s'installe à Milan pour repartir de zéro et trouve du réconfort en sortant avec Will, l'élève modèle de sa nouvelle école. Mais le meilleur ami de Will, James, adepte de combats clandestins de MMA, attise une rivalité qui se mue en attirance irrésistible. June doit alors choisir entre la sécurité et un amour qui remet en question tout ce qu'elle pensait vouloir.",
-      "popularity": 179.2684,
-      "poster_path": "/erKr74Xexw2OrkRJiFQW3Jnnub0.jpg",
-      "release_date": "2026-02-12",
-      "title": "Love Me Love Me",
-      "video": false,
-      "vote_average": 5.942,
-      "vote_count": 78
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
-      "genre_ids": [
-        28,
-        878,
-        12
-      ],
-      "id": 1242898,
-      "original_language": "en",
-      "original_title": "Predator: Badlands",
-      "overview": "Jugé trop faible et indigne par son père, chef de la tribu des Yautja, Dek est sur le point de se faire exécuter par son frère Kwei. Mais au dernier moment, celui-ci préfère se sacrifier pour favoriser sa fuite. Décidé à prouver son courage, le jeune paria se rend sur la planète Genna pour y capturer le Kalisk, un monstre réputé invincible. Confronté à une nature hostile et imprévisible, le guerrier inexpérimenté doit sa survie à Thia, une androïde privée de la partie inférieure de son corps depuis son affrontement avec le Kalisk. Avec l'aide de celle-ci, Dek amorce sa traque de la terrible créature, convoitée par des scientifiques pour ses formidables dons de régénération.",
-      "popularity": 181.6124,
-      "poster_path": "/empQGO0pCVTndCpihyVpNfaLebl.jpg",
-      "release_date": "2025-11-05",
-      "title": "Predator : Badlands",
-      "video": false,
-      "vote_average": 7.729,
-      "vote_count": 1983
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
-      "genre_ids": [
-        10749,
-        18
-      ],
-      "id": 1316092,
-      "original_language": "en",
-      "original_title": "“Wuthering Heights”",
-      "overview": "Sur les landes balayées par le vent du Yorkshire, la passion dévorante entre Catherine Earnshaw et Heathcliff se transforme en une obsession destructrice, bouleversant leurs vies et celles de leur entourage.​",
-      "popularity": 192.2175,
-      "poster_path": "/yEa8UQA71rjKhCq04mATDNOIT2B.jpg",
-      "release_date": "2026-02-11",
-      "title": "“Hurlevent”",
-      "video": false,
-      "vote_average": 6.7,
-      "vote_count": 186
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/6D6M5z4reppUxo2cnBEKI02Csp1.jpg",
-      "genre_ids": [
-        28,
-        80,
-        53
-      ],
-      "id": 1601243,
-      "original_language": "en",
-      "original_title": "Oscar Shaw",
-      "overview": "Après avoir pris sa retraite de la police, un détective implacable hanté par la perte tragique de son ami le plus proche se lance dans une périlleuse quête de vengeance, cherchant la rédemption et luttant pour rendre justice aux rues qu'il avait autrefois juré de protéger.",
-      "popularity": 148.0321,
-      "poster_path": "/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",
-      "release_date": "2026-01-09",
-      "title": "Oscar Shaw",
-      "video": false,
-      "vote_average": 6.4,
-      "vote_count": 20
+      "vote_average": 7.201,
+      "vote_count": 1154
     },
     {
       "adult": false,
@@ -240,8 +162,86 @@
       "release_date": "2025-08-16",
       "title": "The Shadow's Edge",
       "video": false,
-      "vote_average": 7.207,
-      "vote_count": 433
+      "vote_average": 7.21,
+      "vote_count": 435
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1316092,
+      "original_language": "en",
+      "original_title": "“Wuthering Heights”",
+      "overview": "Sur les landes balayées par le vent du Yorkshire, la passion dévorante entre Catherine Earnshaw et Heathcliff se transforme en une obsession destructrice, bouleversant leurs vies et celles de leur entourage.​",
+      "popularity": 192.2175,
+      "poster_path": "/yEa8UQA71rjKhCq04mATDNOIT2B.jpg",
+      "release_date": "2026-02-11",
+      "title": "“Hurlevent”",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 210
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "id": 1242898,
+      "original_language": "en",
+      "original_title": "Predator: Badlands",
+      "overview": "Jugé trop faible et indigne par son père, chef de la tribu des Yautja, Dek est sur le point de se faire exécuter par son frère Kwei. Mais au dernier moment, celui-ci préfère se sacrifier pour favoriser sa fuite. Décidé à prouver son courage, le jeune paria se rend sur la planète Genna pour y capturer le Kalisk, un monstre réputé invincible. Confronté à une nature hostile et imprévisible, le guerrier inexpérimenté doit sa survie à Thia, une androïde privée de la partie inférieure de son corps depuis son affrontement avec le Kalisk. Avec l'aide de celle-ci, Dek amorce sa traque de la terrible créature, convoitée par des scientifiques pour ses formidables dons de régénération.",
+      "popularity": 181.6124,
+      "poster_path": "/empQGO0pCVTndCpihyVpNfaLebl.jpg",
+      "release_date": "2025-11-05",
+      "title": "Predator : Badlands",
+      "video": false,
+      "vote_average": 7.728,
+      "vote_count": 2000
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/o0jRpVznKXuLvoXQX9UTKVtGjxK.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1317672,
+      "original_language": "en",
+      "original_title": "Love Me Love Me",
+      "overview": "Après la mort de son frère, June s'installe à Milan pour repartir de zéro et trouve du réconfort en sortant avec Will, l'élève modèle de sa nouvelle école. Mais le meilleur ami de Will, James, adepte de combats clandestins de MMA, attise une rivalité qui se mue en attirance irrésistible. June doit alors choisir entre la sécurité et un amour qui remet en question tout ce qu'elle pensait vouloir.",
+      "popularity": 179.2684,
+      "poster_path": "/xmoO861IKm1ycJ52mLGc3nwINKV.jpg",
+      "release_date": "2026-02-12",
+      "title": "Love Me Love Me",
+      "video": false,
+      "vote_average": 5.88,
+      "vote_count": 92
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6D6M5z4reppUxo2cnBEKI02Csp1.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1601243,
+      "original_language": "en",
+      "original_title": "Oscar Shaw",
+      "overview": "Après avoir pris sa retraite de la police, un détective implacable hanté par la perte tragique de son ami le plus proche se lance dans une périlleuse quête de vengeance, cherchant la rédemption et luttant pour rendre justice aux rues qu'il avait autrefois juré de protéger.",
+      "popularity": 148.0321,
+      "poster_path": "/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",
+      "release_date": "2026-01-09",
+      "title": "Oscar Shaw",
+      "video": false,
+      "vote_average": 6.19,
+      "vote_count": 21
     },
     {
       "adult": false,
@@ -259,7 +259,7 @@
       "title": "Marty Supreme",
       "video": false,
       "vote_average": 7.6,
-      "vote_count": 757
+      "vote_count": 768
     },
     {
       "adult": false,
@@ -278,8 +278,28 @@
       "release_date": "2025-12-17",
       "title": "Avatar : De feu et de cendres",
       "video": false,
-      "vote_average": 7.283,
-      "vote_count": 1768
+      "vote_average": 7.281,
+      "vote_count": 1775
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cugd16e3WbCG3Zogb8N7lwUnVXH.jpg",
+      "genre_ids": [
+        14,
+        28,
+        12
+      ],
+      "id": 1253000,
+      "original_language": "en",
+      "original_title": "Deathstalker",
+      "overview": "Un guerrier affronte un sorcier maléfique et autres créatures...",
+      "popularity": 127.3801,
+      "poster_path": "/nEI3DnzQC1afAjJOAizx6UX27pL.jpg",
+      "release_date": "2025-10-10",
+      "title": "Deathstalker",
+      "video": false,
+      "vote_average": 6.1,
+      "vote_count": 38
     },
     {
       "adult": false,
@@ -297,8 +317,29 @@
       "release_date": "2025-07-29",
       "title": "La Guerre des mondes",
       "video": false,
-      "vote_average": 4.221,
+      "vote_average": 4.217,
       "vote_count": 888
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1qwhYqg7YEZajh3Q4biqbuQoDq8.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751,
+        28
+      ],
+      "id": 1297842,
+      "original_language": "en",
+      "original_title": "GOAT",
+      "overview": "Will est un petit bouc avec de grands rêves. Lorsqu'il décroche une chance inespérée de rejoindre la ligue professionnelle de \"roarball\", un sport ultra-intense réservé aux bêtes les plus rapides et féroces, il entend bien saisir l’opportunité. Problème : ses nouveaux coéquipiers ne sont pas vraiment ravis d'avoir un \"petit\" dans l'équipe. Mais Will est prêt à tout pour changer les règles du jeu.",
+      "popularity": 112.5227,
+      "poster_path": "/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
+      "release_date": "2026-02-11",
+      "title": "GOAT : Rêver plus haut",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 35
     },
     {
       "adult": false,
@@ -315,8 +356,8 @@
       "release_date": "2026-01-13",
       "title": "The Internship",
       "video": false,
-      "vote_average": 6.2,
-      "vote_count": 48
+      "vote_average": 6.255,
+      "vote_count": 49
     },
     {
       "adult": false,
@@ -339,66 +380,24 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/lAtuFCx6cYkNBmTMSNnLE0qlCLx.jpg",
+      "backdrop_path": "/yWZc7ZglTAecVLKHS0oROuetKce.jpg",
       "genre_ids": [
-        28,
         80,
-        10749
+        53
       ],
-      "id": 1271895,
-      "original_language": "zh",
-      "original_title": "96分鐘",
-      "overview": "Après avoir embarqué dans un train à grande vitesse piégé, un homme mène une course contre la montre désespérée pour désamorcer une bombe et sauver la vie des passagers.",
-      "popularity": 96.4982,
-      "poster_path": "/5HefFZDvzHAR4qWEMExLfyM0qLs.jpg",
-      "release_date": "2025-09-05",
-      "title": "96 Minutes",
-      "video": false,
-      "vote_average": 5.765,
-      "vote_count": 51
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/3F2EXWF1thX0BdrVaKvnm6mAhqh.jpg",
-      "genre_ids": [
-        28,
-        53,
-        80
-      ],
-      "id": 1306368,
+      "id": 1171145,
       "original_language": "en",
-      "original_title": "The Rip",
-      "overview": "La méfiance s'installe quand une équipe de flics de Miami découvre des millions en cash dans une planque délabrée. Plus personne ne sait quoi penser... ni à qui se fier.",
-      "popularity": 91.833,
-      "poster_path": "/hMoQlTlUlesatqxOtzVLZjkU9Wm.jpg",
-      "release_date": "2026-01-13",
-      "title": "The Rip",
-      "video": false,
-      "vote_average": 7.059,
-      "vote_count": 1187
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/1qwhYqg7YEZajh3Q4biqbuQoDq8.jpg",
-      "genre_ids": [
-        16,
-        35,
-        10751,
-        28
-      ],
-      "id": 1297842,
-      "original_language": "en",
-      "original_title": "GOAT",
-      "overview": "Will est un petit bouc avec de grands rêves. Lorsqu'il décroche une chance inespérée de rejoindre la ligue professionnelle de \"roarball\", un sport ultra-intense réservé aux bêtes les plus rapides et féroces, il entend bien saisir l’opportunité. Problème : ses nouveaux coéquipiers ne sont pas vraiment ravis d'avoir un \"petit\" dans l'équipe. Mais Will est prêt à tout pour changer les règles du jeu.",
-      "popularity": 112.5227,
-      "poster_path": "/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
+      "original_title": "Crime 101",
+      "overview": "Un voleur insaisissable, dont les braquages spectaculaires mystifient la police. Lorsqu’il repère le coup du siècle, son chemin croise celui d’une courtière en assurances désabusée, elle-même à un tournant de sa vie. Convaincu qu’il tient une piste, un détective tenace se rapproche dangereusement de l’opération, faisant monter la tension d’un cran. À l’approche de ce braquage, la ligne entre chasseur et proie devient de plus en plus floue, et les trois protagonistes devront faire des choix cruciaux, tout en réalisant qu’il est désormais trop tard pour faire marche arrière.",
+      "popularity": 98.3713,
+      "poster_path": "/cz6VIBoOKopo3pymqRkNiVc2M7.jpg",
       "release_date": "2026-02-11",
-      "title": "GOAT : Rêver plus haut",
+      "title": "Crime 101",
       "video": false,
-      "vote_average": 7.2,
-      "vote_count": 33
+      "vote_average": 6.989,
+      "vote_count": 47
     }
   ],
-  "total_pages": 55224,
-  "total_results": 1104461
+  "total_pages": 55234,
+  "total_results": 1104670
 }
