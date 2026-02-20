@@ -3,6 +3,26 @@
   "results": [
     {
       "adult": false,
+      "backdrop_path": "/7HKpc11uQfxnw0Y8tRUYn1fsKqE.jpg",
+      "genre_ids": [
+        878,
+        28,
+        53
+      ],
+      "id": 1236153,
+      "original_language": "en",
+      "original_title": "Mercy",
+      "overview": "Dans un futur proche, la ville de Los Angeles est en proie à une montée de la violence. Le détective privé Chris Raven est accusé du meurtre de sa femme. Il est jugé par la juge Maddox, une intelligence artificielle avancée du tribunal expéditif de Mercy Capital, auquel Chris a grandement contribué. Il a 90 minutes pour prouver lui-même son innocence. Après ce délai, l'IA déterminera son sort et le condamnera à mort.",
+      "popularity": 516.1282,
+      "poster_path": "/roKKWFRmFMRzv5NhBhCmDW5GdQr.jpg",
+      "release_date": "2026-01-20",
+      "title": "Reconnu coupable",
+      "video": false,
+      "vote_average": 6.737,
+      "vote_count": 266
+    },
+    {
+      "adult": false,
       "backdrop_path": "/w1Z1I9PqTK5UjG6RVAFXLCjp1Sw.jpg",
       "genre_ids": [
         878,
@@ -18,8 +38,8 @@
       "release_date": "2025-05-01",
       "title": "Space/Time",
       "video": false,
-      "vote_average": 5.981,
-      "vote_count": 26
+      "vote_average": 5.983,
+      "vote_count": 29
     },
     {
       "adult": false,
@@ -39,48 +59,27 @@
       "title": "Greenland : Migration",
       "video": false,
       "vote_average": 6.547,
-      "vote_count": 468
+      "vote_count": 477
     },
     {
       "adult": false,
-      "backdrop_path": "/7HKpc11uQfxnw0Y8tRUYn1fsKqE.jpg",
+      "backdrop_path": "/hHDNOlATHhre4eZ7aYz5cdyJLik.jpg",
       "genre_ids": [
-        878,
-        28,
-        53
+        27,
+        53,
+        878
       ],
-      "id": 1236153,
+      "id": 1272837,
       "original_language": "en",
-      "original_title": "Mercy",
-      "overview": "Dans un futur proche, la ville de Los Angeles est en proie à une montée de la violence. Le détective privé Chris Raven est accusé du meurtre de sa femme. Il est jugé par la juge Maddox, une intelligence artificielle avancée du tribunal expéditif de Mercy Capital, auquel Chris a grandement contribué. Il a 90 minutes pour prouver lui-même son innocence. Après ce délai, l'IA déterminera son sort et le condamnera à mort.",
-      "popularity": 516.1282,
-      "poster_path": "/roKKWFRmFMRzv5NhBhCmDW5GdQr.jpg",
-      "release_date": "2026-01-20",
-      "title": "Reconnu coupable",
+      "original_title": "28 Years Later: The Bone Temple",
+      "overview": "Le docteur Kelson noue une relation aussi troublante qu'inattendue dont les répercussions sont susceptibles de bouleverser le monde. De l'autre côté, la rencontre entre Spike et Jimmy Crystal tourne au cauchemar.",
+      "popularity": 219.8317,
+      "poster_path": "/1SQVgXrkBVbwUWugj3ZZ6T26So2.jpg",
+      "release_date": "2026-01-14",
+      "title": "28 Ans plus tard : Le Temple des morts",
       "video": false,
-      "vote_average": 6.734,
-      "vote_count": 229
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/cz4vLJrmaV1zJlRYbxqtvLzeLWB.jpg",
-      "genre_ids": [
-        28,
-        35,
-        80,
-        9648
-      ],
-      "id": 1168190,
-      "original_language": "en",
-      "original_title": "The Wrecking Crew",
-      "overview": "Deux demi-frères brouillés, Jonny et James, se réunissent après la mort mystérieuse de leur père. Durant leur quête de la vérité, des secrets enfouis révèlent un complot qui menace de détruire leur famille.",
-      "popularity": 191.5663,
-      "poster_path": "/ec0bwYUEYBhcHutx4nIShLzX7Dl.jpg",
-      "release_date": "2026-01-28",
-      "title": "Team Démolition",
-      "video": false,
-      "vote_average": 6.888,
-      "vote_count": 620
+      "vote_average": 7.209,
+      "vote_count": 428
     },
     {
       "adult": false,
@@ -99,48 +98,8 @@
       "release_date": "2025-10-10",
       "title": "Deathstalker",
       "video": false,
-      "vote_average": 6.19,
+      "vote_average": 6.2,
       "vote_count": 42
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/1Xdsq7U7bvJJd2X7Jg4qNaKVkYO.jpg",
-      "genre_ids": [
-        28,
-        53,
-        80,
-        18
-      ],
-      "id": 1426964,
-      "original_language": "pt",
-      "original_title": "Salve Geral: Irmandade",
-      "overview": "Alors qu'une vague de violence sans précédent secoue São Paulo, une avocate liée au milieu criminel doit négocier avec la police pour sauver sa nièce qui a été enlevée.",
-      "popularity": 168.581,
-      "poster_path": "/cBv1XzLMA2T6b7iXCLkXsg4iJzW.jpg",
-      "release_date": "2026-02-10",
-      "title": "L'Appel du chaos",
-      "video": false,
-      "vote_average": 4.806,
-      "vote_count": 31
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/9uakM2woks0JV8HKIc4oatIVS88.jpg",
-      "genre_ids": [
-        27,
-        53
-      ],
-      "id": 1315303,
-      "original_language": "en",
-      "original_title": "Primate",
-      "overview": "Au lieu de rimer avec plages et retrouvailles, le retour de Lucy sur son île tropicale natale tourne au cauchemar lorsque le chimpanzé de la famille, d’une intelligence exceptionnelle, sombre dans une frénésie enragée. La nuit se mue alors en un chaos terrifiant. En l’absence de son père et sans aucun secours possible, ce paradis devient une prison et Lucy et ses amis doivent affronter un prédateur mortel en qui ils avaient autrefois toute confiance.",
-      "popularity": 163.1624,
-      "poster_path": "/HtXHAH4PQjpw2RLsIrHGbeng1n.jpg",
-      "release_date": "2026-01-01",
-      "title": "Primate",
-      "video": false,
-      "vote_average": 6.641,
-      "vote_count": 338
     },
     {
       "adult": false,
@@ -161,8 +120,48 @@
       "release_date": "2025-11-26",
       "title": "Zootopie 2",
       "video": false,
-      "vote_average": 7.612,
-      "vote_count": 1732
+      "vote_average": 7.6,
+      "vote_count": 1740
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cz4vLJrmaV1zJlRYbxqtvLzeLWB.jpg",
+      "genre_ids": [
+        28,
+        35,
+        80,
+        9648
+      ],
+      "id": 1168190,
+      "original_language": "en",
+      "original_title": "The Wrecking Crew",
+      "overview": "Deux demi-frères brouillés, Jonny et James, se réunissent après la mort mystérieuse de leur père. Durant leur quête de la vérité, des secrets enfouis révèlent un complot qui menace de détruire leur famille.",
+      "popularity": 191.5663,
+      "poster_path": "/ec0bwYUEYBhcHutx4nIShLzX7Dl.jpg",
+      "release_date": "2026-01-28",
+      "title": "Team Démolition",
+      "video": false,
+      "vote_average": 6.892,
+      "vote_count": 627
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1316092,
+      "original_language": "en",
+      "original_title": "“Wuthering Heights”",
+      "overview": "Sur les landes balayées par le vent du Yorkshire, la passion dévorante entre Catherine Earnshaw et Heathcliff se transforme en une obsession destructrice, bouleversant leurs vies et celles de leur entourage.​",
+      "popularity": 181.7105,
+      "poster_path": "/yEa8UQA71rjKhCq04mATDNOIT2B.jpg",
+      "release_date": "2026-02-11",
+      "title": "“Hurlevent”",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 257
     },
     {
       "adult": false,
@@ -183,7 +182,26 @@
       "title": "The Shadow's Edge",
       "video": false,
       "vote_average": 7.2,
-      "vote_count": 437
+      "vote_count": 440
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/o0jRpVznKXuLvoXQX9UTKVtGjxK.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1317672,
+      "original_language": "en",
+      "original_title": "Love Me Love Me",
+      "overview": "Après la mort de son frère, June s'installe à Milan pour repartir de zéro et trouve du réconfort en sortant avec Will, l'élève modèle de sa nouvelle école. Mais le meilleur ami de Will, James, adepte de combats clandestins de MMA, attise une rivalité qui se mue en attirance irrésistible. June doit alors choisir entre la sécurité et un amour qui remet en question tout ce qu'elle pensait vouloir.",
+      "popularity": 172.599,
+      "poster_path": "/erKr74Xexw2OrkRJiFQW3Jnnub0.jpg",
+      "release_date": "2026-02-12",
+      "title": "Love Me Love Me",
+      "video": false,
+      "vote_average": 5.9,
+      "vote_count": 105
     },
     {
       "adult": false,
@@ -205,6 +223,27 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/1Xdsq7U7bvJJd2X7Jg4qNaKVkYO.jpg",
+      "genre_ids": [
+        28,
+        53,
+        80,
+        18
+      ],
+      "id": 1426964,
+      "original_language": "pt",
+      "original_title": "Salve Geral: Irmandade",
+      "overview": "Alors qu'une vague de violence sans précédent secoue São Paulo, une avocate liée au milieu criminel doit négocier avec la police pour sauver sa nièce qui a été enlevée.",
+      "popularity": 168.581,
+      "poster_path": "/cBv1XzLMA2T6b7iXCLkXsg4iJzW.jpg",
+      "release_date": "2026-02-10",
+      "title": "L'Appel du chaos",
+      "video": false,
+      "vote_average": 4.828,
+      "vote_count": 32
+    },
+    {
+      "adult": false,
       "backdrop_path": "/tNONILTe9OJz574KZWaLze4v6RC.jpg",
       "genre_ids": [
         18,
@@ -220,8 +259,27 @@
       "release_date": "2025-12-18",
       "title": "La Femme de ménage",
       "video": false,
-      "vote_average": 7.208,
-      "vote_count": 1171
+      "vote_average": 7.2,
+      "vote_count": 1188
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9uakM2woks0JV8HKIc4oatIVS88.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1315303,
+      "original_language": "en",
+      "original_title": "Primate",
+      "overview": "Au lieu de rimer avec plages et retrouvailles, le retour de Lucy sur son île tropicale natale tourne au cauchemar lorsque le chimpanzé de la famille, d’une intelligence exceptionnelle, sombre dans une frénésie enragée. La nuit se mue alors en un chaos terrifiant. En l’absence de son père et sans aucun secours possible, ce paradis devient une prison et Lucy et ses amis doivent affronter un prédateur mortel en qui ils avaient autrefois toute confiance.",
+      "popularity": 163.1624,
+      "poster_path": "/HtXHAH4PQjpw2RLsIrHGbeng1n.jpg",
+      "release_date": "2026-01-01",
+      "title": "Primate",
+      "video": false,
+      "vote_average": 6.641,
+      "vote_count": 343
     },
     {
       "adult": false,
@@ -240,66 +298,8 @@
       "release_date": "2025-11-05",
       "title": "Predator : Badlands",
       "video": false,
-      "vote_average": 7.721,
-      "vote_count": 2027
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/o0jRpVznKXuLvoXQX9UTKVtGjxK.jpg",
-      "genre_ids": [
-        10749,
-        18
-      ],
-      "id": 1317672,
-      "original_language": "en",
-      "original_title": "Love Me Love Me",
-      "overview": "Après la mort de son frère, June s'installe à Milan pour repartir de zéro et trouve du réconfort en sortant avec Will, l'élève modèle de sa nouvelle école. Mais le meilleur ami de Will, James, adepte de combats clandestins de MMA, attise une rivalité qui se mue en attirance irrésistible. June doit alors choisir entre la sécurité et un amour qui remet en question tout ce qu'elle pensait vouloir.",
-      "popularity": 172.599,
-      "poster_path": "/erKr74Xexw2OrkRJiFQW3Jnnub0.jpg",
-      "release_date": "2026-02-12",
-      "title": "Love Me Love Me",
-      "video": false,
-      "vote_average": 5.898,
-      "vote_count": 98
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
-      "genre_ids": [
-        10749,
-        18
-      ],
-      "id": 1316092,
-      "original_language": "en",
-      "original_title": "“Wuthering Heights”",
-      "overview": "Sur les landes balayées par le vent du Yorkshire, la passion dévorante entre Catherine Earnshaw et Heathcliff se transforme en une obsession destructrice, bouleversant leurs vies et celles de leur entourage.​",
-      "popularity": 181.7105,
-      "poster_path": "/yEa8UQA71rjKhCq04mATDNOIT2B.jpg",
-      "release_date": "2026-02-11",
-      "title": "“Hurlevent”",
-      "video": false,
-      "vote_average": 6.676,
-      "vote_count": 238
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/hHDNOlATHhre4eZ7aYz5cdyJLik.jpg",
-      "genre_ids": [
-        27,
-        53,
-        878
-      ],
-      "id": 1272837,
-      "original_language": "en",
-      "original_title": "28 Years Later: The Bone Temple",
-      "overview": "Le docteur Kelson noue une relation aussi troublante qu'inattendue dont les répercussions sont susceptibles de bouleverser le monde. De l'autre côté, la rencontre entre Spike et Jimmy Crystal tourne au cauchemar.",
-      "popularity": 219.8317,
-      "poster_path": "/1SQVgXrkBVbwUWugj3ZZ6T26So2.jpg",
-      "release_date": "2026-01-14",
-      "title": "28 Ans plus tard : Le Temple des morts",
-      "video": false,
-      "vote_average": 7.239,
-      "vote_count": 400
+      "vote_average": 7.7,
+      "vote_count": 2043
     },
     {
       "adult": false,
@@ -323,24 +323,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/bHtlDAORBQiYKCJMwDP9WBgcQHM.jpg",
-      "genre_ids": [
-        18
-      ],
-      "id": 1317288,
-      "original_language": "en",
-      "original_title": "Marty Supreme",
-      "overview": "Marty Mauser, 23 ans, aspire à devenir le meilleur athlète sur la scène mondiale du tennis de table. Le sport est sous-représenté aux États-Unis, ce qui rend difficile le financement de ses compétitions à l'étranger. Il est toutefois prêt à tout pour arriver à ses fins, y compris nouer des liens avec une ancienne actrice et son riche mari entrepreneur. Son entêtement pose un problème pour les personnes de son entourage, qui font souvent les frais de ses choix cavaliers.",
-      "popularity": 111.6472,
-      "poster_path": "/uHW98ECguEciJIRBoefjZfEK6wq.jpg",
-      "release_date": "2025-12-19",
-      "title": "Marty Supreme",
-      "video": false,
-      "vote_average": 7.6,
-      "vote_count": 791
-    },
-    {
-      "adult": false,
       "backdrop_path": "/sdZSjtGUTSN8B3al5o0f2WoQfQQ.jpg",
       "genre_ids": [
         878,
@@ -356,8 +338,8 @@
       "release_date": "2025-12-17",
       "title": "Avatar : De feu et de cendres",
       "video": false,
-      "vote_average": 7.277,
-      "vote_count": 1782
+      "vote_average": 7.279,
+      "vote_count": 1786
     },
     {
       "adult": false,
@@ -375,8 +357,26 @@
       "release_date": "2025-07-29",
       "title": "La Guerre des mondes",
       "video": false,
-      "vote_average": 4.215,
-      "vote_count": 890
+      "vote_average": 4.2,
+      "vote_count": 891
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bHtlDAORBQiYKCJMwDP9WBgcQHM.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1317288,
+      "original_language": "en",
+      "original_title": "Marty Supreme",
+      "overview": "Marty Mauser, 23 ans, aspire à devenir le meilleur athlète sur la scène mondiale du tennis de table. Le sport est sous-représenté aux États-Unis, ce qui rend difficile le financement de ses compétitions à l'étranger. Il est toutefois prêt à tout pour arriver à ses fins, y compris nouer des liens avec une ancienne actrice et son riche mari entrepreneur. Son entêtement pose un problème pour les personnes de son entourage, qui font souvent les frais de ses choix cavaliers.",
+      "popularity": 111.6472,
+      "poster_path": "/uHW98ECguEciJIRBoefjZfEK6wq.jpg",
+      "release_date": "2025-12-19",
+      "title": "Marty Supreme",
+      "video": false,
+      "vote_average": 7.587,
+      "vote_count": 812
     },
     {
       "adult": false,
@@ -396,10 +396,10 @@
       "release_date": "2026-02-11",
       "title": "GOAT : Rêver plus haut",
       "video": false,
-      "vote_average": 7.321,
+      "vote_average": 7.3,
       "vote_count": 42
     }
   ],
-  "total_pages": 55246,
-  "total_results": 1104916
+  "total_pages": 55262,
+  "total_results": 1105234
 }
