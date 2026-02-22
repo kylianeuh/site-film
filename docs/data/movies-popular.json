@@ -13,13 +13,13 @@
       "original_language": "en",
       "original_title": "Mercy",
       "overview": "Dans un futur proche, la ville de Los Angeles est en proie à une montée de la violence. Le détective privé Chris Raven est accusé du meurtre de sa femme. Il est jugé par la juge Maddox, une intelligence artificielle avancée du tribunal expéditif de Mercy Capital, auquel Chris a grandement contribué. Il a 90 minutes pour prouver lui-même son innocence. Après ce délai, l'IA déterminera son sort et le condamnera à mort.",
-      "popularity": 622.2864,
+      "popularity": 639.672,
       "poster_path": "/roKKWFRmFMRzv5NhBhCmDW5GdQr.jpg",
       "release_date": "2026-01-20",
       "title": "Reconnu coupable",
       "video": false,
-      "vote_average": 6.862,
-      "vote_count": 305
+      "vote_average": 6.935,
+      "vote_count": 368
     },
     {
       "adult": false,
@@ -33,33 +33,13 @@
       "original_language": "en",
       "original_title": "Space/Time",
       "overview": "Après qu'un test fatal ait mis fin à leur projet, une équipe de scientifiques discrédités s'aventure dans le monde criminel pour reconstruire un moteur spatial interdit qui pourrait sauver l'humanité ou la détruire complètement.",
-      "popularity": 283.4187,
+      "popularity": 250.0708,
       "poster_path": "/uje1ecKMnNpZp0at5TxlvVgVXqI.jpg",
       "release_date": "2025-05-01",
       "title": "Space/Time",
       "video": false,
-      "vote_average": 5.766,
-      "vote_count": 32
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/tyjXlexbNZQ0ZT1KEJslQtBirqc.jpg",
-      "genre_ids": [
-        12,
-        53,
-        878
-      ],
-      "id": 840464,
-      "original_language": "en",
-      "original_title": "Greenland 2: Migration",
-      "overview": "Après l'impact dévastateur d'une comète qui a réduit la Terre en ruines, la famille Garrity doit quitter la sécurité de son bunker au Groenland. Commence alors un périple pour leur survie et l'avenir de l'Humanité à travers un monde dévasté à la recherche d'un nouveau foyer.",
-      "popularity": 230.9807,
-      "poster_path": "/9eaHOemq2Ch5rYPJ0uXcipZUYpS.jpg",
-      "release_date": "2026-01-07",
-      "title": "Greenland : Migration",
-      "video": false,
-      "vote_average": 6.54,
-      "vote_count": 483
+      "vote_average": 5.742,
+      "vote_count": 33
     },
     {
       "adult": false,
@@ -73,13 +53,33 @@
       "original_language": "en",
       "original_title": "28 Years Later: The Bone Temple",
       "overview": "Le docteur Kelson noue une relation aussi troublante qu'inattendue dont les répercussions sont susceptibles de bouleverser le monde. De l'autre côté, la rencontre entre Spike et Jimmy Crystal tourne au cauchemar.",
-      "popularity": 253.9564,
+      "popularity": 281.7037,
       "poster_path": "/1SQVgXrkBVbwUWugj3ZZ6T26So2.jpg",
       "release_date": "2026-01-14",
       "title": "28 Ans plus tard : Le Temple des morts",
       "video": false,
-      "vote_average": 7.198,
-      "vote_count": 469
+      "vote_average": 7.249,
+      "vote_count": 511
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/u9jE0R1nvkmdWu3bt7Op8joPywa.jpg",
+      "genre_ids": [
+        12,
+        53,
+        878
+      ],
+      "id": 840464,
+      "original_language": "en",
+      "original_title": "Greenland 2: Migration",
+      "overview": "Après l'impact dévastateur d'une comète qui a réduit la Terre en ruines, la famille Garrity doit quitter la sécurité de son bunker au Groenland. Commence alors un périple pour leur survie et l'avenir de l'Humanité à travers un monde dévasté à la recherche d'un nouveau foyer.",
+      "popularity": 220.1914,
+      "poster_path": "/mu05wZK0MH2bYmuO7hXwZECqC1X.jpg",
+      "release_date": "2026-01-07",
+      "title": "Greenland : Migration",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 485
     },
     {
       "adult": false,
@@ -93,13 +93,52 @@
       "original_language": "en",
       "original_title": "Deathstalker",
       "overview": "Un guerrier affronte un sorcier maléfique et autres créatures...",
-      "popularity": 226.5306,
+      "popularity": 233.7506,
       "poster_path": "/nEI3DnzQC1afAjJOAizx6UX27pL.jpg",
       "release_date": "2025-10-10",
       "title": "Deathstalker",
       "video": false,
-      "vote_average": 6.279,
-      "vote_count": 43
+      "vote_average": 6.319,
+      "vote_count": 47
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/4IEjHlV6ciUPopHnEs5AfBNJ6XS.jpg",
+      "genre_ids": [
+        28
+      ],
+      "id": 1634858,
+      "original_language": "es",
+      "original_title": "Cuerno Azulado",
+      "overview": "",
+      "popularity": 196.6739,
+      "poster_path": "/q0OveDlsh5BNq6ifZqNWKtLKiwb.jpg",
+      "release_date": "2025-09-10",
+      "title": "Cuerno Azulado",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 6
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zXINNssll2zsPGqd7F7Llrw7Uql.jpg",
+      "genre_ids": [
+        28,
+        80,
+        18,
+        53
+      ],
+      "id": 1419406,
+      "original_language": "zh",
+      "original_title": "捕风追影",
+      "overview": "Un mystérieux mafieux et ses 7 fils adoptifs manipulent et ridiculisent la police en piratant le système de surveillance ultramoderne de la ville, dans le but de récupérer une fortune en crypto-monnaie. La police devenue impuissante doit faire appel à un ancien expert qui va s’associer avec une jeune policière à laquelle il est lié par un secret qu’elle ignore. Une partie d’échec commence alors, où les cerveaux et la loyauté seront mis à l’épreuve.",
+      "popularity": 186.5597,
+      "poster_path": "/t1PFVsGYdUHtPv0Xowoc9b4PAap.jpg",
+      "release_date": "2025-08-16",
+      "title": "The Shadow's Edge",
+      "video": false,
+      "vote_average": 7.247,
+      "vote_count": 444
     },
     {
       "adult": false,
@@ -115,31 +154,13 @@
       "original_language": "en",
       "original_title": "Zootopia 2",
       "overview": "Judy Hopps et Nick Wilde explorent à nouveau Zootopie, entre mystères, rires et rencontres inattendues. À travers chaque rue et chaque instant, ils découvrent que l’amitié et la curiosité transforment le quotidien en moments magiques.",
-      "popularity": 180.3437,
+      "popularity": 180.5534,
       "poster_path": "/hBI7Wrps6tDjhEzBxJgoPLhbmT1.jpg",
       "release_date": "2025-11-26",
       "title": "Zootopie 2",
       "video": false,
-      "vote_average": 7.6,
-      "vote_count": 1759
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/4IEjHlV6ciUPopHnEs5AfBNJ6XS.jpg",
-      "genre_ids": [
-        28
-      ],
-      "id": 1634858,
-      "original_language": "es",
-      "original_title": "Cuerno Azulado",
-      "overview": "",
-      "popularity": 198.6058,
-      "poster_path": "/q0OveDlsh5BNq6ifZqNWKtLKiwb.jpg",
-      "release_date": "2025-09-10",
-      "title": "Cuerno Azulado",
-      "video": false,
-      "vote_average": 7,
-      "vote_count": 6
+      "vote_average": 7.606,
+      "vote_count": 1783
     },
     {
       "adult": false,
@@ -154,34 +175,32 @@
       "original_language": "en",
       "original_title": "The Wrecking Crew",
       "overview": "Deux demi-frères brouillés, Jonny et James, se réunissent après la mort mystérieuse de leur père. Durant leur quête de la vérité, des secrets enfouis révèlent un complot qui menace de détruire leur famille.",
-      "popularity": 169.4361,
+      "popularity": 163.2222,
       "poster_path": "/ec0bwYUEYBhcHutx4nIShLzX7Dl.jpg",
       "release_date": "2026-01-28",
       "title": "Team Démolition",
       "video": false,
-      "vote_average": 6.894,
-      "vote_count": 632
+      "vote_average": 6.903,
+      "vote_count": 644
     },
     {
       "adult": false,
-      "backdrop_path": "/zXINNssll2zsPGqd7F7Llrw7Uql.jpg",
+      "backdrop_path": null,
       "genre_ids": [
-        28,
-        80,
-        18,
-        53
+        10749,
+        18
       ],
-      "id": 1419406,
-      "original_language": "zh",
-      "original_title": "捕风追影",
-      "overview": "Un mystérieux mafieux et ses 7 fils adoptifs manipulent et ridiculisent la police en piratant le système de surveillance ultramoderne de la ville, dans le but de récupérer une fortune en crypto-monnaie. La police devenue impuissante doit faire appel à un ancien expert qui va s’associer avec une jeune policière à laquelle il est lié par un secret qu’elle ignore. Une partie d’échec commence alors, où les cerveaux et la loyauté seront mis à l’épreuve.",
-      "popularity": 183.5286,
-      "poster_path": "/t1PFVsGYdUHtPv0Xowoc9b4PAap.jpg",
-      "release_date": "2025-08-16",
-      "title": "The Shadow's Edge",
+      "id": 1523145,
+      "original_language": "ru",
+      "original_title": "Твое сердце будет разбито",
+      "overview": "",
+      "popularity": 208.2952,
+      "poster_path": "/6qmhUBfGoII6PSNik0e35OgEK8g.jpg",
+      "release_date": "2026-03-26",
+      "title": "Твое сердце будет разбито",
       "video": false,
-      "vote_average": 7.2,
-      "vote_count": 442
+      "vote_average": 0,
+      "vote_count": 0
     },
     {
       "adult": false,
@@ -194,52 +213,13 @@
       "original_language": "en",
       "original_title": "“Wuthering Heights”",
       "overview": "Sur les landes balayées par le vent du Yorkshire, la passion dévorante entre Catherine Earnshaw et Heathcliff se transforme en une obsession destructrice, bouleversant leurs vies et celles de leur entourage.​",
-      "popularity": 160.2071,
+      "popularity": 149.9314,
       "poster_path": "/yEa8UQA71rjKhCq04mATDNOIT2B.jpg",
       "release_date": "2026-02-11",
       "title": "“Hurlevent”",
       "video": false,
-      "vote_average": 6.643,
-      "vote_count": 280
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/o0jRpVznKXuLvoXQX9UTKVtGjxK.jpg",
-      "genre_ids": [
-        10749,
-        18
-      ],
-      "id": 1317672,
-      "original_language": "en",
-      "original_title": "Love Me Love Me",
-      "overview": "Après la mort de son frère, June s'installe à Milan pour repartir de zéro et trouve du réconfort en sortant avec Will, l'élève modèle de sa nouvelle école. Mais le meilleur ami de Will, James, adepte de combats clandestins de MMA, attise une rivalité qui se mue en attirance irrésistible. June doit alors choisir entre la sécurité et un amour qui remet en question tout ce qu'elle pensait vouloir.",
-      "popularity": 130.6898,
-      "poster_path": "/erKr74Xexw2OrkRJiFQW3Jnnub0.jpg",
-      "release_date": "2026-02-12",
-      "title": "Love Me Love Me",
-      "video": false,
-      "vote_average": 5.836,
-      "vote_count": 110
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/tNONILTe9OJz574KZWaLze4v6RC.jpg",
-      "genre_ids": [
-        18,
-        9648,
-        53
-      ],
-      "id": 1368166,
-      "original_language": "en",
-      "original_title": "The Housemaid",
-      "overview": "En quête d’un nouveau départ, Millie accepte un poste de femme de ménage à demeure chez Nina et Andrew Winchester, un couple aussi riche qu’énigmatique. Ce qui s’annonce comme l’emploi idéal se transforme rapidement en un jeu dangereux, mêlant séduction, secrets et manipulations. Derrière les portes closes du manoir Winchester se cache un monde de faux-semblants et de révélations inattendues... Un tourbillon de suspense et de scandales qui vous tiendra en haleine jusqu’à la dernière seconde.",
-      "popularity": 146.1877,
-      "poster_path": "/28Dn93nuxH8PmDLUVQLCjLNVxKD.jpg",
-      "release_date": "2025-12-18",
-      "title": "La Femme de ménage",
-      "video": false,
-      "vote_average": 7.209,
-      "vote_count": 1205
+      "vote_average": 6.606,
+      "vote_count": 301
     },
     {
       "adult": false,
@@ -253,13 +233,72 @@
       "original_language": "en",
       "original_title": "Predator: Badlands",
       "overview": "Jugé trop faible et indigne par son père, chef de la tribu des Yautja, Dek est sur le point de se faire exécuter par son frère Kwei. Mais au dernier moment, celui-ci préfère se sacrifier pour favoriser sa fuite. Décidé à prouver son courage, le jeune paria se rend sur la planète Genna pour y capturer le Kalisk, un monstre réputé invincible. Confronté à une nature hostile et imprévisible, le guerrier inexpérimenté doit sa survie à Thia, une androïde privée de la partie inférieure de son corps depuis son affrontement avec le Kalisk. Avec l'aide de celle-ci, Dek amorce sa traque de la terrible créature, convoitée par des scientifiques pour ses formidables dons de régénération.",
-      "popularity": 157.9913,
+      "popularity": 147.7011,
       "poster_path": "/empQGO0pCVTndCpihyVpNfaLebl.jpg",
       "release_date": "2025-11-05",
       "title": "Predator : Badlands",
       "video": false,
-      "vote_average": 7.724,
-      "vote_count": 2067
+      "vote_average": 7.713,
+      "vote_count": 2094
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tNONILTe9OJz574KZWaLze4v6RC.jpg",
+      "genre_ids": [
+        18,
+        9648,
+        53
+      ],
+      "id": 1368166,
+      "original_language": "en",
+      "original_title": "The Housemaid",
+      "overview": "En quête d’un nouveau départ, Millie accepte un poste de femme de ménage à demeure chez Nina et Andrew Winchester, un couple aussi riche qu’énigmatique. Ce qui s’annonce comme l’emploi idéal se transforme rapidement en un jeu dangereux, mêlant séduction, secrets et manipulations. Derrière les portes closes du manoir Winchester se cache un monde de faux-semblants et de révélations inattendues... Un tourbillon de suspense et de scandales qui vous tiendra en haleine jusqu’à la dernière seconde.",
+      "popularity": 144.9842,
+      "poster_path": "/28Dn93nuxH8PmDLUVQLCjLNVxKD.jpg",
+      "release_date": "2025-12-18",
+      "title": "La Femme de ménage",
+      "video": false,
+      "vote_average": 7.224,
+      "vote_count": 1235
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ohUhHOqW8cM59Ay5UjqplLzJbH3.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1317672,
+      "original_language": "en",
+      "original_title": "Love Me Love Me",
+      "overview": "Après la mort de son frère, June s'installe à Milan pour repartir de zéro et trouve du réconfort en sortant avec Will, l'élève modèle de sa nouvelle école. Mais le meilleur ami de Will, James, adepte de combats clandestins de MMA, attise une rivalité qui se mue en attirance irrésistible. June doit alors choisir entre la sécurité et un amour qui remet en question tout ce qu'elle pensait vouloir.",
+      "popularity": 106.7115,
+      "poster_path": "/erKr74Xexw2OrkRJiFQW3Jnnub0.jpg",
+      "release_date": "2026-02-12",
+      "title": "Love Me Love Me",
+      "video": false,
+      "vote_average": 5.8,
+      "vote_count": 114
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sdZSjtGUTSN8B3al5o0f2WoQfQQ.jpg",
+      "genre_ids": [
+        878,
+        12,
+        14
+      ],
+      "id": 83533,
+      "original_language": "en",
+      "original_title": "Avatar: Fire and Ash",
+      "overview": "Après la mort de Neteyam, Jake et Neytiri affrontent leur chagrin tout en faisant face au Peuple des Cendres, une tribu Na’vi redoutable menée par le fougueux Varang, alors que le conflit sur Pandora s’intensifie et qu’une nouvelle quê morale s’amorce.",
+      "popularity": 118.7025,
+      "poster_path": "/5BnOt0PRymp5mXuoKv1unQ9x8I8.jpg",
+      "release_date": "2025-12-17",
+      "title": "Avatar : De feu et de cendres",
+      "video": false,
+      "vote_average": 7.282,
+      "vote_count": 1799
     },
     {
       "adult": false,
@@ -274,13 +313,32 @@
       "original_language": "pt",
       "original_title": "Salve Geral: Irmandade",
       "overview": "Alors qu'une vague de violence sans précédent secoue São Paulo, une avocate liée au milieu criminel doit négocier avec la police pour sauver sa nièce qui a été enlevée.",
-      "popularity": 112.6761,
+      "popularity": 94.9007,
       "poster_path": "/cBv1XzLMA2T6b7iXCLkXsg4iJzW.jpg",
       "release_date": "2026-02-10",
       "title": "L'Appel du chaos",
       "video": false,
-      "vote_average": 4.914,
+      "vote_average": 4.9,
       "vote_count": 35
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+      "genre_ids": [
+        878,
+        53
+      ],
+      "id": 755898,
+      "original_language": "en",
+      "original_title": "War of the Worlds",
+      "overview": "Une invasion gargantuesque approche dans cette nouvelle interprétation du légendaire roman homonyme devenu un classique de la science-fiction. La célèbre Eva Longoria partage l'affiche avec le rappeur/acteur Ice Cube, Michael O'Neill et Iman Benson, dans une aventure extraordinaire abordant des thématiques actuelles telles que la technologie, la surveillance et la protection de la vie privée.",
+      "popularity": 118.3382,
+      "poster_path": "/jnVnLfyA9MrBEsYx9vyq0e4dbLj.jpg",
+      "release_date": "2025-07-29",
+      "title": "La Guerre des mondes",
+      "video": false,
+      "vote_average": 4.214,
+      "vote_count": 894
     },
     {
       "adult": false,
@@ -293,52 +351,13 @@
       "original_language": "en",
       "original_title": "Primate",
       "overview": "Au lieu de rimer avec plages et retrouvailles, le retour de Lucy sur son île tropicale natale tourne au cauchemar lorsque le chimpanzé de la famille, d’une intelligence exceptionnelle, sombre dans une frénésie enragée. La nuit se mue alors en un chaos terrifiant. En l’absence de son père et sans aucun secours possible, ce paradis devient une prison et Lucy et ses amis doivent affronter un prédateur mortel en qui ils avaient autrefois toute confiance.",
-      "popularity": 110.8778,
+      "popularity": 98.2568,
       "poster_path": "/HtXHAH4PQjpw2RLsIrHGbeng1n.jpg",
       "release_date": "2026-01-01",
       "title": "Primate",
       "video": false,
-      "vote_average": 6.662,
-      "vote_count": 352
-    },
-    {
-      "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [
-        10749,
-        18
-      ],
-      "id": 1523145,
-      "original_language": "ru",
-      "original_title": "Твое сердце будет разбито",
-      "overview": "",
-      "popularity": 161.8703,
-      "poster_path": "/6qmhUBfGoII6PSNik0e35OgEK8g.jpg",
-      "release_date": "2026-03-26",
-      "title": "Твое сердце будет разбито",
-      "video": false,
-      "vote_average": 0,
-      "vote_count": 0
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/sdZSjtGUTSN8B3al5o0f2WoQfQQ.jpg",
-      "genre_ids": [
-        878,
-        12,
-        14
-      ],
-      "id": 83533,
-      "original_language": "en",
-      "original_title": "Avatar: Fire and Ash",
-      "overview": "Après la mort de Neteyam, Jake et Neytiri affrontent leur chagrin tout en faisant face au Peuple des Cendres, une tribu Na’vi redoutable menée par le fougueux Varang, alors que le conflit sur Pandora s’intensifie et qu’une nouvelle quê morale s’amorce.",
-      "popularity": 117.5659,
-      "poster_path": "/5BnOt0PRymp5mXuoKv1unQ9x8I8.jpg",
-      "release_date": "2025-12-17",
-      "title": "Avatar : De feu et de cendres",
-      "video": false,
-      "vote_average": 7.282,
-      "vote_count": 1795
+      "vote_average": 6.646,
+      "vote_count": 366
     },
     {
       "adult": false,
@@ -352,32 +371,13 @@
       "original_language": "en",
       "original_title": "Oscar Shaw",
       "overview": "Après avoir pris sa retraite de la police, un détective implacable hanté par la perte tragique de son ami le plus proche se lance dans une périlleuse quête de vengeance, cherchant la rédemption et luttant pour rendre justice aux rues qu'il avait autrefois juré de protéger.",
-      "popularity": 105.6905,
+      "popularity": 98.8012,
       "poster_path": "/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",
       "release_date": "2026-01-09",
       "title": "Oscar Shaw",
       "video": false,
       "vote_average": 6.19,
       "vote_count": 21
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
-      "genre_ids": [
-        878,
-        53
-      ],
-      "id": 755898,
-      "original_language": "en",
-      "original_title": "War of the Worlds",
-      "overview": "Une invasion gargantuesque approche dans cette nouvelle interprétation du légendaire roman homonyme devenu un classique de la science-fiction. La célèbre Eva Longoria partage l'affiche avec le rappeur/acteur Ice Cube, Michael O'Neill et Iman Benson, dans une aventure extraordinaire abordant des thématiques actuelles telles que la technologie, la surveillance et la protection de la vie privée.",
-      "popularity": 111.2219,
-      "poster_path": "/jnVnLfyA9MrBEsYx9vyq0e4dbLj.jpg",
-      "release_date": "2025-07-29",
-      "title": "La Guerre des mondes",
-      "video": false,
-      "vote_average": 4.214,
-      "vote_count": 892
     },
     {
       "adult": false,
@@ -392,15 +392,15 @@
       "original_language": "en",
       "original_title": "GOAT",
       "overview": "Will est un petit bouc avec de grands rêves. Lorsqu'il décroche une chance inespérée de rejoindre la ligue professionnelle de \"roarball\", un sport ultra-intense réservé aux bêtes les plus rapides et féroces, il entend bien saisir l’opportunité. Problème : ses nouveaux coéquipiers ne sont pas vraiment ravis d'avoir un \"petit\" dans l'équipe. Mais Will est prêt à tout pour changer les règles du jeu.",
-      "popularity": 103.0974,
+      "popularity": 102.1481,
       "poster_path": "/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
       "release_date": "2026-02-11",
       "title": "GOAT : Rêver plus haut",
       "video": false,
-      "vote_average": 7.435,
-      "vote_count": 46
+      "vote_average": 7.34,
+      "vote_count": 53
     }
   ],
-  "total_pages": 55290,
-  "total_results": 1105795
+  "total_pages": 55310,
+  "total_results": 1106195
 }
