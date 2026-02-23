@@ -18,8 +18,28 @@
       "release_date": "2026-01-20",
       "title": "Reconnu coupable",
       "video": false,
-      "vote_average": 6.935,
-      "vote_count": 368
+      "vote_average": 7.01,
+      "vote_count": 418
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hHDNOlATHhre4eZ7aYz5cdyJLik.jpg",
+      "genre_ids": [
+        27,
+        53,
+        878
+      ],
+      "id": 1272837,
+      "original_language": "en",
+      "original_title": "28 Years Later: The Bone Temple",
+      "overview": "Le docteur Kelson noue une relation aussi troublante qu'inattendue dont les répercussions sont susceptibles de bouleverser le monde. De l'autre côté, la rencontre entre Spike et Jimmy Crystal tourne au cauchemar.",
+      "popularity": 281.7037,
+      "poster_path": "/1SQVgXrkBVbwUWugj3ZZ6T26So2.jpg",
+      "release_date": "2026-01-14",
+      "title": "28 ans plus tard - Le temple des morts",
+      "video": false,
+      "vote_average": 7.206,
+      "vote_count": 557
     },
     {
       "adult": false,
@@ -38,48 +58,8 @@
       "release_date": "2025-05-01",
       "title": "Space/Time",
       "video": false,
-      "vote_average": 5.742,
+      "vote_average": 5.7,
       "vote_count": 33
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/hHDNOlATHhre4eZ7aYz5cdyJLik.jpg",
-      "genre_ids": [
-        27,
-        53,
-        878
-      ],
-      "id": 1272837,
-      "original_language": "en",
-      "original_title": "28 Years Later: The Bone Temple",
-      "overview": "Le docteur Kelson noue une relation aussi troublante qu'inattendue dont les répercussions sont susceptibles de bouleverser le monde. De l'autre côté, la rencontre entre Spike et Jimmy Crystal tourne au cauchemar.",
-      "popularity": 281.7037,
-      "poster_path": "/1SQVgXrkBVbwUWugj3ZZ6T26So2.jpg",
-      "release_date": "2026-01-14",
-      "title": "28 Ans plus tard : Le Temple des morts",
-      "video": false,
-      "vote_average": 7.249,
-      "vote_count": 511
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/u9jE0R1nvkmdWu3bt7Op8joPywa.jpg",
-      "genre_ids": [
-        12,
-        53,
-        878
-      ],
-      "id": 840464,
-      "original_language": "en",
-      "original_title": "Greenland 2: Migration",
-      "overview": "Après l'impact dévastateur d'une comète qui a réduit la Terre en ruines, la famille Garrity doit quitter la sécurité de son bunker au Groenland. Commence alors un périple pour leur survie et l'avenir de l'Humanité à travers un monde dévasté à la recherche d'un nouveau foyer.",
-      "popularity": 220.1914,
-      "poster_path": "/mu05wZK0MH2bYmuO7hXwZECqC1X.jpg",
-      "release_date": "2026-01-07",
-      "title": "Greenland : Migration",
-      "video": false,
-      "vote_average": 6.5,
-      "vote_count": 485
     },
     {
       "adult": false,
@@ -98,8 +78,65 @@
       "release_date": "2025-10-10",
       "title": "Deathstalker",
       "video": false,
-      "vote_average": 6.319,
-      "vote_count": 47
+      "vote_average": 6.276,
+      "vote_count": 49
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/u9jE0R1nvkmdWu3bt7Op8joPywa.jpg",
+      "genre_ids": [
+        12,
+        53,
+        878
+      ],
+      "id": 840464,
+      "original_language": "en",
+      "original_title": "Greenland 2: Migration",
+      "overview": "Après l'impact dévastateur d'une comète qui a réduit la Terre en ruines, la famille Garrity doit quitter la sécurité de son bunker au Groenland. Commence alors un périple pour leur survie et l'avenir de l'Humanité à travers un monde dévasté à la recherche d'un nouveau foyer.",
+      "popularity": 220.1914,
+      "poster_path": "/mu05wZK0MH2bYmuO7hXwZECqC1X.jpg",
+      "release_date": "2026-01-07",
+      "title": "Greenland : Migration",
+      "video": false,
+      "vote_average": 6.53,
+      "vote_count": 491
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uzZ7LUx4Bb3nZXjvBx5PiqTE7rk.jpg",
+      "genre_ids": [
+        28
+      ],
+      "id": 1301306,
+      "original_language": "en",
+      "original_title": "A Woman Scorned",
+      "overview": "Une femme se venge des hommes qui ont assassiné sa sœur de sang-froid, les traquant un par un dans un massacre sanglant.",
+      "popularity": 219.0945,
+      "poster_path": "/dlOSBiNULMPzKIze84LDjvEN9z1.jpg",
+      "release_date": "2025-06-09",
+      "title": "A Woman Scorned",
+      "video": false,
+      "vote_average": 5.5,
+      "vote_count": 8
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1523145,
+      "original_language": "ru",
+      "original_title": "Твое сердце будет разбито",
+      "overview": "",
+      "popularity": 208.2952,
+      "poster_path": "/6qmhUBfGoII6PSNik0e35OgEK8g.jpg",
+      "release_date": "2026-03-26",
+      "title": "Твое сердце будет разбито",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
     },
     {
       "adult": false,
@@ -137,7 +174,7 @@
       "release_date": "2025-08-16",
       "title": "The Shadow's Edge",
       "video": false,
-      "vote_average": 7.247,
+      "vote_average": 7.2,
       "vote_count": 444
     },
     {
@@ -159,8 +196,8 @@
       "release_date": "2025-11-26",
       "title": "Zootopie 2",
       "video": false,
-      "vote_average": 7.606,
-      "vote_count": 1783
+      "vote_average": 7.609,
+      "vote_count": 1804
     },
     {
       "adult": false,
@@ -180,27 +217,8 @@
       "release_date": "2026-01-28",
       "title": "Team Démolition",
       "video": false,
-      "vote_average": 6.903,
-      "vote_count": 644
-    },
-    {
-      "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [
-        10749,
-        18
-      ],
-      "id": 1523145,
-      "original_language": "ru",
-      "original_title": "Твое сердце будет разбито",
-      "overview": "",
-      "popularity": 208.2952,
-      "poster_path": "/6qmhUBfGoII6PSNik0e35OgEK8g.jpg",
-      "release_date": "2026-03-26",
-      "title": "Твое сердце будет разбито",
-      "video": false,
-      "vote_average": 0,
-      "vote_count": 0
+      "vote_average": 6.918,
+      "vote_count": 655
     },
     {
       "adult": false,
@@ -218,8 +236,8 @@
       "release_date": "2026-02-11",
       "title": "“Hurlevent”",
       "video": false,
-      "vote_average": 6.606,
-      "vote_count": 301
+      "vote_average": 6.541,
+      "vote_count": 328
     },
     {
       "adult": false,
@@ -238,8 +256,8 @@
       "release_date": "2025-11-05",
       "title": "Predator : Badlands",
       "video": false,
-      "vote_average": 7.713,
-      "vote_count": 2094
+      "vote_average": 7.72,
+      "vote_count": 2117
     },
     {
       "adult": false,
@@ -258,27 +276,45 @@
       "release_date": "2025-12-18",
       "title": "La Femme de ménage",
       "video": false,
-      "vote_average": 7.224,
-      "vote_count": 1235
+      "vote_average": 7.226,
+      "vote_count": 1253
     },
     {
       "adult": false,
-      "backdrop_path": "/ohUhHOqW8cM59Ay5UjqplLzJbH3.jpg",
+      "backdrop_path": "/xzY15HIBMR1MPo9Me8OsaZShF9T.jpg",
       "genre_ids": [
-        10749,
+        28
+      ],
+      "id": 1244975,
+      "original_language": "fr",
+      "original_title": "Les Orphelins",
+      "overview": "Gab et Driss, amis d’enfance brouillés depuis leur départ de l’orphelinat, mènent des vies opposées : l’un est flic à l’IGPN, l’autre fixeur pour des voyous. Lorsque leur premier amour meurt dans un accident suspect, sa fille Leïla, 17 ans, s’empare de l’arme de Gab et se lance sur la piste d’une puissante entreprise prête à tout pour étouffer l’affaire. Forcés de faire équipe, les orphelins vont devoir la stopper avant qu’elle ne commette l’irréparable…",
+      "popularity": 130.7915,
+      "poster_path": "/e08WqjLKqcw6HqHK9QlH0XGxyGb.jpg",
+      "release_date": "2025-08-20",
+      "title": "Les Orphelins",
+      "video": false,
+      "vote_average": 6.033,
+      "vote_count": 46
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/thgemkoLauZxcqe6KX8wxqEc70z.jpg",
+      "genre_ids": [
+        53,
         18
       ],
-      "id": 1317672,
-      "original_language": "en",
-      "original_title": "Love Me Love Me",
-      "overview": "Après la mort de son frère, June s'installe à Milan pour repartir de zéro et trouve du réconfort en sortant avec Will, l'élève modèle de sa nouvelle école. Mais le meilleur ami de Will, James, adepte de combats clandestins de MMA, attise une rivalité qui se mue en attirance irrésistible. June doit alors choisir entre la sécurité et un amour qui remet en question tout ce qu'elle pensait vouloir.",
-      "popularity": 106.7115,
-      "poster_path": "/erKr74Xexw2OrkRJiFQW3Jnnub0.jpg",
-      "release_date": "2026-02-12",
-      "title": "Love Me Love Me",
+      "id": 1428862,
+      "original_language": "es",
+      "original_title": "Cortafuego",
+      "overview": "Tandis que sa famille fait le vide dans sa maison d'été, la petite Lide disparaît dans la forêt. Quand un incendie se déclare, sa mère se précipite pour la sauver des flammes.",
+      "popularity": 124.2511,
+      "poster_path": "/oR4dsvz6edpDXFGBUo6VTvi2IRu.jpg",
+      "release_date": "2026-02-19",
+      "title": "Coupe-feu",
       "video": false,
-      "vote_average": 5.8,
-      "vote_count": 114
+      "vote_average": 6.107,
+      "vote_count": 28
     },
     {
       "adult": false,
@@ -297,29 +333,8 @@
       "release_date": "2025-12-17",
       "title": "Avatar : De feu et de cendres",
       "video": false,
-      "vote_average": 7.282,
-      "vote_count": 1799
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/1Xdsq7U7bvJJd2X7Jg4qNaKVkYO.jpg",
-      "genre_ids": [
-        28,
-        53,
-        80,
-        18
-      ],
-      "id": 1426964,
-      "original_language": "pt",
-      "original_title": "Salve Geral: Irmandade",
-      "overview": "Alors qu'une vague de violence sans précédent secoue São Paulo, une avocate liée au milieu criminel doit négocier avec la police pour sauver sa nièce qui a été enlevée.",
-      "popularity": 94.9007,
-      "poster_path": "/cBv1XzLMA2T6b7iXCLkXsg4iJzW.jpg",
-      "release_date": "2026-02-10",
-      "title": "L'Appel du chaos",
-      "video": false,
-      "vote_average": 4.9,
-      "vote_count": 35
+      "vote_average": 7.277,
+      "vote_count": 1807
     },
     {
       "adult": false,
@@ -337,70 +352,49 @@
       "release_date": "2025-07-29",
       "title": "La Guerre des mondes",
       "video": false,
-      "vote_average": 4.214,
-      "vote_count": 894
+      "vote_average": 4.205,
+      "vote_count": 897
     },
     {
       "adult": false,
-      "backdrop_path": "/9uakM2woks0JV8HKIc4oatIVS88.jpg",
+      "backdrop_path": "/ohUhHOqW8cM59Ay5UjqplLzJbH3.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1317672,
+      "original_language": "en",
+      "original_title": "Love Me Love Me",
+      "overview": "Après la mort de son frère, June s'installe à Milan pour repartir de zéro et trouve du réconfort en sortant avec Will, l'élève modèle de sa nouvelle école. Mais le meilleur ami de Will, James, adepte de combats clandestins de MMA, attise une rivalité qui se mue en attirance irrésistible. June doit alors choisir entre la sécurité et un amour qui remet en question tout ce qu'elle pensait vouloir.",
+      "popularity": 106.7115,
+      "poster_path": "/erKr74Xexw2OrkRJiFQW3Jnnub0.jpg",
+      "release_date": "2026-02-12",
+      "title": "Love Me Love Me",
+      "video": false,
+      "vote_average": 5.754,
+      "vote_count": 122
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5arE7ysejlE2byGyakuUrR5TmUt.jpg",
       "genre_ids": [
         27,
-        53
-      ],
-      "id": 1315303,
-      "original_language": "en",
-      "original_title": "Primate",
-      "overview": "Au lieu de rimer avec plages et retrouvailles, le retour de Lucy sur son île tropicale natale tourne au cauchemar lorsque le chimpanzé de la famille, d’une intelligence exceptionnelle, sombre dans une frénésie enragée. La nuit se mue alors en un chaos terrifiant. En l’absence de son père et sans aucun secours possible, ce paradis devient une prison et Lucy et ses amis doivent affronter un prédateur mortel en qui ils avaient autrefois toute confiance.",
-      "popularity": 98.2568,
-      "poster_path": "/HtXHAH4PQjpw2RLsIrHGbeng1n.jpg",
-      "release_date": "2026-01-01",
-      "title": "Primate",
-      "video": false,
-      "vote_average": 6.646,
-      "vote_count": 366
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/6D6M5z4reppUxo2cnBEKI02Csp1.jpg",
-      "genre_ids": [
-        28,
-        80,
-        53
-      ],
-      "id": 1601243,
-      "original_language": "en",
-      "original_title": "Oscar Shaw",
-      "overview": "Après avoir pris sa retraite de la police, un détective implacable hanté par la perte tragique de son ami le plus proche se lance dans une périlleuse quête de vengeance, cherchant la rédemption et luttant pour rendre justice aux rues qu'il avait autrefois juré de protéger.",
-      "popularity": 98.8012,
-      "poster_path": "/tsE3nySukwrfUjouz8vzvKTcXNC.jpg",
-      "release_date": "2026-01-09",
-      "title": "Oscar Shaw",
-      "video": false,
-      "vote_average": 6.19,
-      "vote_count": 21
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/1qwhYqg7YEZajh3Q4biqbuQoDq8.jpg",
-      "genre_ids": [
-        16,
-        35,
-        10751,
+        53,
         28
       ],
-      "id": 1297842,
+      "id": 1205225,
       "original_language": "en",
-      "original_title": "GOAT",
-      "overview": "Will est un petit bouc avec de grands rêves. Lorsqu'il décroche une chance inespérée de rejoindre la ligue professionnelle de \"roarball\", un sport ultra-intense réservé aux bêtes les plus rapides et féroces, il entend bien saisir l’opportunité. Problème : ses nouveaux coéquipiers ne sont pas vraiment ravis d'avoir un \"petit\" dans l'équipe. Mais Will est prêt à tout pour changer les règles du jeu.",
-      "popularity": 102.1481,
-      "poster_path": "/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
-      "release_date": "2026-02-11",
-      "title": "GOAT : Rêver plus haut",
+      "original_title": "Gates of Flesh",
+      "overview": "",
+      "popularity": 104.5148,
+      "poster_path": "/tsu0fapttpwweWhx2GvYFtSCFhi.jpg",
+      "release_date": "2025-04-08",
+      "title": "Gates of Flesh",
       "video": false,
-      "vote_average": 7.34,
-      "vote_count": 53
+      "vote_average": 6.412,
+      "vote_count": 17
     }
   ],
-  "total_pages": 55310,
-  "total_results": 1106195
+  "total_pages": 55322,
+  "total_results": 1106425
 }
