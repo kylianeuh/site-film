@@ -13,13 +13,13 @@
       "original_language": "en",
       "original_title": "Shelter",
       "overview": "Mason vit isolé sur une île écossaise. Après avoir sauvé une jeune fille de l'océan lors d'une terrible tempête, il déclenche une série d'événements qui provoquent une violente attaque dans son refuge...",
-      "popularity": 456.5931,
+      "popularity": 543.5405,
       "poster_path": "/u071a2uGEgC5lAMskhxdASwfQSt.jpg",
       "release_date": "2026-01-28",
       "title": "Shelter",
       "video": false,
-      "vote_average": 6.821,
-      "vote_count": 148
+      "vote_average": 6.779,
+      "vote_count": 173
     },
     {
       "adult": false,
@@ -32,13 +32,13 @@
       "original_language": "en",
       "original_title": "The Bluff",
       "overview": "Une ex-pirate voit sa paisible vie sur une île lointaine troublée par le retour vengeur de son ancien capitaine. Elle doit alors affronter son passé sanglant et libérer ses dons mortels pour sauver les siens d'un siège féroce.",
-      "popularity": 353.5452,
+      "popularity": 390.8723,
       "poster_path": "/c4wL0GHHAshs7GQKigKGBOCOHiY.jpg",
       "release_date": "2026-02-17",
       "title": "La Falaise",
       "video": false,
-      "vote_average": 5.957,
-      "vote_count": 81
+      "vote_average": 5.893,
+      "vote_count": 117
     },
     {
       "adult": false,
@@ -52,13 +52,31 @@
       "original_language": "en",
       "original_title": "Mercy",
       "overview": "Dans un futur proche, la ville de Los Angeles est en proie à une montée de la violence. Le détective privé Chris Raven est accusé du meurtre de sa femme. Il est jugé par la juge Maddox, une intelligence artificielle avancée du tribunal expéditif de Mercy Capital, auquel Chris a grandement contribué. Il a 90 minutes pour prouver lui-même son innocence. Après ce délai, l'IA déterminera son sort et le condamnera à mort.",
-      "popularity": 308.7706,
+      "popularity": 226.707,
       "poster_path": "/roKKWFRmFMRzv5NhBhCmDW5GdQr.jpg",
       "release_date": "2026-01-20",
       "title": "Reconnu coupable",
       "video": false,
-      "vote_average": 7.124,
-      "vote_count": 567
+      "vote_average": 7.131,
+      "vote_count": 597
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bAFnjhweXxHUWjmFzMTuX12Ud3b.jpg",
+      "genre_ids": [
+        53
+      ],
+      "id": 1199193,
+      "original_language": "en",
+      "original_title": "Pose",
+      "overview": "Deux couples réservent accidentellement la même maison à la campagne pour un week-end et découvrent que les choses ne sont pas toujours ce qu'elles semblent être.",
+      "popularity": 281.4318,
+      "poster_path": "/qhyyyWrHUbl6QG4udAJj17CBa5.jpg",
+      "release_date": "2026-02-25",
+      "title": "Pose",
+      "video": false,
+      "vote_average": 8.25,
+      "vote_count": 8
     },
     {
       "adult": false,
@@ -71,50 +89,13 @@
       "original_language": "en",
       "original_title": "Hellfire",
       "overview": "Un mystérieux vagabond, ancien Béret vert, arrive dans une petite ville frontalière du Sud et découvre une communauté forcée de distribuer de la drogue pour un syndicat criminel sans pitié. Et ça, il est sur le point de le changer.",
-      "popularity": 210.9411,
+      "popularity": 222.5431,
       "poster_path": "/tQti9QTf13MfzNpXguijgNh7ojE.jpg",
       "release_date": "2026-02-05",
       "title": "Hellfire",
       "video": false,
-      "vote_average": 7.081,
-      "vote_count": 37
-    },
-    {
-      "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [
-        10749,
-        18
-      ],
-      "id": 1523145,
-      "original_language": "ru",
-      "original_title": "Твое сердце будет разбито",
-      "overview": "",
-      "popularity": 188.376,
-      "poster_path": "/iGpMm603GUKH2SiXB2S5m4sZ17t.jpg",
-      "release_date": "2026-03-26",
-      "title": "Твое сердце будет разбито",
-      "video": false,
-      "vote_average": 0,
-      "vote_count": 0
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/z4hZZQ1GRuNGdeeWfKZIt8PXrmX.jpg",
-      "genre_ids": [
-        28
-      ],
-      "id": 1244975,
-      "original_language": "fr",
-      "original_title": "Les Orphelins",
-      "overview": "Gab et Driss, amis d’enfance brouillés depuis leur départ de l’orphelinat, mènent des vies opposées : l’un est flic à l’IGPN, l’autre fixeur pour des voyous. Lorsque leur premier amour meurt dans un accident suspect, sa fille Leïla, 17 ans, s’empare de l’arme de Gab et se lance sur la piste d’une puissante entreprise prête à tout pour étouffer l’affaire. Forcés de faire équipe, les orphelins vont devoir la stopper avant qu’elle ne commette l’irréparable…",
-      "popularity": 187.8834,
-      "poster_path": "/e08WqjLKqcw6HqHK9QlH0XGxyGb.jpg",
-      "release_date": "2025-08-20",
-      "title": "Les Orphelins",
-      "video": false,
-      "vote_average": 6.169,
-      "vote_count": 59
+      "vote_average": 7.146,
+      "vote_count": 41
     },
     {
       "adult": false,
@@ -128,13 +109,33 @@
       "original_language": "en",
       "original_title": "Return to Silent Hill",
       "overview": "Lorsqu’il reçoit une mystérieuse lettre de Mary, son amour perdu, James est attiré vers Silent Hill, une ville autrefois familière, aujourd’hui engloutie par les ténèbres.En partant à sa recherche, James affronte des créatures monstrueuses et découvre une vérité terrifiante qui le poussera aux limites de la folie.",
-      "popularity": 182.089,
+      "popularity": 228.6204,
       "poster_path": "/hm4HgeeQsPgsxkPU3wxZvosI5Dh.jpg",
       "release_date": "2026-01-21",
       "title": "Retour à Silent Hill",
       "video": false,
-      "vote_average": 5.057,
-      "vote_count": 212
+      "vote_average": 5.036,
+      "vote_count": 220
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hz7TdCrpLLt2Dz7S3PS2HG9rpAO.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        80
+      ],
+      "id": 1159559,
+      "original_language": "en",
+      "original_title": "Scream 7",
+      "overview": "Lorsqu’un nouveau Ghostface surgit dans la paisible ville où Sidney Prescott a reconstruit sa vie, ses pires cauchemars refont surface. Alors que sa fille devient la prochaine cible, Sidney n’a d’autre choix que de reprendre le combat. Déterminée à protéger les siens, elle doit alors affronter les démons de son passé pour tenter de mettre fin une bonne fois pour toutes au bain de sang.",
+      "popularity": 239.3962,
+      "poster_path": "/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
+      "release_date": "2026-02-25",
+      "title": "Scream 7",
+      "video": false,
+      "vote_average": 5.9,
+      "vote_count": 160
     },
     {
       "adult": false,
@@ -150,72 +151,32 @@
       "original_language": "en",
       "original_title": "Turbulence",
       "overview": "Zach et Emmy, un jeune couple marié, embarquent pour un voyage en montgolfière au-dessus des Dolomites italiennes afin de redonner un souffle à leur relation. Accompagnés du pilote Harry, ils accueillent une troisième passagère, Julia, et tout bascule de façon inattendue à cinq mille mètres d'altitude. Ce qui promettait d'être une expérience inoubliable tourne au cauchemar quand les secrets troublants des passagers éclatent au grand jour et que la nature déchaîne sa fureur.",
-      "popularity": 175.9658,
+      "popularity": 217.8326,
       "poster_path": "/jRuiKL4S9UpLma2ZlM47xIu2gbe.jpg",
       "release_date": "2025-11-26",
       "title": "Turbulence",
       "video": false,
-      "vote_average": 5.451,
-      "vote_count": 51
+      "vote_average": 5.63,
+      "vote_count": 54
     },
     {
       "adult": false,
-      "backdrop_path": "/uzZ7LUx4Bb3nZXjvBx5PiqTE7rk.jpg",
+      "backdrop_path": null,
       "genre_ids": [
-        28
+        10749,
+        18
       ],
-      "id": 1301306,
-      "original_language": "en",
-      "original_title": "A Woman Scorned",
-      "overview": "Une femme se venge des hommes qui ont assassiné sa sœur de sang-froid, les traquant un par un dans un massacre sanglant.",
-      "popularity": 164.4347,
-      "poster_path": "/dlOSBiNULMPzKIze84LDjvEN9z1.jpg",
-      "release_date": "2025-06-09",
-      "title": "A Woman Scorned",
+      "id": 1523145,
+      "original_language": "ru",
+      "original_title": "Твое сердце будет разбито",
+      "overview": "",
+      "popularity": 175.0108,
+      "poster_path": "/iGpMm603GUKH2SiXB2S5m4sZ17t.jpg",
+      "release_date": "2026-03-26",
+      "title": "Твое сердце будет разбито",
       "video": false,
-      "vote_average": 6.333,
-      "vote_count": 12
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/yWCZc2TcsCYbMMjvUIsczmQi2TX.jpg",
-      "genre_ids": [
-        27,
-        9648,
-        80
-      ],
-      "id": 1159559,
-      "original_language": "en",
-      "original_title": "Scream 7",
-      "overview": "Lorsqu’un nouveau Ghostface surgit dans la paisible ville où Sidney Prescott a reconstruit sa vie, ses pires cauchemars refont surface. Alors que sa fille devient la prochaine cible, Sidney n’a d’autre choix que de reprendre le combat. Déterminée à protéger les siens, elle doit alors affronter les démons de son passé pour tenter de mettre fin une bonne fois pour toutes au bain de sang.",
-      "popularity": 162.9968,
-      "poster_path": "/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
-      "release_date": "2026-02-25",
-      "title": "Scream 7",
-      "video": false,
-      "vote_average": 5.868,
-      "vote_count": 117
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/zXINNssll2zsPGqd7F7Llrw7Uql.jpg",
-      "genre_ids": [
-        28,
-        80,
-        18,
-        53
-      ],
-      "id": 1419406,
-      "original_language": "zh",
-      "original_title": "捕风追影",
-      "overview": "Un mystérieux mafieux et ses 7 fils adoptifs manipulent et ridiculisent la police en piratant le système de surveillance ultramoderne de la ville, dans le but de récupérer une fortune en crypto-monnaie. La police devenue impuissante doit faire appel à un ancien expert qui va s’associer avec une jeune policière à laquelle il est lié par un secret qu’elle ignore. Une partie d’échec commence alors, où les cerveaux et la loyauté seront mis à l’épreuve.",
-      "popularity": 161.863,
-      "poster_path": "/t1PFVsGYdUHtPv0Xowoc9b4PAap.jpg",
-      "release_date": "2025-08-16",
-      "title": "The Shadow's Edge",
-      "video": false,
-      "vote_average": 7.2,
-      "vote_count": 455
+      "vote_average": 0,
+      "vote_count": 0
     },
     {
       "adult": false,
@@ -230,13 +191,13 @@
       "original_language": "fr",
       "original_title": "Chien 51",
       "overview": "Dans un futur proche, Paris a été divisé en 3 zones qui séparent les classes sociales et où l’intelligence artificielle ALMA a révolutionné le travail de la police. Jusqu’à ce que son inventeur soit assassiné et que Salia et Zem, deux policiers que tout oppose, soient forcés à collaborer pour mener l’enquête.",
-      "popularity": 158.069,
+      "popularity": 177.5536,
       "poster_path": "/6pSkQRQxxC5AJ82aKbp1lFXQnXo.jpg",
       "release_date": "2025-10-15",
       "title": "Chien 51",
       "video": false,
-      "vote_average": 6.306,
-      "vote_count": 204
+      "vote_average": 6.295,
+      "vote_count": 207
     },
     {
       "adult": false,
@@ -252,33 +213,13 @@
       "original_language": "en",
       "original_title": "Zootopia 2",
       "overview": "Judy Hopps et Nick Wilde explorent à nouveau Zootopie, entre mystères, rires et rencontres inattendues. À travers chaque rue et chaque instant, ils découvrent que l’amitié et la curiosité transforment le quotidien en moments magiques.",
-      "popularity": 154.6525,
+      "popularity": 164.976,
       "poster_path": "/hBI7Wrps6tDjhEzBxJgoPLhbmT1.jpg",
       "release_date": "2025-11-26",
       "title": "Zootopie 2",
       "video": false,
-      "vote_average": 7.599,
-      "vote_count": 1885
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/hHDNOlATHhre4eZ7aYz5cdyJLik.jpg",
-      "genre_ids": [
-        27,
-        53,
-        878
-      ],
-      "id": 1272837,
-      "original_language": "en",
-      "original_title": "28 Years Later: The Bone Temple",
-      "overview": "Le docteur Kelson noue une relation aussi troublante qu'inattendue dont les répercussions sont susceptibles de bouleverser le monde. De l'autre côté, la rencontre entre Spike et Jimmy Crystal tourne au cauchemar.",
-      "popularity": 149.3133,
-      "poster_path": "/1SQVgXrkBVbwUWugj3ZZ6T26So2.jpg",
-      "release_date": "2026-01-14",
-      "title": "28 Ans plus tard : Le Temple des morts",
-      "video": false,
-      "vote_average": 7.181,
-      "vote_count": 678
+      "vote_average": 7.602,
+      "vote_count": 1898
     },
     {
       "adult": false,
@@ -292,13 +233,52 @@
       "original_language": "en",
       "original_title": "Hierarchy",
       "overview": "Dans une région secrète du Texas, deux frères adoptifs se retrouvent impliqués dans des activités criminelles et sont contraints de fuir les forces de l'ordre et la mafia russe cupide.",
-      "popularity": 146.2283,
+      "popularity": 182.1274,
       "poster_path": "/iOWSgc2soCiXcujJQCoqzR3QhCv.jpg",
       "release_date": "2025-08-15",
       "title": "Hierarchy : Braquage au sommet",
       "video": false,
-      "vote_average": 5.3,
-      "vote_count": 8
+      "vote_average": 5.8,
+      "vote_count": 9
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tn95fumbkVAgXjOuw9CQOg0aYQz.jpg",
+      "genre_ids": [
+        28,
+        80,
+        18,
+        53
+      ],
+      "id": 1419406,
+      "original_language": "zh",
+      "original_title": "捕风追影",
+      "overview": "Un mystérieux mafieux et ses 7 fils adoptifs manipulent et ridiculisent la police en piratant le système de surveillance ultramoderne de la ville, dans le but de récupérer une fortune en crypto-monnaie. La police devenue impuissante doit faire appel à un ancien expert qui va s’associer avec une jeune policière à laquelle il est lié par un secret qu’elle ignore. Une partie d’échec commence alors, où les cerveaux et la loyauté seront mis à l’épreuve.",
+      "popularity": 160.0381,
+      "poster_path": "/t1PFVsGYdUHtPv0Xowoc9b4PAap.jpg",
+      "release_date": "2025-08-16",
+      "title": "The Shadow's Edge",
+      "video": false,
+      "vote_average": 7.249,
+      "vote_count": 455
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/z4hZZQ1GRuNGdeeWfKZIt8PXrmX.jpg",
+      "genre_ids": [
+        28
+      ],
+      "id": 1244975,
+      "original_language": "fr",
+      "original_title": "Les Orphelins",
+      "overview": "Gab et Driss, amis d’enfance brouillés depuis leur départ de l’orphelinat, mènent des vies opposées : l’un est flic à l’IGPN, l’autre fixeur pour des voyous. Lorsque leur premier amour meurt dans un accident suspect, sa fille Leïla, 17 ans, s’empare de l’arme de Gab et se lance sur la piste d’une puissante entreprise prête à tout pour étouffer l’affaire. Forcés de faire équipe, les orphelins vont devoir la stopper avant qu’elle ne commette l’irréparable…",
+      "popularity": 123.9073,
+      "poster_path": "/e08WqjLKqcw6HqHK9QlH0XGxyGb.jpg",
+      "release_date": "2025-08-20",
+      "title": "Les Orphelins",
+      "video": false,
+      "vote_average": 6.156,
+      "vote_count": 61
     },
     {
       "adult": false,
@@ -312,33 +292,70 @@
       "original_language": "en",
       "original_title": "Greenland 2: Migration",
       "overview": "Après l'impact dévastateur d'une comète qui a réduit la Terre en ruines, la famille Garrity doit quitter la sécurité de son bunker au Groenland. Commence alors un périple pour leur survie et l'avenir de l'Humanité à travers un monde dévasté à la recherche d'un nouveau foyer.",
-      "popularity": 137.4235,
+      "popularity": 135.8523,
       "poster_path": "/mu05wZK0MH2bYmuO7hXwZECqC1X.jpg",
       "release_date": "2026-01-07",
       "title": "Greenland : Migration",
       "video": false,
-      "vote_average": 6.502,
-      "vote_count": 521
+      "vote_average": 6.512,
+      "vote_count": 530
     },
     {
       "adult": false,
-      "backdrop_path": "/sK3z0Naed3H1Wuh7a21YRVMxYqt.jpg",
+      "backdrop_path": "/hHDNOlATHhre4eZ7aYz5cdyJLik.jpg",
       "genre_ids": [
-        18,
-        9648,
-        53
+        27,
+        53,
+        878
       ],
-      "id": 1368166,
+      "id": 1272837,
       "original_language": "en",
-      "original_title": "The Housemaid",
-      "overview": "En quête d’un nouveau départ, Millie accepte un poste de femme de ménage à demeure chez Nina et Andrew Winchester, un couple aussi riche qu’énigmatique. Ce qui s’annonce comme l’emploi idéal se transforme rapidement en un jeu dangereux, mêlant séduction, secrets et manipulations. Derrière les portes closes du manoir Winchester se cache un monde de faux-semblants et de révélations inattendues... Un tourbillon de suspense et de scandales qui vous tiendra en haleine jusqu’à la dernière seconde.",
-      "popularity": 117.0776,
-      "poster_path": "/z12rRVkxyp8VZI3v3cFlxjW1gO4.jpg",
-      "release_date": "2025-12-18",
-      "title": "La Femme de ménage",
+      "original_title": "28 Years Later: The Bone Temple",
+      "overview": "Le docteur Kelson noue une relation aussi troublante qu'inattendue dont les répercussions sont susceptibles de bouleverser le monde. De l'autre côté, la rencontre entre Spike et Jimmy Crystal tourne au cauchemar.",
+      "popularity": 119.3411,
+      "poster_path": "/1SQVgXrkBVbwUWugj3ZZ6T26So2.jpg",
+      "release_date": "2026-01-14",
+      "title": "28 Ans plus tard : Le Temple des morts",
       "video": false,
-      "vote_average": 7.246,
-      "vote_count": 1338
+      "vote_average": 7.18,
+      "vote_count": 699
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uzZ7LUx4Bb3nZXjvBx5PiqTE7rk.jpg",
+      "genre_ids": [
+        28
+      ],
+      "id": 1301306,
+      "original_language": "en",
+      "original_title": "A Woman Scorned",
+      "overview": "Une femme se venge des hommes qui ont assassiné sa sœur de sang-froid, les traquant un par un dans un massacre sanglant.",
+      "popularity": 106.5622,
+      "poster_path": "/dlOSBiNULMPzKIze84LDjvEN9z1.jpg",
+      "release_date": "2025-06-09",
+      "title": "A Woman Scorned",
+      "video": false,
+      "vote_average": 6.346,
+      "vote_count": 13
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lmns2jlRmATs8OGWKcCkgrbHLM4.jpg",
+      "genre_ids": [
+        28,
+        18
+      ],
+      "id": 1634301,
+      "original_language": "te",
+      "original_title": "Vanaveera",
+      "overview": "",
+      "popularity": 146.1638,
+      "poster_path": "/oBYExKI8E3bTzQjPkofhpV2EJon.jpg",
+      "release_date": "2026-02-13",
+      "title": "Vanaveera",
+      "video": false,
+      "vote_average": 2,
+      "vote_count": 1
     },
     {
       "adult": false,
@@ -352,31 +369,13 @@
       "original_language": "en",
       "original_title": "Avatar: Fire and Ash",
       "overview": "Après la mort de Neteyam, Jake et Neytiri affrontent leur chagrin tout en faisant face au Peuple des Cendres, une tribu Na’vi redoutable menée par le fougueux Varang, alors que le conflit sur Pandora s’intensifie et qu’une nouvelle quê morale s’amorce.",
-      "popularity": 112.3288,
+      "popularity": 126.0923,
       "poster_path": "/5BnOt0PRymp5mXuoKv1unQ9x8I8.jpg",
       "release_date": "2025-12-17",
       "title": "Avatar : De feu et de cendres",
       "video": false,
-      "vote_average": 7.277,
-      "vote_count": 1837
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/bAFnjhweXxHUWjmFzMTuX12Ud3b.jpg",
-      "genre_ids": [
-        53
-      ],
-      "id": 1199193,
-      "original_language": "en",
-      "original_title": "Pose",
-      "overview": "Deux couples réservent accidentellement la même maison à la campagne pour un week-end et découvrent que les choses ne sont pas toujours ce qu'elles semblent être.",
-      "popularity": 107.9384,
-      "poster_path": "/qhyyyWrHUbl6QG4udAJj17CBa5.jpg",
-      "release_date": "2026-02-25",
-      "title": "Pose",
-      "video": false,
-      "vote_average": 8,
-      "vote_count": 4
+      "vote_average": 7.3,
+      "vote_count": 1840
     },
     {
       "adult": false,
@@ -386,15 +385,15 @@
       "original_language": "zh",
       "original_title": "動物感傷の清晨",
       "overview": "",
-      "popularity": 104.7159,
+      "popularity": 180.0746,
       "poster_path": "/dUcIdXXBBFhJcvnNhdpcxHN2UTL.jpg",
       "release_date": "2023-10-13",
       "title": "動物感傷の清晨",
       "video": false,
-      "vote_average": 0,
-      "vote_count": 0
+      "vote_average": 7.333,
+      "vote_count": 3
     }
   ],
-  "total_pages": 55431,
-  "total_results": 1108604
+  "total_pages": 55446,
+  "total_results": 1108905
 }
