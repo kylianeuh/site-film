@@ -3,7 +3,7 @@
   "results": [
     {
       "adult": false,
-      "backdrop_path": "/6YjnTRBz704LF1uJ3ZC4wsS9T8r.jpg",
+      "backdrop_path": "/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
       "genre_ids": [
         28,
         80,
@@ -18,45 +18,8 @@
       "release_date": "2026-01-28",
       "title": "Shelter",
       "video": false,
-      "vote_average": 6.736,
-      "vote_count": 208
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/hYgUkH7TusddHRtelj53I6gFOWR.jpg",
-      "genre_ids": [
-        28,
-        53
-      ],
-      "id": 799882,
-      "original_language": "en",
-      "original_title": "The Bluff",
-      "overview": "Une ex-pirate voit sa paisible vie sur une île lointaine troublée par le retour vengeur de son ancien capitaine. Elle doit alors affronter son passé sanglant et libérer ses dons mortels pour sauver les siens d'un siège féroce.",
-      "popularity": 241.4757,
-      "poster_path": "/c4wL0GHHAshs7GQKigKGBOCOHiY.jpg",
-      "release_date": "2026-02-17",
-      "title": "La Falaise",
-      "video": false,
-      "vote_average": 6.174,
-      "vote_count": 164
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/bAFnjhweXxHUWjmFzMTuX12Ud3b.jpg",
-      "genre_ids": [
-        53
-      ],
-      "id": 1199193,
-      "original_language": "en",
-      "original_title": "Pose",
-      "overview": "Deux couples réservent accidentellement la même maison à la campagne pour un week-end et découvrent que les choses ne sont pas toujours ce qu'elles semblent être.",
-      "popularity": 283.0483,
-      "poster_path": "/qhyyyWrHUbl6QG4udAJj17CBa5.jpg",
-      "release_date": "2026-02-25",
-      "title": "Pose",
-      "video": false,
-      "vote_average": 7.6,
-      "vote_count": 15
+      "vote_average": 6.781,
+      "vote_count": 212
     },
     {
       "adult": false,
@@ -74,7 +37,44 @@
       "title": "La Folle Histoire du monde",
       "video": false,
       "vote_average": 6.761,
-      "vote_count": 885
+      "vote_count": 886
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bAFnjhweXxHUWjmFzMTuX12Ud3b.jpg",
+      "genre_ids": [
+        53
+      ],
+      "id": 1199193,
+      "original_language": "en",
+      "original_title": "Pose",
+      "overview": "Deux couples réservent accidentellement la même maison à la campagne pour un week-end et découvrent que les choses ne sont pas toujours ce qu'elles semblent être.",
+      "popularity": 283.0483,
+      "poster_path": "/qhyyyWrHUbl6QG4udAJj17CBa5.jpg",
+      "release_date": "2026-02-25",
+      "title": "Pose",
+      "video": false,
+      "vote_average": 7.625,
+      "vote_count": 16
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hYgUkH7TusddHRtelj53I6gFOWR.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 799882,
+      "original_language": "en",
+      "original_title": "The Bluff",
+      "overview": "Une ex-pirate voit sa paisible vie sur une île lointaine troublée par le retour vengeur de son ancien capitaine. Elle doit alors affronter son passé sanglant et libérer ses dons mortels pour sauver les siens d'un siège féroce.",
+      "popularity": 241.4757,
+      "poster_path": "/c4wL0GHHAshs7GQKigKGBOCOHiY.jpg",
+      "release_date": "2026-02-17",
+      "title": "La Falaise",
+      "video": false,
+      "vote_average": 6.088,
+      "vote_count": 177
     },
     {
       "adult": false,
@@ -93,8 +93,26 @@
       "release_date": "2026-02-25",
       "title": "Scream 7",
       "video": false,
-      "vote_average": 5.977,
-      "vote_count": 219
+      "vote_average": 6.007,
+      "vote_count": 226
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/O50sdY6JEwpU7cQRaFtTO9eSAk.jpg",
+      "genre_ids": [
+        28
+      ],
+      "id": 1499984,
+      "original_language": "en",
+      "original_title": "Gladiator Underground",
+      "overview": "",
+      "popularity": 192.711,
+      "poster_path": "/qLN16AeIjS5P5Kk5B6pBi1Mh1mi.jpg",
+      "release_date": "2025-08-22",
+      "title": "Gladiator Underground",
+      "video": false,
+      "vote_average": 6.071,
+      "vote_count": 14
     },
     {
       "adult": false,
@@ -135,26 +153,8 @@
       "release_date": "2026-01-21",
       "title": "Retour à Silent Hill",
       "video": false,
-      "vote_average": 5,
-      "vote_count": 232
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/O50sdY6JEwpU7cQRaFtTO9eSAk.jpg",
-      "genre_ids": [
-        28
-      ],
-      "id": 1499984,
-      "original_language": "en",
-      "original_title": "Gladiator Underground",
-      "overview": "",
-      "popularity": 192.711,
-      "poster_path": "/qLN16AeIjS5P5Kk5B6pBi1Mh1mi.jpg",
-      "release_date": "2025-08-22",
-      "title": "Gladiator Underground",
-      "video": false,
-      "vote_average": 6.5,
-      "vote_count": 12
+      "vote_average": 5.051,
+      "vote_count": 237
     },
     {
       "adult": false,
@@ -173,8 +173,8 @@
       "release_date": "2025-08-15",
       "title": "Hierarchy : Braquage au sommet",
       "video": false,
-      "vote_average": 5.708,
-      "vote_count": 12
+      "vote_average": 5.7,
+      "vote_count": 13
     },
     {
       "adult": false,
@@ -194,8 +194,8 @@
       "release_date": "2025-10-15",
       "title": "Chien 51",
       "video": false,
-      "vote_average": 6.269,
-      "vote_count": 212
+      "vote_average": 6.252,
+      "vote_count": 214
     },
     {
       "adult": false,
@@ -214,27 +214,8 @@
       "release_date": "2026-01-20",
       "title": "Reconnu coupable",
       "video": false,
-      "vote_average": 7.103,
-      "vote_count": 633
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/1gLFGrxHqQebqLWpISmoFR6XWtJ.jpg",
-      "genre_ids": [
-        28,
-        53
-      ],
-      "id": 1088434,
-      "original_language": "en",
-      "original_title": "Hellfire",
-      "overview": "Un mystérieux vagabond, ancien Béret vert, arrive dans une petite ville frontalière du Sud et découvre une communauté forcée de distribuer de la drogue pour un syndicat criminel sans pitié. Et ça, il est sur le point de le changer.",
-      "popularity": 130.2653,
-      "poster_path": "/tQti9QTf13MfzNpXguijgNh7ojE.jpg",
-      "release_date": "2026-02-05",
-      "title": "Hellfire",
-      "video": false,
-      "vote_average": 6.967,
-      "vote_count": 46
+      "vote_average": 7.093,
+      "vote_count": 638
     },
     {
       "adult": false,
@@ -293,8 +274,27 @@
       "release_date": "2025-11-26",
       "title": "Zootopie 2",
       "video": false,
-      "vote_average": 7.614,
-      "vote_count": 1924
+      "vote_average": 7.612,
+      "vote_count": 1928
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1gLFGrxHqQebqLWpISmoFR6XWtJ.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1088434,
+      "original_language": "en",
+      "original_title": "Hellfire",
+      "overview": "Un mystérieux vagabond, ancien Béret vert, arrive dans une petite ville frontalière du Sud et découvre une communauté forcée de distribuer de la drogue pour un syndicat criminel sans pitié. Et ça, il est sur le point de le changer.",
+      "popularity": 130.2653,
+      "poster_path": "/tQti9QTf13MfzNpXguijgNh7ojE.jpg",
+      "release_date": "2026-02-05",
+      "title": "Hellfire",
+      "video": false,
+      "vote_average": 6.947,
+      "vote_count": 47
     },
     {
       "adult": false,
@@ -314,8 +314,8 @@
       "release_date": "2025-08-16",
       "title": "The Shadow's Edge",
       "video": false,
-      "vote_average": 7.256,
-      "vote_count": 462
+      "vote_average": 7.25,
+      "vote_count": 466
     },
     {
       "adult": false,
@@ -341,26 +341,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/u9jE0R1nvkmdWu3bt7Op8joPywa.jpg",
-      "genre_ids": [
-        12,
-        53,
-        878
-      ],
-      "id": 840464,
-      "original_language": "en",
-      "original_title": "Greenland 2: Migration",
-      "overview": "Après l'impact dévastateur d'une comète qui a réduit la Terre en ruines, la famille Garrity doit quitter la sécurité de son bunker au Groenland. Commence alors un périple pour leur survie et l'avenir de l'Humanité à travers un monde dévasté à la recherche d'un nouveau foyer.",
-      "popularity": 103.3658,
-      "poster_path": "/mu05wZK0MH2bYmuO7hXwZECqC1X.jpg",
-      "release_date": "2026-01-07",
-      "title": "Greenland : Migration",
-      "video": false,
-      "vote_average": 6.498,
-      "vote_count": 546
-    },
-    {
-      "adult": false,
       "backdrop_path": "/sdZSjtGUTSN8B3al5o0f2WoQfQQ.jpg",
       "genre_ids": [
         878,
@@ -376,29 +356,49 @@
       "release_date": "2025-12-17",
       "title": "Avatar : De feu et de cendres",
       "video": false,
-      "vote_average": 7.275,
-      "vote_count": 1850
+      "vote_average": 7.273,
+      "vote_count": 1856
     },
     {
       "adult": false,
-      "backdrop_path": "/uM5i623wwNfoGD97iwwQWQ7GlZL.jpg",
+      "backdrop_path": "/u9jE0R1nvkmdWu3bt7Op8joPywa.jpg",
       "genre_ids": [
-        18,
+        12,
+        53,
         878
       ],
-      "id": 1032892,
+      "id": 840464,
       "original_language": "en",
-      "original_title": "In the Blink of an Eye",
-      "overview": "Trois histoires, s'étalant sur plusieurs millénaires, s'entrecroisent et abordent les thèmes de l'espoir, du lien et du cycle de la vie.",
-      "popularity": 93.6366,
-      "poster_path": "/xxiCtlfsf3ObdRnKEkw4RzpUr5E.jpg",
-      "release_date": "2026-01-26",
-      "title": "Destins croisés",
+      "original_title": "Greenland 2: Migration",
+      "overview": "Après l'impact dévastateur d'une comète qui a réduit la Terre en ruines, la famille Garrity doit quitter la sécurité de son bunker au Groenland. Commence alors un périple pour leur survie et l'avenir de l'Humanité à travers un monde dévasté à la recherche d'un nouveau foyer.",
+      "popularity": 103.3658,
+      "poster_path": "/mu05wZK0MH2bYmuO7hXwZECqC1X.jpg",
+      "release_date": "2026-01-07",
+      "title": "Greenland : Migration",
       "video": false,
-      "vote_average": 4.34,
-      "vote_count": 47
+      "vote_average": 6.486,
+      "vote_count": 551
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8h3Ev1xf3WBrzHD4fNOGs790GWZ.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 891644,
+      "original_language": "en",
+      "original_title": "Zero",
+      "overview": "Deux Américains se réveillent à Dakar, au Sénégal, avec des bombes attachées à leur poitrine, dont le compte à rebours est de dix heures. Guidés par une voix menaçante au téléphone, ces hommes accomplissent une série de tâches violentes qui déclenchent un vaste mouvement de protestation contre l'influence occidentale dans la ville.",
+      "popularity": 100.133,
+      "poster_path": "/qpSLXMpkBNMMzFWY2w7RNcEfmSH.jpg",
+      "release_date": "2025-04-11",
+      "title": "Zero",
+      "video": false,
+      "vote_average": 5.865,
+      "vote_count": 26
     }
   ],
-  "total_pages": 55489,
-  "total_results": 1109775
+  "total_pages": 55507,
+  "total_results": 1110126
 }
