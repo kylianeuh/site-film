@@ -3,6 +3,26 @@
   "results": [
     {
       "adult": false,
+      "backdrop_path": "/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
+      "genre_ids": [
+        28,
+        878,
+        53
+      ],
+      "id": 1265609,
+      "original_language": "en",
+      "original_title": "War Machine",
+      "overview": "Lors d'une dernière mission éprouvante pendant sa formation de Ranger, un ingénieur militaire doit mener son unité contre une gigantesque machine à tuer venue d'un autre monde.",
+      "popularity": 652.6109,
+      "poster_path": "/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg",
+      "release_date": "2026-02-12",
+      "title": "War Machine",
+      "video": false,
+      "vote_average": 6.959,
+      "vote_count": 280
+    },
+    {
+      "adult": false,
       "backdrop_path": "/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
       "genre_ids": [
         28,
@@ -13,13 +33,13 @@
       "original_language": "en",
       "original_title": "Shelter",
       "overview": "Mason vit isolé sur une île écossaise. Après avoir sauvé une jeune fille de l'océan lors d'une terrible tempête, il déclenche une série d'événements qui provoquent une violente attaque dans son refuge...",
-      "popularity": 372.8761,
+      "popularity": 381.0086,
       "poster_path": "/u071a2uGEgC5lAMskhxdASwfQSt.jpg",
       "release_date": "2026-01-28",
       "title": "Shelter",
       "video": false,
-      "vote_average": 6.773,
-      "vote_count": 233
+      "vote_average": 6.719,
+      "vote_count": 247
     },
     {
       "adult": false,
@@ -32,51 +52,13 @@
       "original_language": "en",
       "original_title": "The Bluff",
       "overview": "Une ex-pirate voit sa paisible vie sur une île lointaine troublée par le retour vengeur de son ancien capitaine. Elle doit alors affronter son passé sanglant et libérer ses dons mortels pour sauver les siens d'un siège féroce.",
-      "popularity": 245.9079,
+      "popularity": 267.0115,
       "poster_path": "/c4wL0GHHAshs7GQKigKGBOCOHiY.jpg",
       "release_date": "2026-02-17",
       "title": "La Falaise",
       "video": false,
-      "vote_average": 6.23,
-      "vote_count": 202
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/bAFnjhweXxHUWjmFzMTuX12Ud3b.jpg",
-      "genre_ids": [
-        53
-      ],
-      "id": 1199193,
-      "original_language": "en",
-      "original_title": "Pose",
-      "overview": "Deux couples réservent accidentellement la même maison à la campagne pour un week-end et découvrent que les choses ne sont pas toujours ce qu'elles semblent être.",
-      "popularity": 187.0785,
-      "poster_path": "/qhyyyWrHUbl6QG4udAJj17CBa5.jpg",
-      "release_date": "2026-02-25",
-      "title": "Pose",
-      "video": false,
-      "vote_average": 7.4,
-      "vote_count": 19
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
-      "genre_ids": [
-        28,
-        878,
-        53
-      ],
-      "id": 1265609,
-      "original_language": "en",
-      "original_title": "War Machine",
-      "overview": "Lors d'une dernière mission éprouvante pendant sa formation de Ranger, un ingénieur militaire doit mener son unité contre une gigantesque machine à tuer venue d'un autre monde.",
-      "popularity": 182.5873,
-      "poster_path": "/rFhKkXhk7ClU03jQ5rHIApJDwev.jpg",
-      "release_date": "2026-02-12",
-      "title": "War Machine",
-      "video": false,
-      "vote_average": 6.782,
-      "vote_count": 147
+      "vote_average": 6.2,
+      "vote_count": 218
     },
     {
       "adult": false,
@@ -90,13 +72,13 @@
       "original_language": "en",
       "original_title": "Return to Silent Hill",
       "overview": "Lorsqu’il reçoit une mystérieuse lettre de Mary, son amour perdu, James est attiré vers Silent Hill, une ville autrefois familière, aujourd’hui engloutie par les ténèbres.En partant à sa recherche, James affronte des créatures monstrueuses et découvre une vérité terrifiante qui le poussera aux limites de la folie.",
-      "popularity": 164.5405,
+      "popularity": 154.9778,
       "poster_path": "/hm4HgeeQsPgsxkPU3wxZvosI5Dh.jpg",
       "release_date": "2026-01-21",
       "title": "Retour à Silent Hill",
       "video": false,
-      "vote_average": 5,
-      "vote_count": 243
+      "vote_average": 5.04,
+      "vote_count": 253
     },
     {
       "adult": false,
@@ -110,32 +92,31 @@
       "original_language": "en",
       "original_title": "Scream 7",
       "overview": "Lorsqu’un nouveau Ghostface surgit dans la paisible ville où Sidney Prescott a reconstruit sa vie, ses pires cauchemars refont surface. Alors que sa fille devient la prochaine cible, Sidney n’a d’autre choix que de reprendre le combat. Déterminée à protéger les siens, elle doit alors affronter les démons de son passé pour tenter de mettre fin une bonne fois pour toutes au bain de sang.",
-      "popularity": 163.9871,
+      "popularity": 138.4813,
       "poster_path": "/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
       "release_date": "2026-02-25",
       "title": "Scream 7",
       "video": false,
-      "vote_average": 5.992,
-      "vote_count": 244
+      "vote_average": 6,
+      "vote_count": 259
     },
     {
       "adult": false,
-      "backdrop_path": "/lmns2jlRmATs8OGWKcCkgrbHLM4.jpg",
+      "backdrop_path": "/bAFnjhweXxHUWjmFzMTuX12Ud3b.jpg",
       "genre_ids": [
-        28,
-        18
+        53
       ],
-      "id": 1634301,
-      "original_language": "te",
-      "original_title": "Vanaveera",
-      "overview": "",
-      "popularity": 135.1217,
-      "poster_path": "/oBYExKI8E3bTzQjPkofhpV2EJon.jpg",
-      "release_date": "2026-02-13",
-      "title": "Vanaveera",
+      "id": 1199193,
+      "original_language": "en",
+      "original_title": "Pose",
+      "overview": "Deux couples réservent accidentellement la même maison à la campagne pour un week-end et découvrent que les choses ne sont pas toujours ce qu'elles semblent être.",
+      "popularity": 104.5044,
+      "poster_path": "/qhyyyWrHUbl6QG4udAJj17CBa5.jpg",
+      "release_date": "2026-02-25",
+      "title": "Pose",
       "video": false,
-      "vote_average": 6,
-      "vote_count": 2
+      "vote_average": 7.289,
+      "vote_count": 19
     },
     {
       "adult": false,
@@ -149,13 +130,32 @@
       "original_language": "en",
       "original_title": "Mercy",
       "overview": "Dans un futur proche, la ville de Los Angeles est en proie à une montée de la violence. Le détective privé Chris Raven est accusé du meurtre de sa femme. Il est jugé par la juge Maddox, une intelligence artificielle avancée du tribunal expéditif de Mercy Capital, auquel Chris a grandement contribué. Il a 90 minutes pour prouver lui-même son innocence. Après ce délai, l'IA déterminera son sort et le condamnera à mort.",
-      "popularity": 132.3363,
+      "popularity": 152.607,
       "poster_path": "/roKKWFRmFMRzv5NhBhCmDW5GdQr.jpg",
       "release_date": "2026-01-20",
       "title": "Reconnu coupable",
       "video": false,
-      "vote_average": 7.068,
-      "vote_count": 660
+      "vote_average": 7.067,
+      "vote_count": 671
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lmns2jlRmATs8OGWKcCkgrbHLM4.jpg",
+      "genre_ids": [
+        28,
+        18
+      ],
+      "id": 1634301,
+      "original_language": "te",
+      "original_title": "Vanaveera",
+      "overview": "",
+      "popularity": 142.6715,
+      "poster_path": "/oBYExKI8E3bTzQjPkofhpV2EJon.jpg",
+      "release_date": "2026-02-13",
+      "title": "Vanaveera",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 3
     },
     {
       "adult": false,
@@ -168,31 +168,13 @@
       "original_language": "en",
       "original_title": "Hellfire",
       "overview": "Un mystérieux vagabond, ancien Béret vert, arrive dans une petite ville frontalière du Sud et découvre une communauté forcée de distribuer de la drogue pour un syndicat criminel sans pitié. Et ça, il est sur le point de le changer.",
-      "popularity": 128.6631,
+      "popularity": 143.4119,
       "poster_path": "/tQti9QTf13MfzNpXguijgNh7ojE.jpg",
       "release_date": "2026-02-05",
       "title": "Hellfire",
       "video": false,
       "vote_average": 6.9,
-      "vote_count": 47
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/O50sdY6JEwpU7cQRaFtTO9eSAk.jpg",
-      "genre_ids": [
-        28
-      ],
-      "id": 1499984,
-      "original_language": "en",
-      "original_title": "Gladiator Underground",
-      "overview": "",
-      "popularity": 128.356,
-      "poster_path": "/qLN16AeIjS5P5Kk5B6pBi1Mh1mi.jpg",
-      "release_date": "2025-08-22",
-      "title": "Gladiator Underground",
-      "video": false,
-      "vote_average": 6.444,
-      "vote_count": 18
+      "vote_count": 48
     },
     {
       "adult": false,
@@ -208,35 +190,13 @@
       "original_language": "en",
       "original_title": "Zootopia 2",
       "overview": "Judy Hopps et Nick Wilde explorent à nouveau Zootopie, entre mystères, rires et rencontres inattendues. À travers chaque rue et chaque instant, ils découvrent que l’amitié et la curiosité transforment le quotidien en moments magiques.",
-      "popularity": 121.1563,
+      "popularity": 134.2596,
       "poster_path": "/hBI7Wrps6tDjhEzBxJgoPLhbmT1.jpg",
       "release_date": "2025-11-26",
       "title": "Zootopie 2",
       "video": false,
-      "vote_average": 7.611,
-      "vote_count": 1961
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/vOV4Qy3g791OTzEndiSGoJwuI2M.jpg",
-      "genre_ids": [
-        53,
-        28,
-        12,
-        18,
-        14
-      ],
-      "id": 1401778,
-      "original_language": "en",
-      "original_title": "Turbulence",
-      "overview": "Zach et Emmy, un jeune couple marié, embarquent pour un voyage en montgolfière au-dessus des Dolomites italiennes afin de redonner un souffle à leur relation. Accompagnés du pilote Harry, ils accueillent une troisième passagère, Julia, et tout bascule de façon inattendue à cinq mille mètres d'altitude. Ce qui promettait d'être une expérience inoubliable tourne au cauchemar quand les secrets troublants des passagers éclatent au grand jour et que la nature déchaîne sa fureur.",
-      "popularity": 115.3153,
-      "poster_path": "/jRuiKL4S9UpLma2ZlM47xIu2gbe.jpg",
-      "release_date": "2025-11-26",
-      "title": "Turbulence",
-      "video": false,
-      "vote_average": 5.75,
-      "vote_count": 56
+      "vote_average": 7.615,
+      "vote_count": 1978
     },
     {
       "adult": false,
@@ -250,53 +210,13 @@
       "original_language": "en",
       "original_title": "Greenland 2: Migration",
       "overview": "Après l'impact dévastateur d'une comète qui a réduit la Terre en ruines, la famille Garrity doit quitter la sécurité de son bunker au Groenland. Commence alors un périple pour leur survie et l'avenir de l'Humanité à travers un monde dévasté à la recherche d'un nouveau foyer.",
-      "popularity": 113.7894,
+      "popularity": 145.7162,
       "poster_path": "/mu05wZK0MH2bYmuO7hXwZECqC1X.jpg",
       "release_date": "2026-01-07",
       "title": "Greenland : Migration",
       "video": false,
-      "vote_average": 6.486,
-      "vote_count": 555
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/tn95fumbkVAgXjOuw9CQOg0aYQz.jpg",
-      "genre_ids": [
-        28,
-        80,
-        18,
-        53
-      ],
-      "id": 1419406,
-      "original_language": "zh",
-      "original_title": "The Shadow's Edge",
-      "overview": "Un mystérieux mafieux et ses 7 fils adoptifs manipulent et ridiculisent la police en piratant le système de surveillance ultramoderne de la ville, dans le but de récupérer une fortune en crypto-monnaie. La police devenue impuissante doit faire appel à un ancien expert qui va s’associer avec une jeune policière à laquelle il est lié par un secret qu’elle ignore. Une partie d’échec commence alors, où les cerveaux et la loyauté seront mis à l’épreuve.",
-      "popularity": 113.7298,
-      "poster_path": "/t1PFVsGYdUHtPv0Xowoc9b4PAap.jpg",
-      "release_date": "2025-08-16",
-      "title": "The Shadow's Edge",
-      "video": false,
-      "vote_average": 7.228,
-      "vote_count": 472
-    },
-    {
-      "adult": false,
-      "backdrop_path": null,
-      "genre_ids": [
-        10749,
-        18
-      ],
-      "id": 1523145,
-      "original_language": "ru",
-      "original_title": "Tvoe serdtse budet razbito",
-      "overview": "",
-      "popularity": 109.3428,
-      "poster_path": "/iGpMm603GUKH2SiXB2S5m4sZ17t.jpg",
-      "release_date": "2026-03-26",
-      "title": "Tvoe serdtse budet razbito",
-      "video": false,
-      "vote_average": 0,
-      "vote_count": 0
+      "vote_average": 6.5,
+      "vote_count": 560
     },
     {
       "adult": false,
@@ -312,13 +232,31 @@
       "original_language": "en",
       "original_title": "Hoppers",
       "overview": "Mabel est une jeune fille audacieuse qui a une grande ambition : infiltrer le monde animal. Pour ce faire, elle transfère son esprit à un robot castor afin de pouvoir approcher d’autres animaux et étudier leur mode de vie.",
-      "popularity": 105.0497,
+      "popularity": 139.1041,
       "poster_path": "/tWmEsB3MtN7RfdXphzghC8B3ahX.jpg",
       "release_date": "2026-03-04",
       "title": "Jumpers",
       "video": false,
-      "vote_average": 7.677,
-      "vote_count": 62
+      "vote_average": 7.7,
+      "vote_count": 89
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/O50sdY6JEwpU7cQRaFtTO9eSAk.jpg",
+      "genre_ids": [
+        28
+      ],
+      "id": 1499984,
+      "original_language": "en",
+      "original_title": "Gladiator Underground",
+      "overview": "",
+      "popularity": 99.6886,
+      "poster_path": "/qLN16AeIjS5P5Kk5B6pBi1Mh1mi.jpg",
+      "release_date": "2025-08-22",
+      "title": "Gladiator Underground",
+      "video": false,
+      "vote_average": 6.979,
+      "vote_count": 24
     },
     {
       "adult": false,
@@ -332,33 +270,53 @@
       "original_language": "en",
       "original_title": "Avatar: Fire and Ash",
       "overview": "Après la mort de Neteyam, Jake et Neytiri affrontent leur chagrin tout en faisant face au Peuple des Cendres, une tribu Na’vi redoutable menée par le fougueux Varang, alors que le conflit sur Pandora s’intensifie et qu’une nouvelle quê morale s’amorce.",
-      "popularity": 101.1826,
+      "popularity": 120.0551,
       "poster_path": "/5BnOt0PRymp5mXuoKv1unQ9x8I8.jpg",
       "release_date": "2025-12-17",
       "title": "Avatar : De feu et de cendres",
       "video": false,
       "vote_average": 7.3,
-      "vote_count": 1862
+      "vote_count": 1866
     },
     {
       "adult": false,
-      "backdrop_path": "/ImIRPOvlxKC1jsKld5ZEpxmvmV.jpg",
+      "backdrop_path": "/tn95fumbkVAgXjOuw9CQOg0aYQz.jpg",
       "genre_ids": [
         28,
         80,
+        18,
         53
       ],
-      "id": 1461181,
-      "original_language": "en",
-      "original_title": "Hierarchy",
-      "overview": "Dans une région secrète du Texas, deux frères adoptifs se retrouvent impliqués dans des activités criminelles et sont contraints de fuir les forces de l'ordre et la mafia russe cupide.",
-      "popularity": 93.792,
-      "poster_path": "/iOWSgc2soCiXcujJQCoqzR3QhCv.jpg",
-      "release_date": "2025-08-15",
-      "title": "Hierarchy : Braquage au sommet",
+      "id": 1419406,
+      "original_language": "zh",
+      "original_title": "The Shadow's Edge",
+      "overview": "Un mystérieux mafieux et ses 7 fils adoptifs manipulent et ridiculisent la police en piratant le système de surveillance ultramoderne de la ville, dans le but de récupérer une fortune en crypto-monnaie. La police devenue impuissante doit faire appel à un ancien expert qui va s’associer avec une jeune policière à laquelle il est lié par un secret qu’elle ignore. Une partie d’échec commence alors, où les cerveaux et la loyauté seront mis à l’épreuve.",
+      "popularity": 120.5003,
+      "poster_path": "/t1PFVsGYdUHtPv0Xowoc9b4PAap.jpg",
+      "release_date": "2025-08-16",
+      "title": "The Shadow's Edge",
       "video": false,
-      "vote_average": 5.464,
-      "vote_count": 14
+      "vote_average": 7.2,
+      "vote_count": 475
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1523145,
+      "original_language": "ru",
+      "original_title": "Tvoe serdtse budet razbito",
+      "overview": "",
+      "popularity": 119.6297,
+      "poster_path": "/iGpMm603GUKH2SiXB2S5m4sZ17t.jpg",
+      "release_date": "2026-03-26",
+      "title": "Tvoe serdtse budet razbito",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
     },
     {
       "adult": false,
@@ -373,35 +331,73 @@
       "original_language": "en",
       "original_title": "The Wrecking Crew",
       "overview": "Deux demi-frères brouillés, Jonny et James, se réunissent après la mort mystérieuse de leur père. Durant leur quête de la vérité, des secrets enfouis révèlent un complot qui menace de détruire leur famille.",
-      "popularity": 91.6042,
+      "popularity": 121.4809,
       "poster_path": "/ec0bwYUEYBhcHutx4nIShLzX7Dl.jpg",
       "release_date": "2026-01-28",
       "title": "Team Démolition",
       "video": false,
-      "vote_average": 6.908,
-      "vote_count": 746
+      "vote_average": 6.91,
+      "vote_count": 752
     },
     {
       "adult": false,
-      "backdrop_path": "/5Q71GYwh2mOz5rr8tPTcvbeBWtN.jpg",
+      "backdrop_path": "/5hH7QiEPOiz7aGa4eJce74kZkO1.jpg",
       "genre_ids": [
-        18,
-        9648,
-        53
+        878,
+        27,
+        35
       ],
-      "id": 1368166,
+      "id": 1159831,
       "original_language": "en",
-      "original_title": "The Housemaid",
-      "overview": "En quête d’un nouveau départ, Millie accepte un poste de femme de ménage à demeure chez Nina et Andrew Winchester, un couple aussi riche qu’énigmatique. Ce qui s’annonce comme l’emploi idéal se transforme rapidement en un jeu dangereux, mêlant séduction, secrets et manipulations. Derrière les portes closes du manoir Winchester se cache un monde de faux-semblants et de révélations inattendues... Un tourbillon de suspense et de scandales qui vous tiendra en haleine jusqu’à la dernière seconde.",
-      "popularity": 90.2009,
-      "poster_path": "/z12rRVkxyp8VZI3v3cFlxjW1gO4.jpg",
-      "release_date": "2025-12-18",
-      "title": "La Femme de ménage",
+      "original_title": "The Bride!",
+      "overview": "Un Frankenstein esseulé se rend dans le Chicago des années 30 afin de convaincre la brillante scientifique Dr Euphronious de lui concevoir une compagne. Les deux ressuscitent une jeune femme assassinée et La fiancée voit le jour. Et ce qui suit dépasse toutes leurs attentes : Meurtre ! Possession ! Un mouvement culturel déchaîné et radical ! Et des amants rebelles dans une romance sauvage et explosive !",
+      "popularity": 102.9913,
+      "poster_path": "/x6XBJG5RGeRqT88BH1HjCVOifkU.jpg",
+      "release_date": "2026-03-04",
+      "title": "The Bride!",
       "video": false,
-      "vote_average": 7.254,
-      "vote_count": 1408
+      "vote_average": 6.467,
+      "vote_count": 90
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/huW5dZywslw6muqmpDtMl6Ywl3m.jpg",
+      "genre_ids": [
+        35
+      ],
+      "id": 10156,
+      "original_language": "en",
+      "original_title": "History of the World: Part I",
+      "overview": "En plusieurs tableaux délirants, le cinéaste Mel Brooks revisite l’Histoire du monde à sa façon toute personnelle. On voyage d’abord dans l’aube de l’humanité, avant d’arriver à l’âge de pierre, en passant par la Cène. C’est ensuite Torquemada et l’Inquisition qui sont mises en boîte. Un spectaculaire bond en avant nous amène un peu plus tard, en pleine Révolution française…",
+      "popularity": 77.7032,
+      "poster_path": "/yGqvfRhV1Arq1nmYdBfzli0kWsU.jpg",
+      "release_date": "1981-06-12",
+      "title": "La Folle Histoire du monde",
+      "video": false,
+      "vote_average": 6.756,
+      "vote_count": 896
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lNYympQM5O6QSInusbyG9eJDIe4.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14
+      ],
+      "id": 1311031,
+      "original_language": "ja",
+      "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+      "overview": "L'armée des pourfendeurs de démons est attirée dans la Forteresse Infinie, où Tanjiro, Zenitsu et Inosuke  affrontent de terrifiants démons de rang supérieur dans un combat désespéré alors que la bataille finale contre Kibutsuji Muzan commence.",
+      "popularity": 105.7422,
+      "poster_path": "/wXTU3AFmlUPbqjH68MZ989uHd6k.jpg",
+      "release_date": "2025-07-18",
+      "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 752
     }
   ],
-  "total_pages": 55535,
-  "total_results": 1110690
+  "total_pages": 55562,
+  "total_results": 1111226
 }
