@@ -18,8 +18,8 @@
       "release_date": "2026-02-12",
       "title": "War Machine",
       "video": false,
-      "vote_average": 7.261,
-      "vote_count": 972
+      "vote_average": 7.262,
+      "vote_count": 994
     },
     {
       "adult": false,
@@ -38,8 +38,8 @@
       "release_date": "2026-01-28",
       "title": "Refuge Fatal",
       "video": false,
-      "vote_average": 6.6,
-      "vote_count": 323
+      "vote_average": 6.557,
+      "vote_count": 327
     },
     {
       "adult": false,
@@ -77,27 +77,48 @@
       "release_date": "2025-12-17",
       "title": "Avatar : De feu et de cendres",
       "video": false,
-      "vote_average": 7.263,
-      "vote_count": 1899
+      "vote_average": 7.262,
+      "vote_count": 1901
     },
     {
       "adult": false,
-      "backdrop_path": "/hYgUkH7TusddHRtelj53I6gFOWR.jpg",
+      "backdrop_path": "/hz7TdCrpLLt2Dz7S3PS2HG9rpAO.jpg",
       "genre_ids": [
-        28,
-        53
+        27,
+        9648,
+        80
       ],
-      "id": 799882,
+      "id": 1159559,
       "original_language": "en",
-      "original_title": "The Bluff",
-      "overview": "Une ex-pirate voit sa paisible vie sur une île lointaine troublée par le retour vengeur de son ancien capitaine. Elle doit alors affronter son passé sanglant et libérer ses dons mortels pour sauver les siens d'un siège féroce.",
-      "popularity": 166.7431,
-      "poster_path": "/c4wL0GHHAshs7GQKigKGBOCOHiY.jpg",
-      "release_date": "2026-02-17",
-      "title": "La Falaise",
+      "original_title": "Scream 7",
+      "overview": "Lorsqu’un nouveau Ghostface surgit dans la paisible ville où Sidney Prescott a reconstruit sa vie, ses pires cauchemars refont surface. Alors que sa fille devient la prochaine cible, Sidney n’a d’autre choix que de reprendre le combat. Déterminée à protéger les siens, elle doit alors affronter les démons de son passé pour tenter de mettre fin une bonne fois pour toutes au bain de sang.",
+      "popularity": 174.1944,
+      "poster_path": "/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
+      "release_date": "2026-02-25",
+      "title": "Scream 7",
       "video": false,
-      "vote_average": 6.312,
-      "vote_count": 288
+      "vote_average": 5.901,
+      "vote_count": 372
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "genre_ids": [
+        878,
+        12,
+        9648
+      ],
+      "id": 687163,
+      "original_language": "en",
+      "original_title": "Project Hail Mary",
+      "overview": "Le professeur de sciences Ryland Grace se réveille à bord d’un vaisseau spatial, à des années-lumière de la Terre, sans aucun souvenir de qui il est ni de la façon dont il est arrivé là. À mesure que sa mémoire lui revient, il commence à découvrir sa mission : résoudre l’énigme d’une mystérieuse substance qui provoque l’extinction du Soleil. Il doit faire appel à ses connaissances scientifiques et ses idées peu orthodoxes pour sauver toute vie sur Terre mais une amitié inattendue pourrait signifier qu’il n’aura pas à accomplir cette tâche seul.",
+      "popularity": 170.1674,
+      "poster_path": "/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
+      "release_date": "2026-03-15",
+      "title": "Projet dernière chance",
+      "video": false,
+      "vote_average": 8.234,
+      "vote_count": 141
     },
     {
       "adult": false,
@@ -118,68 +139,8 @@
       "release_date": "2025-11-26",
       "title": "Zootopie 2",
       "video": false,
-      "vote_average": 7.605,
-      "vote_count": 2230
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "genre_ids": [
-        878,
-        12,
-        9648
-      ],
-      "id": 687163,
-      "original_language": "en",
-      "original_title": "Project Hail Mary",
-      "overview": "Le professeur de sciences Ryland Grace se réveille à bord d’un vaisseau spatial, à des années-lumière de la Terre, sans aucun souvenir de qui il est ni de la façon dont il est arrivé là. À mesure que sa mémoire lui revient, il commence à découvrir sa mission : résoudre l’énigme d’une mystérieuse substance qui provoque l’extinction du Soleil. Il doit faire appel à ses connaissances scientifiques et ses idées peu orthodoxes pour sauver toute vie sur Terre mais une amitié inattendue pourrait signifier qu’il n’aura pas à accomplir cette tâche seul.",
-      "popularity": 170.1674,
-      "poster_path": "/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
-      "release_date": "2026-03-15",
-      "title": "Projet dernière chance",
-      "video": false,
-      "vote_average": 8.5,
-      "vote_count": 97
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/u9jE0R1nvkmdWu3bt7Op8joPywa.jpg",
-      "genre_ids": [
-        12,
-        53,
-        878
-      ],
-      "id": 840464,
-      "original_language": "en",
-      "original_title": "Greenland 2: Migration",
-      "overview": "Après l'impact dévastateur d'une comète qui a réduit la Terre en ruines, la famille Garrity doit quitter la sécurité de son bunker au Groenland. Commence alors un périple pour leur survie et l'avenir de l'Humanité à travers un monde dévasté à la recherche d'un nouveau foyer.",
-      "popularity": 145.6044,
-      "poster_path": "/mu05wZK0MH2bYmuO7hXwZECqC1X.jpg",
-      "release_date": "2026-01-07",
-      "title": "Greenland : Migration",
-      "video": false,
-      "vote_average": 6.4,
-      "vote_count": 630
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/zpEWFNqoN8Qg1SzMMHmaGyOBTdW.jpg",
-      "genre_ids": [
-        53,
-        80,
-        35
-      ],
-      "id": 1054867,
-      "original_language": "en",
-      "original_title": "One Battle After Another",
-      "overview": "Bob Ferguson est un ancien révolutionnaire paranoïaque et désabusé, qui a jadis œuvré avec son ex, Perfidia, au sein du French 75, un groupe militant voué au renversement du gouvernement américain. Seize ans plus tard, Bob vit seul avec sa fille, Willa, quand celle-ci disparaît soudainement. Bob soupçonne son vieil ennemi d’antan, le Colonel Steven J. Lockjaw, d’être responsable de sa disparition. Il décide alors de renouer avec ses anciens frères d’armes pour retrouver sa fille, quitte à confronter les fantômes de son passé.",
-      "popularity": 137.6897,
-      "poster_path": "/vfoxYHHpSOadhOFCmNbtLG2WcUy.jpg",
-      "release_date": "2025-09-23",
-      "title": "Une bataille après l'autre",
-      "video": false,
-      "vote_average": 7.396,
-      "vote_count": 3184
+      "vote_average": 7.606,
+      "vote_count": 2240
     },
     {
       "adult": false,
@@ -198,27 +159,47 @@
       "title": "Crime 101",
       "video": false,
       "vote_average": 7,
-      "vote_count": 183
+      "vote_count": 187
     },
     {
       "adult": false,
-      "backdrop_path": "/hz7TdCrpLLt2Dz7S3PS2HG9rpAO.jpg",
+      "backdrop_path": "/u9jE0R1nvkmdWu3bt7Op8joPywa.jpg",
       "genre_ids": [
-        27,
-        9648,
-        80
+        12,
+        53,
+        878
       ],
-      "id": 1159559,
+      "id": 840464,
       "original_language": "en",
-      "original_title": "Scream 7",
-      "overview": "Lorsqu’un nouveau Ghostface surgit dans la paisible ville où Sidney Prescott a reconstruit sa vie, ses pires cauchemars refont surface. Alors que sa fille devient la prochaine cible, Sidney n’a d’autre choix que de reprendre le combat. Déterminée à protéger les siens, elle doit alors affronter les démons de son passé pour tenter de mettre fin une bonne fois pour toutes au bain de sang.",
-      "popularity": 174.1944,
-      "poster_path": "/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
-      "release_date": "2026-02-25",
-      "title": "Scream 7",
+      "original_title": "Greenland 2: Migration",
+      "overview": "Après l'impact dévastateur d'une comète qui a réduit la Terre en ruines, la famille Garrity doit quitter la sécurité de son bunker au Groenland. Commence alors un périple pour leur survie et l'avenir de l'Humanité à travers un monde dévasté à la recherche d'un nouveau foyer.",
+      "popularity": 145.6044,
+      "poster_path": "/mu05wZK0MH2bYmuO7hXwZECqC1X.jpg",
+      "release_date": "2026-01-07",
+      "title": "Greenland : Migration",
       "video": false,
-      "vote_average": 5.938,
-      "vote_count": 361
+      "vote_average": 6.399,
+      "vote_count": 634
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/zpEWFNqoN8Qg1SzMMHmaGyOBTdW.jpg",
+      "genre_ids": [
+        53,
+        80,
+        35
+      ],
+      "id": 1054867,
+      "original_language": "en",
+      "original_title": "One Battle After Another",
+      "overview": "Bob Ferguson est un ancien révolutionnaire paranoïaque et désabusé, qui a jadis œuvré avec son ex, Perfidia, au sein du French 75, un groupe militant voué au renversement du gouvernement américain. Seize ans plus tard, Bob vit seul avec sa fille, Willa, quand celle-ci disparaît soudainement. Bob soupçonne son vieil ennemi d’antan, le Colonel Steven J. Lockjaw, d’être responsable de sa disparition. Il décide alors de renouer avec ses anciens frères d’armes pour retrouver sa fille, quitte à confronter les fantômes de son passé.",
+      "popularity": 137.6897,
+      "poster_path": "/vfoxYHHpSOadhOFCmNbtLG2WcUy.jpg",
+      "release_date": "2025-09-23",
+      "title": "Une bataille après l'autre",
+      "video": false,
+      "vote_average": 7.393,
+      "vote_count": 3197
     },
     {
       "adult": false,
@@ -238,8 +219,8 @@
       "release_date": "2026-03-04",
       "title": "Jumpers",
       "video": false,
-      "vote_average": 7.7,
-      "vote_count": 220
+      "vote_average": 7.709,
+      "vote_count": 227
     },
     {
       "adult": false,
@@ -258,8 +239,27 @@
       "release_date": "2026-01-20",
       "title": "Reconnu coupable",
       "video": false,
-      "vote_average": 7.078,
-      "vote_count": 758
+      "vote_average": 7.1,
+      "vote_count": 762
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yJi6g0CnsqANLNuVaRX28tZxeHX.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "id": 1193501,
+      "original_language": "en",
+      "original_title": "Whistle",
+      "overview": "Un groupe d'élèves inadaptés découvre par hasard un objet maudit, un ancien Sifflet de la Mort aztèque. Ils découvrent qu'en soufflant dans le sifflet, le son terrifiant qu'il émet fera venir leurs morts futures pour les traquer.",
+      "popularity": 116.9556,
+      "poster_path": "/d3U7rzj3ReOjpxNBd2n09WAxSLH.jpg",
+      "release_date": "2026-01-20",
+      "title": "Le Sifflet",
+      "video": false,
+      "vote_average": 6.088,
+      "vote_count": 159
     },
     {
       "adult": false,
@@ -279,45 +279,26 @@
       "title": "Sinners",
       "video": false,
       "vote_average": 7.472,
-      "vote_count": 4065
+      "vote_count": 4072
     },
     {
       "adult": false,
-      "backdrop_path": "/yJi6g0CnsqANLNuVaRX28tZxeHX.jpg",
+      "backdrop_path": "/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
       "genre_ids": [
-        27,
-        9648
+        10749,
+        18
       ],
-      "id": 1193501,
+      "id": 1316092,
       "original_language": "en",
-      "original_title": "Whistle",
-      "overview": "Un groupe d'élèves inadaptés découvre par hasard un objet maudit, un ancien Sifflet de la Mort aztèque. Ils découvrent qu'en soufflant dans le sifflet, le son terrifiant qu'il émet fera venir leurs morts futures pour les traquer.",
-      "popularity": 116.9556,
-      "poster_path": "/d3U7rzj3ReOjpxNBd2n09WAxSLH.jpg",
-      "release_date": "2026-01-20",
-      "title": "Le Sifflet",
+      "original_title": "\"Wuthering Heights\"",
+      "overview": "Sur les landes balayées par le vent du Yorkshire, la passion dévorante entre Catherine Earnshaw et Heathcliff se transforme en une obsession destructrice, bouleversant leurs vies et celles de leur entourage.​",
+      "popularity": 110.4388,
+      "poster_path": "/yEa8UQA71rjKhCq04mATDNOIT2B.jpg",
+      "release_date": "2026-02-11",
+      "title": "“Hurlevent”",
       "video": false,
-      "vote_average": 6.1,
-      "vote_count": 157
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/1gLFGrxHqQebqLWpISmoFR6XWtJ.jpg",
-      "genre_ids": [
-        28,
-        53
-      ],
-      "id": 1088434,
-      "original_language": "en",
-      "original_title": "Hellfire",
-      "overview": "Un mystérieux vagabond, ancien Béret vert, arrive dans une petite ville frontalière du Sud et découvre une communauté forcée de distribuer de la drogue pour un syndicat criminel sans pitié. Et ça, il est sur le point de le changer.",
-      "popularity": 104.8813,
-      "poster_path": "/tQti9QTf13MfzNpXguijgNh7ojE.jpg",
-      "release_date": "2026-02-05",
-      "title": "Hellfire",
-      "video": false,
-      "vote_average": 6.904,
-      "vote_count": 57
+      "vote_average": 6.352,
+      "vote_count": 533
     },
     {
       "adult": false,
@@ -340,6 +321,45 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/nTbO6UF944b0VZrgypMK5rFYRSW.jpg",
+      "genre_ids": [
+        9648,
+        18,
+        27
+      ],
+      "id": 680493,
+      "original_language": "en",
+      "original_title": "Return to Silent Hill",
+      "overview": "Lorsqu’il reçoit une mystérieuse lettre de Mary, son amour perdu, James est attiré vers Silent Hill, une ville autrefois familière, aujourd’hui engloutie par les ténèbres.En partant à sa recherche, James affronte des créatures monstrueuses et découvre une vérité terrifiante qui le poussera aux limites de la folie.",
+      "popularity": 107.7184,
+      "poster_path": "/hm4HgeeQsPgsxkPU3wxZvosI5Dh.jpg",
+      "release_date": "2026-01-21",
+      "title": "Retour à Silent Hill",
+      "video": false,
+      "vote_average": 5.029,
+      "vote_count": 274
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1gLFGrxHqQebqLWpISmoFR6XWtJ.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1088434,
+      "original_language": "en",
+      "original_title": "Hellfire",
+      "overview": "Un mystérieux vagabond, ancien Béret vert, arrive dans une petite ville frontalière du Sud et découvre une communauté forcée de distribuer de la drogue pour un syndicat criminel sans pitié. Et ça, il est sur le point de le changer.",
+      "popularity": 104.8813,
+      "poster_path": "/tQti9QTf13MfzNpXguijgNh7ojE.jpg",
+      "release_date": "2026-02-05",
+      "title": "Hellfire",
+      "video": false,
+      "vote_average": 6.904,
+      "vote_count": 57
+    },
+    {
+      "adult": false,
       "backdrop_path": "/cz4vLJrmaV1zJlRYbxqtvLzeLWB.jpg",
       "genre_ids": [
         28,
@@ -356,49 +376,30 @@
       "release_date": "2026-01-28",
       "title": "Team Démolition",
       "video": false,
-      "vote_average": 6.886,
-      "vote_count": 793
+      "vote_average": 6.887,
+      "vote_count": 794
     },
     {
       "adult": false,
-      "backdrop_path": "/nTbO6UF944b0VZrgypMK5rFYRSW.jpg",
+      "backdrop_path": "/lNYympQM5O6QSInusbyG9eJDIe4.jpg",
       "genre_ids": [
-        9648,
-        18,
-        27
+        16,
+        28,
+        14
       ],
-      "id": 680493,
-      "original_language": "en",
-      "original_title": "Return to Silent Hill",
-      "overview": "Lorsqu’il reçoit une mystérieuse lettre de Mary, son amour perdu, James est attiré vers Silent Hill, une ville autrefois familière, aujourd’hui engloutie par les ténèbres.En partant à sa recherche, James affronte des créatures monstrueuses et découvre une vérité terrifiante qui le poussera aux limites de la folie.",
-      "popularity": 107.7184,
-      "poster_path": "/hm4HgeeQsPgsxkPU3wxZvosI5Dh.jpg",
-      "release_date": "2026-01-21",
-      "title": "Retour à Silent Hill",
+      "id": 1311031,
+      "original_language": "ja",
+      "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+      "overview": "L'armée des pourfendeurs de démons est attirée dans la Forteresse Infinie, où Tanjiro, Zenitsu et Inosuke  affrontent de terrifiants démons de rang supérieur dans un combat désespéré alors que la bataille finale contre Kibutsuji Muzan commence.",
+      "popularity": 98.731,
+      "poster_path": "/wXTU3AFmlUPbqjH68MZ989uHd6k.jpg",
+      "release_date": "2025-07-18",
+      "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
       "video": false,
-      "vote_average": 5,
-      "vote_count": 273
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
-      "genre_ids": [
-        10749,
-        18
-      ],
-      "id": 1316092,
-      "original_language": "en",
-      "original_title": "\"Wuthering Heights\"",
-      "overview": "Sur les landes balayées par le vent du Yorkshire, la passion dévorante entre Catherine Earnshaw et Heathcliff se transforme en une obsession destructrice, bouleversant leurs vies et celles de leur entourage.​",
-      "popularity": 110.4388,
-      "poster_path": "/yEa8UQA71rjKhCq04mATDNOIT2B.jpg",
-      "release_date": "2026-02-11",
-      "title": "“Hurlevent”",
-      "video": false,
-      "vote_average": 6.345,
-      "vote_count": 532
+      "vote_average": 7.667,
+      "vote_count": 767
     }
   ],
-  "total_pages": 55737,
-  "total_results": 1114728
+  "total_pages": 55745,
+  "total_results": 1114900
 }
