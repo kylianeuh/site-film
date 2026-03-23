@@ -14,12 +14,31 @@
       "original_title": "War Machine",
       "overview": "Lors d'une dernière mission éprouvante pendant sa formation de Ranger, un ingénieur militaire doit mener son unité contre une gigantesque machine à tuer venue d'un autre monde.",
       "popularity": 378.8329,
-      "poster_path": "/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
+      "poster_path": "/8xAOTkGZIsq75moovuRPMAZ1Quh.jpg",
       "release_date": "2026-02-12",
       "title": "War Machine",
       "video": false,
-      "vote_average": 7.246,
-      "vote_count": 1042
+      "vote_average": 7.252,
+      "vote_count": 1075
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/aouxo2EaR7QSGBBUNTITuW0lj4z.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 875828,
+      "original_language": "en",
+      "original_title": "Peaky Blinders: The Immortal Man",
+      "overview": "Lorsque son fils, avec qui il est brouillé, se retrouve impliqué dans un complot nazi, Tommy Shelby, en exil, doit retourner à Birmingham pour sauver sa famille et son pays.",
+      "popularity": 325.8409,
+      "poster_path": "/xARW7zvWb3I7erpbm1Q3oyUgy79.jpg",
+      "release_date": "2026-03-05",
+      "title": "Peaky Blinders : L'Immortel",
+      "video": false,
+      "vote_average": 7.359,
+      "vote_count": 274
     },
     {
       "adult": false,
@@ -38,8 +57,8 @@
       "release_date": "2026-01-28",
       "title": "Refuge Fatal",
       "video": false,
-      "vote_average": 6.567,
-      "vote_count": 334
+      "vote_average": 6.595,
+      "vote_count": 351
     },
     {
       "adult": false,
@@ -58,8 +77,8 @@
       "release_date": "2025-12-17",
       "title": "Avatar : De feu et de cendres",
       "video": false,
-      "vote_average": 7.263,
-      "vote_count": 1907
+      "vote_average": 7.265,
+      "vote_count": 1913
     },
     {
       "adult": false,
@@ -78,31 +97,12 @@
       "release_date": "2026-02-25",
       "title": "Scream 7",
       "video": false,
-      "vote_average": 5.864,
-      "vote_count": 397
+      "vote_average": 5.861,
+      "vote_count": 420
     },
     {
       "adult": false,
-      "backdrop_path": "/1fkuBPid72KGS6WmtkEXMftZtkE.jpg",
-      "genre_ids": [
-        80,
-        18
-      ],
-      "id": 875828,
-      "original_language": "en",
-      "original_title": "Peaky Blinders: The Immortal Man",
-      "overview": "Lorsque son fils, avec qui il est brouillé, se retrouve impliqué dans un complot nazi, Tommy Shelby, en exil, doit retourner à Birmingham pour sauver sa famille et son pays.",
-      "popularity": 325.8409,
-      "poster_path": "/xARW7zvWb3I7erpbm1Q3oyUgy79.jpg",
-      "release_date": "2026-03-05",
-      "title": "Peaky Blinders : L'Immortel",
-      "video": false,
-      "vote_average": 7.352,
-      "vote_count": 169
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "backdrop_path": "/qL4dBGLkWOVP5vImN7EEoqJQYd8.jpg",
       "genre_ids": [
         878,
         12,
@@ -117,8 +117,27 @@
       "release_date": "2026-03-15",
       "title": "Projet dernière chance",
       "video": false,
-      "vote_average": 8.265,
-      "vote_count": 221
+      "vote_average": 8.267,
+      "vote_count": 292
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/52AkwEfQiJl2HuTPMZ2yC5Bdr9I.jpg",
+      "genre_ids": [
+        80,
+        53
+      ],
+      "id": 1171145,
+      "original_language": "en",
+      "original_title": "Crime 101",
+      "overview": "Un voleur insaisissable, dont les braquages spectaculaires mystifient la police. Lorsqu’il repère le coup du siècle, son chemin croise celui d’une courtière en assurances désabusée, elle-même à un tournant de sa vie. Convaincu qu’il tient une piste, un détective tenace se rapproche dangereusement de l’opération, faisant monter la tension d’un cran. À l’approche de ce braquage, la ligne entre chasseur et proie devient de plus en plus floue, et les trois protagonistes devront faire des choix cruciaux, tout en réalisant qu’il est désormais trop tard pour faire marche arrière.",
+      "popularity": 243.2293,
+      "poster_path": "/cz6VIBoOKopo3pymqRkNiVc2M7.jpg",
+      "release_date": "2026-02-11",
+      "title": "Crime 101",
+      "video": false,
+      "vote_average": 7.01,
+      "vote_count": 197
     },
     {
       "adult": false,
@@ -141,22 +160,23 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/52AkwEfQiJl2HuTPMZ2yC5Bdr9I.jpg",
+      "backdrop_path": "/wns4x1GyxCudgOZRyhXKjXVJf3T.jpg",
       "genre_ids": [
-        80,
-        53
+        12,
+        53,
+        878
       ],
-      "id": 1171145,
+      "id": 840464,
       "original_language": "en",
-      "original_title": "Crime 101",
-      "overview": "Un voleur insaisissable, dont les braquages spectaculaires mystifient la police. Lorsqu’il repère le coup du siècle, son chemin croise celui d’une courtière en assurances désabusée, elle-même à un tournant de sa vie. Convaincu qu’il tient une piste, un détective tenace se rapproche dangereusement de l’opération, faisant monter la tension d’un cran. À l’approche de ce braquage, la ligne entre chasseur et proie devient de plus en plus floue, et les trois protagonistes devront faire des choix cruciaux, tout en réalisant qu’il est désormais trop tard pour faire marche arrière.",
-      "popularity": 243.2293,
-      "poster_path": "/cz6VIBoOKopo3pymqRkNiVc2M7.jpg",
-      "release_date": "2026-02-11",
-      "title": "Crime 101",
+      "original_title": "Greenland 2: Migration",
+      "overview": "Après l'impact dévastateur d'une comète qui a réduit la Terre en ruines, la famille Garrity doit quitter la sécurité de son bunker au Groenland. Commence alors un périple pour leur survie et l'avenir de l'Humanité à travers un monde dévasté à la recherche d'un nouveau foyer.",
+      "popularity": 186.4838,
+      "poster_path": "/mu05wZK0MH2bYmuO7hXwZECqC1X.jpg",
+      "release_date": "2026-01-07",
+      "title": "Greenland : Migration",
       "video": false,
-      "vote_average": 7.031,
-      "vote_count": 194
+      "vote_average": 6.383,
+      "vote_count": 652
     },
     {
       "adult": false,
@@ -177,28 +197,8 @@
       "release_date": "2025-11-26",
       "title": "Zootopie 2",
       "video": false,
-      "vote_average": 7.609,
-      "vote_count": 2262
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/u9jE0R1nvkmdWu3bt7Op8joPywa.jpg",
-      "genre_ids": [
-        12,
-        53,
-        878
-      ],
-      "id": 840464,
-      "original_language": "en",
-      "original_title": "Greenland 2: Migration",
-      "overview": "Après l'impact dévastateur d'une comète qui a réduit la Terre en ruines, la famille Garrity doit quitter la sécurité de son bunker au Groenland. Commence alors un périple pour leur survie et l'avenir de l'Humanité à travers un monde dévasté à la recherche d'un nouveau foyer.",
-      "popularity": 186.4838,
-      "poster_path": "/mu05wZK0MH2bYmuO7hXwZECqC1X.jpg",
-      "release_date": "2026-01-07",
-      "title": "Greenland : Migration",
-      "video": false,
-      "vote_average": 6.391,
-      "vote_count": 646
+      "vote_average": 7.61,
+      "vote_count": 2280
     },
     {
       "adult": false,
@@ -218,8 +218,46 @@
       "release_date": "2026-03-04",
       "title": "Jumpers",
       "video": false,
-      "vote_average": 7.629,
-      "vote_count": 244
+      "vote_average": 7.62,
+      "vote_count": 259
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yJi6g0CnsqANLNuVaRX28tZxeHX.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "id": 1193501,
+      "original_language": "en",
+      "original_title": "Whistle",
+      "overview": "Un groupe d'élèves inadaptés découvre par hasard un objet maudit, un ancien Sifflet de la Mort aztèque. Ils découvrent qu'en soufflant dans le sifflet, le son terrifiant qu'il émet fera venir leurs morts futures pour les traquer.",
+      "popularity": 132.2406,
+      "poster_path": "/d3U7rzj3ReOjpxNBd2n09WAxSLH.jpg",
+      "release_date": "2026-01-20",
+      "title": "Le Sifflet",
+      "video": false,
+      "vote_average": 6.062,
+      "vote_count": 170
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1316092,
+      "original_language": "en",
+      "original_title": "\"Wuthering Heights\"",
+      "overview": "Sur les landes balayées par le vent du Yorkshire, la passion dévorante entre Catherine Earnshaw et Heathcliff se transforme en une obsession destructrice, bouleversant leurs vies et celles de leur entourage.​",
+      "popularity": 128.0267,
+      "poster_path": "/yEa8UQA71rjKhCq04mATDNOIT2B.jpg",
+      "release_date": "2026-02-11",
+      "title": "“Hurlevent”",
+      "video": false,
+      "vote_average": 6.364,
+      "vote_count": 551
     },
     {
       "adult": false,
@@ -239,65 +277,7 @@
       "title": "Une bataille après l'autre",
       "video": false,
       "vote_average": 7.389,
-      "vote_count": 3222
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
-      "genre_ids": [
-        10749,
-        18
-      ],
-      "id": 1316092,
-      "original_language": "en",
-      "original_title": "\"Wuthering Heights\"",
-      "overview": "Sur les landes balayées par le vent du Yorkshire, la passion dévorante entre Catherine Earnshaw et Heathcliff se transforme en une obsession destructrice, bouleversant leurs vies et celles de leur entourage.​",
-      "popularity": 128.0267,
-      "poster_path": "/yEa8UQA71rjKhCq04mATDNOIT2B.jpg",
-      "release_date": "2026-02-11",
-      "title": "“Hurlevent”",
-      "video": false,
-      "vote_average": 6.357,
-      "vote_count": 543
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/yJi6g0CnsqANLNuVaRX28tZxeHX.jpg",
-      "genre_ids": [
-        27,
-        9648
-      ],
-      "id": 1193501,
-      "original_language": "en",
-      "original_title": "Whistle",
-      "overview": "Un groupe d'élèves inadaptés découvre par hasard un objet maudit, un ancien Sifflet de la Mort aztèque. Ils découvrent qu'en soufflant dans le sifflet, le son terrifiant qu'il émet fera venir leurs morts futures pour les traquer.",
-      "popularity": 132.2406,
-      "poster_path": "/d3U7rzj3ReOjpxNBd2n09WAxSLH.jpg",
-      "release_date": "2026-01-20",
-      "title": "Le Sifflet",
-      "video": false,
-      "vote_average": 6.093,
-      "vote_count": 166
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/7HKpc11uQfxnw0Y8tRUYn1fsKqE.jpg",
-      "genre_ids": [
-        878,
-        28,
-        53
-      ],
-      "id": 1236153,
-      "original_language": "en",
-      "original_title": "Mercy",
-      "overview": "Dans un futur proche, la ville de Los Angeles est en proie à une montée de la violence. Le détective privé Chris Raven est accusé du meurtre de sa femme. Il est jugé par la juge Maddox, une intelligence artificielle avancée du tribunal expéditif de Mercy Capital, auquel Chris a grandement contribué. Il a 90 minutes pour prouver lui-même son innocence. Après ce délai, l'IA déterminera son sort et le condamnera à mort.",
-      "popularity": 121.6332,
-      "poster_path": "/pYWfUcZTegWTqbINGL6F1KiAkLj.jpg",
-      "release_date": "2026-01-20",
-      "title": "Reconnu coupable",
-      "video": false,
-      "vote_average": 7.085,
-      "vote_count": 767
+      "vote_count": 3242
     },
     {
       "adult": false,
@@ -316,28 +296,28 @@
       "release_date": "2026-01-21",
       "title": "Retour à Silent Hill",
       "video": false,
-      "vote_average": 5.004,
-      "vote_count": 280
+      "vote_average": 5.01,
+      "vote_count": 286
     },
     {
       "adult": false,
-      "backdrop_path": "/nAxGnGHOsfzufThz20zgmRwKur3.jpg",
+      "backdrop_path": "/7HKpc11uQfxnw0Y8tRUYn1fsKqE.jpg",
       "genre_ids": [
-        27,
+        878,
         28,
         53
       ],
-      "id": 1233413,
+      "id": 1236153,
       "original_language": "en",
-      "original_title": "Sinners",
-      "overview": "Alors qu’ils cherchent à s’affranchir d’un lourd passé, deux frères jumeaux reviennent dans leur ville natale pour repartir à zéro. Mais ils comprennent qu’une puissance maléfique bien plus redoutable guette leur retour avec impatience.",
-      "popularity": 108.1828,
-      "poster_path": "/9ZmdDOIbiFCZOvRXBQ7muWUu32l.jpg",
-      "release_date": "2025-04-16",
-      "title": "Sinners",
+      "original_title": "Mercy",
+      "overview": "Dans un futur proche, la ville de Los Angeles est en proie à une montée de la violence. Le détective privé Chris Raven est accusé du meurtre de sa femme. Il est jugé par la juge Maddox, une intelligence artificielle avancée du tribunal expéditif de Mercy Capital, auquel Chris a grandement contribué. Il a 90 minutes pour prouver lui-même son innocence. Après ce délai, l'IA déterminera son sort et le condamnera à mort.",
+      "popularity": 121.6332,
+      "poster_path": "/pYWfUcZTegWTqbINGL6F1KiAkLj.jpg",
+      "release_date": "2026-01-20",
+      "title": "Reconnu coupable",
       "video": false,
-      "vote_average": 7.471,
-      "vote_count": 4100
+      "vote_average": 7.083,
+      "vote_count": 793
     },
     {
       "adult": false,
@@ -360,24 +340,22 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/cz4vLJrmaV1zJlRYbxqtvLzeLWB.jpg",
+      "backdrop_path": "/lmns2jlRmATs8OGWKcCkgrbHLM4.jpg",
       "genre_ids": [
         28,
-        35,
-        80,
-        9648
+        18
       ],
-      "id": 1168190,
-      "original_language": "en",
-      "original_title": "The Wrecking Crew",
-      "overview": "Deux demi-frères brouillés, Jonny et James, se réunissent après la mort mystérieuse de leur père. Durant leur quête de la vérité, des secrets enfouis révèlent un complot qui menace de détruire leur famille.",
-      "popularity": 110.7653,
-      "poster_path": "/ec0bwYUEYBhcHutx4nIShLzX7Dl.jpg",
-      "release_date": "2026-01-28",
-      "title": "Team Démolition",
+      "id": 1634301,
+      "original_language": "te",
+      "original_title": "Vanaveera",
+      "overview": "",
+      "popularity": 112.8817,
+      "poster_path": "/oBYExKI8E3bTzQjPkofhpV2EJon.jpg",
+      "release_date": "2026-02-13",
+      "title": "Vanaveera",
       "video": false,
-      "vote_average": 6.872,
-      "vote_count": 802
+      "vote_average": 7,
+      "vote_count": 3
     },
     {
       "adult": false,
@@ -397,9 +375,30 @@
       "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
       "video": false,
       "vote_average": 7.7,
-      "vote_count": 767
+      "vote_count": 768
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/cz4vLJrmaV1zJlRYbxqtvLzeLWB.jpg",
+      "genre_ids": [
+        28,
+        35,
+        80,
+        9648
+      ],
+      "id": 1168190,
+      "original_language": "en",
+      "original_title": "The Wrecking Crew",
+      "overview": "Deux demi-frères brouillés, Jonny et James, se réunissent après la mort mystérieuse de leur père. Durant leur quête de la vérité, des secrets enfouis révèlent un complot qui menace de détruire leur famille.",
+      "popularity": 110.7653,
+      "poster_path": "/ec0bwYUEYBhcHutx4nIShLzX7Dl.jpg",
+      "release_date": "2026-01-28",
+      "title": "Team Démolition",
+      "video": false,
+      "vote_average": 6.881,
+      "vote_count": 809
     }
   ],
-  "total_pages": 55761,
-  "total_results": 1115205
+  "total_pages": 55774,
+  "total_results": 1115468
 }
