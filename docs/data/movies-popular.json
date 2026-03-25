@@ -3,26 +3,6 @@
   "results": [
     {
       "adult": false,
-      "backdrop_path": "/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
-      "genre_ids": [
-        28,
-        878,
-        53
-      ],
-      "id": 1265609,
-      "original_language": "en",
-      "original_title": "War Machine",
-      "overview": "Lors d'une dernière mission éprouvante pendant sa formation de Ranger, un ingénieur militaire doit mener son unité contre une gigantesque machine à tuer venue d'un autre monde.",
-      "popularity": 345.151,
-      "poster_path": "/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
-      "release_date": "2026-02-12",
-      "title": "War Machine",
-      "video": false,
-      "vote_average": 7.256,
-      "vote_count": 1099
-    },
-    {
-      "adult": false,
       "backdrop_path": "/1fkuBPid72KGS6WmtkEXMftZtkE.jpg",
       "genre_ids": [
         80,
@@ -37,8 +17,8 @@
       "release_date": "2026-03-05",
       "title": "Peaky Blinders : L'Immortel",
       "video": false,
-      "vote_average": 7.5,
-      "vote_count": 343
+      "vote_average": 7.426,
+      "vote_count": 367
     },
     {
       "adult": false,
@@ -56,48 +36,28 @@
       "release_date": "2026-03-15",
       "title": "Projet dernière chance",
       "video": false,
-      "vote_average": 8.218,
-      "vote_count": 385
+      "vote_average": 8.195,
+      "vote_count": 425
     },
     {
       "adult": false,
-      "backdrop_path": "/hz7TdCrpLLt2Dz7S3PS2HG9rpAO.jpg",
-      "genre_ids": [
-        27,
-        9648,
-        80
-      ],
-      "id": 1159559,
-      "original_language": "en",
-      "original_title": "Scream 7",
-      "overview": "Lorsqu’un nouveau Ghostface surgit dans la paisible ville où Sidney Prescott a reconstruit sa vie, ses pires cauchemars refont surface. Alors que sa fille devient la prochaine cible, Sidney n’a d’autre choix que de reprendre le combat. Déterminée à protéger les siens, elle doit alors affronter les démons de son passé pour tenter de mettre fin une bonne fois pour toutes au bain de sang.",
-      "popularity": 326.3154,
-      "poster_path": "/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
-      "release_date": "2026-02-25",
-      "title": "Scream 7",
-      "video": false,
-      "vote_average": 5.8,
-      "vote_count": 430
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
+      "backdrop_path": "/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
       "genre_ids": [
         28,
-        80,
+        878,
         53
       ],
-      "id": 1290821,
+      "id": 1265609,
       "original_language": "en",
-      "original_title": "Shelter",
-      "overview": "Mason vit isolé sur une île écossaise. Après avoir sauvé une jeune fille de l'océan lors d'une terrible tempête, il déclenche une série d'événements qui provoquent une violente attaque dans son refuge...",
-      "popularity": 318.7599,
-      "poster_path": "/3t2TGgR07u8KPV5Mj88b0R7YYWn.jpg",
-      "release_date": "2026-01-28",
-      "title": "Refuge Fatal",
+      "original_title": "War Machine",
+      "overview": "Lors d'une dernière mission éprouvante pendant sa formation de Ranger, un ingénieur militaire doit mener son unité contre une gigantesque machine à tuer venue d'un autre monde.",
+      "popularity": 345.151,
+      "poster_path": "/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
+      "release_date": "2026-02-12",
+      "title": "War Machine",
       "video": false,
-      "vote_average": 6.6,
-      "vote_count": 364
+      "vote_average": 7.3,
+      "vote_count": 1119
     },
     {
       "adult": false,
@@ -116,8 +76,48 @@
       "release_date": "2025-12-17",
       "title": "Avatar : De feu et de cendres",
       "video": false,
-      "vote_average": 7.267,
-      "vote_count": 1920
+      "vote_average": 7.266,
+      "vote_count": 1923
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hz7TdCrpLLt2Dz7S3PS2HG9rpAO.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        80
+      ],
+      "id": 1159559,
+      "original_language": "en",
+      "original_title": "Scream 7",
+      "overview": "Lorsqu’un nouveau Ghostface surgit dans la paisible ville où Sidney Prescott a reconstruit sa vie, ses pires cauchemars refont surface. Alors que sa fille devient la prochaine cible, Sidney n’a d’autre choix que de reprendre le combat. Déterminée à protéger les siens, elle doit alors affronter les démons de son passé pour tenter de mettre fin une bonne fois pour toutes au bain de sang.",
+      "popularity": 326.3154,
+      "poster_path": "/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
+      "release_date": "2026-02-25",
+      "title": "Scream 7",
+      "video": false,
+      "vote_average": 5.83,
+      "vote_count": 437
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1290821,
+      "original_language": "en",
+      "original_title": "Shelter",
+      "overview": "Mason vit isolé sur une île écossaise. Après avoir sauvé une jeune fille de l'océan lors d'une terrible tempête, il déclenche une série d'événements qui provoquent une violente attaque dans son refuge...",
+      "popularity": 318.7599,
+      "poster_path": "/3t2TGgR07u8KPV5Mj88b0R7YYWn.jpg",
+      "release_date": "2026-01-28",
+      "title": "Refuge Fatal",
+      "video": false,
+      "vote_average": 6.654,
+      "vote_count": 371
     },
     {
       "adult": false,
@@ -135,8 +135,8 @@
       "release_date": "2026-02-11",
       "title": "Crime 101",
       "video": false,
-      "vote_average": 7,
-      "vote_count": 207
+      "vote_average": 7.019,
+      "vote_count": 209
     },
     {
       "adult": false,
@@ -154,8 +154,8 @@
       "release_date": "2026-03-26",
       "title": "Твое сердце будет разбито",
       "video": false,
-      "vote_average": 7.25,
-      "vote_count": 4
+      "vote_average": 7.8,
+      "vote_count": 5
     },
     {
       "adult": false,
@@ -174,8 +174,8 @@
       "release_date": "2026-01-07",
       "title": "Greenland : Migration",
       "video": false,
-      "vote_average": 6.374,
-      "vote_count": 660
+      "vote_average": 6.37,
+      "vote_count": 668
     },
     {
       "adult": false,
@@ -196,8 +196,8 @@
       "release_date": "2025-11-26",
       "title": "Zootopie 2",
       "video": false,
-      "vote_average": 7.609,
-      "vote_count": 2300
+      "vote_average": 7.612,
+      "vote_count": 2316
     },
     {
       "adult": false,
@@ -215,8 +215,8 @@
       "release_date": "2026-01-20",
       "title": "Le Sifflet",
       "video": false,
-      "vote_average": 6.061,
-      "vote_count": 171
+      "vote_average": 6.057,
+      "vote_count": 175
     },
     {
       "adult": false,
@@ -236,27 +236,7 @@
       "title": "Retour à Silent Hill",
       "video": false,
       "vote_average": 5.014,
-      "vote_count": 289
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/7HKpc11uQfxnw0Y8tRUYn1fsKqE.jpg",
-      "genre_ids": [
-        878,
-        28,
-        53
-      ],
-      "id": 1236153,
-      "original_language": "en",
-      "original_title": "Mercy",
-      "overview": "Dans un futur proche, la ville de Los Angeles est en proie à une montée de la violence. Le détective privé Chris Raven est accusé du meurtre de sa femme. Il est jugé par la juge Maddox, une intelligence artificielle avancée du tribunal expéditif de Mercy Capital, auquel Chris a grandement contribué. Il a 90 minutes pour prouver lui-même son innocence. Après ce délai, l'IA déterminera son sort et le condamnera à mort.",
-      "popularity": 130.3639,
-      "poster_path": "/pYWfUcZTegWTqbINGL6F1KiAkLj.jpg",
-      "release_date": "2026-01-20",
-      "title": "Reconnu coupable",
-      "video": false,
-      "vote_average": 7.075,
-      "vote_count": 821
+      "vote_count": 290
     },
     {
       "adult": false,
@@ -274,50 +254,8 @@
       "release_date": "2026-02-11",
       "title": "“Hurlevent”",
       "video": false,
-      "vote_average": 6.4,
-      "vote_count": 552
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
-      "genre_ids": [
-        16,
-        10751,
-        878,
-        35,
-        12
-      ],
-      "id": 1327819,
-      "original_language": "en",
-      "original_title": "Hoppers",
-      "overview": "Mabel est une jeune fille audacieuse qui a une grande ambition : infiltrer le monde animal. Pour ce faire, elle transfère son esprit à un robot castor afin de pouvoir approcher d’autres animaux et étudier leur mode de vie.",
-      "popularity": 127.874,
-      "poster_path": "/tWmEsB3MtN7RfdXphzghC8B3ahX.jpg",
-      "release_date": "2026-03-04",
-      "title": "Jumpers",
-      "video": false,
-      "vote_average": 7.6,
-      "vote_count": 275
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
-      "genre_ids": [
-        28,
-        80,
-        53
-      ],
-      "id": 1582770,
-      "original_language": "hi",
-      "original_title": "धुरंधर: द रिवेंज",
-      "overview": "Hamza Ali Mazari n’existe pas. Derrière ce nom se cache Jaskirat Singh Rangi, infiltré au cœur du monde criminel pakistanais. Sa cible : Majo, un fantôme insaisissable.",
-      "popularity": 128.674,
-      "poster_path": "/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
-      "release_date": "2026-03-18",
-      "title": "Dhurandhar : The Revenge",
-      "video": false,
-      "vote_average": 7.8,
-      "vote_count": 20
+      "vote_average": 6.367,
+      "vote_count": 556
     },
     {
       "adult": false,
@@ -338,6 +276,68 @@
       "video": false,
       "vote_average": 6.1,
       "vote_count": 21
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7HKpc11uQfxnw0Y8tRUYn1fsKqE.jpg",
+      "genre_ids": [
+        878,
+        28,
+        53
+      ],
+      "id": 1236153,
+      "original_language": "en",
+      "original_title": "Mercy",
+      "overview": "Dans un futur proche, la ville de Los Angeles est en proie à une montée de la violence. Le détective privé Chris Raven est accusé du meurtre de sa femme. Il est jugé par la juge Maddox, une intelligence artificielle avancée du tribunal expéditif de Mercy Capital, auquel Chris a grandement contribué. Il a 90 minutes pour prouver lui-même son innocence. Après ce délai, l'IA déterminera son sort et le condamnera à mort.",
+      "popularity": 130.3639,
+      "poster_path": "/pYWfUcZTegWTqbINGL6F1KiAkLj.jpg",
+      "release_date": "2026-01-20",
+      "title": "Reconnu coupable",
+      "video": false,
+      "vote_average": 7.067,
+      "vote_count": 829
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1582770,
+      "original_language": "hi",
+      "original_title": "धुरंधर: द रिवेंज",
+      "overview": "Hamza Ali Mazari n’existe pas. Derrière ce nom se cache Jaskirat Singh Rangi, infiltré au cœur du monde criminel pakistanais. Sa cible : Majo, un fantôme insaisissable.",
+      "popularity": 128.674,
+      "poster_path": "/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
+      "release_date": "2026-03-18",
+      "title": "Dhurandhar : The Revenge",
+      "video": false,
+      "vote_average": 7.804,
+      "vote_count": 23
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        878,
+        35,
+        12
+      ],
+      "id": 1327819,
+      "original_language": "en",
+      "original_title": "Hoppers",
+      "overview": "Mabel est une jeune fille audacieuse qui a une grande ambition : infiltrer le monde animal. Pour ce faire, elle transfère son esprit à un robot castor afin de pouvoir approcher d’autres animaux et étudier leur mode de vie.",
+      "popularity": 127.874,
+      "poster_path": "/tWmEsB3MtN7RfdXphzghC8B3ahX.jpg",
+      "release_date": "2026-03-04",
+      "title": "Jumpers",
+      "video": false,
+      "vote_average": 7.612,
+      "vote_count": 278
     },
     {
       "adult": false,
@@ -380,24 +380,26 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/1gLFGrxHqQebqLWpISmoFR6XWtJ.jpg",
+      "backdrop_path": "/cz4vLJrmaV1zJlRYbxqtvLzeLWB.jpg",
       "genre_ids": [
         28,
-        53
+        35,
+        80,
+        9648
       ],
-      "id": 1088434,
+      "id": 1168190,
       "original_language": "en",
-      "original_title": "Hellfire",
-      "overview": "Un mystérieux vagabond, ancien Béret vert, arrive dans une petite ville frontalière du Sud et découvre une communauté forcée de distribuer de la drogue pour un syndicat criminel sans pitié. Et ça, il est sur le point de le changer.",
-      "popularity": 114.6867,
-      "poster_path": "/tQti9QTf13MfzNpXguijgNh7ojE.jpg",
-      "release_date": "2026-02-05",
-      "title": "Hellfire",
+      "original_title": "The Wrecking Crew",
+      "overview": "Deux demi-frères brouillés, Jonny et James, se réunissent après la mort mystérieuse de leur père. Durant leur quête de la vérité, des secrets enfouis révèlent un complot qui menace de détruire leur famille.",
+      "popularity": 114.992,
+      "poster_path": "/ec0bwYUEYBhcHutx4nIShLzX7Dl.jpg",
+      "release_date": "2026-01-28",
+      "title": "Team Démolition",
       "video": false,
-      "vote_average": 6.908,
-      "vote_count": 60
+      "vote_average": 6.879,
+      "vote_count": 823
     }
   ],
-  "total_pages": 55798,
-  "total_results": 1115941
+  "total_pages": 55819,
+  "total_results": 1116368
 }
