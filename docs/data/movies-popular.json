@@ -12,13 +12,32 @@
       "original_language": "en",
       "original_title": "Peaky Blinders: The Immortal Man",
       "overview": "Lorsque son fils, avec qui il est brouillé, se retrouve impliqué dans un complot nazi, Tommy Shelby, en exil, doit retourner à Birmingham pour sauver sa famille et son pays.",
-      "popularity": 360.2727,
+      "popularity": 337.6486,
       "poster_path": "/xARW7zvWb3I7erpbm1Q3oyUgy79.jpg",
       "release_date": "2026-03-05",
       "title": "Peaky Blinders : L'Immortel",
       "video": false,
-      "vote_average": 7.431,
-      "vote_count": 418
+      "vote_average": 7.378,
+      "vote_count": 443
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
+      "genre_ids": [
+        878,
+        12
+      ],
+      "id": 687163,
+      "original_language": "en",
+      "original_title": "Project Hail Mary",
+      "overview": "Le professeur de sciences Ryland Grace se réveille à bord d’un vaisseau spatial, à des années-lumière de la Terre, sans aucun souvenir de qui il est ni de la façon dont il est arrivé là. À mesure que sa mémoire lui revient, il commence à découvrir sa mission : résoudre l’énigme d’une mystérieuse substance qui provoque l’extinction du Soleil. Il doit faire appel à ses connaissances scientifiques et ses idées peu orthodoxes pour sauver toute vie sur Terre mais une amitié inattendue pourrait signifier qu’il n’aura pas à accomplir cette tâche seul.",
+      "popularity": 303.9914,
+      "poster_path": "/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
+      "release_date": "2026-03-15",
+      "title": "Projet dernière chance",
+      "video": false,
+      "vote_average": 8.2,
+      "vote_count": 522
     },
     {
       "adult": false,
@@ -32,32 +51,13 @@
       "original_language": "en",
       "original_title": "Avatar: Fire and Ash",
       "overview": "Après la mort de Neteyam, Jake et Neytiri affrontent leur chagrin tout en faisant face au Peuple des Cendres, une tribu Na’vi redoutable menée par le fougueux Varang, alors que le conflit sur Pandora s’intensifie et qu’une nouvelle quê morale s’amorce.",
-      "popularity": 318.215,
+      "popularity": 305.6897,
       "poster_path": "/5BnOt0PRymp5mXuoKv1unQ9x8I8.jpg",
       "release_date": "2025-12-17",
       "title": "Avatar : De feu et de cendres",
       "video": false,
-      "vote_average": 7.3,
-      "vote_count": 1927
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "genre_ids": [
-        878,
-        12
-      ],
-      "id": 687163,
-      "original_language": "en",
-      "original_title": "Project Hail Mary",
-      "overview": "Le professeur de sciences Ryland Grace se réveille à bord d’un vaisseau spatial, à des années-lumière de la Terre, sans aucun souvenir de qui il est ni de la façon dont il est arrivé là. À mesure que sa mémoire lui revient, il commence à découvrir sa mission : résoudre l’énigme d’une mystérieuse substance qui provoque l’extinction du Soleil. Il doit faire appel à ses connaissances scientifiques et ses idées peu orthodoxes pour sauver toute vie sur Terre mais une amitié inattendue pourrait signifier qu’il n’aura pas à accomplir cette tâche seul.",
-      "popularity": 319.2442,
-      "poster_path": "/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
-      "release_date": "2026-03-15",
-      "title": "Projet dernière chance",
-      "video": false,
-      "vote_average": 8.18,
-      "vote_count": 484
+      "vote_average": 7.261,
+      "vote_count": 1937
     },
     {
       "adult": false,
@@ -71,13 +71,13 @@
       "original_language": "en",
       "original_title": "Shelter",
       "overview": "Mason vit isolé sur une île écossaise. Après avoir sauvé une jeune fille de l'océan lors d'une terrible tempête, il déclenche une série d'événements qui provoquent une violente attaque dans son refuge...",
-      "popularity": 305.7725,
+      "popularity": 293.2147,
       "poster_path": "/3t2TGgR07u8KPV5Mj88b0R7YYWn.jpg",
       "release_date": "2026-01-28",
       "title": "Refuge Fatal",
       "video": false,
-      "vote_average": 6.68,
-      "vote_count": 383
+      "vote_average": 6.675,
+      "vote_count": 392
     },
     {
       "adult": false,
@@ -91,13 +91,32 @@
       "original_language": "en",
       "original_title": "Scream 7",
       "overview": "Lorsqu’un nouveau Ghostface surgit dans la paisible ville où Sidney Prescott a reconstruit sa vie, ses pires cauchemars refont surface. Alors que sa fille devient la prochaine cible, Sidney n’a d’autre choix que de reprendre le combat. Déterminée à protéger les siens, elle doit alors affronter les démons de son passé pour tenter de mettre fin une bonne fois pour toutes au bain de sang.",
-      "popularity": 303.5377,
+      "popularity": 284.7465,
       "poster_path": "/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
       "release_date": "2026-02-25",
       "title": "Scream 7",
       "video": false,
       "vote_average": 5.815,
-      "vote_count": 454
+      "vote_count": 464
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1x9e0qWonw634NhIsRdvnneeqvN.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1523145,
+      "original_language": "ru",
+      "original_title": "Твое сердце будет разбито",
+      "overview": "",
+      "popularity": 543.523,
+      "poster_path": "/iGpMm603GUKH2SiXB2S5m4sZ17t.jpg",
+      "release_date": "2026-03-26",
+      "title": "Твое сердце будет разбито",
+      "video": false,
+      "vote_average": 6.429,
+      "vote_count": 7
     },
     {
       "adult": false,
@@ -111,13 +130,13 @@
       "original_language": "en",
       "original_title": "War Machine",
       "overview": "Lors d'une dernière mission éprouvante pendant sa formation de Ranger, un ingénieur militaire doit mener son unité contre une gigantesque machine à tuer venue d'un autre monde.",
-      "popularity": 284.7653,
+      "popularity": 253.9189,
       "poster_path": "/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
       "release_date": "2026-02-12",
       "title": "War Machine",
       "video": false,
-      "vote_average": 7.3,
-      "vote_count": 1147
+      "vote_average": 7.272,
+      "vote_count": 1165
     },
     {
       "adult": false,
@@ -130,52 +149,13 @@
       "original_language": "en",
       "original_title": "Crime 101",
       "overview": "Un voleur insaisissable, dont les braquages spectaculaires mystifient la police. Lorsqu’il repère le coup du siècle, son chemin croise celui d’une courtière en assurances désabusée, elle-même à un tournant de sa vie. Convaincu qu’il tient une piste, un détective tenace se rapproche dangereusement de l’opération, faisant monter la tension d’un cran. À l’approche de ce braquage, la ligne entre chasseur et proie devient de plus en plus floue, et les trois protagonistes devront faire des choix cruciaux, tout en réalisant qu’il est désormais trop tard pour faire marche arrière.",
-      "popularity": 256.486,
+      "popularity": 242.3705,
       "poster_path": "/cz6VIBoOKopo3pymqRkNiVc2M7.jpg",
       "release_date": "2026-02-11",
       "title": "Crime 101",
       "video": false,
-      "vote_average": 7.005,
-      "vote_count": 211
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/1x9e0qWonw634NhIsRdvnneeqvN.jpg",
-      "genre_ids": [
-        10749,
-        18
-      ],
-      "id": 1523145,
-      "original_language": "ru",
-      "original_title": "Твое сердце будет разбито",
-      "overview": "",
-      "popularity": 290.9201,
-      "poster_path": "/iGpMm603GUKH2SiXB2S5m4sZ17t.jpg",
-      "release_date": "2026-03-26",
-      "title": "Твое сердце будет разбито",
-      "video": false,
-      "vote_average": 7.8,
-      "vote_count": 5
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/wns4x1GyxCudgOZRyhXKjXVJf3T.jpg",
-      "genre_ids": [
-        12,
-        53,
-        878
-      ],
-      "id": 840464,
-      "original_language": "en",
-      "original_title": "Greenland 2: Migration",
-      "overview": "Après l'impact dévastateur d'une comète qui a réduit la Terre en ruines, la famille Garrity doit quitter la sécurité de son bunker au Groenland. Commence alors un périple pour leur survie et l'avenir de l'Humanité à travers un monde dévasté à la recherche d'un nouveau foyer.",
-      "popularity": 201.2553,
-      "poster_path": "/mu05wZK0MH2bYmuO7hXwZECqC1X.jpg",
-      "release_date": "2026-01-07",
-      "title": "Greenland : Migration",
-      "video": false,
-      "vote_average": 6.396,
-      "vote_count": 684
+      "vote_average": 6.991,
+      "vote_count": 213
     },
     {
       "adult": false,
@@ -189,32 +169,73 @@
       "original_language": "en",
       "original_title": "Send Help",
       "overview": "Après un terrible accident d'avion, deux collègues d'une compagnie se retrouvent seuls survivants, coincés sur une île déserte. L'une est une employée maligne et pleine de ressources, l'autre son patron tyrannique et désagréable. Obligés de s'adapter aux conditions extrêmes de leur isolement, ils doivent surmonter leurs vieilles rancunes et travailler ensemble pour survivre.",
-      "popularity": 222.9533,
+      "popularity": 223.6334,
       "poster_path": "/bMAn4qERdEfxotddEHWfMmkfjRv.jpg",
       "release_date": "2026-01-22",
       "title": "Send Help",
       "video": false,
-      "vote_average": 7.037,
-      "vote_count": 498
+      "vote_average": 7.045,
+      "vote_count": 536
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wns4x1GyxCudgOZRyhXKjXVJf3T.jpg",
+      "genre_ids": [
+        12,
+        53,
+        878
+      ],
+      "id": 840464,
+      "original_language": "en",
+      "original_title": "Greenland 2: Migration",
+      "overview": "Après l'impact dévastateur d'une comète qui a réduit la Terre en ruines, la famille Garrity doit quitter la sécurité de son bunker au Groenland. Commence alors un périple pour leur survie et l'avenir de l'Humanité à travers un monde dévasté à la recherche d'un nouveau foyer.",
+      "popularity": 200.167,
+      "poster_path": "/mu05wZK0MH2bYmuO7hXwZECqC1X.jpg",
+      "release_date": "2026-01-07",
+      "title": "Greenland : Migration",
+      "video": false,
+      "vote_average": 6.426,
+      "vote_count": 695
     },
     {
       "adult": false,
       "backdrop_path": "/6GuqUJ33BnWDAoVPZP55gDr5G55.jpg",
       "genre_ids": [
         28,
-        53
+        53,
+        27
       ],
       "id": 1084187,
       "original_language": "en",
       "original_title": "Pretty Lethal",
       "overview": "Un thriller effréné où cinq ballerines, bloquées dans une forêt isolée en chemin vers un concours de danse, se réfugient dans une sinistre auberge routière tenue par Devora Kasimer et doivent transformer leur formation d'élite pour survivre.",
-      "popularity": 165.9872,
+      "popularity": 303.7242,
       "poster_path": "/xnh0rBBPKB6DyLiqek8dX1X7F7t.jpg",
       "release_date": "2026-03-13",
       "title": "Pirouette fatale",
       "video": false,
-      "vote_average": 6.1,
-      "vote_count": 19
+      "vote_average": 6.735,
+      "vote_count": 51
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751
+      ],
+      "id": 1297842,
+      "original_language": "en",
+      "original_title": "GOAT",
+      "overview": "Will est un petit bouc avec de grands rêves. Lorsqu'il décroche une chance inespérée de rejoindre la ligue professionnelle de \"roarball\", un sport ultra-intense réservé aux bêtes les plus rapides et féroces, il entend bien saisir l’opportunité. Problème : ses nouveaux coéquipiers ne sont pas vraiment ravis d'avoir un \"petit\" dans l'équipe. Mais Will est prêt à tout pour changer les règles du jeu.",
+      "popularity": 182.8644,
+      "poster_path": "/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
+      "release_date": "2026-02-11",
+      "title": "GOAT : Rêver plus haut",
+      "video": false,
+      "vote_average": 7.587,
+      "vote_count": 150
     },
     {
       "adult": false,
@@ -230,32 +251,13 @@
       "original_language": "en",
       "original_title": "Zootopia 2",
       "overview": "Judy Hopps et Nick Wilde explorent à nouveau Zootopie, entre mystères, rires et rencontres inattendues. À travers chaque rue et chaque instant, ils découvrent que l’amitié et la curiosité transforment le quotidien en moments magiques.",
-      "popularity": 146.8393,
+      "popularity": 137.0016,
       "poster_path": "/hBI7Wrps6tDjhEzBxJgoPLhbmT1.jpg",
       "release_date": "2025-11-26",
       "title": "Zootopie 2",
       "video": false,
-      "vote_average": 7.612,
-      "vote_count": 2326
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/yJi6g0CnsqANLNuVaRX28tZxeHX.jpg",
-      "genre_ids": [
-        27,
-        9648
-      ],
-      "id": 1193501,
-      "original_language": "en",
-      "original_title": "Whistle",
-      "overview": "Un groupe d'élèves inadaptés découvre par hasard un objet maudit, un ancien Sifflet de la Mort aztèque. Ils découvrent qu'en soufflant dans le sifflet, le son terrifiant qu'il émet fera venir leurs morts futures pour les traquer.",
-      "popularity": 128.9219,
-      "poster_path": "/d3U7rzj3ReOjpxNBd2n09WAxSLH.jpg",
-      "release_date": "2026-01-20",
-      "title": "Le Sifflet",
-      "video": false,
-      "vote_average": 6.03,
-      "vote_count": 181
+      "vote_average": 7.611,
+      "vote_count": 2338
     },
     {
       "adult": false,
@@ -269,13 +271,32 @@
       "original_language": "en",
       "original_title": "Lake Jesup: Bonecrusher's Revenge",
       "overview": "",
-      "popularity": 136.5082,
+      "popularity": 131.6737,
       "poster_path": "/1Z1TgGXS1MD4DDfIkBNloM43vvj.jpg",
       "release_date": "2024-05-01",
       "title": "Lake Jesup: Bonecrusher's Revenge",
       "video": false,
       "vote_average": 6.1,
       "vote_count": 22
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/yJi6g0CnsqANLNuVaRX28tZxeHX.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "id": 1193501,
+      "original_language": "en",
+      "original_title": "Whistle",
+      "overview": "Un groupe d'élèves inadaptés découvre par hasard un objet maudit, un ancien Sifflet de la Mort aztèque. Ils découvrent qu'en soufflant dans le sifflet, le son terrifiant qu'il émet fera venir leurs morts futures pour les traquer.",
+      "popularity": 123.047,
+      "poster_path": "/d3U7rzj3ReOjpxNBd2n09WAxSLH.jpg",
+      "release_date": "2026-01-20",
+      "title": "Le Sifflet",
+      "video": false,
+      "vote_average": 6.003,
+      "vote_count": 185
     },
     {
       "adult": false,
@@ -288,13 +309,13 @@
       "original_language": "en",
       "original_title": "\"Wuthering Heights\"",
       "overview": "Sur les landes balayées par le vent du Yorkshire, la passion dévorante entre Catherine Earnshaw et Heathcliff se transforme en une obsession destructrice, bouleversant leurs vies et celles de leur entourage.​",
-      "popularity": 120.0403,
+      "popularity": 117.5947,
       "poster_path": "/yEa8UQA71rjKhCq04mATDNOIT2B.jpg",
       "release_date": "2026-02-11",
       "title": "“Hurlevent”",
       "video": false,
-      "vote_average": 6.377,
-      "vote_count": 559
+      "vote_average": 6.382,
+      "vote_count": 562
     },
     {
       "adult": false,
@@ -308,72 +329,13 @@
       "original_language": "en",
       "original_title": "Return to Silent Hill",
       "overview": "Lorsqu’il reçoit une mystérieuse lettre de Mary, son amour perdu, James est attiré vers Silent Hill, une ville autrefois familière, aujourd’hui engloutie par les ténèbres.En partant à sa recherche, James affronte des créatures monstrueuses et découvre une vérité terrifiante qui le poussera aux limites de la folie.",
-      "popularity": 117.1219,
+      "popularity": 110.9244,
       "poster_path": "/hm4HgeeQsPgsxkPU3wxZvosI5Dh.jpg",
       "release_date": "2026-01-21",
       "title": "Retour à Silent Hill",
       "video": false,
       "vote_average": 5.014,
-      "vote_count": 292
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
-      "genre_ids": [
-        28,
-        80,
-        53
-      ],
-      "id": 1582770,
-      "original_language": "hi",
-      "original_title": "धुरंधर: द रिवेंज",
-      "overview": "Hamza Ali Mazari n’existe pas. Derrière ce nom se cache Jaskirat Singh Rangi, infiltré au cœur du monde criminel pakistanais. Sa cible : Majo, un fantôme insaisissable.",
-      "popularity": 105.9388,
-      "poster_path": "/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
-      "release_date": "2026-03-18",
-      "title": "Dhurandhar : The Revenge",
-      "video": false,
-      "vote_average": 7.87,
-      "vote_count": 27
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/lmns2jlRmATs8OGWKcCkgrbHLM4.jpg",
-      "genre_ids": [
-        28,
-        18
-      ],
-      "id": 1634301,
-      "original_language": "te",
-      "original_title": "Vanaveera",
-      "overview": "",
-      "popularity": 111.9116,
-      "poster_path": "/oBYExKI8E3bTzQjPkofhpV2EJon.jpg",
-      "release_date": "2026-02-13",
-      "title": "Vanaveera",
-      "video": false,
-      "vote_average": 7,
-      "vote_count": 3
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/7HKpc11uQfxnw0Y8tRUYn1fsKqE.jpg",
-      "genre_ids": [
-        878,
-        28,
-        53
-      ],
-      "id": 1236153,
-      "original_language": "en",
-      "original_title": "Mercy",
-      "overview": "Dans un futur proche, la ville de Los Angeles est en proie à une montée de la violence. Le détective privé Chris Raven est accusé du meurtre de sa femme. Il est jugé par la juge Maddox, une intelligence artificielle avancée du tribunal expéditif de Mercy Capital, auquel Chris a grandement contribué. Il a 90 minutes pour prouver lui-même son innocence. Après ce délai, l'IA déterminera son sort et le condamnera à mort.",
-      "popularity": 113.5157,
-      "poster_path": "/roKKWFRmFMRzv5NhBhCmDW5GdQr.jpg",
-      "release_date": "2026-01-20",
-      "title": "Reconnu coupable",
-      "video": false,
-      "vote_average": 7.066,
-      "vote_count": 845
+      "vote_count": 294
     },
     {
       "adult": false,
@@ -389,15 +351,54 @@
       "original_language": "en",
       "original_title": "Hoppers",
       "overview": "Mabel est une jeune fille audacieuse qui a une grande ambition : infiltrer le monde animal. Pour ce faire, elle transfère son esprit à un robot castor afin de pouvoir approcher d’autres animaux et étudier leur mode de vie.",
-      "popularity": 115.3966,
+      "popularity": 116.602,
       "poster_path": "/tWmEsB3MtN7RfdXphzghC8B3ahX.jpg",
       "release_date": "2026-03-04",
       "title": "Jumpers",
       "video": false,
-      "vote_average": 7.622,
-      "vote_count": 291
+      "vote_average": 7.628,
+      "vote_count": 305
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7HKpc11uQfxnw0Y8tRUYn1fsKqE.jpg",
+      "genre_ids": [
+        878,
+        28,
+        53
+      ],
+      "id": 1236153,
+      "original_language": "en",
+      "original_title": "Mercy",
+      "overview": "Dans un futur proche, la ville de Los Angeles est en proie à une montée de la violence. Le détective privé Chris Raven est accusé du meurtre de sa femme. Il est jugé par la juge Maddox, une intelligence artificielle avancée du tribunal expéditif de Mercy Capital, auquel Chris a grandement contribué. Il a 90 minutes pour prouver lui-même son innocence. Après ce délai, l'IA déterminera son sort et le condamnera à mort.",
+      "popularity": 112.6985,
+      "poster_path": "/roKKWFRmFMRzv5NhBhCmDW5GdQr.jpg",
+      "release_date": "2026-01-20",
+      "title": "Reconnu coupable",
+      "video": false,
+      "vote_average": 7.1,
+      "vote_count": 860
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lmns2jlRmATs8OGWKcCkgrbHLM4.jpg",
+      "genre_ids": [
+        28,
+        18
+      ],
+      "id": 1634301,
+      "original_language": "te",
+      "original_title": "Vanaveera",
+      "overview": "",
+      "popularity": 105.0939,
+      "poster_path": "/oBYExKI8E3bTzQjPkofhpV2EJon.jpg",
+      "release_date": "2026-02-13",
+      "title": "Vanaveera",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 3
     }
   ],
-  "total_pages": 55839,
-  "total_results": 1116775
+  "total_pages": 55853,
+  "total_results": 1117047
 }
