@@ -17,67 +17,8 @@
       "release_date": "2026-03-26",
       "title": "Твоё сердце будет разбито",
       "video": false,
-      "vote_average": 6.611,
-      "vote_count": 18
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/uNToXatdunyvWXyXMrTI1nLvh6r.jpg",
-      "genre_ids": [
-        35,
-        878,
-        80
-      ],
-      "id": 1115544,
-      "original_language": "en",
-      "original_title": "Mike & Nick & Nick & Alice",
-      "overview": "Deux gangsters et la femme qu'ils aiment tentent de survivre à la nuit la plus dangereuse de leur vie. Comme si cela ne suffisait pas, un élément imprévisible vient s'ajouter à l'équation : une machine à remonter le temps.",
-      "popularity": 382.9232,
-      "poster_path": "/fmimhXqKUmpwaOrYS2TAcEWvcMv.jpg",
-      "release_date": "2026-03-14",
-      "title": "Mike & Nick & Nick & Alice",
-      "video": false,
-      "vote_average": 6.568,
-      "vote_count": 66
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/6GuqUJ33BnWDAoVPZP55gDr5G55.jpg",
-      "genre_ids": [
-        28,
-        53,
-        27
-      ],
-      "id": 1084187,
-      "original_language": "en",
-      "original_title": "Pretty Lethal",
-      "overview": "Un thriller effréné où cinq ballerines, bloquées dans une forêt isolée en chemin vers un concours de danse, se réfugient dans une sinistre auberge routière tenue par Devora Kasimer et doivent transformer leur formation d'élite pour survivre.",
-      "popularity": 343.0447,
-      "poster_path": "/xnh0rBBPKB6DyLiqek8dX1X7F7t.jpg",
-      "release_date": "2026-03-13",
-      "title": "Pirouette fatale",
-      "video": false,
-      "vote_average": 6.799,
-      "vote_count": 122
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "genre_ids": [
-        878,
-        12
-      ],
-      "id": 687163,
-      "original_language": "en",
-      "original_title": "Project Hail Mary",
-      "overview": "Le professeur de sciences Ryland Grace se réveille à bord d’un vaisseau spatial, à des années-lumière de la Terre, sans aucun souvenir de qui il est ni de la façon dont il est arrivé là. À mesure que sa mémoire lui revient, il commence à découvrir sa mission : résoudre l’énigme d’une mystérieuse substance qui provoque l’extinction du Soleil. Il doit faire appel à ses connaissances scientifiques et ses idées peu orthodoxes pour sauver toute vie sur Terre mais une amitié inattendue pourrait signifier qu’il n’aura pas à accomplir cette tâche seul.",
-      "popularity": 314.9754,
-      "poster_path": "/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
-      "release_date": "2026-03-15",
-      "title": "Projet dernière chance",
-      "video": false,
-      "vote_average": 8.2,
-      "vote_count": 722
+      "vote_average": 6.9,
+      "vote_count": 20
     },
     {
       "adult": false,
@@ -96,8 +37,47 @@
       "release_date": "2025-12-17",
       "title": "Avatar : De feu et de cendres",
       "video": false,
-      "vote_average": 7.256,
-      "vote_count": 1964
+      "vote_average": 7.2,
+      "vote_count": 1984
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uNToXatdunyvWXyXMrTI1nLvh6r.jpg",
+      "genre_ids": [
+        35,
+        878,
+        80
+      ],
+      "id": 1115544,
+      "original_language": "en",
+      "original_title": "Mike & Nick & Nick & Alice",
+      "overview": "Deux gangsters et la femme qu'ils aiment tentent de survivre à la nuit la plus dangereuse de leur vie. Comme si cela ne suffisait pas, un élément imprévisible vient s'ajouter à l'équation : une machine à remonter le temps.",
+      "popularity": 382.9232,
+      "poster_path": "/fmimhXqKUmpwaOrYS2TAcEWvcMv.jpg",
+      "release_date": "2026-03-14",
+      "title": "Mike & Nick & Nick & Alice",
+      "video": false,
+      "vote_average": 6.688,
+      "vote_count": 93
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6GuqUJ33BnWDAoVPZP55gDr5G55.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1084187,
+      "original_language": "en",
+      "original_title": "Pretty Lethal",
+      "overview": "Un thriller effréné où cinq ballerines, bloquées dans une forêt isolée en chemin vers un concours de danse, se réfugient dans une sinistre auberge routière tenue par Devora Kasimer et doivent transformer leur formation d'élite pour survivre.",
+      "popularity": 343.0447,
+      "poster_path": "/xnh0rBBPKB6DyLiqek8dX1X7F7t.jpg",
+      "release_date": "2026-03-13",
+      "title": "Pirouette fatale",
+      "video": false,
+      "vote_average": 6.741,
+      "vote_count": 139
     },
     {
       "adult": false,
@@ -116,28 +96,27 @@
       "release_date": "2026-01-28",
       "title": "Refuge Fatal",
       "video": false,
-      "vote_average": 6.725,
-      "vote_count": 426
+      "vote_average": 6.724,
+      "vote_count": 431
     },
     {
       "adult": false,
-      "backdrop_path": "/gCmfeKmEAZBP5gcXpiqb0gii9rS.jpg",
+      "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
       "genre_ids": [
-        27,
-        53,
-        35
+        878,
+        12
       ],
-      "id": 1198994,
+      "id": 687163,
       "original_language": "en",
-      "original_title": "Send Help",
-      "overview": "Après un terrible accident d'avion, deux collègues d'une compagnie se retrouvent seuls survivants, coincés sur une île déserte. L'une est une employée maligne et pleine de ressources, l'autre son patron tyrannique et désagréable. Obligés de s'adapter aux conditions extrêmes de leur isolement, ils doivent surmonter leurs vieilles rancunes et travailler ensemble pour survivre.",
-      "popularity": 264.4895,
-      "poster_path": "/bMAn4qERdEfxotddEHWfMmkfjRv.jpg",
-      "release_date": "2026-01-22",
-      "title": "Send Help",
+      "original_title": "Project Hail Mary",
+      "overview": "Le professeur de sciences Ryland Grace se réveille à bord d’un vaisseau spatial, à des années-lumière de la Terre, sans aucun souvenir de qui il est ni de la façon dont il est arrivé là. À mesure que sa mémoire lui revient, il commence à découvrir sa mission : résoudre l’énigme d’une mystérieuse substance qui provoque l’extinction du Soleil. Il doit faire appel à ses connaissances scientifiques et ses idées peu orthodoxes pour sauver toute vie sur Terre mais une amitié inattendue pourrait signifier qu’il n’aura pas à accomplir cette tâche seul.",
+      "popularity": 314.9754,
+      "poster_path": "/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
+      "release_date": "2026-03-15",
+      "title": "Projet dernière chance",
       "video": false,
-      "vote_average": 7.078,
-      "vote_count": 696
+      "vote_average": 8.165,
+      "vote_count": 778
     },
     {
       "adult": false,
@@ -156,27 +135,28 @@
       "release_date": "2026-02-11",
       "title": "GOAT : Rêver plus haut",
       "video": false,
-      "vote_average": 7.825,
-      "vote_count": 214
+      "vote_average": 7.765,
+      "vote_count": 228
     },
     {
       "adult": false,
-      "backdrop_path": "/1fkuBPid72KGS6WmtkEXMftZtkE.jpg",
+      "backdrop_path": "/gCmfeKmEAZBP5gcXpiqb0gii9rS.jpg",
       "genre_ids": [
-        80,
-        18
+        27,
+        53,
+        35
       ],
-      "id": 875828,
+      "id": 1198994,
       "original_language": "en",
-      "original_title": "Peaky Blinders: The Immortal Man",
-      "overview": "Lorsque son fils, avec qui il est brouillé, se retrouve impliqué dans un complot nazi, Tommy Shelby, en exil, doit retourner à Birmingham pour sauver sa famille et son pays.",
-      "popularity": 230.4877,
-      "poster_path": "/xARW7zvWb3I7erpbm1Q3oyUgy79.jpg",
-      "release_date": "2026-03-05",
-      "title": "Peaky Blinders : L'Immortel",
+      "original_title": "Send Help",
+      "overview": "Après un terrible accident d'avion, deux collègues d'une compagnie se retrouvent seuls survivants, coincés sur une île déserte. L'une est une employée maligne et pleine de ressources, l'autre son patron tyrannique et désagréable. Obligés de s'adapter aux conditions extrêmes de leur isolement, ils doivent surmonter leurs vieilles rancunes et travailler ensemble pour survivre.",
+      "popularity": 264.4895,
+      "poster_path": "/bMAn4qERdEfxotddEHWfMmkfjRv.jpg",
+      "release_date": "2026-01-22",
+      "title": "Send Help",
       "video": false,
-      "vote_average": 7.335,
-      "vote_count": 556
+      "vote_average": 7.065,
+      "vote_count": 724
     },
     {
       "adult": false,
@@ -195,12 +175,31 @@
       "release_date": "2026-02-25",
       "title": "Scream 7",
       "video": false,
-      "vote_average": 5.766,
-      "vote_count": 490
+      "vote_average": 5.782,
+      "vote_count": 494
     },
     {
       "adult": false,
-      "backdrop_path": "/2t25zHKX3PAUZWppuLD36JGdgCA.jpg",
+      "backdrop_path": "/1fkuBPid72KGS6WmtkEXMftZtkE.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 875828,
+      "original_language": "en",
+      "original_title": "Peaky Blinders: The Immortal Man",
+      "overview": "Lorsque son fils, avec qui il est brouillé, se retrouve impliqué dans un complot nazi, Tommy Shelby, en exil, doit retourner à Birmingham pour sauver sa famille et son pays.",
+      "popularity": 230.4877,
+      "poster_path": "/xARW7zvWb3I7erpbm1Q3oyUgy79.jpg",
+      "release_date": "2026-03-05",
+      "title": "Peaky Blinders : L'Immortel",
+      "video": false,
+      "vote_average": 7.337,
+      "vote_count": 572
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vG42HeYtoTFflqwP42wYD7tBuNr.jpg",
       "genre_ids": [
         80,
         53
@@ -215,27 +214,7 @@
       "title": "Crime 101",
       "video": false,
       "vote_average": 7,
-      "vote_count": 221
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
-      "genre_ids": [
-        28,
-        878,
-        53
-      ],
-      "id": 1265609,
-      "original_language": "en",
-      "original_title": "War Machine",
-      "overview": "Lors d'une dernière mission éprouvante pendant sa formation de Ranger, un ingénieur militaire doit mener son unité contre une gigantesque machine à tuer venue d'un autre monde.",
-      "popularity": 214.2475,
-      "poster_path": "/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
-      "release_date": "2026-02-12",
-      "title": "War Machine",
-      "video": false,
-      "vote_average": 7.274,
-      "vote_count": 1221
+      "vote_count": 222
     },
     {
       "adult": false,
@@ -254,8 +233,28 @@
       "release_date": "2026-01-07",
       "title": "Greenland : Migration",
       "video": false,
-      "vote_average": 6.469,
-      "vote_count": 749
+      "vote_average": 6.475,
+      "vote_count": 758
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
+      "genre_ids": [
+        28,
+        878,
+        53
+      ],
+      "id": 1265609,
+      "original_language": "en",
+      "original_title": "War Machine",
+      "overview": "Lors d'une dernière mission éprouvante pendant sa formation de Ranger, un ingénieur militaire doit mener son unité contre une gigantesque machine à tuer venue d'un autre monde.",
+      "popularity": 214.2475,
+      "poster_path": "/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
+      "release_date": "2026-02-12",
+      "title": "War Machine",
+      "video": false,
+      "vote_average": 7.276,
+      "vote_count": 1231
     },
     {
       "adult": false,
@@ -297,8 +296,44 @@
       "release_date": "2025-11-26",
       "title": "Zootopie 2",
       "video": false,
-      "vote_average": 7.599,
-      "vote_count": 2387
+      "vote_average": 7.598,
+      "vote_count": 2395
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7uXzE0ZBkbAeKylOz7cUQF4Yw75.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 879945,
+      "original_language": "nl",
+      "original_title": "L'homme inconnu",
+      "overview": "",
+      "popularity": 132.8483,
+      "poster_path": "/atl2HaPJlUXoyVxhqAdCUzDCXbN.jpg",
+      "release_date": "2021-10-16",
+      "title": "L'homme inconnu",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8zyQbsmMlXfLkcctjNz5YZZwpkw.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 999136,
+      "original_language": "en",
+      "original_title": "Do Not Enter",
+      "overview": "Un groupe d'explorateurs urbains pénètre dans un hôtel abandonné pour y chercher sensations fortes et trésor caché, mais se retrouve confronté à des rivaux dangereux et à une présence surnaturelle menaçante.",
+      "popularity": 129.4298,
+      "poster_path": "/jzuxG0P7nT0NvCYbGbVsGYuinD.jpg",
+      "release_date": "2026-03-19",
+      "title": "Do Not Enter",
+      "video": false,
+      "vote_average": 5.209,
+      "vote_count": 43
     },
     {
       "adult": false,
@@ -319,28 +354,27 @@
       "release_date": "2026-03-04",
       "title": "Jumpers",
       "video": false,
-      "vote_average": 7.568,
-      "vote_count": 338
+      "vote_average": 7.6,
+      "vote_count": 347
     },
     {
       "adult": false,
-      "backdrop_path": "/3Vq8otoGevbhcZAKY2devVbPs6L.jpg",
+      "backdrop_path": "/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
       "genre_ids": [
-        27,
-        35,
-        12
+        10749,
+        18
       ],
-      "id": 1381216,
+      "id": 1316092,
       "original_language": "en",
-      "original_title": "Lake Jesup: Bonecrusher's Revenge",
-      "overview": "",
-      "popularity": 126.1267,
-      "poster_path": "/1Z1TgGXS1MD4DDfIkBNloM43vvj.jpg",
-      "release_date": "2024-05-01",
-      "title": "Lake Jesup: Bonecrusher's Revenge",
+      "original_title": "\"Wuthering Heights\"",
+      "overview": "Sur les landes balayées par le vent du Yorkshire, la passion dévorante entre Catherine Earnshaw et Heathcliff se transforme en une obsession destructrice, bouleversant leurs vies et celles de leur entourage.​",
+      "popularity": 127.6701,
+      "poster_path": "/jeniP7UE1ZrK7Ax7XLtS77smafl.jpg",
+      "release_date": "2026-02-11",
+      "title": "“Hurlevent”",
       "video": false,
-      "vote_average": 6.179,
-      "vote_count": 28
+      "vote_average": 6.4,
+      "vote_count": 588
     },
     {
       "adult": false,
@@ -358,47 +392,10 @@
       "release_date": "2026-01-20",
       "title": "Le Sifflet",
       "video": false,
-      "vote_average": 5.992,
-      "vote_count": 199
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/8zyQbsmMlXfLkcctjNz5YZZwpkw.jpg",
-      "genre_ids": [
-        27
-      ],
-      "id": 999136,
-      "original_language": "en",
-      "original_title": "Do Not Enter",
-      "overview": "Un groupe d'explorateurs urbains pénètre dans un hôtel abandonné pour y chercher sensations fortes et trésor caché, mais se retrouve confronté à des rivaux dangereux et à une présence surnaturelle menaçante.",
-      "popularity": 129.4298,
-      "poster_path": "/jzuxG0P7nT0NvCYbGbVsGYuinD.jpg",
-      "release_date": "2026-03-19",
-      "title": "Do Not Enter",
-      "video": false,
-      "vote_average": 5.286,
-      "vote_count": 42
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
-      "genre_ids": [
-        10749,
-        18
-      ],
-      "id": 1316092,
-      "original_language": "en",
-      "original_title": "\"Wuthering Heights\"",
-      "overview": "Sur les landes balayées par le vent du Yorkshire, la passion dévorante entre Catherine Earnshaw et Heathcliff se transforme en une obsession destructrice, bouleversant leurs vies et celles de leur entourage.​",
-      "popularity": 127.6701,
-      "poster_path": "/yEa8UQA71rjKhCq04mATDNOIT2B.jpg",
-      "release_date": "2026-02-11",
-      "title": "“Hurlevent”",
-      "video": false,
-      "vote_average": 6.4,
-      "vote_count": 582
+      "vote_average": 5.98,
+      "vote_count": 205
     }
   ],
-  "total_pages": 55908,
-  "total_results": 1118144
+  "total_pages": 55923,
+  "total_results": 1118450
 }
