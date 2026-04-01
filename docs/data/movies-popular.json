@@ -9,16 +9,16 @@
         18
       ],
       "id": 1523145,
-      "original_language": "ru",
+      "original_language": "en",
       "original_title": "Твоё сердце будет разбито",
       "overview": "",
-      "popularity": 1340.8675,
-      "poster_path": "/iGpMm603GUKH2SiXB2S5m4sZ17t.jpg",
+      "popularity": 1165.1266,
+      "poster_path": "/7wIBfBl2gejt6xHxNSK0reVIm7E.jpg",
       "release_date": "2026-03-26",
-      "title": "Твоё сердце будет разбито",
+      "title": "Your Heart Will Be Broken",
       "video": false,
-      "vote_average": 6.9,
-      "vote_count": 20
+      "vote_average": 6.896,
+      "vote_count": 24
     },
     {
       "adult": false,
@@ -31,14 +31,14 @@
       "id": 83533,
       "original_language": "en",
       "original_title": "Avatar: Fire and Ash",
-      "overview": "Après la mort de Neteyam, Jake et Neytiri affrontent leur chagrin tout en faisant face au Peuple des Cendres, une tribu Na’vi redoutable menée par le fougueux Varang, alors que le conflit sur Pandora s’intensifie et qu’une nouvelle quê morale s’amorce.",
-      "popularity": 397.7548,
-      "poster_path": "/5BnOt0PRymp5mXuoKv1unQ9x8I8.jpg",
+      "overview": "Après la mort de Neteyam, Jake et Neytiri affrontent leur chagrin tout en faisant face au Peuple des Cendres, une tribu Na’vi redoutable menée par la fougueuse Varang, alors que le conflit sur Pandora s’intensifie et qu’une nouvelle quête morale s’amorce.",
+      "popularity": 503.6662,
+      "poster_path": "/5eATVqK2WVQi0D3wjzM5OP8EqZv.jpg",
       "release_date": "2025-12-17",
       "title": "Avatar : De feu et de cendres",
       "video": false,
-      "vote_average": 7.2,
-      "vote_count": 1984
+      "vote_average": 7.301,
+      "vote_count": 2067
     },
     {
       "adult": false,
@@ -52,71 +52,33 @@
       "original_language": "en",
       "original_title": "Mike & Nick & Nick & Alice",
       "overview": "Deux gangsters et la femme qu'ils aiment tentent de survivre à la nuit la plus dangereuse de leur vie. Comme si cela ne suffisait pas, un élément imprévisible vient s'ajouter à l'équation : une machine à remonter le temps.",
-      "popularity": 382.9232,
+      "popularity": 352.9397,
       "poster_path": "/fmimhXqKUmpwaOrYS2TAcEWvcMv.jpg",
       "release_date": "2026-03-14",
       "title": "Mike & Nick & Nick & Alice",
       "video": false,
-      "vote_average": 6.688,
-      "vote_count": 93
+      "vote_average": 6.699,
+      "vote_count": 108
     },
     {
       "adult": false,
       "backdrop_path": "/6GuqUJ33BnWDAoVPZP55gDr5G55.jpg",
       "genre_ids": [
         28,
-        53
+        53,
+        10402
       ],
       "id": 1084187,
       "original_language": "en",
       "original_title": "Pretty Lethal",
       "overview": "Un thriller effréné où cinq ballerines, bloquées dans une forêt isolée en chemin vers un concours de danse, se réfugient dans une sinistre auberge routière tenue par Devora Kasimer et doivent transformer leur formation d'élite pour survivre.",
-      "popularity": 343.0447,
+      "popularity": 311.0726,
       "poster_path": "/xnh0rBBPKB6DyLiqek8dX1X7F7t.jpg",
       "release_date": "2026-03-13",
       "title": "Pirouette fatale",
       "video": false,
-      "vote_average": 6.741,
-      "vote_count": 139
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
-      "genre_ids": [
-        28,
-        80,
-        53
-      ],
-      "id": 1290821,
-      "original_language": "en",
-      "original_title": "Shelter",
-      "overview": "Mason vit isolé sur une île écossaise. Après avoir sauvé une jeune fille de l'océan lors d'une terrible tempête, il déclenche une série d'événements qui provoquent une violente attaque dans son refuge...",
-      "popularity": 321.9348,
-      "poster_path": "/3t2TGgR07u8KPV5Mj88b0R7YYWn.jpg",
-      "release_date": "2026-01-28",
-      "title": "Refuge Fatal",
-      "video": false,
-      "vote_average": 6.724,
-      "vote_count": 431
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "genre_ids": [
-        878,
-        12
-      ],
-      "id": 687163,
-      "original_language": "en",
-      "original_title": "Project Hail Mary",
-      "overview": "Le professeur de sciences Ryland Grace se réveille à bord d’un vaisseau spatial, à des années-lumière de la Terre, sans aucun souvenir de qui il est ni de la façon dont il est arrivé là. À mesure que sa mémoire lui revient, il commence à découvrir sa mission : résoudre l’énigme d’une mystérieuse substance qui provoque l’extinction du Soleil. Il doit faire appel à ses connaissances scientifiques et ses idées peu orthodoxes pour sauver toute vie sur Terre mais une amitié inattendue pourrait signifier qu’il n’aura pas à accomplir cette tâche seul.",
-      "popularity": 314.9754,
-      "poster_path": "/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
-      "release_date": "2026-03-15",
-      "title": "Projet dernière chance",
-      "video": false,
-      "vote_average": 8.165,
-      "vote_count": 778
+      "vote_average": 6.744,
+      "vote_count": 156
     },
     {
       "adult": false,
@@ -130,33 +92,52 @@
       "original_language": "en",
       "original_title": "GOAT",
       "overview": "Will est un petit bouc avec de grands rêves. Lorsqu'il décroche une chance inespérée de rejoindre la ligue professionnelle de \"roarball\", un sport ultra-intense réservé aux bêtes les plus rapides et féroces, il entend bien saisir l’opportunité. Problème : ses nouveaux coéquipiers ne sont pas vraiment ravis d'avoir un \"petit\" dans l'équipe. Mais Will est prêt à tout pour changer les règles du jeu.",
-      "popularity": 308.0166,
+      "popularity": 297.8194,
       "poster_path": "/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
       "release_date": "2026-02-11",
       "title": "GOAT : Rêver plus haut",
       "video": false,
-      "vote_average": 7.765,
-      "vote_count": 228
+      "vote_average": 7.7,
+      "vote_count": 248
     },
     {
       "adult": false,
-      "backdrop_path": "/gCmfeKmEAZBP5gcXpiqb0gii9rS.jpg",
+      "backdrop_path": "/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
       "genre_ids": [
-        27,
-        53,
-        35
+        28,
+        80,
+        53
       ],
-      "id": 1198994,
+      "id": 1290821,
       "original_language": "en",
-      "original_title": "Send Help",
-      "overview": "Après un terrible accident d'avion, deux collègues d'une compagnie se retrouvent seuls survivants, coincés sur une île déserte. L'une est une employée maligne et pleine de ressources, l'autre son patron tyrannique et désagréable. Obligés de s'adapter aux conditions extrêmes de leur isolement, ils doivent surmonter leurs vieilles rancunes et travailler ensemble pour survivre.",
-      "popularity": 264.4895,
-      "poster_path": "/bMAn4qERdEfxotddEHWfMmkfjRv.jpg",
-      "release_date": "2026-01-22",
-      "title": "Send Help",
+      "original_title": "Shelter",
+      "overview": "Mason vit isolé sur une île écossaise. Après avoir sauvé une jeune fille de l'océan lors d'une terrible tempête, il déclenche une série d'événements qui provoquent une violente attaque dans son refuge...",
+      "popularity": 308.3847,
+      "poster_path": "/3t2TGgR07u8KPV5Mj88b0R7YYWn.jpg",
+      "release_date": "2026-01-28",
+      "title": "Refuge Fatal",
       "video": false,
-      "vote_average": 7.065,
-      "vote_count": 724
+      "vote_average": 6.752,
+      "vote_count": 440
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "genre_ids": [
+        878,
+        12
+      ],
+      "id": 687163,
+      "original_language": "en",
+      "original_title": "Project Hail Mary",
+      "overview": "Le professeur de sciences Ryland Grace se réveille à bord d’un vaisseau spatial, à des années-lumière de la Terre, sans aucun souvenir de qui il est ni de la façon dont il est arrivé là. À mesure que sa mémoire lui revient, il commence à découvrir sa mission : résoudre l’énigme d’une mystérieuse substance qui provoque l’extinction du Soleil. Il doit faire appel à ses connaissances scientifiques et ses idées peu orthodoxes pour sauver toute vie sur Terre mais une amitié inattendue pourrait signifier qu’il n’aura pas à accomplir cette tâche seul.",
+      "popularity": 267.0607,
+      "poster_path": "/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
+      "release_date": "2026-03-15",
+      "title": "Projet dernière chance",
+      "video": false,
+      "vote_average": 8.193,
+      "vote_count": 844
     },
     {
       "adult": false,
@@ -170,36 +151,37 @@
       "original_language": "en",
       "original_title": "Scream 7",
       "overview": "Lorsqu’un nouveau Ghostface surgit dans la paisible ville où Sidney Prescott a reconstruit sa vie, ses pires cauchemars refont surface. Alors que sa fille devient la prochaine cible, Sidney n’a d’autre choix que de reprendre le combat. Déterminée à protéger les siens, elle doit alors affronter les démons de son passé pour tenter de mettre fin une bonne fois pour toutes au bain de sang.",
-      "popularity": 245.2893,
+      "popularity": 238.6168,
       "poster_path": "/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
       "release_date": "2026-02-25",
       "title": "Scream 7",
       "video": false,
-      "vote_average": 5.782,
-      "vote_count": 494
+      "vote_average": 5.8,
+      "vote_count": 524
     },
     {
       "adult": false,
-      "backdrop_path": "/1fkuBPid72KGS6WmtkEXMftZtkE.jpg",
+      "backdrop_path": "/gCmfeKmEAZBP5gcXpiqb0gii9rS.jpg",
       "genre_ids": [
-        80,
-        18
+        27,
+        53,
+        35
       ],
-      "id": 875828,
+      "id": 1198994,
       "original_language": "en",
-      "original_title": "Peaky Blinders: The Immortal Man",
-      "overview": "Lorsque son fils, avec qui il est brouillé, se retrouve impliqué dans un complot nazi, Tommy Shelby, en exil, doit retourner à Birmingham pour sauver sa famille et son pays.",
-      "popularity": 230.4877,
-      "poster_path": "/xARW7zvWb3I7erpbm1Q3oyUgy79.jpg",
-      "release_date": "2026-03-05",
-      "title": "Peaky Blinders : L'Immortel",
+      "original_title": "Send Help",
+      "overview": "Après un terrible accident d'avion, deux collègues d'une compagnie se retrouvent seuls survivants, coincés sur une île déserte. L'une est une employée maligne et pleine de ressources, l'autre son patron tyrannique et désagréable. Obligés de s'adapter aux conditions extrêmes de leur isolement, ils doivent surmonter leurs vieilles rancunes et travailler ensemble pour survivre.",
+      "popularity": 191.3203,
+      "poster_path": "/bMAn4qERdEfxotddEHWfMmkfjRv.jpg",
+      "release_date": "2026-01-22",
+      "title": "Send Help",
       "video": false,
-      "vote_average": 7.337,
-      "vote_count": 572
+      "vote_average": 7.094,
+      "vote_count": 754
     },
     {
       "adult": false,
-      "backdrop_path": "/vG42HeYtoTFflqwP42wYD7tBuNr.jpg",
+      "backdrop_path": "/kKF4gEiBDArhONlCcunHVgBp3bA.jpg",
       "genre_ids": [
         80,
         53
@@ -207,14 +189,14 @@
       "id": 1171145,
       "original_language": "en",
       "original_title": "Crime 101",
-      "overview": "Un voleur insaisissable, dont les braquages spectaculaires mystifient la police. Lorsqu’il repère le coup du siècle, son chemin croise celui d’une courtière en assurances désabusée, elle-même à un tournant de sa vie. Convaincu qu’il tient une piste, un détective tenace se rapproche dangereusement de l’opération, faisant monter la tension d’un cran. À l’approche de ce braquage, la ligne entre chasseur et proie devient de plus en plus floue, et les trois protagonistes devront faire des choix cruciaux, tout en réalisant qu’il est désormais trop tard pour faire marche arrière.",
-      "popularity": 226.54,
-      "poster_path": "/cz6VIBoOKopo3pymqRkNiVc2M7.jpg",
+      "overview": "Dans Crime 101, les cambriolages méticuleux à LA le long de l'autoroute 101 d'un voleur de bijoux chevronné (Chris Hemsworth) déconcertent la police. Un flic solitaire (Mark Ruffalo) est à ses trousses. Lorsque leurs chemins croisent celui d'une courtière en assurance désabusée (Halle Berry), tous trois sont confrontés à des choix déterminants face aux millions de dollars en jeu.",
+      "popularity": 178.7456,
+      "poster_path": "/AutyDQmQo2eoG94ByaAmaYsKFiu.jpg",
       "release_date": "2026-02-11",
       "title": "Crime 101",
       "video": false,
       "vote_average": 7,
-      "vote_count": 222
+      "vote_count": 225
     },
     {
       "adult": false,
@@ -228,13 +210,32 @@
       "original_language": "en",
       "original_title": "Greenland 2: Migration",
       "overview": "Après l'impact dévastateur d'une comète qui a réduit la Terre en ruines, la famille Garrity doit quitter la sécurité de son bunker au Groenland. Commence alors un périple pour leur survie et l'avenir de l'Humanité à travers un monde dévasté à la recherche d'un nouveau foyer.",
-      "popularity": 215.4902,
+      "popularity": 183.024,
       "poster_path": "/mu05wZK0MH2bYmuO7hXwZECqC1X.jpg",
       "release_date": "2026-01-07",
       "title": "Greenland : Migration",
       "video": false,
-      "vote_average": 6.475,
-      "vote_count": 758
+      "vote_average": 6.495,
+      "vote_count": 770
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1fkuBPid72KGS6WmtkEXMftZtkE.jpg",
+      "genre_ids": [
+        80,
+        18
+      ],
+      "id": 875828,
+      "original_language": "en",
+      "original_title": "Peaky Blinders: The Immortal Man",
+      "overview": "Lorsque son fils, avec qui il est brouillé, se retrouve impliqué dans un complot nazi, Tommy Shelby, en exil, doit retourner à Birmingham pour sauver sa famille et son pays.",
+      "popularity": 165.1928,
+      "poster_path": "/xARW7zvWb3I7erpbm1Q3oyUgy79.jpg",
+      "release_date": "2026-03-05",
+      "title": "Peaky Blinders : L'Immortel",
+      "video": false,
+      "vote_average": 7.319,
+      "vote_count": 596
     },
     {
       "adult": false,
@@ -248,13 +249,13 @@
       "original_language": "en",
       "original_title": "War Machine",
       "overview": "Lors d'une dernière mission éprouvante pendant sa formation de Ranger, un ingénieur militaire doit mener son unité contre une gigantesque machine à tuer venue d'un autre monde.",
-      "popularity": 214.2475,
+      "popularity": 179.5612,
       "poster_path": "/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
       "release_date": "2026-02-12",
       "title": "War Machine",
       "video": false,
-      "vote_average": 7.276,
-      "vote_count": 1231
+      "vote_average": 7.28,
+      "vote_count": 1257
     },
     {
       "adult": false,
@@ -269,7 +270,7 @@
       "original_language": "hi",
       "original_title": "रॉकी और रानी की प्रेम कहानी",
       "overview": "Rocky, un mordu de gymnastique, tombe amoureux de Rani, qui vient d'une famille bengalie bien éduquée. Comme ils appartiennent à des mondes diamétralement opposés, ils décident d'échanger leurs familles pour s'adapter à la culture et au milieu de chacun et pour savoir si leur mariage survivra. Rocky et Rani sont piégés dans un monde où ils sont unis par l'amour mais divisés par leurs familles, et la question ultime est de savoir s'ils y trouveront leur place.",
-      "popularity": 150.1494,
+      "popularity": 158.1775,
       "poster_path": "/vTQIqlxUkOuyf2UKhlM2OUaFGKz.jpg",
       "release_date": "2023-07-28",
       "title": "रॉकी और रानी की प्रेम कहानी",
@@ -291,31 +292,32 @@
       "original_language": "en",
       "original_title": "Zootopia 2",
       "overview": "Judy Hopps et Nick Wilde explorent à nouveau Zootopie, entre mystères, rires et rencontres inattendues. À travers chaque rue et chaque instant, ils découvrent que l’amitié et la curiosité transforment le quotidien en moments magiques.",
-      "popularity": 142.1157,
+      "popularity": 123.8365,
       "poster_path": "/hBI7Wrps6tDjhEzBxJgoPLhbmT1.jpg",
       "release_date": "2025-11-26",
       "title": "Zootopie 2",
       "video": false,
-      "vote_average": 7.598,
-      "vote_count": 2395
+      "vote_average": 7.6,
+      "vote_count": 2407
     },
     {
       "adult": false,
-      "backdrop_path": "/7uXzE0ZBkbAeKylOz7cUQF4Yw75.jpg",
+      "backdrop_path": "/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
       "genre_ids": [
+        10749,
         18
       ],
-      "id": 879945,
-      "original_language": "nl",
-      "original_title": "L'homme inconnu",
-      "overview": "",
-      "popularity": 132.8483,
-      "poster_path": "/atl2HaPJlUXoyVxhqAdCUzDCXbN.jpg",
-      "release_date": "2021-10-16",
-      "title": "L'homme inconnu",
+      "id": 1316092,
+      "original_language": "en",
+      "original_title": "\"Wuthering Heights\"",
+      "overview": "Sur les landes balayées par le vent du Yorkshire, la passion dévorante entre Catherine Earnshaw et Heathcliff se transforme en une obsession destructrice, bouleversant leurs vies et celles de leur entourage.​",
+      "popularity": 131.7118,
+      "poster_path": "/jeniP7UE1ZrK7Ax7XLtS77smafl.jpg",
+      "release_date": "2026-02-11",
+      "title": "“Hurlevent”",
       "video": false,
-      "vote_average": 8.5,
-      "vote_count": 2
+      "vote_average": 6.415,
+      "vote_count": 609
     },
     {
       "adult": false,
@@ -327,13 +329,13 @@
       "original_language": "en",
       "original_title": "Do Not Enter",
       "overview": "Un groupe d'explorateurs urbains pénètre dans un hôtel abandonné pour y chercher sensations fortes et trésor caché, mais se retrouve confronté à des rivaux dangereux et à une présence surnaturelle menaçante.",
-      "popularity": 129.4298,
+      "popularity": 116.1007,
       "poster_path": "/jzuxG0P7nT0NvCYbGbVsGYuinD.jpg",
       "release_date": "2026-03-19",
       "title": "Do Not Enter",
       "video": false,
-      "vote_average": 5.209,
-      "vote_count": 43
+      "vote_average": 5.2,
+      "vote_count": 44
     },
     {
       "adult": false,
@@ -349,32 +351,13 @@
       "original_language": "en",
       "original_title": "Hoppers",
       "overview": "Mabel est une jeune fille audacieuse qui a une grande ambition : infiltrer le monde animal. Pour ce faire, elle transfère son esprit à un robot castor afin de pouvoir approcher d’autres animaux et étudier leur mode de vie.",
-      "popularity": 127.9061,
+      "popularity": 129.5723,
       "poster_path": "/tWmEsB3MtN7RfdXphzghC8B3ahX.jpg",
       "release_date": "2026-03-04",
       "title": "Jumpers",
       "video": false,
-      "vote_average": 7.6,
-      "vote_count": 347
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
-      "genre_ids": [
-        10749,
-        18
-      ],
-      "id": 1316092,
-      "original_language": "en",
-      "original_title": "\"Wuthering Heights\"",
-      "overview": "Sur les landes balayées par le vent du Yorkshire, la passion dévorante entre Catherine Earnshaw et Heathcliff se transforme en une obsession destructrice, bouleversant leurs vies et celles de leur entourage.​",
-      "popularity": 127.6701,
-      "poster_path": "/jeniP7UE1ZrK7Ax7XLtS77smafl.jpg",
-      "release_date": "2026-02-11",
-      "title": "“Hurlevent”",
-      "video": false,
-      "vote_average": 6.4,
-      "vote_count": 588
+      "vote_average": 7.556,
+      "vote_count": 355
     },
     {
       "adult": false,
@@ -387,15 +370,33 @@
       "original_language": "en",
       "original_title": "Whistle",
       "overview": "Un groupe d'élèves inadaptés découvre par hasard un objet maudit, un ancien Sifflet de la Mort aztèque. Ils découvrent qu'en soufflant dans le sifflet, le son terrifiant qu'il émet fera venir leurs morts futures pour les traquer.",
-      "popularity": 126.1492,
+      "popularity": 101.3404,
       "poster_path": "/d3U7rzj3ReOjpxNBd2n09WAxSLH.jpg",
       "release_date": "2026-01-20",
       "title": "Le Sifflet",
       "video": false,
-      "vote_average": 5.98,
-      "vote_count": 205
+      "vote_average": 5.976,
+      "vote_count": 207
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7uXzE0ZBkbAeKylOz7cUQF4Yw75.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 879945,
+      "original_language": "nl",
+      "original_title": "L'homme inconnu",
+      "overview": "",
+      "popularity": 158.7154,
+      "poster_path": "/atl2HaPJlUXoyVxhqAdCUzDCXbN.jpg",
+      "release_date": "2021-10-16",
+      "title": "L'homme inconnu",
+      "video": false,
+      "vote_average": 8.5,
+      "vote_count": 2
     }
   ],
-  "total_pages": 55923,
-  "total_results": 1118450
+  "total_pages": 55942,
+  "total_results": 1118838
 }
