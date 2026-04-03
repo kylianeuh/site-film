@@ -17,12 +17,12 @@
       "release_date": "2026-03-26",
       "title": "Your Heart Will Be Broken",
       "video": false,
-      "vote_average": 6.6,
-      "vote_count": 27
+      "vote_average": 6.823,
+      "vote_count": 31
     },
     {
       "adult": false,
-      "backdrop_path": "/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
+      "backdrop_path": "/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
       "genre_ids": [
         878,
         12,
@@ -37,8 +37,8 @@
       "release_date": "2025-12-17",
       "title": "Avatar : De feu et de cendres",
       "video": false,
-      "vote_average": 7.336,
-      "vote_count": 2115
+      "vote_average": 7.337,
+      "vote_count": 2162
     },
     {
       "adult": false,
@@ -57,28 +57,8 @@
       "release_date": "2026-03-14",
       "title": "Mike & Nick & Nick & Alice",
       "video": false,
-      "vote_average": 6.761,
-      "vote_count": 115
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/6GuqUJ33BnWDAoVPZP55gDr5G55.jpg",
-      "genre_ids": [
-        28,
-        53,
-        10402
-      ],
-      "id": 1084187,
-      "original_language": "en",
-      "original_title": "Pretty Lethal",
-      "overview": "Un thriller effréné où cinq ballerines, bloquées dans une forêt isolée en chemin vers un concours de danse, se réfugient dans une sinistre auberge routière tenue par Devora Kasimer et doivent transformer leur formation d'élite pour survivre.",
-      "popularity": 250.3557,
-      "poster_path": "/xnh0rBBPKB6DyLiqek8dX1X7F7t.jpg",
-      "release_date": "2026-03-13",
-      "title": "Pirouette fatale",
-      "video": false,
-      "vote_average": 6.765,
-      "vote_count": 162
+      "vote_average": 6.776,
+      "vote_count": 123
     },
     {
       "adult": false,
@@ -97,8 +77,8 @@
       "release_date": "2026-01-28",
       "title": "Refuge Fatal",
       "video": false,
-      "vote_average": 6.8,
-      "vote_count": 447
+      "vote_average": 6.734,
+      "vote_count": 455
     },
     {
       "adult": false,
@@ -117,8 +97,47 @@
       "release_date": "2026-02-11",
       "title": "GOAT : Rêver plus haut",
       "video": false,
-      "vote_average": 7.734,
-      "vote_count": 258
+      "vote_average": 7.797,
+      "vote_count": 274
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kKF4gEiBDArhONlCcunHVgBp3bA.jpg",
+      "genre_ids": [
+        80,
+        53
+      ],
+      "id": 1171145,
+      "original_language": "en",
+      "original_title": "Crime 101",
+      "overview": "Dans Crime 101, les cambriolages méticuleux à LA le long de l'autoroute 101 d'un voleur de bijoux chevronné (Chris Hemsworth) déconcertent la police. Un flic solitaire (Mark Ruffalo) est à ses trousses. Lorsque leurs chemins croisent celui d'une courtière en assurance désabusée (Halle Berry), tous trois sont confrontés à des choix déterminants face aux millions de dollars en jeu.",
+      "popularity": 261.1322,
+      "poster_path": "/AutyDQmQo2eoG94ByaAmaYsKFiu.jpg",
+      "release_date": "2026-02-11",
+      "title": "Crime 101",
+      "video": false,
+      "vote_average": 6.958,
+      "vote_count": 297
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6GuqUJ33BnWDAoVPZP55gDr5G55.jpg",
+      "genre_ids": [
+        28,
+        53,
+        10402
+      ],
+      "id": 1084187,
+      "original_language": "en",
+      "original_title": "Pretty Lethal",
+      "overview": "Un thriller effréné où cinq ballerines, bloquées dans une forêt isolée en chemin vers un concours de danse, se réfugient dans une sinistre auberge routière tenue par Devora Kasimer et doivent transformer leur formation d'élite pour survivre.",
+      "popularity": 250.3557,
+      "poster_path": "/xnh0rBBPKB6DyLiqek8dX1X7F7t.jpg",
+      "release_date": "2026-03-13",
+      "title": "Pirouette fatale",
+      "video": false,
+      "vote_average": 6.798,
+      "vote_count": 168
     },
     {
       "adult": false,
@@ -132,12 +151,12 @@
       "original_title": "Project Hail Mary",
       "overview": "Le professeur de sciences Ryland Grace se réveille à bord d’un vaisseau spatial, à des années-lumière de la Terre, sans aucun souvenir de qui il est ni de la façon dont il est arrivé là. À mesure que sa mémoire lui revient, il commence à découvrir sa mission : résoudre l’énigme d’une mystérieuse substance qui provoque l’extinction du Soleil. Il doit faire appel à ses connaissances scientifiques et ses idées peu orthodoxes pour sauver toute vie sur Terre mais une amitié inattendue pourrait signifier qu’il n’aura pas à accomplir cette tâche seul.",
       "popularity": 249.2093,
-      "poster_path": "/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
+      "poster_path": "/d3BIUfG3CNmqtDrhxv6i2lcRNnN.jpg",
       "release_date": "2026-03-15",
       "title": "Projet dernière chance",
       "video": false,
-      "vote_average": 8.196,
-      "vote_count": 883
+      "vote_average": 8.199,
+      "vote_count": 914
     },
     {
       "adult": false,
@@ -156,8 +175,30 @@
       "release_date": "2026-02-25",
       "title": "Scream 7",
       "video": false,
-      "vote_average": 5.871,
-      "vote_count": 556
+      "vote_average": 5.896,
+      "vote_count": 578
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        878,
+        35,
+        12
+      ],
+      "id": 1327819,
+      "original_language": "en",
+      "original_title": "Hoppers",
+      "overview": "Mabel est une jeune fille audacieuse qui a une grande ambition : infiltrer le monde animal. Pour ce faire, elle transfère son esprit à un robot castor afin de pouvoir approcher d’autres animaux et étudier leur mode de vie.",
+      "popularity": 205.113,
+      "poster_path": "/tWmEsB3MtN7RfdXphzghC8B3ahX.jpg",
+      "release_date": "2026-03-04",
+      "title": "Jumpers",
+      "video": false,
+      "vote_average": 7.574,
+      "vote_count": 364
     },
     {
       "adult": false,
@@ -176,8 +217,30 @@
       "release_date": "2026-01-22",
       "title": "Send Help",
       "video": false,
-      "vote_average": 7.085,
-      "vote_count": 768
+      "vote_average": 7.07,
+      "vote_count": 781
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+      "genre_ids": [
+        12,
+        16,
+        35,
+        10751,
+        14
+      ],
+      "id": 1226863,
+      "original_language": "en",
+      "original_title": "The Super Mario Galaxy Movie",
+      "overview": "Au-delà du Royaume Champignon, Mario, Luigi et Yoshi voyagent à travers les galaxies aux côtés de Rosalina pour arrêter Bowser Jr., dont la tentative de sauver son père menace l’équilibre de l’univers.",
+      "popularity": 169.5832,
+      "poster_path": "/aSQktALDmbunDbwkuZbZFMEWVFr.jpg",
+      "release_date": "2026-04-01",
+      "title": "Super Mario Galaxy, le film",
+      "video": false,
+      "vote_average": 6.932,
+      "vote_count": 111
     },
     {
       "adult": false,
@@ -196,8 +259,8 @@
       "release_date": "2026-01-07",
       "title": "Greenland : Migration",
       "video": false,
-      "vote_average": 6.491,
-      "vote_count": 779
+      "vote_average": 6.486,
+      "vote_count": 786
     },
     {
       "adult": false,
@@ -216,49 +279,8 @@
       "release_date": "2026-02-12",
       "title": "War Machine",
       "video": false,
-      "vote_average": 7.273,
-      "vote_count": 1265
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/kKF4gEiBDArhONlCcunHVgBp3bA.jpg",
-      "genre_ids": [
-        80,
-        53
-      ],
-      "id": 1171145,
-      "original_language": "en",
-      "original_title": "Crime 101",
-      "overview": "Dans Crime 101, les cambriolages méticuleux à LA le long de l'autoroute 101 d'un voleur de bijoux chevronné (Chris Hemsworth) déconcertent la police. Un flic solitaire (Mark Ruffalo) est à ses trousses. Lorsque leurs chemins croisent celui d'une courtière en assurance désabusée (Halle Berry), tous trois sont confrontés à des choix déterminants face aux millions de dollars en jeu.",
-      "popularity": 261.1322,
-      "poster_path": "/AutyDQmQo2eoG94ByaAmaYsKFiu.jpg",
-      "release_date": "2026-02-11",
-      "title": "Crime 101",
-      "video": false,
-      "vote_average": 7,
-      "vote_count": 252
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/9Z2uDYXqJrlmePznQQJhL6d92Rq.jpg",
-      "genre_ids": [
-        12,
-        16,
-        35,
-        10751,
-        14
-      ],
-      "id": 1226863,
-      "original_language": "en",
-      "original_title": "The Super Mario Galaxy Movie",
-      "overview": "Au-delà du Royaume Champignon, Mario, Luigi et Yoshi voyagent à travers les galaxies aux côtés de Rosalina pour arrêter Bowser Jr., dont la tentative de sauver son père menace l’équilibre de l’univers.",
-      "popularity": 169.5832,
-      "poster_path": "/aSQktALDmbunDbwkuZbZFMEWVFr.jpg",
-      "release_date": "2026-04-01",
-      "title": "Super Mario Galaxy, le film",
-      "video": false,
-      "vote_average": 7.167,
-      "vote_count": 63
+      "vote_average": 7.272,
+      "vote_count": 1276
     },
     {
       "adult": false,
@@ -276,8 +298,8 @@
       "release_date": "2026-03-05",
       "title": "Peaky Blinders : L'Immortel",
       "video": false,
-      "vote_average": 7.315,
-      "vote_count": 606
+      "vote_average": 7.3,
+      "vote_count": 617
     },
     {
       "adult": false,
@@ -334,30 +356,26 @@
       "release_date": "2026-02-11",
       "title": "“Hurlevent”",
       "video": false,
-      "vote_average": 6.5,
-      "vote_count": 625
+      "vote_average": 6.467,
+      "vote_count": 638
     },
     {
       "adult": false,
-      "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+      "backdrop_path": "/8zyQbsmMlXfLkcctjNz5YZZwpkw.jpg",
       "genre_ids": [
-        16,
-        10751,
-        878,
-        35,
-        12
+        27
       ],
-      "id": 1327819,
+      "id": 999136,
       "original_language": "en",
-      "original_title": "Hoppers",
-      "overview": "Mabel est une jeune fille audacieuse qui a une grande ambition : infiltrer le monde animal. Pour ce faire, elle transfère son esprit à un robot castor afin de pouvoir approcher d’autres animaux et étudier leur mode de vie.",
-      "popularity": 205.113,
-      "poster_path": "/tWmEsB3MtN7RfdXphzghC8B3ahX.jpg",
-      "release_date": "2026-03-04",
-      "title": "Jumpers",
+      "original_title": "Do Not Enter",
+      "overview": "Un groupe d'explorateurs urbains pénètre dans un hôtel abandonné pour y chercher sensations fortes et trésor caché, mais se retrouve confronté à des rivaux dangereux et à une présence surnaturelle menaçante.",
+      "popularity": 109.7742,
+      "poster_path": "/jzuxG0P7nT0NvCYbGbVsGYuinD.jpg",
+      "release_date": "2026-03-19",
+      "title": "Do Not Enter",
       "video": false,
-      "vote_average": 7.569,
-      "vote_count": 361
+      "vote_average": 5.3,
+      "vote_count": 47
     },
     {
       "adult": false,
@@ -378,28 +396,10 @@
       "release_date": "2025-11-26",
       "title": "Zootopie 2",
       "video": false,
-      "vote_average": 7.596,
-      "vote_count": 2421
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/8zyQbsmMlXfLkcctjNz5YZZwpkw.jpg",
-      "genre_ids": [
-        27
-      ],
-      "id": 999136,
-      "original_language": "en",
-      "original_title": "Do Not Enter",
-      "overview": "Un groupe d'explorateurs urbains pénètre dans un hôtel abandonné pour y chercher sensations fortes et trésor caché, mais se retrouve confronté à des rivaux dangereux et à une présence surnaturelle menaçante.",
-      "popularity": 109.7742,
-      "poster_path": "/jzuxG0P7nT0NvCYbGbVsGYuinD.jpg",
-      "release_date": "2026-03-19",
-      "title": "Do Not Enter",
-      "video": false,
-      "vote_average": 5.205,
-      "vote_count": 44
+      "vote_average": 7.6,
+      "vote_count": 2430
     }
   ],
-  "total_pages": 55939,
-  "total_results": 1118767
+  "total_pages": 55953,
+  "total_results": 1119050
 }
