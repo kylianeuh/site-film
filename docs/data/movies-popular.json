@@ -17,8 +17,8 @@
       "release_date": "2026-03-26",
       "title": "Your Heart Will Be Broken",
       "video": false,
-      "vote_average": 6.9,
-      "vote_count": 35
+      "vote_average": 6.938,
+      "vote_count": 40
     },
     {
       "adult": false,
@@ -37,8 +37,30 @@
       "release_date": "2025-12-17",
       "title": "Avatar : De feu et de cendres",
       "video": false,
-      "vote_average": 7.363,
-      "vote_count": 2292
+      "vote_average": 7.371,
+      "vote_count": 2341
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        878,
+        35,
+        12
+      ],
+      "id": 1327819,
+      "original_language": "en",
+      "original_title": "Hoppers",
+      "overview": "Mabel est une jeune fille audacieuse qui a une grande ambition : infiltrer le monde animal. Pour ce faire, elle transfère son esprit à un robot castor afin de pouvoir approcher d’autres animaux et étudier leur mode de vie.",
+      "popularity": 348.5408,
+      "poster_path": "/tWmEsB3MtN7RfdXphzghC8B3ahX.jpg",
+      "release_date": "2026-03-04",
+      "title": "Jumpers",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 388
     },
     {
       "adult": false,
@@ -56,28 +78,8 @@
       "release_date": "2026-02-11",
       "title": "Crime 101",
       "video": false,
-      "vote_average": 7.025,
-      "vote_count": 423
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/uNToXatdunyvWXyXMrTI1nLvh6r.jpg",
-      "genre_ids": [
-        35,
-        878,
-        80
-      ],
-      "id": 1115544,
-      "original_language": "en",
-      "original_title": "Mike & Nick & Nick & Alice",
-      "overview": "Deux gangsters et la femme qu'ils aiment tentent de survivre à la nuit la plus dangereuse de leur vie. Comme si cela ne suffisait pas, un élément imprévisible vient s'ajouter à l'équation : une machine à remonter le temps.",
-      "popularity": 317.0002,
-      "poster_path": "/fmimhXqKUmpwaOrYS2TAcEWvcMv.jpg",
-      "release_date": "2026-03-14",
-      "title": "Mike & Nick & Nick & Alice",
-      "video": false,
-      "vote_average": 6.797,
-      "vote_count": 158
+      "vote_average": 7.024,
+      "vote_count": 468
     },
     {
       "adult": false,
@@ -96,30 +98,8 @@
       "release_date": "2026-01-28",
       "title": "Refuge Fatal",
       "video": false,
-      "vote_average": 6.781,
-      "vote_count": 474
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
-      "genre_ids": [
-        16,
-        10751,
-        878,
-        12,
-        35
-      ],
-      "id": 1327819,
-      "original_language": "en",
-      "original_title": "Hoppers",
-      "overview": "Mabel est une jeune fille audacieuse qui a une grande ambition : infiltrer le monde animal. Pour ce faire, elle transfère son esprit à un robot castor afin de pouvoir approcher d’autres animaux et étudier leur mode de vie.",
-      "popularity": 348.5408,
-      "poster_path": "/tWmEsB3MtN7RfdXphzghC8B3ahX.jpg",
-      "release_date": "2026-03-04",
-      "title": "Jumpers",
-      "video": false,
-      "vote_average": 7.576,
-      "vote_count": 386
+      "vote_average": 6.8,
+      "vote_count": 484
     },
     {
       "adult": false,
@@ -129,7 +109,8 @@
         12,
         14,
         10751,
-        878
+        28,
+        35
       ],
       "id": 1226863,
       "original_language": "en",
@@ -140,8 +121,28 @@
       "release_date": "2026-04-01",
       "title": "Super Mario Galaxy, le film",
       "video": false,
-      "vote_average": 6.9,
-      "vote_count": 194
+      "vote_average": 7.004,
+      "vote_count": 227
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uNToXatdunyvWXyXMrTI1nLvh6r.jpg",
+      "genre_ids": [
+        35,
+        878,
+        80
+      ],
+      "id": 1115544,
+      "original_language": "en",
+      "original_title": "Mike & Nick & Nick & Alice",
+      "overview": "Deux gangsters et la femme qu'ils aiment tentent de survivre à la nuit la plus dangereuse de leur vie. Comme si cela ne suffisait pas, un élément imprévisible vient s'ajouter à l'équation : une machine à remonter le temps.",
+      "popularity": 317.0002,
+      "poster_path": "/fmimhXqKUmpwaOrYS2TAcEWvcMv.jpg",
+      "release_date": "2026-03-14",
+      "title": "Mike & Nick & Nick & Alice",
+      "video": false,
+      "vote_average": 6.836,
+      "vote_count": 165
     },
     {
       "adult": false,
@@ -160,17 +161,17 @@
       "release_date": "2026-02-11",
       "title": "GOAT : Rêver plus haut",
       "video": false,
-      "vote_average": 7.875,
-      "vote_count": 315
+      "vote_average": 7.864,
+      "vote_count": 321
     },
     {
       "adult": false,
       "backdrop_path": "/z3bzhmC0CPikWeerUkLO73YvGrC.jpg",
       "genre_ids": [
-        27,
-        53,
         10402,
-        28
+        53,
+        28,
+        27
       ],
       "id": 1084187,
       "original_language": "en",
@@ -181,47 +182,8 @@
       "release_date": "2026-03-13",
       "title": "Pirouette fatale",
       "video": false,
-      "vote_average": 6.947,
-      "vote_count": 206
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/yWCZc2TcsCYbMMjvUIsczmQi2TX.jpg",
-      "genre_ids": [
-        27,
-        9648,
-        80
-      ],
-      "id": 1159559,
-      "original_language": "en",
-      "original_title": "Scream 7",
-      "overview": "Lorsqu’un nouveau Ghostface surgit dans la paisible ville où Sidney Prescott a reconstruit sa vie, ses pires cauchemars refont surface. Alors que sa fille devient la prochaine cible, Sidney n’a d’autre choix que de reprendre le combat. Déterminée à protéger les siens, elle doit alors affronter les démons de son passé pour tenter de mettre fin une bonne fois pour toutes au bain de sang.",
-      "popularity": 218.8374,
-      "poster_path": "/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
-      "release_date": "2026-02-25",
-      "title": "Scream 7",
-      "video": false,
-      "vote_average": 5.954,
-      "vote_count": 620
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "genre_ids": [
-        878,
-        12
-      ],
-      "id": 687163,
-      "original_language": "en",
-      "original_title": "Project Hail Mary",
-      "overview": "Le professeur de sciences Ryland Grace se réveille à bord d’un vaisseau spatial, à des années-lumière de la Terre, sans aucun souvenir de qui il est ni de la façon dont il est arrivé là. À mesure que sa mémoire lui revient, il commence à découvrir sa mission : résoudre l’énigme d’une mystérieuse substance qui provoque l’extinction du Soleil. Il doit faire appel à ses connaissances scientifiques et ses idées peu orthodoxes pour sauver toute vie sur Terre mais une amitié inattendue pourrait signifier qu’il n’aura pas à accomplir cette tâche seul.",
-      "popularity": 226.5197,
-      "poster_path": "/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
-      "release_date": "2026-03-15",
-      "title": "Projet dernière chance",
-      "video": false,
-      "vote_average": 8.2,
-      "vote_count": 989
+      "vote_average": 6.958,
+      "vote_count": 214
     },
     {
       "adult": false,
@@ -240,28 +202,47 @@
       "release_date": "2026-01-07",
       "title": "Greenland : Migration",
       "video": false,
-      "vote_average": 6.484,
-      "vote_count": 805
+      "vote_average": 6.493,
+      "vote_count": 810
     },
     {
       "adult": false,
-      "backdrop_path": "/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
+      "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
       "genre_ids": [
-        28,
         878,
-        53
+        12
       ],
-      "id": 1265609,
+      "id": 687163,
       "original_language": "en",
-      "original_title": "War Machine",
-      "overview": "Lors d'une dernière mission éprouvante pendant sa formation de Ranger, un ingénieur militaire doit mener son unité contre une gigantesque machine à tuer venue d'un autre monde.",
-      "popularity": 210.4948,
-      "poster_path": "/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
-      "release_date": "2026-02-12",
-      "title": "War Machine",
+      "original_title": "Project Hail Mary",
+      "overview": "Le professeur de sciences Ryland Grace se réveille à bord d’un vaisseau spatial, à des années-lumière de la Terre, sans aucun souvenir de qui il est ni de la façon dont il est arrivé là. À mesure que sa mémoire lui revient, il commence à découvrir sa mission : résoudre l’énigme d’une mystérieuse substance qui provoque l’extinction du Soleil. Il doit faire appel à ses connaissances scientifiques et ses idées peu orthodoxes pour sauver toute vie sur Terre mais une amitié inattendue pourrait signifier qu’il n’aura pas à accomplir cette tâche seul.",
+      "popularity": 226.5197,
+      "poster_path": "/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
+      "release_date": "2026-03-15",
+      "title": "Projet dernière chance",
       "video": false,
-      "vote_average": 7.3,
-      "vote_count": 1304
+      "vote_average": 8.187,
+      "vote_count": 1026
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/hz7TdCrpLLt2Dz7S3PS2HG9rpAO.jpg",
+      "genre_ids": [
+        27,
+        9648,
+        80
+      ],
+      "id": 1159559,
+      "original_language": "en",
+      "original_title": "Scream 7",
+      "overview": "Lorsqu’un nouveau Ghostface surgit dans la paisible ville où Sidney Prescott a reconstruit sa vie, ses pires cauchemars refont surface. Alors que sa fille devient la prochaine cible, Sidney n’a d’autre choix que de reprendre le combat. Déterminée à protéger les siens, elle doit alors affronter les démons de son passé pour tenter de mettre fin une bonne fois pour toutes au bain de sang.",
+      "popularity": 218.8374,
+      "poster_path": "/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
+      "release_date": "2026-02-25",
+      "title": "Scream 7",
+      "video": false,
+      "vote_average": 5.998,
+      "vote_count": 645
     },
     {
       "adult": false,
@@ -280,8 +261,47 @@
       "release_date": "2026-02-11",
       "title": "Humint",
       "video": false,
-      "vote_average": 7.181,
-      "vote_count": 36
+      "vote_average": 6.967,
+      "vote_count": 45
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
+      "genre_ids": [
+        28,
+        878,
+        53
+      ],
+      "id": 1265609,
+      "original_language": "en",
+      "original_title": "War Machine",
+      "overview": "Lors d'une dernière mission éprouvante pendant sa formation de Ranger, un ingénieur militaire doit mener son unité contre une gigantesque machine à tuer venue d'un autre monde.",
+      "popularity": 210.4948,
+      "poster_path": "/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
+      "release_date": "2026-02-12",
+      "title": "War Machine",
+      "video": false,
+      "vote_average": 7.259,
+      "vote_count": 1321
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/shFeiPJ1MBFdkjiWWigvrOOxvMY.jpg",
+      "genre_ids": [
+        16,
+        28
+      ],
+      "id": 1653994,
+      "original_language": "zh",
+      "original_title": "遮天剧场版 背棺战王腾",
+      "overview": "",
+      "popularity": 201.0326,
+      "poster_path": "/298clyKoBbZPp4zgUiDSxhCO0wk.jpg",
+      "release_date": "2026-04-04",
+      "title": "遮天剧场版 背棺战王腾",
+      "video": false,
+      "vote_average": 8,
+      "vote_count": 2
     },
     {
       "adult": false,
@@ -303,7 +323,7 @@
       "title": "Super Mario Bros., le film",
       "video": false,
       "vote_average": 7.587,
-      "vote_count": 10412
+      "vote_count": 10419
     },
     {
       "adult": false,
@@ -326,23 +346,21 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/gCmfeKmEAZBP5gcXpiqb0gii9rS.jpg",
+      "backdrop_path": "/4840rkbpsiuow5ew155oVKcqJwj.jpg",
       "genre_ids": [
-        27,
-        53,
-        35
+        18
       ],
-      "id": 1198994,
+      "id": 615,
       "original_language": "en",
-      "original_title": "Send Help",
-      "overview": "Après un terrible accident d'avion, deux collègues d'une compagnie se retrouvent seuls survivants, coincés sur une île déserte. L'une est une employée maligne et pleine de ressources, l'autre son patron tyrannique et désagréable. Obligés de s'adapter aux conditions extrêmes de leur isolement, ils doivent surmonter leurs vieilles rancunes et travailler ensemble pour survivre.",
-      "popularity": 140.391,
-      "poster_path": "/bMAn4qERdEfxotddEHWfMmkfjRv.jpg",
-      "release_date": "2026-01-22",
-      "title": "Send Help",
+      "original_title": "The Passion of the Christ",
+      "overview": "Les douze dernières heures de la vie du Christ. Rendu au Mont des Oliviers, Jésus prie après avoir partagé un dernier repas avec ses apôtres. Il résiste maintenant aux tentations de Satan. Trahi par Judas, Jésus est arrêté et emmené à Jérusalem, où les chefs des Pharisiens l'accusent de blasphème et lui font un procès qui a pour issue sa condamnation à mort…",
+      "popularity": 157.6868,
+      "poster_path": "/nVjopQNIWFGQ4Kk73QxAeIw6xov.jpg",
+      "release_date": "2004-02-25",
+      "title": "La Passion du Christ",
       "video": false,
-      "vote_average": 7.079,
-      "vote_count": 825
+      "vote_average": 7.536,
+      "vote_count": 5123
     },
     {
       "adult": false,
@@ -362,7 +380,7 @@
       "release_date": "2023-07-28",
       "title": "रॉकी और रानी की प्रेम कहानी",
       "video": false,
-      "vote_average": 6.045,
+      "vote_average": 6,
       "vote_count": 78
     },
     {
@@ -384,28 +402,10 @@
       "release_date": "2025-11-26",
       "title": "Zootopie 2",
       "video": false,
-      "vote_average": 7.597,
-      "vote_count": 2457
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/4840rkbpsiuow5ew155oVKcqJwj.jpg",
-      "genre_ids": [
-        18
-      ],
-      "id": 615,
-      "original_language": "en",
-      "original_title": "The Passion of the Christ",
-      "overview": "Les douze dernières heures de la vie du Christ. Rendu au Mont des Oliviers, Jésus prie après avoir partagé un dernier repas avec ses apôtres. Il résiste maintenant aux tentations de Satan. Trahi par Judas, Jésus est arrêté et emmené à Jérusalem, où les chefs des Pharisiens l'accusent de blasphème et lui font un procès qui a pour issue sa condamnation à mort…",
-      "popularity": 157.6868,
-      "poster_path": "/nVjopQNIWFGQ4Kk73QxAeIw6xov.jpg",
-      "release_date": "2004-02-25",
-      "title": "La Passion du Christ",
-      "video": false,
-      "vote_average": 7.534,
-      "vote_count": 5115
+      "vote_average": 7.598,
+      "vote_count": 2467
     }
   ],
-  "total_pages": 55991,
-  "total_results": 1119805
+  "total_pages": 56006,
+  "total_results": 1120118
 }
