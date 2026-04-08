@@ -4,21 +4,12 @@
     {
       "adult": false,
       "backdrop_path": "/1x9e0qWonw634NhIsRdvnneeqvN.jpg",
-      "genre_ids": [
-        10749,
-        18
-      ],
       "id": 1523145,
-      "original_language": "ru",
+      "original_language": "es",
       "original_title": "Твоё сердце будет разбито",
       "overview": "",
-      "popularity": 1192.7521,
-      "poster_path": "/iGpMm603GUKH2SiXB2S5m4sZ17t.jpg",
-      "release_date": "2026-03-26",
-      "title": "Your Heart Will Be Broken",
-      "video": false,
-      "vote_average": 6.531,
-      "vote_count": 48
+      "poster_path": "/7wIBfBl2gejt6xHxNSK0reVIm7E.jpg",
+      "title": "Your Heart Will Be Broken"
     },
     {
       "adult": false,
@@ -37,8 +28,8 @@
       "release_date": "2025-12-17",
       "title": "Avatar : De feu et de cendres",
       "video": false,
-      "vote_average": 7.372,
-      "vote_count": 2387
+      "vote_average": 7.374,
+      "vote_count": 2414
     },
     {
       "adult": false,
@@ -59,8 +50,8 @@
       "release_date": "2026-03-04",
       "title": "Jumpers",
       "video": false,
-      "vote_average": 7.586,
-      "vote_count": 397
+      "vote_average": 7.599,
+      "vote_count": 409
     },
     {
       "adult": false,
@@ -78,28 +69,8 @@
       "release_date": "2026-02-11",
       "title": "Crime 101",
       "video": false,
-      "vote_average": 7.1,
-      "vote_count": 516
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/uNToXatdunyvWXyXMrTI1nLvh6r.jpg",
-      "genre_ids": [
-        35,
-        878,
-        80
-      ],
-      "id": 1115544,
-      "original_language": "en",
-      "original_title": "Mike & Nick & Nick & Alice",
-      "overview": "Deux gangsters et la femme qu'ils aiment tentent de survivre à la nuit la plus dangereuse de leur vie. Comme si cela ne suffisait pas, un élément imprévisible vient s'ajouter à l'équation : une machine à remonter le temps.",
-      "popularity": 301.2287,
-      "poster_path": "/fmimhXqKUmpwaOrYS2TAcEWvcMv.jpg",
-      "release_date": "2026-03-14",
-      "title": "Mike & Nick & Nick & Alice",
-      "video": false,
-      "vote_average": 6.846,
-      "vote_count": 178
+      "vote_average": 7.042,
+      "vote_count": 535
     },
     {
       "adult": false,
@@ -119,7 +90,7 @@
       "title": "Refuge Fatal",
       "video": false,
       "vote_average": 6.8,
-      "vote_count": 489
+      "vote_count": 493
     },
     {
       "adult": false,
@@ -129,7 +100,8 @@
         12,
         14,
         10751,
-        35
+        35,
+        878
       ],
       "id": 1226863,
       "original_language": "en",
@@ -140,8 +112,68 @@
       "release_date": "2026-04-01",
       "title": "Super Mario Galaxy, le film",
       "video": false,
-      "vote_average": 7,
-      "vote_count": 266
+      "vote_average": 6.926,
+      "vote_count": 292
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uNToXatdunyvWXyXMrTI1nLvh6r.jpg",
+      "genre_ids": [
+        35,
+        878,
+        80
+      ],
+      "id": 1115544,
+      "original_language": "en",
+      "original_title": "Mike & Nick & Nick & Alice",
+      "overview": "Deux gangsters et la femme qu'ils aiment tentent de survivre à la nuit la plus dangereuse de leur vie. Comme si cela ne suffisait pas, un élément imprévisible vient s'ajouter à l'équation : une machine à remonter le temps.",
+      "popularity": 301.2287,
+      "poster_path": "/fmimhXqKUmpwaOrYS2TAcEWvcMv.jpg",
+      "release_date": "2026-03-14",
+      "title": "Mike & Nick & Nick & Alice",
+      "video": false,
+      "vote_average": 6.873,
+      "vote_count": 185
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751
+      ],
+      "id": 1297842,
+      "original_language": "en",
+      "original_title": "GOAT",
+      "overview": "Will est un petit bouc avec de grands rêves. Lorsqu'il décroche une chance inespérée de rejoindre la ligue professionnelle de \"roarball\", un sport ultra-intense réservé aux bêtes les plus rapides et féroces, il entend bien saisir l’opportunité. Problème : ses nouveaux coéquipiers ne sont pas vraiment ravis d'avoir un \"petit\" dans l'équipe. Mais Will est prêt à tout pour changer les règles du jeu.",
+      "popularity": 252.7493,
+      "poster_path": "/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
+      "release_date": "2026-02-11",
+      "title": "GOAT : Rêver plus haut",
+      "video": false,
+      "vote_average": 7.876,
+      "vote_count": 340
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5KFThZkdBEQkp9gPWWWNb5CI5yD.jpg",
+      "genre_ids": [
+        53,
+        28,
+        18
+      ],
+      "id": 1268127,
+      "original_language": "ko",
+      "original_title": "휴민트",
+      "overview": "Zo In-sung et Park Jeong-min incarnent deux agents ennemis de Corée du Sud et du Nord qui risquent leur vie et leur loyauté pour se dévouer à une même cause : une informatrice.",
+      "popularity": 243.2588,
+      "poster_path": "/f7sCSLEPRfV2fWQ0RYOtHhnHXuG.jpg",
+      "release_date": "2026-02-11",
+      "title": "Humint",
+      "video": false,
+      "vote_average": 7.192,
+      "vote_count": 60
     },
     {
       "adult": false,
@@ -161,48 +193,8 @@
       "release_date": "2026-03-13",
       "title": "Pirouette fatale",
       "video": false,
-      "vote_average": 6.883,
-      "vote_count": 227
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/5KFThZkdBEQkp9gPWWWNb5CI5yD.jpg",
-      "genre_ids": [
-        53,
-        28,
-        18
-      ],
-      "id": 1268127,
-      "original_language": "ko",
-      "original_title": "휴민트",
-      "overview": "Zo In-sung et Park Jeong-min incarnent deux agents ennemis de Corée du Sud et du Nord qui risquent leur vie et leur loyauté pour se dévouer à une même cause : une informatrice.",
-      "popularity": 243.2588,
-      "poster_path": "/f7sCSLEPRfV2fWQ0RYOtHhnHXuG.jpg",
-      "release_date": "2026-02-11",
-      "title": "Humint",
-      "video": false,
-      "vote_average": 7.046,
-      "vote_count": 54
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
-      "genre_ids": [
-        16,
-        35,
-        10751
-      ],
-      "id": 1297842,
-      "original_language": "en",
-      "original_title": "GOAT",
-      "overview": "Will est un petit bouc avec de grands rêves. Lorsqu'il décroche une chance inespérée de rejoindre la ligue professionnelle de \"roarball\", un sport ultra-intense réservé aux bêtes les plus rapides et féroces, il entend bien saisir l’opportunité. Problème : ses nouveaux coéquipiers ne sont pas vraiment ravis d'avoir un \"petit\" dans l'équipe. Mais Will est prêt à tout pour changer les règles du jeu.",
-      "popularity": 252.7493,
-      "poster_path": "/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
-      "release_date": "2026-02-11",
-      "title": "GOAT : Rêver plus haut",
-      "video": false,
-      "vote_average": 7.9,
-      "vote_count": 334
+      "vote_average": 6.902,
+      "vote_count": 229
     },
     {
       "adult": false,
@@ -221,28 +213,8 @@
       "release_date": "2026-01-07",
       "title": "Greenland : Migration",
       "video": false,
-      "vote_average": 6.511,
-      "vote_count": 818
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
-      "genre_ids": [
-        28,
-        878,
-        53
-      ],
-      "id": 1265609,
-      "original_language": "en",
-      "original_title": "War Machine",
-      "overview": "Lors d'une dernière mission éprouvante pendant sa formation de Ranger, un ingénieur militaire doit mener son unité contre une gigantesque machine à tuer venue d'un autre monde.",
-      "popularity": 211.9879,
-      "poster_path": "/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
-      "release_date": "2026-02-12",
-      "title": "War Machine",
-      "video": false,
-      "vote_average": 7.26,
-      "vote_count": 1345
+      "vote_average": 6.507,
+      "vote_count": 823
     },
     {
       "adult": false,
@@ -264,7 +236,7 @@
       "title": "Super Mario Bros., le film",
       "video": false,
       "vote_average": 7.587,
-      "vote_count": 10439
+      "vote_count": 10443
     },
     {
       "adult": false,
@@ -282,27 +254,28 @@
       "release_date": "2026-03-15",
       "title": "Projet dernière chance",
       "video": false,
-      "vote_average": 8.2,
-      "vote_count": 1082
+      "vote_average": 8.196,
+      "vote_count": 1123
     },
     {
       "adult": false,
-      "backdrop_path": "/tZiRd4IpoNiaoLXr2o2YfhTMjE2.jpg",
+      "backdrop_path": "/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
       "genre_ids": [
-        12,
-        28
+        28,
+        878,
+        53
       ],
-      "id": 662707,
+      "id": 1265609,
       "original_language": "en",
-      "original_title": "Starbright",
-      "overview": "Aisling fait un vœu en voyant une étoile filante, un vœu qui pourrait bouleverser ou détruire sa vie. L’archange Raphaël apparaît, dissimule la lumière vivante de l’étoile dans son cœur, mais son pouvoir attire des poursuivants impitoyables. Joshua, un inconnu hanté, rejoint leur fuite et, ensemble, ils apprennent que le véritable don de l’étoile est le courage d’espérer, de pardonner et d’aimer.",
-      "popularity": 204.5363,
-      "poster_path": "/m1Zl07DNYeSyNcz9hf8hDsS2oB5.jpg",
-      "release_date": "2026-02-27",
-      "title": "Starbright",
+      "original_title": "War Machine",
+      "overview": "Lors d'une dernière mission éprouvante pendant sa formation de Ranger, un ingénieur militaire doit mener son unité contre une gigantesque machine à tuer venue d'un autre monde.",
+      "popularity": 211.9879,
+      "poster_path": "/tlPgDzwIE7VYYIIAGCTUOnN4wI1.jpg",
+      "release_date": "2026-02-12",
+      "title": "War Machine",
       "video": false,
-      "vote_average": 7.111,
-      "vote_count": 9
+      "vote_average": 7.259,
+      "vote_count": 1354
     },
     {
       "adult": false,
@@ -321,8 +294,27 @@
       "release_date": "2026-02-25",
       "title": "Scream 7",
       "video": false,
-      "vote_average": 6,
-      "vote_count": 671
+      "vote_average": 6.021,
+      "vote_count": 678
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tZiRd4IpoNiaoLXr2o2YfhTMjE2.jpg",
+      "genre_ids": [
+        12,
+        28
+      ],
+      "id": 662707,
+      "original_language": "en",
+      "original_title": "Starbright",
+      "overview": "Aisling fait un vœu en voyant une étoile filante, un vœu qui pourrait bouleverser ou détruire sa vie. L’archange Raphaël apparaît, dissimule la lumière vivante de l’étoile dans son cœur, mais son pouvoir attire des poursuivants impitoyables. Joshua, un inconnu hanté, rejoint leur fuite et, ensemble, ils apprennent que le véritable don de l’étoile est le courage d’espérer, de pardonner et d’aimer.",
+      "popularity": 204.5363,
+      "poster_path": "/m1Zl07DNYeSyNcz9hf8hDsS2oB5.jpg",
+      "release_date": "2026-02-27",
+      "title": "Starbright",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 10
     },
     {
       "adult": false,
@@ -340,7 +332,7 @@
       "title": "La Passion du Christ",
       "video": false,
       "vote_average": 7.538,
-      "vote_count": 5132
+      "vote_count": 5133
     },
     {
       "adult": false,
@@ -362,7 +354,7 @@
       "title": "Zootopie 2",
       "video": false,
       "vote_average": 7.601,
-      "vote_count": 2479
+      "vote_count": 2483
     },
     {
       "adult": false,
@@ -382,30 +374,30 @@
       "release_date": "2025-08-16",
       "title": "The Shadow's Edge",
       "video": false,
-      "vote_average": 7.244,
-      "vote_count": 546
+      "vote_average": 7.236,
+      "vote_count": 550
     },
     {
       "adult": false,
-      "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+      "backdrop_path": "/gCmfeKmEAZBP5gcXpiqb0gii9rS.jpg",
       "genre_ids": [
-        16,
-        28,
-        14
+        27,
+        53,
+        35
       ],
-      "id": 1311031,
-      "original_language": "ja",
-      "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
-      "overview": "L'armée des pourfendeurs de démons est attirée dans la Forteresse Infinie, où Tanjiro, Zenitsu et Inosuke  affrontent de terrifiants démons de rang supérieur dans un combat désespéré alors que la bataille finale contre Kibutsuji Muzan commence.",
-      "popularity": 120.4844,
-      "poster_path": "/wXTU3AFmlUPbqjH68MZ989uHd6k.jpg",
-      "release_date": "2025-07-18",
-      "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
+      "id": 1198994,
+      "original_language": "en",
+      "original_title": "Send Help",
+      "overview": "Après un terrible accident d'avion, deux collègues d'une compagnie se retrouvent seuls survivants, coincés sur une île déserte. L'une est une employée maligne et pleine de ressources, l'autre son patron tyrannique et désagréable. Obligés de s'adapter aux conditions extrêmes de leur isolement, ils doivent surmonter leurs vieilles rancunes et travailler ensemble pour survivre.",
+      "popularity": 122.0722,
+      "poster_path": "/bMAn4qERdEfxotddEHWfMmkfjRv.jpg",
+      "release_date": "2026-01-22",
+      "title": "Send Help",
       "video": false,
-      "vote_average": 7.673,
-      "vote_count": 779
+      "vote_average": 7.049,
+      "vote_count": 879
     }
   ],
-  "total_pages": 56029,
-  "total_results": 1120576
+  "total_pages": 56048,
+  "total_results": 1120951
 }
