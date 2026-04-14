@@ -17,8 +17,8 @@
       "release_date": "2026-03-26",
       "title": "Your Heart Will Be Broken",
       "video": false,
-      "vote_average": 7.045,
-      "vote_count": 56
+      "vote_average": 7.096,
+      "vote_count": 57
     },
     {
       "adult": false,
@@ -39,8 +39,8 @@
       "release_date": "2026-04-01",
       "title": "Super Mario Galaxy, le film",
       "video": false,
-      "vote_average": 6.8,
-      "vote_count": 403
+      "vote_average": 6.827,
+      "vote_count": 423
     },
     {
       "adult": false,
@@ -59,30 +59,8 @@
       "release_date": "2025-12-17",
       "title": "Avatar : De feu et de cendres",
       "video": false,
-      "vote_average": 7.368,
-      "vote_count": 2538
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
-      "genre_ids": [
-        16,
-        10751,
-        878,
-        35,
-        12
-      ],
-      "id": 1327819,
-      "original_language": "en",
-      "original_title": "Hoppers",
-      "overview": "Mabel est une jeune fille audacieuse qui a une grande ambition : infiltrer le monde animal. Pour ce faire, elle transfère son esprit à un robot castor afin de pouvoir approcher d’autres animaux et étudier leur mode de vie.",
-      "popularity": 360.9424,
-      "poster_path": "/tWmEsB3MtN7RfdXphzghC8B3ahX.jpg",
-      "release_date": "2026-03-04",
-      "title": "Jumpers",
-      "video": false,
-      "vote_average": 7.582,
-      "vote_count": 451
+      "vote_average": 7.369,
+      "vote_count": 2547
     },
     {
       "adult": false,
@@ -104,7 +82,29 @@
       "title": "Super Mario Bros., le film",
       "video": false,
       "vote_average": 7.588,
-      "vote_count": 10469
+      "vote_count": 10475
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        878,
+        35,
+        12
+      ],
+      "id": 1327819,
+      "original_language": "en",
+      "original_title": "Hoppers",
+      "overview": "Mabel est une jeune fille audacieuse qui a une grande ambition : infiltrer le monde animal. Pour ce faire, elle transfère son esprit à un robot castor afin de pouvoir approcher d’autres animaux et étudier leur mode de vie.",
+      "popularity": 360.9424,
+      "poster_path": "/tWmEsB3MtN7RfdXphzghC8B3ahX.jpg",
+      "release_date": "2026-03-04",
+      "title": "Jumpers",
+      "video": false,
+      "vote_average": 7.575,
+      "vote_count": 456
     },
     {
       "adult": false,
@@ -123,7 +123,7 @@
       "title": "Projet dernière chance",
       "video": false,
       "vote_average": 8.231,
-      "vote_count": 1334
+      "vote_count": 1374
     },
     {
       "adult": false,
@@ -142,27 +142,8 @@
       "release_date": "2026-01-28",
       "title": "Refuge Fatal",
       "video": false,
-      "vote_average": 6.782,
-      "vote_count": 531
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/vG42HeYtoTFflqwP42wYD7tBuNr.jpg",
-      "genre_ids": [
-        80,
-        53
-      ],
-      "id": 1171145,
-      "original_language": "en",
-      "original_title": "Crime 101",
-      "overview": "Dans Crime 101, les cambriolages méticuleux à LA le long de l'autoroute 101 d'un voleur de bijoux chevronné (Chris Hemsworth) déconcertent la police. Un flic solitaire (Mark Ruffalo) est à ses trousses. Lorsque leurs chemins croisent celui d'une courtière en assurance désabusée (Halle Berry), tous trois sont confrontés à des choix déterminants face aux millions de dollars en jeu.",
-      "popularity": 257.795,
-      "poster_path": "/cz6VIBoOKopo3pymqRkNiVc2M7.jpg",
-      "release_date": "2026-02-11",
-      "title": "Crime 101",
-      "video": false,
-      "vote_average": 7.002,
-      "vote_count": 665
+      "vote_average": 6.792,
+      "vote_count": 535
     },
     {
       "adult": false,
@@ -180,8 +161,27 @@
       "release_date": "2026-04-10",
       "title": "Nature prédatrice",
       "video": false,
-      "vote_average": 5.953,
-      "vote_count": 149
+      "vote_average": 6.055,
+      "vote_count": 191
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9mgKDddLVQouKpXcb4ul1tUwUO9.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1641319,
+      "original_language": "en",
+      "original_title": "Sniper: No Nation",
+      "overview": "Brandon Beckett, tireur d'élite hors pair, est accusé de terrorisme et désavoué par son pays. Il est alors contraint de se lancer, aux côtés de son père, dans une mission de sauvetage à haut risque. Pas de renforts, pas de frontières, pas de règles… les Beckett vont devoir affronter la Légion de Fer, une armée de mercenaires impitoyables, pour empêcher un régime corrompu de déclencher une guerre.",
+      "popularity": 265.2707,
+      "poster_path": "/7JzTyt2GlkZ0bcH3r85iRvcG4Es.jpg",
+      "release_date": "2026-04-07",
+      "title": "Sniper: No Nation",
+      "video": false,
+      "vote_average": 5.979,
+      "vote_count": 24
     },
     {
       "adult": false,
@@ -200,27 +200,27 @@
       "release_date": "2026-01-07",
       "title": "Greenland : Migration",
       "video": false,
-      "vote_average": 6.504,
-      "vote_count": 852
+      "vote_average": 6.5,
+      "vote_count": 856
     },
     {
       "adult": false,
-      "backdrop_path": "/9mgKDddLVQouKpXcb4ul1tUwUO9.jpg",
+      "backdrop_path": "/vG42HeYtoTFflqwP42wYD7tBuNr.jpg",
       "genre_ids": [
-        28,
+        80,
         53
       ],
-      "id": 1641319,
+      "id": 1171145,
       "original_language": "en",
-      "original_title": "Sniper: No Nation",
-      "overview": "Brandon Beckett, tireur d'élite hors pair, est accusé de terrorisme et désavoué par son pays. Il est alors contraint de se lancer, aux côtés de son père, dans une mission de sauvetage à haut risque. Pas de renforts, pas de frontières, pas de règles… les Beckett vont devoir affronter la Légion de Fer, une armée de mercenaires impitoyables, pour empêcher un régime corrompu de déclencher une guerre.",
-      "popularity": 265.2707,
-      "poster_path": "/7JzTyt2GlkZ0bcH3r85iRvcG4Es.jpg",
-      "release_date": "2026-04-07",
-      "title": "Sniper: No Nation",
+      "original_title": "Crime 101",
+      "overview": "Dans Crime 101, les cambriolages méticuleux à LA le long de l'autoroute 101 d'un voleur de bijoux chevronné (Chris Hemsworth) déconcertent la police. Un flic solitaire (Mark Ruffalo) est à ses trousses. Lorsque leurs chemins croisent celui d'une courtière en assurance désabusée (Halle Berry), tous trois sont confrontés à des choix déterminants face aux millions de dollars en jeu.",
+      "popularity": 257.795,
+      "poster_path": "/cz6VIBoOKopo3pymqRkNiVc2M7.jpg",
+      "release_date": "2026-02-11",
+      "title": "Crime 101",
       "video": false,
-      "vote_average": 5.957,
-      "vote_count": 23
+      "vote_average": 6.996,
+      "vote_count": 672
     },
     {
       "adult": false,
@@ -238,8 +238,8 @@
       "release_date": "2026-02-13",
       "title": "The Mortuary Assistant",
       "video": false,
-      "vote_average": 5.569,
-      "vote_count": 58
+      "vote_average": 5.656,
+      "vote_count": 61
     },
     {
       "adult": false,
@@ -258,8 +258,8 @@
       "release_date": "2026-02-11",
       "title": "GOAT : Rêver plus haut",
       "video": false,
-      "vote_average": 7.903,
-      "vote_count": 378
+      "vote_average": 7.908,
+      "vote_count": 384
     },
     {
       "adult": false,
@@ -278,28 +278,8 @@
       "release_date": "2026-03-04",
       "title": "The Bride!",
       "video": false,
-      "vote_average": 6.259,
-      "vote_count": 297
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/uNToXatdunyvWXyXMrTI1nLvh6r.jpg",
-      "genre_ids": [
-        35,
-        878,
-        80
-      ],
-      "id": 1115544,
-      "original_language": "en",
-      "original_title": "Mike & Nick & Nick & Alice",
-      "overview": "Deux gangsters et la femme qu'ils aiment tentent de survivre à la nuit la plus dangereuse de leur vie. Comme si cela ne suffisait pas, un élément imprévisible vient s'ajouter à l'équation : une machine à remonter le temps.",
-      "popularity": 161.7221,
-      "poster_path": "/fmimhXqKUmpwaOrYS2TAcEWvcMv.jpg",
-      "release_date": "2026-03-14",
-      "title": "Mike & Nick & Nick & Alice",
-      "video": false,
-      "vote_average": 6.789,
-      "vote_count": 223
+      "vote_average": 6.249,
+      "vote_count": 301
     },
     {
       "adult": false,
@@ -318,28 +298,8 @@
       "release_date": "2026-02-12",
       "title": "War Machine",
       "video": false,
-      "vote_average": 7.238,
-      "vote_count": 1419
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/5KFThZkdBEQkp9gPWWWNb5CI5yD.jpg",
-      "genre_ids": [
-        53,
-        28,
-        18
-      ],
-      "id": 1268127,
-      "original_language": "ko",
-      "original_title": "휴민트",
-      "overview": "Zo In-sung et Park Jeong-min incarnent deux agents ennemis de Corée du Sud et du Nord qui risquent leur vie et leur loyauté pour se dévouer à une même cause : une informatrice.",
-      "popularity": 147.4294,
-      "poster_path": "/f7sCSLEPRfV2fWQ0RYOtHhnHXuG.jpg",
-      "release_date": "2026-02-11",
-      "title": "Humint",
-      "video": false,
-      "vote_average": 7.256,
-      "vote_count": 84
+      "vote_average": 7.241,
+      "vote_count": 1423
     },
     {
       "adult": false,
@@ -358,8 +318,8 @@
       "release_date": "2026-02-25",
       "title": "Scream 7",
       "video": false,
-      "vote_average": 6.039,
-      "vote_count": 725
+      "vote_average": 6.037,
+      "vote_count": 729
     },
     {
       "adult": false,
@@ -373,12 +333,32 @@
       "original_title": "Outcome",
       "overview": "Reef Hawk, star hollywoodienne depuis l'âge de six ans, ne va pas bien. Quand il apprend qu'on tente de l'extorquer avec une mystérieuse vidéo, il se lance dans une tournée d'excuses pour faire amende honorable, affronter ses démons et éviter de se faire cancel.",
       "popularity": 163.5881,
-      "poster_path": "/fb6rKjZU7ITggwY6TC50rHft0Ht.jpg",
+      "poster_path": "/mXFn9RgnDNDiz68Q78ZDOqPrUYU.jpg",
       "release_date": "2026-04-06",
       "title": "Chantage",
       "video": false,
-      "vote_average": 5.1,
-      "vote_count": 55
+      "vote_average": 5.231,
+      "vote_count": 68
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/uNToXatdunyvWXyXMrTI1nLvh6r.jpg",
+      "genre_ids": [
+        35,
+        878,
+        80
+      ],
+      "id": 1115544,
+      "original_language": "en",
+      "original_title": "Mike & Nick & Nick & Alice",
+      "overview": "Deux gangsters et la femme qu'ils aiment tentent de survivre à la nuit la plus dangereuse de leur vie. Comme si cela ne suffisait pas, un élément imprévisible vient s'ajouter à l'équation : une machine à remonter le temps.",
+      "popularity": 161.7221,
+      "poster_path": "/fmimhXqKUmpwaOrYS2TAcEWvcMv.jpg",
+      "release_date": "2026-03-14",
+      "title": "Mike & Nick & Nick & Alice",
+      "video": false,
+      "vote_average": 6.788,
+      "vote_count": 224
     },
     {
       "adult": false,
@@ -398,10 +378,30 @@
       "release_date": "2026-03-13",
       "title": "Pirouette fatale",
       "video": false,
-      "vote_average": 6.859,
-      "vote_count": 258
+      "vote_average": 6.86,
+      "vote_count": 260
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/5KFThZkdBEQkp9gPWWWNb5CI5yD.jpg",
+      "genre_ids": [
+        53,
+        28,
+        18
+      ],
+      "id": 1268127,
+      "original_language": "ko",
+      "original_title": "휴민트",
+      "overview": "Zo In-sung et Park Jeong-min incarnent deux agents ennemis de Corée du Sud et du Nord qui risquent leur vie et leur loyauté pour se dévouer à une même cause : une informatrice.",
+      "popularity": 147.4294,
+      "poster_path": "/f7sCSLEPRfV2fWQ0RYOtHhnHXuG.jpg",
+      "release_date": "2026-02-11",
+      "title": "Humint",
+      "video": false,
+      "vote_average": 7.253,
+      "vote_count": 85
     }
   ],
-  "total_pages": 56128,
-  "total_results": 1122550
+  "total_pages": 56145,
+  "total_results": 1122881
 }
