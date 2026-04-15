@@ -12,13 +12,13 @@
       "original_language": "ru",
       "original_title": "Твоё сердце будет разбито",
       "overview": "",
-      "popularity": 821.6874,
+      "popularity": 732.3257,
       "poster_path": "/iGpMm603GUKH2SiXB2S5m4sZ17t.jpg",
       "release_date": "2026-03-26",
       "title": "Your Heart Will Be Broken",
       "video": false,
-      "vote_average": 7.096,
-      "vote_count": 57
+      "vote_average": 7.1,
+      "vote_count": 58
     },
     {
       "adult": false,
@@ -34,13 +34,13 @@
       "original_language": "en",
       "original_title": "The Super Mario Galaxy Movie",
       "overview": "Au-delà du Royaume Champignon, Mario, Luigi et Yoshi voyagent à travers les galaxies aux côtés de Rosalina pour arrêter Bowser Jr., dont la tentative de sauver son père menace l’équilibre de l’univers.",
-      "popularity": 495.4169,
+      "popularity": 576.8202,
       "poster_path": "/aSQktALDmbunDbwkuZbZFMEWVFr.jpg",
       "release_date": "2026-04-01",
       "title": "Super Mario Galaxy, le film",
       "video": false,
-      "vote_average": 6.827,
-      "vote_count": 423
+      "vote_average": 6.826,
+      "vote_count": 440
     },
     {
       "adult": false,
@@ -54,13 +54,13 @@
       "original_language": "en",
       "original_title": "Avatar: Fire and Ash",
       "overview": "Après la mort de Neteyam, Jake et Neytiri affrontent leur chagrin tout en faisant face au Peuple des Cendres, une tribu Na’vi redoutable menée par la fougueuse Varang, alors que le conflit sur Pandora s’intensifie et qu’une nouvelle quête morale s’amorce.",
-      "popularity": 384.5226,
+      "popularity": 354.5655,
       "poster_path": "/kG3N8oQ10qiw2MsnSHFGJpQNyEy.jpg",
       "release_date": "2025-12-17",
       "title": "Avatar : De feu et de cendres",
       "video": false,
-      "vote_average": 7.369,
-      "vote_count": 2547
+      "vote_average": 7.4,
+      "vote_count": 2557
     },
     {
       "adult": false,
@@ -76,13 +76,13 @@
       "original_language": "en",
       "original_title": "The Super Mario Bros. Movie",
       "overview": "Alors qu’ils tentent de réparer une canalisation souterraine, Mario et son frère Luigi, tous deux plombiers, se retrouvent plongés dans un nouvel univers féerique à travers un mystérieux conduit. Mais lorsque les deux frères sont séparés, Mario s’engage dans une aventure trépidante pour retrouver Luigi. Dans sa quête, il peut compter sur l’aide du champignon Toad, habitant du Royaume Champignon, et les conseils avisés, en matière de techniques de combat, de la Princesse Peach, guerrière déterminée à la tête du Royaume. C’est ainsi que Mario réussit à mobiliser ses propres forces pour aller au bout de sa mission.",
-      "popularity": 380.5992,
+      "popularity": 324.1603,
       "poster_path": "/ahMxyHMSJXingQr4yJBMzMU9k42.jpg",
       "release_date": "2023-04-05",
       "title": "Super Mario Bros., le film",
       "video": false,
-      "vote_average": 7.588,
-      "vote_count": 10475
+      "vote_average": 7.587,
+      "vote_count": 10481
     },
     {
       "adult": false,
@@ -98,13 +98,13 @@
       "original_language": "en",
       "original_title": "Hoppers",
       "overview": "Mabel est une jeune fille audacieuse qui a une grande ambition : infiltrer le monde animal. Pour ce faire, elle transfère son esprit à un robot castor afin de pouvoir approcher d’autres animaux et étudier leur mode de vie.",
-      "popularity": 360.9424,
+      "popularity": 312.0482,
       "poster_path": "/tWmEsB3MtN7RfdXphzghC8B3ahX.jpg",
       "release_date": "2026-03-04",
       "title": "Jumpers",
       "video": false,
-      "vote_average": 7.575,
-      "vote_count": 456
+      "vote_average": 7.582,
+      "vote_count": 459
     },
     {
       "adult": false,
@@ -117,13 +117,51 @@
       "original_language": "en",
       "original_title": "Project Hail Mary",
       "overview": "Le professeur de sciences Ryland Grace se réveille à bord d’un vaisseau spatial, à des années-lumière de la Terre, sans aucun souvenir de qui il est ni de la façon dont il est arrivé là. À mesure que sa mémoire lui revient, il commence à découvrir sa mission : résoudre l’énigme d’une mystérieuse substance qui provoque l’extinction du Soleil. Il doit faire appel à ses connaissances scientifiques et ses idées peu orthodoxes pour sauver toute vie sur Terre mais une amitié inattendue pourrait signifier qu’il n’aura pas à accomplir cette tâche seul.",
-      "popularity": 331.8177,
+      "popularity": 308.6168,
       "poster_path": "/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
       "release_date": "2026-03-15",
       "title": "Projet dernière chance",
       "video": false,
-      "vote_average": 8.231,
-      "vote_count": 1374
+      "vote_average": 8.2,
+      "vote_count": 1404
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9mgKDddLVQouKpXcb4ul1tUwUO9.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1641319,
+      "original_language": "en",
+      "original_title": "Sniper: No Nation",
+      "overview": "Brandon Beckett, tireur d'élite hors pair, est accusé de terrorisme et désavoué par son pays. Il est alors contraint de se lancer, aux côtés de son père, dans une mission de sauvetage à haut risque. Pas de renforts, pas de frontières, pas de règles… les Beckett vont devoir affronter la Légion de Fer, une armée de mercenaires impitoyables, pour empêcher un régime corrompu de déclencher une guerre.",
+      "popularity": 260.7297,
+      "poster_path": "/7JzTyt2GlkZ0bcH3r85iRvcG4Es.jpg",
+      "release_date": "2026-04-07",
+      "title": "Sniper: No Nation",
+      "video": false,
+      "vote_average": 6,
+      "vote_count": 24
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3ooXDVaz4xHKtwe4lkmF1gNopOC.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1290417,
+      "original_language": "en",
+      "original_title": "Thrash",
+      "overview": "Au cœur d’un ouragan catastrophique, une ville côtière lutte contre la fureur de la nature et une attaque de requins. Bravant les pluies torrentielles, les débris et l’obscurité, les habitants s’unissent pour survivre aux prédateurs mortels et réussir à traverser la tempête.",
+      "popularity": 247.7696,
+      "poster_path": "/528AmsLDzY0M9w2xvu52OuxvK7z.jpg",
+      "release_date": "2026-04-10",
+      "title": "Nature prédatrice",
+      "video": false,
+      "vote_average": 6.013,
+      "vote_count": 223
     },
     {
       "adult": false,
@@ -137,51 +175,13 @@
       "original_language": "en",
       "original_title": "Shelter",
       "overview": "Mason vit isolé sur une île écossaise. Après avoir sauvé une jeune fille de l'océan lors d'une terrible tempête, il déclenche une série d'événements qui provoquent une violente attaque dans son refuge...",
-      "popularity": 279.1815,
+      "popularity": 246.6669,
       "poster_path": "/u071a2uGEgC5lAMskhxdASwfQSt.jpg",
       "release_date": "2026-01-28",
       "title": "Refuge Fatal",
       "video": false,
       "vote_average": 6.792,
-      "vote_count": 535
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/3ooXDVaz4xHKtwe4lkmF1gNopOC.jpg",
-      "genre_ids": [
-        27,
-        53
-      ],
-      "id": 1290417,
-      "original_language": "en",
-      "original_title": "Thrash",
-      "overview": "Au cœur d’un ouragan catastrophique, une ville côtière lutte contre la fureur de la nature et une attaque de requins. Bravant les pluies torrentielles, les débris et l’obscurité, les habitants s’unissent pour survivre aux prédateurs mortels et réussir à traverser la tempête.",
-      "popularity": 268.2426,
-      "poster_path": "/528AmsLDzY0M9w2xvu52OuxvK7z.jpg",
-      "release_date": "2026-04-10",
-      "title": "Nature prédatrice",
-      "video": false,
-      "vote_average": 6.055,
-      "vote_count": 191
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/9mgKDddLVQouKpXcb4ul1tUwUO9.jpg",
-      "genre_ids": [
-        28,
-        53
-      ],
-      "id": 1641319,
-      "original_language": "en",
-      "original_title": "Sniper: No Nation",
-      "overview": "Brandon Beckett, tireur d'élite hors pair, est accusé de terrorisme et désavoué par son pays. Il est alors contraint de se lancer, aux côtés de son père, dans une mission de sauvetage à haut risque. Pas de renforts, pas de frontières, pas de règles… les Beckett vont devoir affronter la Légion de Fer, une armée de mercenaires impitoyables, pour empêcher un régime corrompu de déclencher une guerre.",
-      "popularity": 265.2707,
-      "poster_path": "/7JzTyt2GlkZ0bcH3r85iRvcG4Es.jpg",
-      "release_date": "2026-04-07",
-      "title": "Sniper: No Nation",
-      "video": false,
-      "vote_average": 5.979,
-      "vote_count": 24
+      "vote_count": 541
     },
     {
       "adult": false,
@@ -195,13 +195,13 @@
       "original_language": "en",
       "original_title": "Greenland 2: Migration",
       "overview": "Après l'impact dévastateur d'une comète qui a réduit la Terre en ruines, la famille Garrity doit quitter la sécurité de son bunker au Groenland. Commence alors un périple pour leur survie et l'avenir de l'Humanité à travers un monde dévasté à la recherche d'un nouveau foyer.",
-      "popularity": 262.4015,
+      "popularity": 237.2963,
       "poster_path": "/mu05wZK0MH2bYmuO7hXwZECqC1X.jpg",
       "release_date": "2026-01-07",
       "title": "Greenland : Migration",
       "video": false,
-      "vote_average": 6.5,
-      "vote_count": 856
+      "vote_average": 6.501,
+      "vote_count": 859
     },
     {
       "adult": false,
@@ -214,13 +214,13 @@
       "original_language": "en",
       "original_title": "Crime 101",
       "overview": "Dans Crime 101, les cambriolages méticuleux à LA le long de l'autoroute 101 d'un voleur de bijoux chevronné (Chris Hemsworth) déconcertent la police. Un flic solitaire (Mark Ruffalo) est à ses trousses. Lorsque leurs chemins croisent celui d'une courtière en assurance désabusée (Halle Berry), tous trois sont confrontés à des choix déterminants face aux millions de dollars en jeu.",
-      "popularity": 257.795,
+      "popularity": 230.1966,
       "poster_path": "/cz6VIBoOKopo3pymqRkNiVc2M7.jpg",
       "release_date": "2026-02-11",
       "title": "Crime 101",
       "video": false,
-      "vote_average": 6.996,
-      "vote_count": 672
+      "vote_average": 7.003,
+      "vote_count": 681
     },
     {
       "adult": false,
@@ -233,13 +233,13 @@
       "original_language": "en",
       "original_title": "The Mortuary Assistant",
       "overview": "Rebecca Owens, diplômée en thanatopraxie, accepte un emploi de nuit aux pompes funèbres River Fields. Ce qui commence comme une tâche routinière prend rapidement une tournure sinistre lorsqu’elle se retrouve confrontée à de terrifiantes forces surnaturelles.",
-      "popularity": 252.6926,
+      "popularity": 225.9111,
       "poster_path": "/72AoFPC5TY4DfJwXXS9rPwPeReD.jpg",
       "release_date": "2026-02-13",
       "title": "The Mortuary Assistant",
       "video": false,
-      "vote_average": 5.656,
-      "vote_count": 61
+      "vote_average": 5.664,
+      "vote_count": 64
     },
     {
       "adult": false,
@@ -253,13 +253,32 @@
       "original_language": "en",
       "original_title": "GOAT",
       "overview": "Will est un petit bouc avec de grands rêves. Lorsqu'il décroche une chance inespérée de rejoindre la ligue professionnelle de \"roarball\", un sport ultra-intense réservé aux bêtes les plus rapides et féroces, il entend bien saisir l’opportunité. Problème : ses nouveaux coéquipiers ne sont pas vraiment ravis d'avoir un \"petit\" dans l'équipe. Mais Will est prêt à tout pour changer les règles du jeu.",
-      "popularity": 208.9623,
+      "popularity": 188.5952,
       "poster_path": "/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
       "release_date": "2026-02-11",
       "title": "GOAT : Rêver plus haut",
       "video": false,
-      "vote_average": 7.908,
-      "vote_count": 384
+      "vote_average": 7.922,
+      "vote_count": 389
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/avwIERZtWiWa34qShf5biDzAVaF.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 1049471,
+      "original_language": "en",
+      "original_title": "Outcome",
+      "overview": "Reef Hawk, star hollywoodienne depuis l'âge de six ans, ne va pas bien. Quand il apprend qu'on tente de l'extorquer avec une mystérieuse vidéo, il se lance dans une tournée d'excuses pour faire amende honorable, affronter ses démons et éviter de se faire cancel.",
+      "popularity": 155.3602,
+      "poster_path": "/mXFn9RgnDNDiz68Q78ZDOqPrUYU.jpg",
+      "release_date": "2026-04-06",
+      "title": "Chantage",
+      "video": false,
+      "vote_average": 5.291,
+      "vote_count": 74
     },
     {
       "adult": false,
@@ -273,33 +292,13 @@
       "original_language": "en",
       "original_title": "The Bride!",
       "overview": "Un Frankenstein esseulé se rend dans le Chicago des années 30 afin de convaincre la brillante scientifique Dr Euphronious de lui concevoir une compagne. Les deux ressuscitent une jeune femme assassinée et La fiancée voit le jour. Et ce qui suit dépasse toutes leurs attentes : Meurtre ! Possession ! Un mouvement culturel déchaîné et radical ! Et des amants rebelles dans une romance sauvage et explosive !",
-      "popularity": 179.2056,
+      "popularity": 151.072,
       "poster_path": "/6TQDTJtHxkz1Ln7oJsw60hPWEw4.jpg",
       "release_date": "2026-03-04",
       "title": "The Bride!",
       "video": false,
-      "vote_average": 6.249,
-      "vote_count": 301
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
-      "genre_ids": [
-        28,
-        878,
-        53
-      ],
-      "id": 1265609,
-      "original_language": "en",
-      "original_title": "War Machine",
-      "overview": "Lors d'une dernière mission éprouvante pendant sa formation de Ranger, un ingénieur militaire doit mener son unité contre une gigantesque machine à tuer venue d'un autre monde.",
-      "popularity": 173.7621,
-      "poster_path": "/yjcRPvuuBxr2cgW5QXW8h1Hoig4.jpg",
-      "release_date": "2026-02-12",
-      "title": "War Machine",
-      "video": false,
-      "vote_average": 7.241,
-      "vote_count": 1423
+      "vote_average": 6.235,
+      "vote_count": 307
     },
     {
       "adult": false,
@@ -313,32 +312,33 @@
       "original_language": "en",
       "original_title": "Scream 7",
       "overview": "Lorsqu’un nouveau Ghostface surgit dans la paisible ville où Sidney Prescott a reconstruit sa vie, ses pires cauchemars refont surface. Alors que sa fille devient la prochaine cible, Sidney n’a d’autre choix que de reprendre le combat. Déterminée à protéger les siens, elle doit alors affronter les démons de son passé pour tenter de mettre fin une bonne fois pour toutes au bain de sang.",
-      "popularity": 166.5954,
+      "popularity": 150.4373,
       "poster_path": "/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
       "release_date": "2026-02-25",
       "title": "Scream 7",
       "video": false,
       "vote_average": 6.037,
-      "vote_count": 729
+      "vote_count": 736
     },
     {
       "adult": false,
-      "backdrop_path": "/avwIERZtWiWa34qShf5biDzAVaF.jpg",
+      "backdrop_path": "/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
       "genre_ids": [
-        35,
-        18
+        28,
+        878,
+        53
       ],
-      "id": 1049471,
+      "id": 1265609,
       "original_language": "en",
-      "original_title": "Outcome",
-      "overview": "Reef Hawk, star hollywoodienne depuis l'âge de six ans, ne va pas bien. Quand il apprend qu'on tente de l'extorquer avec une mystérieuse vidéo, il se lance dans une tournée d'excuses pour faire amende honorable, affronter ses démons et éviter de se faire cancel.",
-      "popularity": 163.5881,
-      "poster_path": "/mXFn9RgnDNDiz68Q78ZDOqPrUYU.jpg",
-      "release_date": "2026-04-06",
-      "title": "Chantage",
+      "original_title": "War Machine",
+      "overview": "Lors d'une dernière mission éprouvante pendant sa formation de Ranger, un ingénieur militaire doit mener son unité contre une gigantesque machine à tuer venue d'un autre monde.",
+      "popularity": 147.992,
+      "poster_path": "/yjcRPvuuBxr2cgW5QXW8h1Hoig4.jpg",
+      "release_date": "2026-02-12",
+      "title": "War Machine",
       "video": false,
-      "vote_average": 5.231,
-      "vote_count": 68
+      "vote_average": 7.242,
+      "vote_count": 1429
     },
     {
       "adult": false,
@@ -352,13 +352,13 @@
       "original_language": "en",
       "original_title": "Mike & Nick & Nick & Alice",
       "overview": "Deux gangsters et la femme qu'ils aiment tentent de survivre à la nuit la plus dangereuse de leur vie. Comme si cela ne suffisait pas, un élément imprévisible vient s'ajouter à l'équation : une machine à remonter le temps.",
-      "popularity": 161.7221,
+      "popularity": 129.3707,
       "poster_path": "/fmimhXqKUmpwaOrYS2TAcEWvcMv.jpg",
       "release_date": "2026-03-14",
       "title": "Mike & Nick & Nick & Alice",
       "video": false,
-      "vote_average": 6.788,
-      "vote_count": 224
+      "vote_average": 6.77,
+      "vote_count": 228
     },
     {
       "adult": false,
@@ -373,35 +373,35 @@
       "original_language": "en",
       "original_title": "Pretty Lethal",
       "overview": "Un thriller effréné où cinq ballerines, bloquées dans une forêt isolée en chemin vers un concours de danse, se réfugient dans une sinistre auberge routière tenue par Devora Kasimer et doivent transformer leur formation d'élite pour survivre.",
-      "popularity": 147.665,
+      "popularity": 127.9772,
       "poster_path": "/xnh0rBBPKB6DyLiqek8dX1X7F7t.jpg",
       "release_date": "2026-03-13",
       "title": "Pirouette fatale",
       "video": false,
-      "vote_average": 6.86,
-      "vote_count": 260
+      "vote_average": 6.8,
+      "vote_count": 264
     },
     {
       "adult": false,
-      "backdrop_path": "/5KFThZkdBEQkp9gPWWWNb5CI5yD.jpg",
+      "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
       "genre_ids": [
-        53,
+        16,
         28,
-        18
+        14
       ],
-      "id": 1268127,
-      "original_language": "ko",
-      "original_title": "휴민트",
-      "overview": "Zo In-sung et Park Jeong-min incarnent deux agents ennemis de Corée du Sud et du Nord qui risquent leur vie et leur loyauté pour se dévouer à une même cause : une informatrice.",
-      "popularity": 147.4294,
-      "poster_path": "/f7sCSLEPRfV2fWQ0RYOtHhnHXuG.jpg",
-      "release_date": "2026-02-11",
-      "title": "Humint",
+      "id": 1311031,
+      "original_language": "ja",
+      "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+      "overview": "L'armée des pourfendeurs de démons est attirée dans la Forteresse Infinie, où Tanjiro, Zenitsu et Inosuke  affrontent de terrifiants démons de rang supérieur dans un combat désespéré alors que la bataille finale contre Kibutsuji Muzan commence.",
+      "popularity": 127.3926,
+      "poster_path": "/wXTU3AFmlUPbqjH68MZ989uHd6k.jpg",
+      "release_date": "2025-07-18",
+      "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
       "video": false,
-      "vote_average": 7.253,
-      "vote_count": 85
+      "vote_average": 7.684,
+      "vote_count": 790
     }
   ],
-  "total_pages": 56145,
-  "total_results": 1122881
+  "total_pages": 56207,
+  "total_results": 1124125
 }
