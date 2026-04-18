@@ -20,8 +20,8 @@
       "release_date": "2026-04-01",
       "title": "Super Mario Galaxy, le film",
       "video": false,
-      "vote_average": 6.802,
-      "vote_count": 468
+      "vote_average": 6.82,
+      "vote_count": 481
     },
     {
       "adult": false,
@@ -39,7 +39,7 @@
       "release_date": "2026-03-26",
       "title": "Your Heart Will Be Broken",
       "video": false,
-      "vote_average": 7.2,
+      "vote_average": 7.213,
       "vote_count": 61
     },
     {
@@ -59,8 +59,8 @@
       "release_date": "2025-12-17",
       "title": "Avatar : De feu et de cendres",
       "video": false,
-      "vote_average": 7.374,
-      "vote_count": 2597
+      "vote_average": 7.369,
+      "vote_count": 2612
     },
     {
       "adult": false,
@@ -78,8 +78,49 @@
       "release_date": "2026-03-15",
       "title": "Projet dernière chance",
       "video": false,
-      "vote_average": 8.216,
-      "vote_count": 1456
+      "vote_average": 8.211,
+      "vote_count": 1478
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gGFh3upk94dtq0kYitcg0FZ24ef.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1290417,
+      "original_language": "en",
+      "original_title": "Thrash",
+      "overview": "Au cœur d’un ouragan catastrophique, une ville côtière lutte contre la fureur de la nature et une attaque de requins. Bravant les pluies torrentielles, les débris et l’obscurité, les habitants s’unissent pour survivre aux prédateurs mortels et réussir à traverser la tempête.",
+      "popularity": 245.8304,
+      "poster_path": "/528AmsLDzY0M9w2xvu52OuxvK7z.jpg",
+      "release_date": "2026-04-10",
+      "title": "Nature Prédatrice",
+      "video": false,
+      "vote_average": 5.974,
+      "vote_count": 294
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        878,
+        35,
+        12
+      ],
+      "id": 1327819,
+      "original_language": "en",
+      "original_title": "Hoppers",
+      "overview": "Mabel est une jeune fille audacieuse qui a une grande ambition : infiltrer le monde animal. Pour ce faire, elle transfère son esprit à un robot castor afin de pouvoir approcher d’autres animaux et étudier leur mode de vie.",
+      "popularity": 236.2309,
+      "poster_path": "/tWmEsB3MtN7RfdXphzghC8B3ahX.jpg",
+      "release_date": "2026-03-04",
+      "title": "Jumpers",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 474
     },
     {
       "adult": false,
@@ -101,48 +142,87 @@
       "title": "Super Mario Bros., le film",
       "video": false,
       "vote_average": 7.587,
-      "vote_count": 10483
+      "vote_count": 10486
     },
     {
       "adult": false,
-      "backdrop_path": "/gGFh3upk94dtq0kYitcg0FZ24ef.jpg",
+      "backdrop_path": "/gM1kQRPwOVW1Eos5tVWqcYmHR5S.jpg",
       "genre_ids": [
         27,
-        53
+        9648
       ],
-      "id": 1290417,
+      "id": 1470130,
       "original_language": "en",
-      "original_title": "Thrash",
-      "overview": "Au cœur d’un ouragan catastrophique, une ville côtière lutte contre la fureur de la nature et une attaque de requins. Bravant les pluies torrentielles, les débris et l’obscurité, les habitants s’unissent pour survivre aux prédateurs mortels et réussir à traverser la tempête.",
-      "popularity": 245.8304,
-      "poster_path": "/528AmsLDzY0M9w2xvu52OuxvK7z.jpg",
-      "release_date": "2026-04-10",
-      "title": "Nature prédatrice",
+      "original_title": "The Mortuary Assistant",
+      "overview": "Rebecca Owens, diplômée en thanatopraxie, accepte un emploi de nuit aux pompes funèbres River Fields. Ce qui commence comme une tâche routinière prend rapidement une tournure sinistre lorsqu’elle se retrouve confrontée à de terrifiantes forces surnaturelles.",
+      "popularity": 217.7751,
+      "poster_path": "/72AoFPC5TY4DfJwXXS9rPwPeReD.jpg",
+      "release_date": "2026-02-13",
+      "title": "The Mortuary Assistant",
       "video": false,
-      "vote_average": 5.895,
-      "vote_count": 272
+      "vote_average": 5.529,
+      "vote_count": 69
     },
     {
       "adult": false,
-      "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+      "backdrop_path": "/sS3zGYFPcfM5pArVNWl6qLyaSmU.jpg",
       "genre_ids": [
+        28,
+        12,
         16,
-        10751,
-        878,
+        14
+      ],
+      "id": 980431,
+      "original_language": "en",
+      "original_title": "Avatar: Aang, The Last Airbender",
+      "overview": "Les aventures du successeur du dernier Avatar qui doit empêcher la nation du Feu d’asservir les nations de la Terre, de l’Eau et de l’Air...",
+      "popularity": 216.3499,
+      "poster_path": "/gPiyTLo5GGwtJl0L8TlaJF9r0KE.jpg",
+      "release_date": "2026-10-09",
+      "title": "La Légende de Aang - le dernier maître de l'air",
+      "video": false,
+      "vote_average": 0,
+      "vote_count": 0
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jRsjWwZzI39bTm44FNhRtiICd9k.jpg",
+      "genre_ids": [
         35,
+        28,
         12
       ],
-      "id": 1327819,
+      "id": 1084577,
       "original_language": "en",
-      "original_title": "Hoppers",
-      "overview": "Mabel est une jeune fille audacieuse qui a une grande ambition : infiltrer le monde animal. Pour ce faire, elle transfère son esprit à un robot castor afin de pouvoir approcher d’autres animaux et étudier leur mode de vie.",
-      "popularity": 236.2309,
-      "poster_path": "/tWmEsB3MtN7RfdXphzghC8B3ahX.jpg",
-      "release_date": "2026-03-04",
-      "title": "Jumpers",
+      "original_title": "Balls Up",
+      "overview": "Dans cette comédie déjantée et exubérante, les cadres du marketing Brad (Mark Wahlberg) et Elijah (Paul Walter Hauser) présentent un préservatif intégral novateur comme sponsor de la Coupe du monde au Brésil. Après avoir arrosé leur succès et déclenché un scandale, ils doivent échapper aux fans déchaînés, criminels et fonctionnaires corrompus pour sauver leur carrière et rentrer chez eux en vie.",
+      "popularity": 214.6571,
+      "poster_path": "/d0k1OH8vBxr9xYjUmHTrXbGo4IW.jpg",
+      "release_date": "2026-04-15",
+      "title": "Balls Up : Mettez le paquet !",
       "video": false,
-      "vote_average": 7.58,
-      "vote_count": 470
+      "vote_average": 5.585,
+      "vote_count": 41
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1290821,
+      "original_language": "en",
+      "original_title": "Shelter",
+      "overview": "Mason vit isolé sur une île écossaise. Après avoir sauvé une jeune fille de l'océan lors d'une terrible tempête, il déclenche une série d'événements qui provoquent une violente attaque dans son refuge...",
+      "popularity": 205.5854,
+      "poster_path": "/u071a2uGEgC5lAMskhxdASwfQSt.jpg",
+      "release_date": "2026-01-28",
+      "title": "Refuge Fatal",
+      "video": false,
+      "vote_average": 6.791,
+      "vote_count": 554
     },
     {
       "adult": false,
@@ -165,48 +245,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/sS3zGYFPcfM5pArVNWl6qLyaSmU.jpg",
-      "genre_ids": [
-        28,
-        12,
-        16,
-        14,
-        10751
-      ],
-      "id": 980431,
-      "original_language": "en",
-      "original_title": "Avatar: Aang, The Last Airbender",
-      "overview": "Les aventures du successeur du dernier Avatar qui doit empêcher la nation du Feu d’asservir les nations de la Terre, de l’Eau et de l’Air...",
-      "popularity": 216.3499,
-      "poster_path": "/gPiyTLo5GGwtJl0L8TlaJF9r0KE.jpg",
-      "release_date": "2026-10-09",
-      "title": "La Légende de Aang - le dernier maître de l'air",
-      "video": false,
-      "vote_average": 0,
-      "vote_count": 0
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
-      "genre_ids": [
-        28,
-        80,
-        53
-      ],
-      "id": 1290821,
-      "original_language": "en",
-      "original_title": "Shelter",
-      "overview": "Mason vit isolé sur une île écossaise. Après avoir sauvé une jeune fille de l'océan lors d'une terrible tempête, il déclenche une série d'événements qui provoquent une violente attaque dans son refuge...",
-      "popularity": 205.5854,
-      "poster_path": "/u071a2uGEgC5lAMskhxdASwfQSt.jpg",
-      "release_date": "2026-01-28",
-      "title": "Refuge Fatal",
-      "video": false,
-      "vote_average": 6.799,
-      "vote_count": 548
-    },
-    {
-      "adult": false,
       "backdrop_path": "/wns4x1GyxCudgOZRyhXKjXVJf3T.jpg",
       "genre_ids": [
         12,
@@ -222,8 +260,8 @@
       "release_date": "2026-01-07",
       "title": "Greenland : Migration",
       "video": false,
-      "vote_average": 6.5,
-      "vote_count": 864
+      "vote_average": 6.489,
+      "vote_count": 870
     },
     {
       "adult": false,
@@ -241,27 +279,8 @@
       "release_date": "2026-02-11",
       "title": "Crime 101",
       "video": false,
-      "vote_average": 6.991,
-      "vote_count": 701
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/gM1kQRPwOVW1Eos5tVWqcYmHR5S.jpg",
-      "genre_ids": [
-        27,
-        9648
-      ],
-      "id": 1470130,
-      "original_language": "en",
-      "original_title": "The Mortuary Assistant",
-      "overview": "Rebecca Owens, diplômée en thanatopraxie, accepte un emploi de nuit aux pompes funèbres River Fields. Ce qui commence comme une tâche routinière prend rapidement une tournure sinistre lorsqu’elle se retrouve confrontée à de terrifiantes forces surnaturelles.",
-      "popularity": 217.7751,
-      "poster_path": "/72AoFPC5TY4DfJwXXS9rPwPeReD.jpg",
-      "release_date": "2026-02-13",
-      "title": "The Mortuary Assistant",
-      "video": false,
-      "vote_average": 5.515,
-      "vote_count": 67
+      "vote_average": 6.992,
+      "vote_count": 705
     },
     {
       "adult": false,
@@ -280,8 +299,8 @@
       "release_date": "2026-02-11",
       "title": "GOAT : Rêver plus haut",
       "video": false,
-      "vote_average": 7.928,
-      "vote_count": 400
+      "vote_average": 7.923,
+      "vote_count": 405
     },
     {
       "adult": false,
@@ -299,12 +318,12 @@
       "release_date": "2026-04-06",
       "title": "Chantage",
       "video": false,
-      "vote_average": 5.259,
-      "vote_count": 87
+      "vote_average": 5.397,
+      "vote_count": 97
     },
     {
       "adult": false,
-      "backdrop_path": "/hz7TdCrpLLt2Dz7S3PS2HG9rpAO.jpg",
+      "backdrop_path": "/t9J2HXaDuJR7bvIG9XF7mttn4VY.jpg",
       "genre_ids": [
         27,
         9648,
@@ -319,8 +338,8 @@
       "release_date": "2026-02-25",
       "title": "Scream 7",
       "video": false,
-      "vote_average": 6.029,
-      "vote_count": 749
+      "vote_average": 6.028,
+      "vote_count": 752
     },
     {
       "adult": false,
@@ -339,8 +358,27 @@
       "release_date": "2025-07-18",
       "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
       "video": false,
-      "vote_average": 7.688,
-      "vote_count": 793
+      "vote_average": 7.683,
+      "vote_count": 797
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bYkgJUGlkDrKzCrN6Jrd1qVx9aB.jpg",
+      "genre_ids": [
+        35,
+        10749
+      ],
+      "id": 20222,
+      "original_language": "es",
+      "original_title": "Sexo con amor",
+      "overview": "",
+      "popularity": 111.976,
+      "poster_path": "/9hpzzyMiVSHvoX9HHa3yG6d1Jb9.jpg",
+      "release_date": "2003-03-27",
+      "title": "Sexo con amor",
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 240
     },
     {
       "adult": false,
@@ -359,49 +397,10 @@
       "release_date": "2026-02-12",
       "title": "War Machine",
       "video": false,
-      "vote_average": 7.245,
-      "vote_count": 1441
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/jRsjWwZzI39bTm44FNhRtiICd9k.jpg",
-      "genre_ids": [
-        35,
-        28,
-        12
-      ],
-      "id": 1084577,
-      "original_language": "en",
-      "original_title": "Balls Up",
-      "overview": "Dans cette comédie déjantée et exubérante, les cadres du marketing Brad (Mark Wahlberg) et Elijah (Paul Walter Hauser) présentent un préservatif intégral novateur comme sponsor de la Coupe du monde au Brésil. Après avoir arrosé leur succès et déclenché un scandale, ils doivent échapper aux fans déchaînés, criminels et fonctionnaires corrompus pour sauver leur carrière et rentrer chez eux en vie.",
-      "popularity": 214.6571,
-      "poster_path": "/d0k1OH8vBxr9xYjUmHTrXbGo4IW.jpg",
-      "release_date": "2026-04-15",
-      "title": "Balls Up : Mettez le paquet !",
-      "video": false,
-      "vote_average": 5.82,
-      "vote_count": 25
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/pmGkvEWKFDapogIzkG7TqB0aeYE.jpg",
-      "genre_ids": [
-        27,
-        53
-      ],
-      "id": 1526650,
-      "original_language": "zh",
-      "original_title": "泥娃娃",
-      "overview": "",
-      "popularity": 110.0515,
-      "poster_path": "/3epkiHj6FacptxIfRiDZFQXUyL7.jpg",
-      "release_date": "2025-10-09",
-      "title": "泥娃娃",
-      "video": false,
-      "vote_average": 6.8,
-      "vote_count": 21
+      "vote_average": 7.241,
+      "vote_count": 1451
     }
   ],
-  "total_pages": 56228,
-  "total_results": 1124548
+  "total_pages": 56245,
+  "total_results": 1124894
 }
