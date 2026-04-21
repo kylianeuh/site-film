@@ -20,8 +20,8 @@
       "release_date": "2026-04-01",
       "title": "Super Mario Galaxy, le film",
       "video": false,
-      "vote_average": 6.791,
-      "vote_count": 522
+      "vote_average": 6.777,
+      "vote_count": 533
     },
     {
       "adult": false,
@@ -39,8 +39,8 @@
       "release_date": "2026-03-26",
       "title": "Your Heart Will Be Broken",
       "video": false,
-      "vote_average": 7.094,
-      "vote_count": 65
+      "vote_average": 7.03,
+      "vote_count": 67
     },
     {
       "adult": false,
@@ -60,26 +60,7 @@
       "title": "Avatar : De feu et de cendres",
       "video": false,
       "vote_average": 7.4,
-      "vote_count": 2645
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "genre_ids": [
-        878,
-        12
-      ],
-      "id": 687163,
-      "original_language": "en",
-      "original_title": "Project Hail Mary",
-      "overview": "Le professeur de sciences Ryland Grace se réveille à bord d’un vaisseau spatial, à des années-lumière de la Terre, sans aucun souvenir de qui il est ni de la façon dont il est arrivé là. À mesure que sa mémoire lui revient, il commence à découvrir sa mission : résoudre l’énigme d’une mystérieuse substance qui provoque l’extinction du Soleil. Il doit faire appel à ses connaissances scientifiques et ses idées peu orthodoxes pour sauver toute vie sur Terre mais une amitié inattendue pourrait signifier qu’il n’aura pas à accomplir cette tâche seul.",
-      "popularity": 262.4292,
-      "poster_path": "/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
-      "release_date": "2026-03-15",
-      "title": "Projet dernière chance",
-      "video": false,
-      "vote_average": 8.216,
-      "vote_count": 1561
+      "vote_count": 2654
     },
     {
       "adult": false,
@@ -92,7 +73,7 @@
       ],
       "id": 980431,
       "original_language": "en",
-      "original_title": "Avatar: Aang, The Last Airbender",
+      "original_title": "Avatar Aang: The Last Airbender",
       "overview": "Les aventures du successeur du dernier Avatar qui doit empêcher la nation du Feu d’asservir les nations de la Terre, de l’Eau et de l’Air...",
       "popularity": 316.0527,
       "poster_path": "/gPiyTLo5GGwtJl0L8TlaJF9r0KE.jpg",
@@ -118,8 +99,46 @@
       "release_date": "2026-02-13",
       "title": "The Mortuary Assistant",
       "video": false,
-      "vote_average": 5.421,
+      "vote_average": 5.4,
       "vote_count": 76
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "genre_ids": [
+        878,
+        12
+      ],
+      "id": 687163,
+      "original_language": "en",
+      "original_title": "Project Hail Mary",
+      "overview": "Le professeur de sciences Ryland Grace se réveille à bord d’un vaisseau spatial, à des années-lumière de la Terre, sans aucun souvenir de qui il est ni de la façon dont il est arrivé là. À mesure que sa mémoire lui revient, il commence à découvrir sa mission : résoudre l’énigme d’une mystérieuse substance qui provoque l’extinction du Soleil. Il doit faire appel à ses connaissances scientifiques et ses idées peu orthodoxes pour sauver toute vie sur Terre mais une amitié inattendue pourrait signifier qu’il n’aura pas à accomplir cette tâche seul.",
+      "popularity": 262.4292,
+      "poster_path": "/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
+      "release_date": "2026-03-15",
+      "title": "Projet dernière chance",
+      "video": false,
+      "vote_average": 8.222,
+      "vote_count": 1597
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jJmlCFi5EjpH5vHmOczRiVDm0qS.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1613798,
+      "original_language": "es",
+      "original_title": "Venganza",
+      "overview": "Quand sa femme est brutalement assassinée, Carlos Estrada, héros décoré des forces spéciales, n'a plus qu'un seul but : la vengeance. Après qu'un coup du sort inattendu le rend millionnaire, Carlos transforme sa fortune en arsenal et, entouré de ses soldats les plus fidèles, lance une traque impitoyable contre les responsables.",
+      "popularity": 253.4732,
+      "poster_path": "/cSNgGUf6k2k7WJJVlda6ZUPYgGo.jpg",
+      "release_date": "2026-02-26",
+      "title": "Vengeance",
+      "video": false,
+      "vote_average": 6.341,
+      "vote_count": 41
     },
     {
       "adult": false,
@@ -140,86 +159,8 @@
       "release_date": "2026-03-04",
       "title": "Jumpers",
       "video": false,
-      "vote_average": 7.586,
-      "vote_count": 482
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/3ooXDVaz4xHKtwe4lkmF1gNopOC.jpg",
-      "genre_ids": [
-        27,
-        53
-      ],
-      "id": 1290417,
-      "original_language": "en",
-      "original_title": "Thrash",
-      "overview": "Au cœur d’un ouragan catastrophique, une ville côtière lutte contre la fureur de la nature et une attaque de requins. Bravant les pluies torrentielles, les débris et l’obscurité, les habitants s’unissent pour survivre aux prédateurs mortels et réussir à traverser la tempête.",
-      "popularity": 206.5751,
-      "poster_path": "/528AmsLDzY0M9w2xvu52OuxvK7z.jpg",
-      "release_date": "2026-04-10",
-      "title": "Nature prédatrice",
-      "video": false,
-      "vote_average": 5.999,
-      "vote_count": 341
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/bYkgJUGlkDrKzCrN6Jrd1qVx9aB.jpg",
-      "genre_ids": [
-        35,
-        10749
-      ],
-      "id": 20222,
-      "original_language": "es",
-      "original_title": "Sexo con amor",
-      "overview": "",
-      "popularity": 286.2109,
-      "poster_path": "/9hpzzyMiVSHvoX9HHa3yG6d1Jb9.jpg",
-      "release_date": "2003-03-27",
-      "title": "Sexo con amor",
-      "video": false,
-      "vote_average": 6.519,
-      "vote_count": 241
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/jRsjWwZzI39bTm44FNhRtiICd9k.jpg",
-      "genre_ids": [
-        35,
-        28,
-        12
-      ],
-      "id": 1084577,
-      "original_language": "en",
-      "original_title": "Balls Up",
-      "overview": "Dans cette comédie déjantée et exubérante, les cadres du marketing Brad (Mark Wahlberg) et Elijah (Paul Walter Hauser) présentent un préservatif intégral novateur comme sponsor de la Coupe du monde au Brésil. Après avoir arrosé leur succès et déclenché un scandale, ils doivent échapper aux fans déchaînés, criminels et fonctionnaires corrompus pour sauver leur carrière et rentrer chez eux en vie.",
-      "popularity": 214.69,
-      "poster_path": "/d0k1OH8vBxr9xYjUmHTrXbGo4IW.jpg",
-      "release_date": "2026-04-15",
-      "title": "Balls Up : Mettez le paquet !",
-      "video": false,
-      "vote_average": 5.442,
-      "vote_count": 78
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
-      "genre_ids": [
-        28,
-        80,
-        53
-      ],
-      "id": 1290821,
-      "original_language": "en",
-      "original_title": "Shelter",
-      "overview": "Mason vit isolé sur une île écossaise. Après avoir sauvé une jeune fille de l'océan lors d'une terrible tempête, il déclenche une série d'événements qui provoquent une violente attaque dans son refuge...",
-      "popularity": 217.5428,
-      "poster_path": "/u071a2uGEgC5lAMskhxdASwfQSt.jpg",
-      "release_date": "2026-01-28",
-      "title": "Refuge Fatal",
-      "video": false,
-      "vote_average": 6.8,
-      "vote_count": 566
+      "vote_average": 7.576,
+      "vote_count": 492
     },
     {
       "adult": false,
@@ -238,8 +179,86 @@
       "release_date": "2026-01-07",
       "title": "Greenland : Migration",
       "video": false,
-      "vote_average": 6.484,
-      "vote_count": 879
+      "vote_average": 6.469,
+      "vote_count": 886
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1290821,
+      "original_language": "en",
+      "original_title": "Shelter",
+      "overview": "Mason vit isolé sur une île écossaise. Après avoir sauvé une jeune fille de l'océan lors d'une terrible tempête, il déclenche une série d'événements qui provoquent une violente attaque dans son refuge...",
+      "popularity": 217.5428,
+      "poster_path": "/u071a2uGEgC5lAMskhxdASwfQSt.jpg",
+      "release_date": "2026-01-28",
+      "title": "Refuge Fatal",
+      "video": false,
+      "vote_average": 6.772,
+      "vote_count": 571
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jRsjWwZzI39bTm44FNhRtiICd9k.jpg",
+      "genre_ids": [
+        35,
+        28,
+        12
+      ],
+      "id": 1084577,
+      "original_language": "en",
+      "original_title": "Balls Up",
+      "overview": "Dans cette comédie déjantée et exubérante, les cadres du marketing Brad (Mark Wahlberg) et Elijah (Paul Walter Hauser) présentent un préservatif intégral novateur comme sponsor de la Coupe du monde au Brésil. Après avoir arrosé leur succès et déclenché un scandale, ils doivent échapper aux fans déchaînés, criminels et fonctionnaires corrompus pour sauver leur carrière et rentrer chez eux en vie.",
+      "popularity": 214.69,
+      "poster_path": "/d0k1OH8vBxr9xYjUmHTrXbGo4IW.jpg",
+      "release_date": "2026-04-15",
+      "title": "Balls Up : Mettez le paquet !",
+      "video": false,
+      "vote_average": 5.559,
+      "vote_count": 85
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3ooXDVaz4xHKtwe4lkmF1gNopOC.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1290417,
+      "original_language": "en",
+      "original_title": "Thrash",
+      "overview": "Au cœur d’un ouragan catastrophique, une ville côtière lutte contre la fureur de la nature et une attaque de requins. Bravant les pluies torrentielles, les débris et l’obscurité, les habitants s’unissent pour survivre aux prédateurs mortels et réussir à traverser la tempête.",
+      "popularity": 206.5751,
+      "poster_path": "/528AmsLDzY0M9w2xvu52OuxvK7z.jpg",
+      "release_date": "2026-04-10",
+      "title": "Nature prédatrice",
+      "video": false,
+      "vote_average": 5.99,
+      "vote_count": 358
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/7lizs4SuEU2ihkkAa0SZ66NtHbl.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1641319,
+      "original_language": "en",
+      "original_title": "Sniper: No Nation",
+      "overview": "Brandon Beckett, tireur d'élite hors pair, est accusé de terrorisme et désavoué par son pays. Il est alors contraint de se lancer, aux côtés de son père, dans une mission de sauvetage à haut risque. Pas de renforts, pas de frontières, pas de règles… les Beckett vont devoir affronter la Légion de Fer, une armée de mercenaires impitoyables, pour empêcher un régime corrompu de déclencher une guerre.",
+      "popularity": 179.0305,
+      "poster_path": "/7JzTyt2GlkZ0bcH3r85iRvcG4Es.jpg",
+      "release_date": "2026-04-07",
+      "title": "Sniper: No Nation",
+      "video": false,
+      "vote_average": 6.203,
+      "vote_count": 32
     },
     {
       "adult": false,
@@ -258,8 +277,8 @@
       "release_date": "2026-01-22",
       "title": "Send Help",
       "video": false,
-      "vote_average": 7.038,
-      "vote_count": 1028
+      "vote_average": 7,
+      "vote_count": 1042
     },
     {
       "adult": false,
@@ -281,45 +300,7 @@
       "title": "Super Mario Bros., le film",
       "video": false,
       "vote_average": 7.587,
-      "vote_count": 10497
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/7lizs4SuEU2ihkkAa0SZ66NtHbl.jpg",
-      "genre_ids": [
-        28,
-        53
-      ],
-      "id": 1641319,
-      "original_language": "en",
-      "original_title": "Sniper: No Nation",
-      "overview": "Brandon Beckett, tireur d'élite hors pair, est accusé de terrorisme et désavoué par son pays. Il est alors contraint de se lancer, aux côtés de son père, dans une mission de sauvetage à haut risque. Pas de renforts, pas de frontières, pas de règles… les Beckett vont devoir affronter la Légion de Fer, une armée de mercenaires impitoyables, pour empêcher un régime corrompu de déclencher une guerre.",
-      "popularity": 179.0305,
-      "poster_path": "/7JzTyt2GlkZ0bcH3r85iRvcG4Es.jpg",
-      "release_date": "2026-04-07",
-      "title": "Sniper: No Nation",
-      "video": false,
-      "vote_average": 6.2,
-      "vote_count": 30
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/vG42HeYtoTFflqwP42wYD7tBuNr.jpg",
-      "genre_ids": [
-        80,
-        53
-      ],
-      "id": 1171145,
-      "original_language": "en",
-      "original_title": "Crime 101",
-      "overview": "Dans Crime 101, les cambriolages méticuleux à LA le long de l'autoroute 101 d'un voleur de bijoux chevronné (Chris Hemsworth) déconcertent la police. Un flic solitaire (Mark Ruffalo) est à ses trousses. Lorsque leurs chemins croisent celui d'une courtière en assurance désabusée (Halle Berry), tous trois sont confrontés à des choix déterminants face aux millions de dollars en jeu.",
-      "popularity": 166.6444,
-      "poster_path": "/cz6VIBoOKopo3pymqRkNiVc2M7.jpg",
-      "release_date": "2026-02-11",
-      "title": "Crime 101",
-      "video": false,
-      "vote_average": 7,
-      "vote_count": 725
+      "vote_count": 10500
     },
     {
       "adult": false,
@@ -337,8 +318,27 @@
       "release_date": "2026-04-15",
       "title": "Le Réveil de la Momie",
       "video": false,
-      "vote_average": 6.815,
-      "vote_count": 92
+      "vote_average": 6.829,
+      "vote_count": 105
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/vG42HeYtoTFflqwP42wYD7tBuNr.jpg",
+      "genre_ids": [
+        80,
+        53
+      ],
+      "id": 1171145,
+      "original_language": "en",
+      "original_title": "Crime 101",
+      "overview": "Dans Crime 101, les cambriolages méticuleux à LA le long de l'autoroute 101 d'un voleur de bijoux chevronné (Chris Hemsworth) déconcertent la police. Un flic solitaire (Mark Ruffalo) est à ses trousses. Lorsque leurs chemins croisent celui d'une courtière en assurance désabusée (Halle Berry), tous trois sont confrontés à des choix déterminants face aux millions de dollars en jeu.",
+      "popularity": 166.6444,
+      "poster_path": "/cz6VIBoOKopo3pymqRkNiVc2M7.jpg",
+      "release_date": "2026-02-11",
+      "title": "Crime 101",
+      "video": false,
+      "vote_average": 6.979,
+      "vote_count": 731
     },
     {
       "adult": false,
@@ -358,27 +358,26 @@
       "title": "GOAT : Rêver plus haut",
       "video": false,
       "vote_average": 7.908,
-      "vote_count": 411
+      "vote_count": 415
     },
     {
       "adult": false,
-      "backdrop_path": "/t9J2HXaDuJR7bvIG9XF7mttn4VY.jpg",
+      "backdrop_path": "/fPfDB0IHOqvmKIzFP9CA51OOS1N.jpg",
       "genre_ids": [
         27,
-        9648,
-        80
+        53
       ],
-      "id": 1159559,
+      "id": 1010755,
       "original_language": "en",
-      "original_title": "Scream 7",
-      "overview": "Lorsqu’un nouveau Ghostface surgit dans la paisible ville où Sidney Prescott a reconstruit sa vie, ses pires cauchemars refont surface. Alors que sa fille devient la prochaine cible, Sidney n’a d’autre choix que de reprendre le combat. Déterminée à protéger les siens, elle doit alors affronter les démons de son passé pour tenter de mettre fin une bonne fois pour toutes au bain de sang.",
-      "popularity": 131.2172,
-      "poster_path": "/j6Y7vqULt8tRlXVFXHK5aj3nCo4.jpg",
-      "release_date": "2026-02-25",
-      "title": "Scream 7",
+      "original_title": "The Strangers: Chapter 3",
+      "overview": "Maya affronte une dernière fois les tueurs masqués dans un règlement de comptes brutal et complet, une histoire de survie et de vengeance.",
+      "popularity": 147.297,
+      "poster_path": "/8GkCZUA8RnpvbY6mZFMKziOnOD6.jpg",
+      "release_date": "2026-02-05",
+      "title": "Les Intrus : Chapitre 3",
       "video": false,
-      "vote_average": 6.035,
-      "vote_count": 767
+      "vote_average": 5.702,
+      "vote_count": 114
     },
     {
       "adult": false,
@@ -397,10 +396,10 @@
       "release_date": "2025-07-18",
       "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
       "video": false,
-      "vote_average": 7.686,
-      "vote_count": 797
+      "vote_average": 7.681,
+      "vote_count": 800
     }
   ],
-  "total_pages": 56272,
-  "total_results": 1125424
+  "total_pages": 56287,
+  "total_results": 1125730
 }
