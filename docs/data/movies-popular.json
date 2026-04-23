@@ -16,13 +16,13 @@
       "original_language": "en",
       "original_title": "The Super Mario Galaxy Movie",
       "overview": "Au-delà du Royaume Champignon, Mario, Luigi et Yoshi voyagent à travers les galaxies aux côtés de Rosalina pour arrêter Bowser Jr., dont la tentative de sauver son père menace l’équilibre de l’univers.",
-      "popularity": 683.1411,
+      "popularity": 650.7446,
       "poster_path": "/aSQktALDmbunDbwkuZbZFMEWVFr.jpg",
       "release_date": "2026-04-01",
       "softcore": false,
       "video": false,
-      "vote_average": 6.751,
-      "vote_count": 547
+      "vote_average": 6.76,
+      "vote_count": 563
     },
     {
       "adult": false,
@@ -35,14 +35,14 @@
       "title": "Your Heart Will Be Broken",
       "original_language": "ru",
       "original_title": "Твоё сердце будет разбито",
-      "overview": "",
-      "popularity": 394.992,
+      "overview": "Polina, une lycéenne, est sauvée du harcèlement dans son nouveau lycée et conclut un pacte avec Bars, le principal harceleur : il doit faire semblant d'être son petit ami et la protéger, et elle doit obéir à tout ce qu'il lui dit. Au fil de ce jeu, le couple développe de véritables sentiments, mais sa famille et ses camarades de classe ont de bonnes raisons de vouloir séparer les amoureux.",
+      "popularity": 378.6976,
       "poster_path": "/iGpMm603GUKH2SiXB2S5m4sZ17t.jpg",
       "release_date": "2026-03-26",
       "softcore": false,
       "video": false,
-      "vote_average": 6.914,
-      "vote_count": 70
+      "vote_average": 6.93,
+      "vote_count": 71
     },
     {
       "adult": false,
@@ -58,34 +58,13 @@
       "original_language": "en",
       "original_title": "Avatar Aang: The Last Airbender",
       "overview": "Les aventures du successeur du dernier Avatar qui doit empêcher la nation du Feu d’asservir les nations de la Terre, de l’Eau et de l’Air...",
-      "popularity": 311.9385,
+      "popularity": 294.0381,
       "poster_path": "/29Jdsak3SrwGds5k1t43kH6Khed.jpg",
       "release_date": "2026-10-09",
       "softcore": false,
       "video": false,
       "vote_average": 0,
       "vote_count": 0
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
-      "genre_ids": [
-        878,
-        12,
-        14
-      ],
-      "id": 83533,
-      "title": "Avatar : De feu et de cendres",
-      "original_language": "en",
-      "original_title": "Avatar: Fire and Ash",
-      "overview": "Après la mort de Neteyam, Jake et Neytiri affrontent leur chagrin tout en faisant face au Peuple des Cendres, une tribu Na’vi redoutable menée par la fougueuse Varang, alors que le conflit sur Pandora s’intensifie et qu’une nouvelle quête morale s’amorce.",
-      "popularity": 278.0031,
-      "poster_path": "/kG3N8oQ10qiw2MsnSHFGJpQNyEy.jpg",
-      "release_date": "2025-12-17",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.371,
-      "vote_count": 2674
     },
     {
       "adult": false,
@@ -100,33 +79,34 @@
       "original_language": "en",
       "original_title": "Send Help",
       "overview": "Après un terrible accident d'avion, deux collègues d'une compagnie se retrouvent seuls survivants, coincés sur une île déserte. L'une est une employée maligne et pleine de ressources, l'autre son patron tyrannique et désagréable. Obligés de s'adapter aux conditions extrêmes de leur isolement, ils doivent surmonter leurs vieilles rancunes et travailler ensemble pour survivre.",
-      "popularity": 294.8435,
+      "popularity": 309.1211,
       "poster_path": "/bMAn4qERdEfxotddEHWfMmkfjRv.jpg",
       "release_date": "2026-01-22",
       "softcore": false,
       "video": false,
-      "vote_average": 7.04,
-      "vote_count": 1050
+      "vote_average": 7,
+      "vote_count": 1053
     },
     {
       "adult": false,
-      "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "backdrop_path": "/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
       "genre_ids": [
         878,
-        12
+        12,
+        14
       ],
-      "id": 687163,
-      "title": "Projet dernière chance",
+      "id": 83533,
+      "title": "Avatar : De feu et de cendres",
       "original_language": "en",
-      "original_title": "Project Hail Mary",
-      "overview": "Le professeur de sciences Ryland Grace se réveille à bord d’un vaisseau spatial, à des années-lumière de la Terre, sans aucun souvenir de qui il est ni de la façon dont il est arrivé là. À mesure que sa mémoire lui revient, il commence à découvrir sa mission : résoudre l’énigme d’une mystérieuse substance qui provoque l’extinction du Soleil. Il doit faire appel à ses connaissances scientifiques et ses idées peu orthodoxes pour sauver toute vie sur Terre mais une amitié inattendue pourrait signifier qu’il n’aura pas à accomplir cette tâche seul.",
-      "popularity": 227.7113,
-      "poster_path": "/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
-      "release_date": "2026-03-15",
+      "original_title": "Avatar: Fire and Ash",
+      "overview": "Après la mort de Neteyam, Jake et Neytiri affrontent leur chagrin tout en faisant face au Peuple des Cendres, une tribu Na’vi redoutable menée par la fougueuse Varang, alors que le conflit sur Pandora s’intensifie et qu’une nouvelle quête morale s’amorce.",
+      "popularity": 262.7902,
+      "poster_path": "/kG3N8oQ10qiw2MsnSHFGJpQNyEy.jpg",
+      "release_date": "2025-12-17",
       "softcore": false,
       "video": false,
-      "vote_average": 8.222,
-      "vote_count": 1628
+      "vote_average": 7.372,
+      "vote_count": 2682
     },
     {
       "adult": false,
@@ -140,13 +120,33 @@
       "original_language": "es",
       "original_title": "Venganza",
       "overview": "Quand sa femme est brutalement assassinée, Carlos Estrada, héros décoré des forces spéciales, n'a plus qu'un seul but : la vengeance. Après qu'un coup du sort inattendu le rend millionnaire, Carlos transforme sa fortune en arsenal et, entouré de ses soldats les plus fidèles, lance une traque impitoyable contre les responsables.",
-      "popularity": 255.8103,
+      "popularity": 248.2392,
       "poster_path": "/cSNgGUf6k2k7WJJVlda6ZUPYgGo.jpg",
       "release_date": "2026-02-26",
       "softcore": false,
       "video": false,
-      "vote_average": 6.664,
-      "vote_count": 58
+      "vote_average": 6.6,
+      "vote_count": 64
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "genre_ids": [
+        878,
+        12
+      ],
+      "id": 687163,
+      "title": "Projet dernière chance",
+      "original_language": "en",
+      "original_title": "Project Hail Mary",
+      "overview": "Le professeur de sciences Ryland Grace se réveille à bord d’un vaisseau spatial, à des années-lumière de la Terre, sans aucun souvenir de qui il est ni de la façon dont il est arrivé là. À mesure que sa mémoire lui revient, il commence à découvrir sa mission : résoudre l’énigme d’une mystérieuse substance qui provoque l’extinction du Soleil. Il doit faire appel à ses connaissances scientifiques et ses idées peu orthodoxes pour sauver toute vie sur Terre mais une amitié inattendue pourrait signifier qu’il n’aura pas à accomplir cette tâche seul.",
+      "popularity": 213.1689,
+      "poster_path": "/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
+      "release_date": "2026-03-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.22,
+      "vote_count": 1657
     },
     {
       "adult": false,
@@ -160,13 +160,34 @@
       "original_language": "en",
       "original_title": "The Mortuary Assistant",
       "overview": "Rebecca Owens, diplômée en thanatopraxie, accepte un emploi de nuit aux pompes funèbres River Fields. Ce qui commence comme une tâche routinière prend rapidement une tournure sinistre lorsqu’elle se retrouve confrontée à de terrifiantes forces surnaturelles.",
-      "popularity": 209.066,
+      "popularity": 198.9187,
       "poster_path": "/72AoFPC5TY4DfJwXXS9rPwPeReD.jpg",
       "release_date": "2026-02-13",
       "softcore": false,
       "video": false,
-      "vote_average": 5.526,
-      "vote_count": 78
+      "vote_average": 5.481,
+      "vote_count": 77
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1290821,
+      "title": "Refuge Fatal",
+      "original_language": "en",
+      "original_title": "Shelter",
+      "overview": "Mason vit isolé sur une île écossaise. Après avoir sauvé une jeune fille de l'océan lors d'une terrible tempête, il déclenche une série d'événements qui provoquent une violente attaque dans son refuge...",
+      "popularity": 186.1386,
+      "poster_path": "/u071a2uGEgC5lAMskhxdASwfQSt.jpg",
+      "release_date": "2026-01-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.786,
+      "vote_count": 583
     },
     {
       "adult": false,
@@ -183,34 +204,13 @@
       "original_language": "en",
       "original_title": "Hoppers",
       "overview": "Mabel est une jeune fille audacieuse qui a une grande ambition : infiltrer le monde animal. Pour ce faire, elle transfère son esprit à un robot castor afin de pouvoir approcher d’autres animaux et étudier leur mode de vie.",
-      "popularity": 191.3328,
+      "popularity": 182.0789,
       "poster_path": "/tWmEsB3MtN7RfdXphzghC8B3ahX.jpg",
       "release_date": "2026-03-04",
       "softcore": false,
       "video": false,
-      "vote_average": 7.6,
-      "vote_count": 494
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
-      "genre_ids": [
-        28,
-        80,
-        53
-      ],
-      "id": 1290821,
-      "title": "Refuge Fatal",
-      "original_language": "en",
-      "original_title": "Shelter",
-      "overview": "Mason vit isolé sur une île écossaise. Après avoir sauvé une jeune fille de l'océan lors d'une terrible tempête, il déclenche une série d'événements qui provoquent une violente attaque dans son refuge...",
-      "popularity": 194.5063,
-      "poster_path": "/u071a2uGEgC5lAMskhxdASwfQSt.jpg",
-      "release_date": "2026-01-28",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.79,
-      "vote_count": 580
+      "vote_average": 7.583,
+      "vote_count": 499
     },
     {
       "adult": false,
@@ -225,33 +225,13 @@
       "original_language": "en",
       "original_title": "Balls Up",
       "overview": "Dans cette comédie déjantée et exubérante, les cadres du marketing Brad (Mark Wahlberg) et Elijah (Paul Walter Hauser) présentent un préservatif intégral novateur comme sponsor de la Coupe du monde au Brésil. Après avoir arrosé leur succès et déclenché un scandale, ils doivent échapper aux fans déchaînés, criminels et fonctionnaires corrompus pour sauver leur carrière et rentrer chez eux en vie.",
-      "popularity": 190.1378,
+      "popularity": 160.7202,
       "poster_path": "/d0k1OH8vBxr9xYjUmHTrXbGo4IW.jpg",
       "release_date": "2026-04-15",
       "softcore": false,
       "video": false,
-      "vote_average": 5.658,
-      "vote_count": 98
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/3ooXDVaz4xHKtwe4lkmF1gNopOC.jpg",
-      "genre_ids": [
-        27,
-        53
-      ],
-      "id": 1290417,
-      "title": "Nature prédatrice",
-      "original_language": "en",
-      "original_title": "Thrash",
-      "overview": "Au cœur d’un ouragan catastrophique, une ville côtière lutte contre la fureur de la nature et une attaque de requins. Bravant les pluies torrentielles, les débris et l’obscurité, les habitants s’unissent pour survivre aux prédateurs mortels et réussir à traverser la tempête.",
-      "popularity": 168.6483,
-      "poster_path": "/528AmsLDzY0M9w2xvu52OuxvK7z.jpg",
-      "release_date": "2026-04-10",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5.98,
-      "vote_count": 375
+      "vote_average": 5.647,
+      "vote_count": 109
     },
     {
       "adult": false,
@@ -266,13 +246,13 @@
       "original_language": "en",
       "original_title": "Greenland 2: Migration",
       "overview": "Après l'impact dévastateur d'une comète qui a réduit la Terre en ruines, la famille Garrity doit quitter la sécurité de son bunker au Groenland. Commence alors un périple pour leur survie et l'avenir de l'Humanité à travers un monde dévasté à la recherche d'un nouveau foyer.",
-      "popularity": 182.1379,
+      "popularity": 156.953,
       "poster_path": "/mu05wZK0MH2bYmuO7hXwZECqC1X.jpg",
       "release_date": "2026-01-07",
       "softcore": false,
       "video": false,
       "vote_average": 6.5,
-      "vote_count": 893
+      "vote_count": 898
     },
     {
       "adult": false,
@@ -286,13 +266,33 @@
       "original_language": "en",
       "original_title": "Lee Cronin's The Mummy",
       "overview": "Une jeune fille disparue dans le désert égyptien réapparaît mystérieusement huit ans plus tard. Mais les retrouvailles tournent vite au cauchemar. Alors que son comportement devient de plus en plus inquiétant, sa famille se lance dans une course contre la montre pour comprendre l’origine du mal. Ce qu’ils vont découvrir dépasse tout ce qu’ils imaginaient.",
-      "popularity": 171.6298,
+      "popularity": 166.7205,
       "poster_path": "/f77yGBGOjainowvlGHU70CCQrjV.jpg",
       "release_date": "2026-04-15",
       "softcore": false,
       "video": false,
-      "vote_average": 6.909,
-      "vote_count": 116
+      "vote_average": 6.9,
+      "vote_count": 124
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/3ooXDVaz4xHKtwe4lkmF1gNopOC.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 1290417,
+      "title": "Nature prédatrice",
+      "original_language": "en",
+      "original_title": "Thrash",
+      "overview": "Au cœur d’un ouragan catastrophique, une ville côtière lutte contre la fureur de la nature et une attaque de requins. Bravant les pluies torrentielles, les débris et l’obscurité, les habitants s’unissent pour survivre aux prédateurs mortels et réussir à traverser la tempête.",
+      "popularity": 153.9028,
+      "poster_path": "/528AmsLDzY0M9w2xvu52OuxvK7z.jpg",
+      "release_date": "2026-04-10",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.986,
+      "vote_count": 385
     },
     {
       "adult": false,
@@ -306,36 +306,13 @@
       "original_language": "en",
       "original_title": "Crime 101",
       "overview": "Dans Crime 101, les cambriolages méticuleux à LA le long de l'autoroute 101 d'un voleur de bijoux chevronné (Chris Hemsworth) déconcertent la police. Un flic solitaire (Mark Ruffalo) est à ses trousses. Lorsque leurs chemins croisent celui d'une courtière en assurance désabusée (Halle Berry), tous trois sont confrontés à des choix déterminants face aux millions de dollars en jeu.",
-      "popularity": 140.4731,
+      "popularity": 132.0621,
       "poster_path": "/cz6VIBoOKopo3pymqRkNiVc2M7.jpg",
       "release_date": "2026-02-11",
       "softcore": false,
       "video": false,
-      "vote_average": 6.976,
-      "vote_count": 742
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
-      "genre_ids": [
-        10751,
-        35,
-        12,
-        14,
-        16
-      ],
-      "id": 502356,
-      "title": "Super Mario Bros., le film",
-      "original_language": "en",
-      "original_title": "The Super Mario Bros. Movie",
-      "overview": "Alors qu’ils tentent de réparer une canalisation souterraine, Mario et son frère Luigi, tous deux plombiers, se retrouvent plongés dans un nouvel univers féerique à travers un mystérieux conduit. Mais lorsque les deux frères sont séparés, Mario s’engage dans une aventure trépidante pour retrouver Luigi. Dans sa quête, il peut compter sur l’aide du champignon Toad, habitant du Royaume Champignon, et les conseils avisés, en matière de techniques de combat, de la Princesse Peach, guerrière déterminée à la tête du Royaume. C’est ainsi que Mario réussit à mobiliser ses propres forces pour aller au bout de sa mission.",
-      "popularity": 132.1767,
-      "poster_path": "/ahMxyHMSJXingQr4yJBMzMU9k42.jpg",
-      "release_date": "2023-04-05",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.587,
-      "vote_count": 10506
+      "vote_average": 6.975,
+      "vote_count": 751
     },
     {
       "adult": false,
@@ -349,13 +326,13 @@
       "original_language": "en",
       "original_title": "The Strangers: Chapter 3",
       "overview": "Maya affronte une dernière fois les tueurs masqués dans un règlement de comptes brutal et complet, une histoire de survie et de vengeance.",
-      "popularity": 139.5821,
+      "popularity": 131.2846,
       "poster_path": "/8GkCZUA8RnpvbY6mZFMKziOnOD6.jpg",
       "release_date": "2026-02-05",
       "softcore": false,
       "video": false,
-      "vote_average": 5.67,
-      "vote_count": 115
+      "vote_average": 5.672,
+      "vote_count": 116
     },
     {
       "adult": false,
@@ -369,7 +346,7 @@
       "original_language": "en",
       "original_title": "Sniper: No Nation",
       "overview": "Brandon Beckett, tireur d'élite hors pair, est accusé de terrorisme et désavoué par son pays. Il est alors contraint de se lancer, aux côtés de son père, dans une mission de sauvetage à haut risque. Pas de renforts, pas de frontières, pas de règles… les Beckett vont devoir affronter la Légion de Fer, une armée de mercenaires impitoyables, pour empêcher un régime corrompu de déclencher une guerre.",
-      "popularity": 138.8777,
+      "popularity": 135.2849,
       "poster_path": "/7JzTyt2GlkZ0bcH3r85iRvcG4Es.jpg",
       "release_date": "2026-04-07",
       "softcore": false,
@@ -390,35 +367,59 @@
       "original_language": "en",
       "original_title": "GOAT",
       "overview": "Will est un petit bouc avec de grands rêves. Lorsqu'il décroche une chance inespérée de rejoindre la ligue professionnelle de \"roarball\", un sport ultra-intense réservé aux bêtes les plus rapides et féroces, il entend bien saisir l’opportunité. Problème : ses nouveaux coéquipiers ne sont pas vraiment ravis d'avoir un \"petit\" dans l'équipe. Mais Will est prêt à tout pour changer les règles du jeu.",
-      "popularity": 133.4087,
+      "popularity": 132.4376,
       "poster_path": "/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
       "release_date": "2026-02-11",
       "softcore": false,
       "video": false,
-      "vote_average": 7.9,
-      "vote_count": 418
+      "vote_average": 7.903,
+      "vote_count": 419
     },
     {
       "adult": false,
-      "backdrop_path": "/qXxFWyur7jFkg2aQgENcXuyYeHF.jpg",
+      "backdrop_path": "/9n2tJBplPbgR2ca05hS5CKXwP2c.jpg",
       "genre_ids": [
-        27,
-        9648
+        10751,
+        35,
+        12,
+        14,
+        16
       ],
-      "id": 1480387,
-      "title": "undertone",
+      "id": 502356,
+      "title": "Super Mario Bros., le film",
       "original_language": "en",
-      "original_title": "undertone",
-      "overview": "L'animatrice d'un podcast paranormal populaire est hantée par des enregistrements terrifiants qui lui sont mystérieusement envoyés.",
-      "popularity": 126.4657,
-      "poster_path": "/2PFgFMnrdCPXWiZl1PUvky7Mo9D.jpg",
-      "release_date": "2026-03-12",
+      "original_title": "The Super Mario Bros. Movie",
+      "overview": "Alors qu’ils tentent de réparer une canalisation souterraine, Mario et son frère Luigi, tous deux plombiers, se retrouvent plongés dans un nouvel univers féerique à travers un mystérieux conduit. Mais lorsque les deux frères sont séparés, Mario s’engage dans une aventure trépidante pour retrouver Luigi. Dans sa quête, il peut compter sur l’aide du champignon Toad, habitant du Royaume Champignon, et les conseils avisés, en matière de techniques de combat, de la Princesse Peach, guerrière déterminée à la tête du Royaume. C’est ainsi que Mario réussit à mobiliser ses propres forces pour aller au bout de sa mission.",
+      "popularity": 118.4745,
+      "poster_path": "/ahMxyHMSJXingQr4yJBMzMU9k42.jpg",
+      "release_date": "2023-04-05",
       "softcore": false,
       "video": false,
-      "vote_average": 6.584,
-      "vote_count": 83
+      "vote_average": 7.587,
+      "vote_count": 10509
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14
+      ],
+      "id": 1311031,
+      "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
+      "original_language": "ja",
+      "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+      "overview": "L'armée des pourfendeurs de démons est attirée dans la Forteresse Infinie, où Tanjiro, Zenitsu et Inosuke  affrontent de terrifiants démons de rang supérieur dans un combat désespéré alors que la bataille finale contre Kibutsuji Muzan commence.",
+      "popularity": 129.1631,
+      "poster_path": "/wXTU3AFmlUPbqjH68MZ989uHd6k.jpg",
+      "release_date": "2025-07-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 807
     }
   ],
-  "total_pages": 56313,
-  "total_results": 1126258
+  "total_pages": 56331,
+  "total_results": 1126607
 }
