@@ -21,8 +21,8 @@
       "release_date": "2026-04-01",
       "softcore": false,
       "video": false,
-      "vote_average": 6.743,
-      "vote_count": 594
+      "vote_average": 6.762,
+      "vote_count": 610
     },
     {
       "adult": false,
@@ -62,8 +62,8 @@
       "release_date": "2026-01-22",
       "softcore": false,
       "video": false,
-      "vote_average": 7.047,
-      "vote_count": 1065
+      "vote_average": 7.032,
+      "vote_count": 1073
     },
     {
       "adult": false,
@@ -105,8 +105,8 @@
       "release_date": "2025-12-17",
       "softcore": false,
       "video": false,
-      "vote_average": 7.374,
-      "vote_count": 2705
+      "vote_average": 7.373,
+      "vote_count": 2715
     },
     {
       "adult": false,
@@ -125,8 +125,28 @@
       "release_date": "2026-02-26",
       "softcore": false,
       "video": false,
-      "vote_average": 6.875,
-      "vote_count": 76
+      "vote_average": 6.816,
+      "vote_count": 79
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9nzfyiYbmTUXWC4B2kwjl4NAlqO.jpg",
+      "genre_ids": [
+        53,
+        28
+      ],
+      "id": 1318447,
+      "title": "Apex",
+      "original_language": "en",
+      "original_title": "Apex",
+      "overview": "Alors qu'elle teste ses limites en solo dans la nature sauvage australienne, une femme en deuil se retrouve prise au piège d'un jeu tordu avec un tueur qui a fait d'elle sa proie.",
+      "popularity": 211.9555,
+      "poster_path": "/9iuGBLJBRuGKR6nRL4SxUV1tIdt.jpg",
+      "release_date": "2026-04-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.322,
+      "vote_count": 132
     },
     {
       "adult": false,
@@ -145,8 +165,28 @@
       "release_date": "2026-03-15",
       "softcore": false,
       "video": false,
-      "vote_average": 8.217,
-      "vote_count": 1690
+      "vote_average": 8.22,
+      "vote_count": 1709
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
+      "genre_ids": [
+        10402,
+        18
+      ],
+      "id": 936075,
+      "title": "Michael",
+      "original_language": "en",
+      "original_title": "Michael",
+      "overview": "Michael dresse le portrait cinématographique de la vie et de l’héritage de l’un des artistes les plus influents de notre époque.  Le film raconte l’histoire de Michael Jackson au-delà de la musique, depuis la découverte d’un talent hors du commun en tant que leader des Jackson Five, jusqu’à l’artiste visionnaire dont l’ambition créative a alimenté une quête incessante pour devenir le plus grand artiste au monde.  Mettant en lumière sa vie hors scène et ses performances les plus emblématiques de ses débuts en solo, le film offre au public une place au premier rang pour découvrir Michael Jackson comme jamais auparavant.",
+      "popularity": 187.1165,
+      "poster_path": "/2sDgNilJGVFpl1x4DMzYHjk0L0f.jpg",
+      "release_date": "2026-04-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.405,
+      "vote_count": 169
     },
     {
       "adult": false,
@@ -170,26 +210,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
-      "genre_ids": [
-        10402,
-        18
-      ],
-      "id": 936075,
-      "title": "Michael",
-      "original_language": "en",
-      "original_title": "Michael",
-      "overview": "Michael dresse le portrait cinématographique de la vie et de l’héritage de l’un des artistes les plus influents de notre époque.  Le film raconte l’histoire de Michael Jackson au-delà de la musique, depuis la découverte d’un talent hors du commun en tant que leader des Jackson Five, jusqu’à l’artiste visionnaire dont l’ambition créative a alimenté une quête incessante pour devenir le plus grand artiste au monde.  Mettant en lumière sa vie hors scène et ses performances les plus emblématiques de ses débuts en solo, le film offre au public une place au premier rang pour découvrir Michael Jackson comme jamais auparavant.",
-      "popularity": 187.1165,
-      "poster_path": "/2sDgNilJGVFpl1x4DMzYHjk0L0f.jpg",
-      "release_date": "2026-04-22",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.25,
-      "vote_count": 128
-    },
-    {
-      "adult": false,
       "backdrop_path": "/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
       "genre_ids": [
         28,
@@ -206,8 +226,8 @@
       "release_date": "2026-01-28",
       "softcore": false,
       "video": false,
-      "vote_average": 6.8,
-      "vote_count": 593
+      "vote_average": 6.789,
+      "vote_count": 595
     },
     {
       "adult": false,
@@ -229,8 +249,8 @@
       "release_date": "2026-03-04",
       "softcore": false,
       "video": false,
-      "vote_average": 7.577,
-      "vote_count": 510
+      "vote_average": 7.575,
+      "vote_count": 515
     },
     {
       "adult": false,
@@ -248,8 +268,49 @@
       "release_date": "2025-01-09",
       "softcore": false,
       "video": false,
-      "vote_average": 6.208,
-      "vote_count": 24
+      "vote_average": 6.036,
+      "vote_count": 28
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751
+      ],
+      "id": 1297842,
+      "title": "GOAT : Rêver plus haut",
+      "original_language": "en",
+      "original_title": "GOAT",
+      "overview": "Will est un petit bouc avec de grands rêves. Lorsqu'il décroche une chance inespérée de rejoindre la ligue professionnelle de \"roarball\", un sport ultra-intense réservé aux bêtes les plus rapides et féroces, il entend bien saisir l’opportunité. Problème : ses nouveaux coéquipiers ne sont pas vraiment ravis d'avoir un \"petit\" dans l'équipe. Mais Will est prêt à tout pour changer les règles du jeu.",
+      "popularity": 140.9838,
+      "poster_path": "/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
+      "release_date": "2026-02-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.904,
+      "vote_count": 444
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sl2649wlcocfFU7HKxQgNUEBMnT.jpg",
+      "genre_ids": [
+        80,
+        53
+      ],
+      "id": 1171145,
+      "title": "Crime 101",
+      "original_language": "en",
+      "original_title": "Crime 101",
+      "overview": "Dans Crime 101, les cambriolages méticuleux à LA le long de l'autoroute 101 d'un voleur de bijoux chevronné (Chris Hemsworth) déconcertent la police. Un flic solitaire (Mark Ruffalo) est à ses trousses. Lorsque leurs chemins croisent celui d'une courtière en assurance désabusée (Halle Berry), tous trois sont confrontés à des choix déterminants face aux millions de dollars en jeu.",
+      "popularity": 136.9843,
+      "poster_path": "/cz6VIBoOKopo3pymqRkNiVc2M7.jpg",
+      "release_date": "2026-02-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.956,
+      "vote_count": 773
     },
     {
       "adult": false,
@@ -268,48 +329,8 @@
       "release_date": "2026-04-15",
       "softcore": false,
       "video": false,
-      "vote_average": 6.902,
-      "vote_count": 132
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/3ooXDVaz4xHKtwe4lkmF1gNopOC.jpg",
-      "genre_ids": [
-        27,
-        53
-      ],
-      "id": 1290417,
-      "title": "Nature prédatrice",
-      "original_language": "en",
-      "original_title": "Thrash",
-      "overview": "Au cœur d’un ouragan catastrophique, une ville côtière lutte contre la fureur de la nature et une attaque de requins. Bravant les pluies torrentielles, les débris et l’obscurité, les habitants s’unissent pour survivre aux prédateurs mortels et réussir à traverser la tempête.",
-      "popularity": 116.7267,
-      "poster_path": "/528AmsLDzY0M9w2xvu52OuxvK7z.jpg",
-      "release_date": "2026-04-10",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5.971,
-      "vote_count": 411
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/vG42HeYtoTFflqwP42wYD7tBuNr.jpg",
-      "genre_ids": [
-        80,
-        53
-      ],
-      "id": 1171145,
-      "title": "Crime 101",
-      "original_language": "en",
-      "original_title": "Crime 101",
-      "overview": "Dans Crime 101, les cambriolages méticuleux à LA le long de l'autoroute 101 d'un voleur de bijoux chevronné (Chris Hemsworth) déconcertent la police. Un flic solitaire (Mark Ruffalo) est à ses trousses. Lorsque leurs chemins croisent celui d'une courtière en assurance désabusée (Halle Berry), tous trois sont confrontés à des choix déterminants face aux millions de dollars en jeu.",
-      "popularity": 136.9843,
-      "poster_path": "/cz6VIBoOKopo3pymqRkNiVc2M7.jpg",
-      "release_date": "2026-02-11",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.956,
-      "vote_count": 766
+      "vote_average": 6.8,
+      "vote_count": 140
     },
     {
       "adult": false,
@@ -333,48 +354,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
-      "genre_ids": [
-        16,
-        35,
-        10751
-      ],
-      "id": 1297842,
-      "title": "GOAT : Rêver plus haut",
-      "original_language": "en",
-      "original_title": "GOAT",
-      "overview": "Will est un petit bouc avec de grands rêves. Lorsqu'il décroche une chance inespérée de rejoindre la ligue professionnelle de \"roarball\", un sport ultra-intense réservé aux bêtes les plus rapides et féroces, il entend bien saisir l’opportunité. Problème : ses nouveaux coéquipiers ne sont pas vraiment ravis d'avoir un \"petit\" dans l'équipe. Mais Will est prêt à tout pour changer les règles du jeu.",
-      "popularity": 140.9838,
-      "poster_path": "/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
-      "release_date": "2026-02-11",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.896,
-      "vote_count": 436
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/jRsjWwZzI39bTm44FNhRtiICd9k.jpg",
-      "genre_ids": [
-        35,
-        28,
-        12
-      ],
-      "id": 1084577,
-      "title": "Balls Up : Mettez le paquet !",
-      "original_language": "en",
-      "original_title": "Balls Up",
-      "overview": "Dans cette comédie déjantée et exubérante, les cadres du marketing Brad (Mark Wahlberg) et Elijah (Paul Walter Hauser) présentent un préservatif intégral novateur comme sponsor de la Coupe du monde au Brésil. Après avoir arrosé leur succès et déclenché un scandale, ils doivent échapper aux fans déchaînés, criminels et fonctionnaires corrompus pour sauver leur carrière et rentrer chez eux en vie.",
-      "popularity": 118.2784,
-      "poster_path": "/d0k1OH8vBxr9xYjUmHTrXbGo4IW.jpg",
-      "release_date": "2026-04-15",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5.667,
-      "vote_count": 120
-    },
-    {
-      "adult": false,
       "backdrop_path": "/wns4x1GyxCudgOZRyhXKjXVJf3T.jpg",
       "genre_ids": [
         12,
@@ -391,8 +370,8 @@
       "release_date": "2026-01-07",
       "softcore": false,
       "video": false,
-      "vote_average": 6.448,
-      "vote_count": 911
+      "vote_average": 6.443,
+      "vote_count": 920
     },
     {
       "adult": false,
@@ -412,10 +391,31 @@
       "release_date": "2025-07-18",
       "softcore": false,
       "video": false,
-      "vote_average": 7.686,
-      "vote_count": 810
+      "vote_average": 7.687,
+      "vote_count": 811
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jRsjWwZzI39bTm44FNhRtiICd9k.jpg",
+      "genre_ids": [
+        35,
+        28,
+        12
+      ],
+      "id": 1084577,
+      "title": "Balls Up : Mettez le paquet !",
+      "original_language": "en",
+      "original_title": "Balls Up",
+      "overview": "Dans cette comédie déjantée et exubérante, les cadres du marketing Brad (Mark Wahlberg) et Elijah (Paul Walter Hauser) présentent un préservatif intégral novateur comme sponsor de la Coupe du monde au Brésil. Après avoir arrosé leur succès et déclenché un scandale, ils doivent échapper aux fans déchaînés, criminels et fonctionnaires corrompus pour sauver leur carrière et rentrer chez eux en vie.",
+      "popularity": 118.2784,
+      "poster_path": "/d0k1OH8vBxr9xYjUmHTrXbGo4IW.jpg",
+      "release_date": "2026-04-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.635,
+      "vote_count": 126
     }
   ],
-  "total_pages": 56373,
-  "total_results": 1127459
+  "total_pages": 56389,
+  "total_results": 1127765
 }
