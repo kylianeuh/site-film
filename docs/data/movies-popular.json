@@ -3,6 +3,26 @@
   "results": [
     {
       "adult": false,
+      "backdrop_path": "/p8777bPIlyFYcjqP2hU8htoz1RG.jpg",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "id": 1318447,
+      "title": "Apex",
+      "original_language": "en",
+      "original_title": "Apex",
+      "overview": "Alors qu'elle teste ses limites en solo dans la nature sauvage australienne, une femme en deuil se retrouve prise au piège d'un jeu tordu avec un tueur qui a fait d'elle sa proie.",
+      "popularity": 588.8779,
+      "poster_path": "/9iuGBLJBRuGKR6nRL4SxUV1tIdt.jpg",
+      "release_date": "2026-04-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.524,
+      "vote_count": 377
+    },
+    {
+      "adult": false,
       "backdrop_path": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
       "genre_ids": [
         10751,
@@ -16,53 +36,13 @@
       "original_language": "en",
       "original_title": "The Super Mario Galaxy Movie",
       "overview": "Au-delà du Royaume Champignon, Mario, Luigi et Yoshi voyagent à travers les galaxies aux côtés de Rosalina pour arrêter Bowser Jr., dont la tentative de sauver son père menace l’équilibre de l’univers.",
-      "popularity": 544.8314,
+      "popularity": 513.3125,
       "poster_path": "/aSQktALDmbunDbwkuZbZFMEWVFr.jpg",
       "release_date": "2026-04-01",
       "softcore": false,
       "video": false,
-      "vote_average": 6.774,
-      "vote_count": 642
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/9nzfyiYbmTUXWC4B2kwjl4NAlqO.jpg",
-      "genre_ids": [
-        53,
-        28
-      ],
-      "id": 1318447,
-      "title": "Apex",
-      "original_language": "en",
-      "original_title": "Apex",
-      "overview": "Alors qu'elle teste ses limites en solo dans la nature sauvage australienne, une femme en deuil se retrouve prise au piège d'un jeu tordu avec un tueur qui a fait d'elle sa proie.",
-      "popularity": 596.4148,
-      "poster_path": "/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
-      "release_date": "2026-04-24",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.533,
-      "vote_count": 333
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/1x9e0qWonw634NhIsRdvnneeqvN.jpg",
-      "genre_ids": [
-        10749,
-        18
-      ],
-      "id": 1523145,
-      "title": "Your Heart Will Be Broken",
-      "original_language": "ru",
-      "original_title": "Твоё сердце будет разбито",
-      "overview": "Polina, une lycéenne, est sauvée du harcèlement dans son nouveau lycée et conclut un pacte avec Bars, le principal harceleur : il doit faire semblant d'être son petit ami et la protéger, et elle doit obéir à tout ce qu'il lui dit. Au fil de ce jeu, le couple développe de véritables sentiments, mais sa famille et ses camarades de classe ont de bonnes raisons de vouloir séparer les amoureux.",
-      "popularity": 293.8464,
-      "poster_path": "/iGpMm603GUKH2SiXB2S5m4sZ17t.jpg",
-      "release_date": "2026-03-26",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.9,
-      "vote_count": 74
+      "vote_average": 6.739,
+      "vote_count": 665
     },
     {
       "adult": false,
@@ -77,13 +57,53 @@
       "original_language": "en",
       "original_title": "Send Help",
       "overview": "Après un terrible accident d'avion, deux collègues d'une compagnie se retrouvent seuls survivants, coincés sur une île déserte. L'une est une employée maligne et pleine de ressources, l'autre son patron tyrannique et désagréable. Obligés de s'adapter aux conditions extrêmes de leur isolement, ils doivent surmonter leurs vieilles rancunes et travailler ensemble pour survivre.",
-      "popularity": 298.1281,
+      "popularity": 276.0771,
       "poster_path": "/bMAn4qERdEfxotddEHWfMmkfjRv.jpg",
       "release_date": "2026-01-22",
       "softcore": false,
       "video": false,
-      "vote_average": 7.032,
-      "vote_count": 1109
+      "vote_average": 7.035,
+      "vote_count": 1118
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1x9e0qWonw634NhIsRdvnneeqvN.jpg",
+      "genre_ids": [
+        10749,
+        18
+      ],
+      "id": 1523145,
+      "title": "Your Heart Will Be Broken",
+      "original_language": "ru",
+      "original_title": "Твоё сердце будет разбито",
+      "overview": "Polina, une lycéenne, est sauvée du harcèlement dans son nouveau lycée et conclut un pacte avec Bars, le principal harceleur : il doit faire semblant d'être son petit ami et la protéger, et elle doit obéir à tout ce qu'il lui dit. Au fil de ce jeu, le couple développe de véritables sentiments, mais sa famille et ses camarades de classe ont de bonnes raisons de vouloir séparer les amoureux.",
+      "popularity": 283.8404,
+      "poster_path": "/iGpMm603GUKH2SiXB2S5m4sZ17t.jpg",
+      "release_date": "2026-03-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.9,
+      "vote_count": 74
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
+      "genre_ids": [
+        10402,
+        18
+      ],
+      "id": 936075,
+      "title": "Michael",
+      "original_language": "en",
+      "original_title": "Michael",
+      "overview": "Michael dresse le portrait cinématographique de la vie et de l’héritage de l’un des artistes les plus influents de notre époque.  Le film raconte l’histoire de Michael Jackson au-delà de la musique, depuis la découverte d’un talent hors du commun en tant que leader des Jackson Five, jusqu’à l’artiste visionnaire dont l’ambition créative a alimenté une quête incessante pour devenir le plus grand artiste au monde.  Mettant en lumière sa vie hors scène et ses performances les plus emblématiques de ses débuts en solo, le film offre au public une place au premier rang pour découvrir Michael Jackson comme jamais auparavant.",
+      "popularity": 264.1109,
+      "poster_path": "/2sDgNilJGVFpl1x4DMzYHjk0L0f.jpg",
+      "release_date": "2026-04-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.579,
+      "vote_count": 312
     },
     {
       "adult": false,
@@ -99,33 +119,13 @@
       "original_language": "en",
       "original_title": "Avatar Aang: The Last Airbender",
       "overview": "Les aventures du successeur du dernier Avatar qui doit empêcher la nation du Feu d’asservir les nations de la Terre, de l’Eau et de l’Air...",
-      "popularity": 253.5738,
+      "popularity": 226.6882,
       "poster_path": "/29Jdsak3SrwGds5k1t43kH6Khed.jpg",
       "release_date": "2026-10-09",
       "softcore": false,
       "video": false,
       "vote_average": 0,
       "vote_count": 0
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
-      "genre_ids": [
-        10402,
-        18
-      ],
-      "id": 936075,
-      "title": "Michael",
-      "original_language": "en",
-      "original_title": "Michael",
-      "overview": "Michael dresse le portrait cinématographique de la vie et de l’héritage de l’un des artistes les plus influents de notre époque.  Le film raconte l’histoire de Michael Jackson au-delà de la musique, depuis la découverte d’un talent hors du commun en tant que leader des Jackson Five, jusqu’à l’artiste visionnaire dont l’ambition créative a alimenté une quête incessante pour devenir le plus grand artiste au monde.  Mettant en lumière sa vie hors scène et ses performances les plus emblématiques de ses débuts en solo, le film offre au public une place au premier rang pour découvrir Michael Jackson comme jamais auparavant.",
-      "popularity": 271.214,
-      "poster_path": "/2sDgNilJGVFpl1x4DMzYHjk0L0f.jpg",
-      "release_date": "2026-04-22",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.614,
-      "vote_count": 290
     },
     {
       "adult": false,
@@ -140,13 +140,34 @@
       "original_language": "en",
       "original_title": "Avatar: Fire and Ash",
       "overview": "Après la mort de Neteyam, Jake et Neytiri affrontent leur chagrin tout en faisant face au Peuple des Cendres, une tribu Na’vi redoutable menée par la fougueuse Varang, alors que le conflit sur Pandora s’intensifie et qu’une nouvelle quête morale s’amorce.",
-      "popularity": 227.3422,
+      "popularity": 215.0432,
       "poster_path": "/kG3N8oQ10qiw2MsnSHFGJpQNyEy.jpg",
       "release_date": "2025-12-17",
       "softcore": false,
       "video": false,
-      "vote_average": 7.377,
-      "vote_count": 2747
+      "vote_average": 7.4,
+      "vote_count": 2751
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xnb15logFGJRniA7Ud3NILSPPhs.jpg",
+      "genre_ids": [
+        27,
+        28,
+        35
+      ],
+      "id": 1292695,
+      "title": "They Will Kill You",
+      "original_language": "en",
+      "original_title": "They Will Kill You",
+      "overview": "Une jeune femme doit survivre toute une nuit, enfermée dans le mystérieux et sordide repaire d'une secte démoniaque, et tout faire pour ne pas devenir leur prochain sacrifice. Une lutte acharnée, des combats saisissants et un humour profondément noir vous attendent.",
+      "popularity": 219.7171,
+      "poster_path": "/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
+      "release_date": "2026-03-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.5,
+      "vote_count": 196
     },
     {
       "adult": false,
@@ -160,32 +181,33 @@
       "original_language": "es",
       "original_title": "Venganza",
       "overview": "Quand sa femme est brutalement assassinée, Carlos Estrada, héros décoré des forces spéciales, n'a plus qu'un seul but : la vengeance. Après qu'un coup du sort inattendu le rend millionnaire, Carlos transforme sa fortune en arsenal et, entouré de ses soldats les plus fidèles, lance une traque impitoyable contre les responsables.",
-      "popularity": 203.9331,
+      "popularity": 191.9785,
       "poster_path": "/cSNgGUf6k2k7WJJVlda6ZUPYgGo.jpg",
       "release_date": "2026-02-26",
       "softcore": false,
       "video": false,
-      "vote_average": 6.984,
-      "vote_count": 93
+      "vote_average": 7.031,
+      "vote_count": 97
     },
     {
       "adult": false,
-      "backdrop_path": "/be5T7oHxmDG4ytEimwPdmDHZD9N.jpg",
+      "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
       "genre_ids": [
-        27
+        878,
+        12
       ],
-      "id": 1352874,
-      "title": "The Crucifix: Blood of the Exorcist",
+      "id": 687163,
+      "title": "Projet dernière chance",
       "original_language": "en",
-      "original_title": "The Crucifix: Blood of the Exorcist",
-      "overview": "",
-      "popularity": 160.9132,
-      "poster_path": "/uLXxpWRfoIPfB2fwM8hsAMIjSWf.jpg",
-      "release_date": "2025-01-09",
+      "original_title": "Project Hail Mary",
+      "overview": "Le professeur de sciences Ryland Grace se réveille à bord d’un vaisseau spatial, à des années-lumière de la Terre, sans aucun souvenir de qui il est ni de la façon dont il est arrivé là. À mesure que sa mémoire lui revient, il commence à découvrir sa mission : résoudre l’énigme d’une mystérieuse substance qui provoque l’extinction du Soleil. Il doit faire appel à ses connaissances scientifiques et ses idées peu orthodoxes pour sauver toute vie sur Terre mais une amitié inattendue pourrait signifier qu’il n’aura pas à accomplir cette tâche seul.",
+      "popularity": 168.4848,
+      "poster_path": "/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
+      "release_date": "2026-03-15",
       "softcore": false,
       "video": false,
-      "vote_average": 6.033,
-      "vote_count": 30
+      "vote_average": 8.208,
+      "vote_count": 1804
     },
     {
       "adult": false,
@@ -202,13 +224,32 @@
       "original_language": "en",
       "original_title": "Hoppers",
       "overview": "Mabel est une jeune fille audacieuse qui a une grande ambition : infiltrer le monde animal. Pour ce faire, elle transfère son esprit à un robot castor afin de pouvoir approcher d’autres animaux et étudier leur mode de vie.",
-      "popularity": 162.5408,
-      "poster_path": "/tWmEsB3MtN7RfdXphzghC8B3ahX.jpg",
+      "popularity": 194.1653,
+      "poster_path": "/hwFQ33TvDGugRb0JFkCeKyrpIhT.jpg",
       "release_date": "2026-03-04",
       "softcore": false,
       "video": false,
-      "vote_average": 7.589,
-      "vote_count": 528
+      "vote_average": 7.608,
+      "vote_count": 543
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/be5T7oHxmDG4ytEimwPdmDHZD9N.jpg",
+      "genre_ids": [
+        27
+      ],
+      "id": 1352874,
+      "title": "The Crucifix: Blood of the Exorcist",
+      "original_language": "en",
+      "original_title": "The Crucifix: Blood of the Exorcist",
+      "overview": "",
+      "popularity": 146.6369,
+      "poster_path": "/u3qOxvlykoTpurg1G8VOcawoePI.jpg",
+      "release_date": "2025-01-09",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6,
+      "vote_count": 30
     },
     {
       "adult": false,
@@ -219,98 +260,17 @@
         53
       ],
       "id": 1290821,
-      "title": "Refuge Fatal",
+      "title": "Shelter",
       "original_language": "en",
       "original_title": "Shelter",
       "overview": "Mason vit isolé sur une île écossaise. Après avoir sauvé une jeune fille de l'océan lors d'une terrible tempête, il déclenche une série d'événements qui provoquent une violente attaque dans son refuge...",
-      "popularity": 155.8428,
-      "poster_path": "/u071a2uGEgC5lAMskhxdASwfQSt.jpg",
+      "popularity": 144.4254,
+      "poster_path": "/1OBhmw3wyCTL5YIl0AbsUwPFQIf.jpg",
       "release_date": "2026-01-28",
       "softcore": false,
       "video": false,
-      "vote_average": 6.784,
-      "vote_count": 604
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "genre_ids": [
-        878,
-        12
-      ],
-      "id": 687163,
-      "title": "Projet dernière chance",
-      "original_language": "en",
-      "original_title": "Project Hail Mary",
-      "overview": "Le professeur de sciences Ryland Grace se réveille à bord d’un vaisseau spatial, à des années-lumière de la Terre, sans aucun souvenir de qui il est ni de la façon dont il est arrivé là. À mesure que sa mémoire lui revient, il commence à découvrir sa mission : résoudre l’énigme d’une mystérieuse substance qui provoque l’extinction du Soleil. Il doit faire appel à ses connaissances scientifiques et ses idées peu orthodoxes pour sauver toute vie sur Terre mais une amitié inattendue pourrait signifier qu’il n’aura pas à accomplir cette tâche seul.",
-      "popularity": 174.967,
-      "poster_path": "/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
-      "release_date": "2026-03-15",
-      "softcore": false,
-      "video": false,
-      "vote_average": 8.2,
-      "vote_count": 1784
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/gM1kQRPwOVW1Eos5tVWqcYmHR5S.jpg",
-      "genre_ids": [
-        27,
-        9648
-      ],
-      "id": 1470130,
-      "title": "The Mortuary Assistant",
-      "original_language": "en",
-      "original_title": "The Mortuary Assistant",
-      "overview": "Rebecca Owens, diplômée en thanatopraxie, accepte un emploi de nuit aux pompes funèbres River Fields. Ce qui commence comme une tâche routinière prend rapidement une tournure sinistre lorsqu’elle se retrouve confrontée à de terrifiantes forces surnaturelles.",
-      "popularity": 135.9678,
-      "poster_path": "/72AoFPC5TY4DfJwXXS9rPwPeReD.jpg",
-      "release_date": "2026-02-13",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5.488,
-      "vote_count": 81
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/sl2649wlcocfFU7HKxQgNUEBMnT.jpg",
-      "genre_ids": [
-        80,
-        53
-      ],
-      "id": 1171145,
-      "title": "Crime 101",
-      "original_language": "en",
-      "original_title": "Crime 101",
-      "overview": "Dans Crime 101, les cambriolages méticuleux à LA le long de l'autoroute 101 d'un voleur de bijoux chevronné (Chris Hemsworth) déconcertent la police. Un flic solitaire (Mark Ruffalo) est à ses trousses. Lorsque leurs chemins croisent celui d'une courtière en assurance désabusée (Halle Berry), tous trois sont confrontés à des choix déterminants face aux millions de dollars en jeu.",
-      "popularity": 138.9033,
-      "poster_path": "/cz6VIBoOKopo3pymqRkNiVc2M7.jpg",
-      "release_date": "2026-02-11",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.9,
-      "vote_count": 795
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-      "genre_ids": [
-        16,
-        28,
-        14
-      ],
-      "id": 1311031,
-      "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
-      "original_language": "ja",
-      "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
-      "overview": "L'armée des pourfendeurs de démons est attirée dans la Forteresse Infinie, où Tanjiro, Zenitsu et Inosuke  affrontent de terrifiants démons de rang supérieur dans un combat désespéré alors que la bataille finale contre Kibutsuji Muzan commence.",
-      "popularity": 129.6573,
-      "poster_path": "/wXTU3AFmlUPbqjH68MZ989uHd6k.jpg",
-      "release_date": "2025-07-18",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.7,
-      "vote_count": 812
+      "vote_average": 6.8,
+      "vote_count": 605
     },
     {
       "adult": false,
@@ -325,33 +285,93 @@
       "original_language": "en",
       "original_title": "GOAT",
       "overview": "Will est un petit bouc avec de grands rêves. Lorsqu'il décroche une chance inespérée de rejoindre la ligue professionnelle de \"roarball\", un sport ultra-intense réservé aux bêtes les plus rapides et féroces, il entend bien saisir l’opportunité. Problème : ses nouveaux coéquipiers ne sont pas vraiment ravis d'avoir un \"petit\" dans l'équipe. Mais Will est prêt à tout pour changer les règles du jeu.",
-      "popularity": 142.6657,
+      "popularity": 138.7314,
       "poster_path": "/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
       "release_date": "2026-02-11",
       "softcore": false,
       "video": false,
-      "vote_average": 7.905,
-      "vote_count": 459
+      "vote_average": 7.917,
+      "vote_count": 462
     },
     {
       "adult": false,
-      "backdrop_path": "/7lizs4SuEU2ihkkAa0SZ66NtHbl.jpg",
+      "backdrop_path": "/sl2649wlcocfFU7HKxQgNUEBMnT.jpg",
       "genre_ids": [
-        28,
+        80,
         53
       ],
-      "id": 1641319,
-      "title": "Sniper: No Nation",
+      "id": 1171145,
+      "title": "Crime 101",
       "original_language": "en",
-      "original_title": "Sniper: No Nation",
-      "overview": "Brandon Beckett, tireur d'élite hors pair, est accusé de terrorisme et désavoué par son pays. Il est alors contraint de se lancer, aux côtés de son père, dans une mission de sauvetage à haut risque. Pas de renforts, pas de frontières, pas de règles… les Beckett vont devoir affronter la Légion de Fer, une armée de mercenaires impitoyables, pour empêcher un régime corrompu de déclencher une guerre.",
-      "popularity": 115.2816,
-      "poster_path": "/7JzTyt2GlkZ0bcH3r85iRvcG4Es.jpg",
-      "release_date": "2026-04-07",
+      "original_title": "Crime 101",
+      "overview": "Dans Crime 101, les cambriolages méticuleux à LA le long de l'autoroute 101 d'un voleur de bijoux chevronné (Chris Hemsworth) déconcertent la police. Un flic solitaire (Mark Ruffalo) est à ses trousses. Lorsque leurs chemins croisent celui d'une courtière en assurance désabusée (Halle Berry), tous trois sont confrontés à des choix déterminants face aux millions de dollars en jeu.",
+      "popularity": 130.2448,
+      "poster_path": "/cz6VIBoOKopo3pymqRkNiVc2M7.jpg",
+      "release_date": "2026-02-11",
       "softcore": false,
       "video": false,
-      "vote_average": 6.271,
-      "vote_count": 35
+      "vote_average": 6.938,
+      "vote_count": 802
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gM1kQRPwOVW1Eos5tVWqcYmHR5S.jpg",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "id": 1470130,
+      "title": "The Mortuary Assistant",
+      "original_language": "en",
+      "original_title": "The Mortuary Assistant",
+      "overview": "Rebecca Owens, diplômée en thanatopraxie, accepte un emploi de nuit aux pompes funèbres River Fields. Ce qui commence comme une tâche routinière prend rapidement une tournure sinistre lorsqu’elle se retrouve confrontée à de terrifiantes forces surnaturelles.",
+      "popularity": 116.7778,
+      "poster_path": "/72AoFPC5TY4DfJwXXS9rPwPeReD.jpg",
+      "release_date": "2026-02-13",
+      "softcore": false,
+      "video": false,
+      "vote_average": 5.512,
+      "vote_count": 83
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14
+      ],
+      "id": 1311031,
+      "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
+      "original_language": "ja",
+      "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+      "overview": "L'armée des pourfendeurs de démons est attirée dans la Forteresse Infinie, où Tanjiro, Zenitsu et Inosuke  affrontent de terrifiants démons de rang supérieur dans un combat désespéré alors que la bataille finale contre Kibutsuji Muzan commence.",
+      "popularity": 123.6656,
+      "poster_path": "/wXTU3AFmlUPbqjH68MZ989uHd6k.jpg",
+      "release_date": "2025-07-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 811
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lUbc4XVpCe1q4aqZyQqFCIubaDN.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 10867,
+      "title": "Malèna",
+      "original_language": "it",
+      "original_title": "Malèna",
+      "overview": "Au printemps 1940, Mussolini a déclaré la guerre à la France et à la Grande‐Bretagne. La ville sicilienne de Castelcuto est en liesse. Renato Amoroso, un garçon de treize ans, est heureux pour d’autres raisons. Il vient de recevoir sa première bicyclette et de tomber sous le charme de Malèna, une ravissante veuve de guerre qui fait tourner la tête à tous les hommes du village et attise la haine des épouses jalouses. Renato, littéralement envoûté, la suit partout avec son vélo. Mais Malèna est victime des refoulements et des convoitises des habitants de Castelcuto. Le petit garçon va trouver le moyen de l’aider, et grâce à elle, il apprendra les leçons de la vie.",
+      "popularity": 140.5192,
+      "poster_path": "/7aKRAjx2kgyP3GabnFQ2sLaT17d.jpg",
+      "release_date": "2000-10-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.428,
+      "vote_count": 2480
     },
     {
       "adult": false,
@@ -361,62 +381,39 @@
         10749
       ],
       "id": 1601797,
-      "title": "¿Quieres Ser Mi Novia?",
+      "title": "¿Quieres ser mi novia?",
       "original_language": "es",
-      "original_title": "¿Quieres Ser Mi Novia?",
+      "original_title": "¿Quieres ser mi novia?",
       "overview": "",
-      "popularity": 121.704,
+      "popularity": 116.8758,
       "poster_path": "/oscW8xV8EhRYj7iAhyVlBohKqxo.jpg",
       "release_date": "2026-02-12",
       "softcore": false,
       "video": false,
-      "vote_average": 8.471,
-      "vote_count": 52
+      "vote_average": 8.482,
+      "vote_count": 55
     },
     {
       "adult": false,
-      "backdrop_path": "/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
+      "backdrop_path": "/gkh6Nt8DtY1XT4gQsyFq9XAVJlJ.jpg",
       "genre_ids": [
-        12,
-        16,
-        35,
-        10751,
-        9648
+        18,
+        35
       ],
-      "id": 1084242,
-      "title": "Zootopie 2",
+      "id": 350,
+      "title": "Le Diable s'habille en Prada",
       "original_language": "en",
-      "original_title": "Zootopia 2",
-      "overview": "Judy Hopps et Nick Wilde explorent à nouveau Zootopie, entre mystères, rires et rencontres inattendues. À travers chaque rue et chaque instant, ils découvrent que l’amitié et la curiosité transforment le quotidien en moments magiques.",
-      "popularity": 114.8144,
-      "poster_path": "/hBI7Wrps6tDjhEzBxJgoPLhbmT1.jpg",
-      "release_date": "2025-11-26",
+      "original_title": "The Devil Wears Prada",
+      "overview": "Fraîchement diplômée, Andrea débarque à New York et décroche le job de rêve. Mais en tant qu’assistante de la tyrannique rédactrice en chef d’un prestigieux magazine de mode, elle va vite découvrir ce que le mot « enfer » veut dire…",
+      "popularity": 118.6618,
+      "poster_path": "/vTIBjWMWx1p5Wv2J3IRhEW13lrj.jpg",
+      "release_date": "2006-06-29",
       "softcore": false,
       "video": false,
-      "vote_average": 7.607,
-      "vote_count": 2619
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/3ooXDVaz4xHKtwe4lkmF1gNopOC.jpg",
-      "genre_ids": [
-        27,
-        53
-      ],
-      "id": 1290417,
-      "title": "Nature prédatrice",
-      "original_language": "en",
-      "original_title": "Thrash",
-      "overview": "Au cœur d’un ouragan catastrophique, une ville côtière lutte contre la fureur de la nature et une attaque de requins. Bravant les pluies torrentielles, les débris et l’obscurité, les habitants s’unissent pour survivre aux prédateurs mortels et réussir à traverser la tempête.",
-      "popularity": 105.0118,
-      "poster_path": "/528AmsLDzY0M9w2xvu52OuxvK7z.jpg",
-      "release_date": "2026-04-10",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5.95,
-      "vote_count": 454
+      "vote_average": 7.39,
+      "vote_count": 13009
     }
   ],
-  "total_pages": 56435,
-  "total_results": 1128694
+  "total_pages": 56455,
+  "total_results": 1129088
 }
