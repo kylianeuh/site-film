@@ -18,8 +18,8 @@
       "release_date": "2026-04-24",
       "softcore": false,
       "video": false,
-      "vote_average": 6.524,
-      "vote_count": 377
+      "vote_average": 6.495,
+      "vote_count": 416
     },
     {
       "adult": false,
@@ -41,29 +41,8 @@
       "release_date": "2026-04-01",
       "softcore": false,
       "video": false,
-      "vote_average": 6.739,
-      "vote_count": 665
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/gCmfeKmEAZBP5gcXpiqb0gii9rS.jpg",
-      "genre_ids": [
-        27,
-        53,
-        35
-      ],
-      "id": 1198994,
-      "title": "Send Help",
-      "original_language": "en",
-      "original_title": "Send Help",
-      "overview": "Après un terrible accident d'avion, deux collègues d'une compagnie se retrouvent seuls survivants, coincés sur une île déserte. L'une est une employée maligne et pleine de ressources, l'autre son patron tyrannique et désagréable. Obligés de s'adapter aux conditions extrêmes de leur isolement, ils doivent surmonter leurs vieilles rancunes et travailler ensemble pour survivre.",
-      "popularity": 276.0771,
-      "poster_path": "/bMAn4qERdEfxotddEHWfMmkfjRv.jpg",
-      "release_date": "2026-01-22",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.035,
-      "vote_count": 1118
+      "vote_average": 6.728,
+      "vote_count": 674
     },
     {
       "adult": false,
@@ -87,6 +66,27 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/gCmfeKmEAZBP5gcXpiqb0gii9rS.jpg",
+      "genre_ids": [
+        27,
+        53,
+        35
+      ],
+      "id": 1198994,
+      "title": "Send Help",
+      "original_language": "en",
+      "original_title": "Send Help",
+      "overview": "Après un terrible accident d'avion, deux collègues d'une compagnie se retrouvent seuls survivants, coincés sur une île déserte. L'une est une employée maligne et pleine de ressources, l'autre son patron tyrannique et désagréable. Obligés de s'adapter aux conditions extrêmes de leur isolement, ils doivent surmonter leurs vieilles rancunes et travailler ensemble pour survivre.",
+      "popularity": 276.0771,
+      "poster_path": "/bMAn4qERdEfxotddEHWfMmkfjRv.jpg",
+      "release_date": "2026-01-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.035,
+      "vote_count": 1124
+    },
+    {
+      "adult": false,
       "backdrop_path": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "genre_ids": [
         10402,
@@ -102,8 +102,8 @@
       "release_date": "2026-04-22",
       "softcore": false,
       "video": false,
-      "vote_average": 7.579,
-      "vote_count": 312
+      "vote_average": 7.623,
+      "vote_count": 341
     },
     {
       "adult": false,
@@ -129,6 +129,27 @@
     },
     {
       "adult": false,
+      "backdrop_path": "/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg",
+      "genre_ids": [
+        28,
+        35,
+        27
+      ],
+      "id": 1292695,
+      "title": "They Will Kill You",
+      "original_language": "en",
+      "original_title": "They Will Kill You",
+      "overview": "Une jeune femme doit survivre toute une nuit, enfermée dans le mystérieux et sordide repaire d'une secte démoniaque, et tout faire pour ne pas devenir leur prochain sacrifice. Une lutte acharnée, des combats saisissants et un humour profondément noir vous attendent.",
+      "popularity": 219.7171,
+      "poster_path": "/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
+      "release_date": "2026-03-25",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.523,
+      "vote_count": 219
+    },
+    {
+      "adult": false,
       "backdrop_path": "/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
       "genre_ids": [
         878,
@@ -145,29 +166,31 @@
       "release_date": "2025-12-17",
       "softcore": false,
       "video": false,
-      "vote_average": 7.4,
-      "vote_count": 2751
+      "vote_average": 7.372,
+      "vote_count": 2758
     },
     {
       "adult": false,
-      "backdrop_path": "/xnb15logFGJRniA7Ud3NILSPPhs.jpg",
+      "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
       "genre_ids": [
-        27,
-        28,
-        35
+        12,
+        16,
+        35,
+        10751,
+        878
       ],
-      "id": 1292695,
-      "title": "They Will Kill You",
+      "id": 1327819,
+      "title": "Jumpers",
       "original_language": "en",
-      "original_title": "They Will Kill You",
-      "overview": "Une jeune femme doit survivre toute une nuit, enfermée dans le mystérieux et sordide repaire d'une secte démoniaque, et tout faire pour ne pas devenir leur prochain sacrifice. Une lutte acharnée, des combats saisissants et un humour profondément noir vous attendent.",
-      "popularity": 219.7171,
-      "poster_path": "/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
-      "release_date": "2026-03-25",
+      "original_title": "Hoppers",
+      "overview": "Mabel est une jeune fille audacieuse qui a une grande ambition : infiltrer le monde animal. Pour ce faire, elle transfère son esprit à un robot castor afin de pouvoir approcher d’autres animaux et étudier leur mode de vie.",
+      "popularity": 194.1653,
+      "poster_path": "/tWmEsB3MtN7RfdXphzghC8B3ahX.jpg",
+      "release_date": "2026-03-04",
       "softcore": false,
       "video": false,
-      "vote_average": 6.5,
-      "vote_count": 196
+      "vote_average": 7.661,
+      "vote_count": 579
     },
     {
       "adult": false,
@@ -186,8 +209,8 @@
       "release_date": "2026-02-26",
       "softcore": false,
       "video": false,
-      "vote_average": 7.031,
-      "vote_count": 97
+      "vote_average": 7.02,
+      "vote_count": 102
     },
     {
       "adult": false,
@@ -206,31 +229,8 @@
       "release_date": "2026-03-15",
       "softcore": false,
       "video": false,
-      "vote_average": 8.208,
-      "vote_count": 1804
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
-      "genre_ids": [
-        16,
-        10751,
-        878,
-        35,
-        12
-      ],
-      "id": 1327819,
-      "title": "Jumpers",
-      "original_language": "en",
-      "original_title": "Hoppers",
-      "overview": "Mabel est une jeune fille audacieuse qui a une grande ambition : infiltrer le monde animal. Pour ce faire, elle transfère son esprit à un robot castor afin de pouvoir approcher d’autres animaux et étudier leur mode de vie.",
-      "popularity": 194.1653,
-      "poster_path": "/hwFQ33TvDGugRb0JFkCeKyrpIhT.jpg",
-      "release_date": "2026-03-04",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.608,
-      "vote_count": 543
+      "vote_average": 8.209,
+      "vote_count": 1818
     },
     {
       "adult": false,
@@ -270,7 +270,26 @@
       "softcore": false,
       "video": false,
       "vote_average": 6.8,
-      "vote_count": 605
+      "vote_count": 606
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lUbc4XVpCe1q4aqZyQqFCIubaDN.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 10867,
+      "title": "Malèna",
+      "original_language": "it",
+      "original_title": "Malèna",
+      "overview": "Au printemps 1940, Mussolini a déclaré la guerre à la France et à la Grande‐Bretagne. La ville sicilienne de Castelcuto est en liesse. Renato Amoroso, un garçon de treize ans, est heureux pour d’autres raisons. Il vient de recevoir sa première bicyclette et de tomber sous le charme de Malèna, une ravissante veuve de guerre qui fait tourner la tête à tous les hommes du village et attise la haine des épouses jalouses. Renato, littéralement envoûté, la suit partout avec son vélo. Mais Malèna est victime des refoulements et des convoitises des habitants de Castelcuto. Le petit garçon va trouver le moyen de l’aider, et grâce à elle, il apprendra les leçons de la vie.",
+      "popularity": 140.5192,
+      "poster_path": "/7aKRAjx2kgyP3GabnFQ2sLaT17d.jpg",
+      "release_date": "2000-10-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.428,
+      "vote_count": 2481
     },
     {
       "adult": false,
@@ -290,8 +309,8 @@
       "release_date": "2026-02-11",
       "softcore": false,
       "video": false,
-      "vote_average": 7.917,
-      "vote_count": 462
+      "vote_average": 7.911,
+      "vote_count": 465
     },
     {
       "adult": false,
@@ -310,28 +329,8 @@
       "release_date": "2026-02-11",
       "softcore": false,
       "video": false,
-      "vote_average": 6.938,
-      "vote_count": 802
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/gM1kQRPwOVW1Eos5tVWqcYmHR5S.jpg",
-      "genre_ids": [
-        27,
-        9648
-      ],
-      "id": 1470130,
-      "title": "The Mortuary Assistant",
-      "original_language": "en",
-      "original_title": "The Mortuary Assistant",
-      "overview": "Rebecca Owens, diplômée en thanatopraxie, accepte un emploi de nuit aux pompes funèbres River Fields. Ce qui commence comme une tâche routinière prend rapidement une tournure sinistre lorsqu’elle se retrouve confrontée à de terrifiantes forces surnaturelles.",
-      "popularity": 116.7778,
-      "poster_path": "/72AoFPC5TY4DfJwXXS9rPwPeReD.jpg",
-      "release_date": "2026-02-13",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5.512,
-      "vote_count": 83
+      "vote_average": 6.937,
+      "vote_count": 805
     },
     {
       "adult": false,
@@ -356,22 +355,23 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/lUbc4XVpCe1q4aqZyQqFCIubaDN.jpg",
+      "backdrop_path": "/gkh6Nt8DtY1XT4gQsyFq9XAVJlJ.jpg",
       "genre_ids": [
-        18
+        18,
+        35
       ],
-      "id": 10867,
-      "title": "Malèna",
-      "original_language": "it",
-      "original_title": "Malèna",
-      "overview": "Au printemps 1940, Mussolini a déclaré la guerre à la France et à la Grande‐Bretagne. La ville sicilienne de Castelcuto est en liesse. Renato Amoroso, un garçon de treize ans, est heureux pour d’autres raisons. Il vient de recevoir sa première bicyclette et de tomber sous le charme de Malèna, une ravissante veuve de guerre qui fait tourner la tête à tous les hommes du village et attise la haine des épouses jalouses. Renato, littéralement envoûté, la suit partout avec son vélo. Mais Malèna est victime des refoulements et des convoitises des habitants de Castelcuto. Le petit garçon va trouver le moyen de l’aider, et grâce à elle, il apprendra les leçons de la vie.",
-      "popularity": 140.5192,
-      "poster_path": "/7aKRAjx2kgyP3GabnFQ2sLaT17d.jpg",
-      "release_date": "2000-10-27",
+      "id": 350,
+      "title": "Le Diable s'habille en Prada",
+      "original_language": "en",
+      "original_title": "The Devil Wears Prada",
+      "overview": "Fraîchement diplômée, Andrea débarque à New York et décroche le job de rêve. Mais en tant qu’assistante de la tyrannique rédactrice en chef d’un prestigieux magazine de mode, elle va vite découvrir ce que le mot « enfer » veut dire…",
+      "popularity": 118.6618,
+      "poster_path": "/vTIBjWMWx1p5Wv2J3IRhEW13lrj.jpg",
+      "release_date": "2006-06-29",
       "softcore": false,
       "video": false,
-      "vote_average": 7.428,
-      "vote_count": 2480
+      "vote_average": 7.389,
+      "vote_count": 13027
     },
     {
       "adult": false,
@@ -395,25 +395,25 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/gkh6Nt8DtY1XT4gQsyFq9XAVJlJ.jpg",
+      "backdrop_path": "/gM1kQRPwOVW1Eos5tVWqcYmHR5S.jpg",
       "genre_ids": [
-        18,
-        35
+        27,
+        9648
       ],
-      "id": 350,
-      "title": "Le Diable s'habille en Prada",
+      "id": 1470130,
+      "title": "The Mortuary Assistant",
       "original_language": "en",
-      "original_title": "The Devil Wears Prada",
-      "overview": "Fraîchement diplômée, Andrea débarque à New York et décroche le job de rêve. Mais en tant qu’assistante de la tyrannique rédactrice en chef d’un prestigieux magazine de mode, elle va vite découvrir ce que le mot « enfer » veut dire…",
-      "popularity": 118.6618,
-      "poster_path": "/vTIBjWMWx1p5Wv2J3IRhEW13lrj.jpg",
-      "release_date": "2006-06-29",
+      "original_title": "The Mortuary Assistant",
+      "overview": "Rebecca Owens, diplômée en thanatopraxie, accepte un emploi de nuit aux pompes funèbres River Fields. Ce qui commence comme une tâche routinière prend rapidement une tournure sinistre lorsqu’elle se retrouve confrontée à de terrifiantes forces surnaturelles.",
+      "popularity": 116.7778,
+      "poster_path": "/72AoFPC5TY4DfJwXXS9rPwPeReD.jpg",
+      "release_date": "2026-02-13",
       "softcore": false,
       "video": false,
-      "vote_average": 7.39,
-      "vote_count": 13009
+      "vote_average": 5.518,
+      "vote_count": 84
     }
   ],
-  "total_pages": 56455,
-  "total_results": 1129088
+  "total_pages": 56486,
+  "total_results": 1129707
 }
