@@ -13,13 +13,13 @@
       "original_language": "en",
       "original_title": "Apex",
       "overview": "Alors qu'elle teste ses limites en solo dans la nature sauvage australienne, une femme en deuil se retrouve prise au piège d'un jeu tordu avec un tueur qui a fait d'elle sa proie.",
-      "popularity": 588.8779,
-      "poster_path": "/9iuGBLJBRuGKR6nRL4SxUV1tIdt.jpg",
+      "popularity": 572.7929,
+      "poster_path": "/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
       "release_date": "2026-04-24",
       "softcore": false,
       "video": false,
-      "vote_average": 6.495,
-      "vote_count": 416
+      "vote_average": 6.511,
+      "vote_count": 459
     },
     {
       "adult": false,
@@ -36,13 +36,13 @@
       "original_language": "en",
       "original_title": "The Super Mario Galaxy Movie",
       "overview": "Au-delà du Royaume Champignon, Mario, Luigi et Yoshi voyagent à travers les galaxies aux côtés de Rosalina pour arrêter Bowser Jr., dont la tentative de sauver son père menace l’équilibre de l’univers.",
-      "popularity": 513.3125,
+      "popularity": 462.5353,
       "poster_path": "/aSQktALDmbunDbwkuZbZFMEWVFr.jpg",
       "release_date": "2026-04-01",
       "softcore": false,
       "video": false,
-      "vote_average": 6.728,
-      "vote_count": 674
+      "vote_average": 6.733,
+      "vote_count": 685
     },
     {
       "adult": false,
@@ -56,13 +56,33 @@
       "original_language": "ru",
       "original_title": "Твоё сердце будет разбито",
       "overview": "Polina, une lycéenne, est sauvée du harcèlement dans son nouveau lycée et conclut un pacte avec Bars, le principal harceleur : il doit faire semblant d'être son petit ami et la protéger, et elle doit obéir à tout ce qu'il lui dit. Au fil de ce jeu, le couple développe de véritables sentiments, mais sa famille et ses camarades de classe ont de bonnes raisons de vouloir séparer les amoureux.",
-      "popularity": 283.8404,
+      "popularity": 256.1399,
       "poster_path": "/iGpMm603GUKH2SiXB2S5m4sZ17t.jpg",
       "release_date": "2026-03-26",
       "softcore": false,
       "video": false,
       "vote_average": 6.9,
       "vote_count": 74
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
+      "genre_ids": [
+        10402,
+        18
+      ],
+      "id": 936075,
+      "title": "Michael",
+      "original_language": "en",
+      "original_title": "Michael",
+      "overview": "Michael dresse le portrait cinématographique de la vie et de l’héritage de l’un des artistes les plus influents de notre époque.  Le film raconte l’histoire de Michael Jackson au-delà de la musique, depuis la découverte d’un talent hors du commun en tant que leader des Jackson Five, jusqu’à l’artiste visionnaire dont l’ambition créative a alimenté une quête incessante pour devenir le plus grand artiste au monde.  Mettant en lumière sa vie hors scène et ses performances les plus emblématiques de ses débuts en solo, le film offre au public une place au premier rang pour découvrir Michael Jackson comme jamais auparavant.",
+      "popularity": 261.3779,
+      "poster_path": "/2sDgNilJGVFpl1x4DMzYHjk0L0f.jpg",
+      "release_date": "2026-04-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 361
     },
     {
       "adult": false,
@@ -77,33 +97,34 @@
       "original_language": "en",
       "original_title": "Send Help",
       "overview": "Après un terrible accident d'avion, deux collègues d'une compagnie se retrouvent seuls survivants, coincés sur une île déserte. L'une est une employée maligne et pleine de ressources, l'autre son patron tyrannique et désagréable. Obligés de s'adapter aux conditions extrêmes de leur isolement, ils doivent surmonter leurs vieilles rancunes et travailler ensemble pour survivre.",
-      "popularity": 276.0771,
+      "popularity": 245.0573,
       "poster_path": "/bMAn4qERdEfxotddEHWfMmkfjRv.jpg",
       "release_date": "2026-01-22",
       "softcore": false,
       "video": false,
-      "vote_average": 7.035,
-      "vote_count": 1124
+      "vote_average": 7.023,
+      "vote_count": 1136
     },
     {
       "adult": false,
-      "backdrop_path": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
+      "backdrop_path": "/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg",
       "genre_ids": [
-        10402,
-        18
+        28,
+        35,
+        27
       ],
-      "id": 936075,
-      "title": "Michael",
+      "id": 1292695,
+      "title": "They Will Kill You",
       "original_language": "en",
-      "original_title": "Michael",
-      "overview": "Michael dresse le portrait cinématographique de la vie et de l’héritage de l’un des artistes les plus influents de notre époque.  Le film raconte l’histoire de Michael Jackson au-delà de la musique, depuis la découverte d’un talent hors du commun en tant que leader des Jackson Five, jusqu’à l’artiste visionnaire dont l’ambition créative a alimenté une quête incessante pour devenir le plus grand artiste au monde.  Mettant en lumière sa vie hors scène et ses performances les plus emblématiques de ses débuts en solo, le film offre au public une place au premier rang pour découvrir Michael Jackson comme jamais auparavant.",
-      "popularity": 264.1109,
-      "poster_path": "/2sDgNilJGVFpl1x4DMzYHjk0L0f.jpg",
-      "release_date": "2026-04-22",
+      "original_title": "They Will Kill You",
+      "overview": "Une jeune femme doit survivre toute une nuit, enfermée dans le mystérieux et sordide repaire d'une secte démoniaque, et tout faire pour ne pas devenir leur prochain sacrifice. Une lutte acharnée, des combats saisissants et un humour profondément noir vous attendent.",
+      "popularity": 210.8282,
+      "poster_path": "/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
+      "release_date": "2026-03-25",
       "softcore": false,
       "video": false,
-      "vote_average": 7.623,
-      "vote_count": 341
+      "vote_average": 6.575,
+      "vote_count": 241
     },
     {
       "adult": false,
@@ -119,55 +140,13 @@
       "original_language": "en",
       "original_title": "Avatar Aang: The Last Airbender",
       "overview": "Les aventures du successeur du dernier Avatar qui doit empêcher la nation du Feu d’asservir les nations de la Terre, de l’Eau et de l’Air...",
-      "popularity": 226.6882,
+      "popularity": 191.2486,
       "poster_path": "/29Jdsak3SrwGds5k1t43kH6Khed.jpg",
       "release_date": "2026-10-09",
       "softcore": false,
       "video": false,
       "vote_average": 0,
       "vote_count": 0
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg",
-      "genre_ids": [
-        28,
-        35,
-        27
-      ],
-      "id": 1292695,
-      "title": "They Will Kill You",
-      "original_language": "en",
-      "original_title": "They Will Kill You",
-      "overview": "Une jeune femme doit survivre toute une nuit, enfermée dans le mystérieux et sordide repaire d'une secte démoniaque, et tout faire pour ne pas devenir leur prochain sacrifice. Une lutte acharnée, des combats saisissants et un humour profondément noir vous attendent.",
-      "popularity": 219.7171,
-      "poster_path": "/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
-      "release_date": "2026-03-25",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.523,
-      "vote_count": 219
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
-      "genre_ids": [
-        878,
-        12,
-        14
-      ],
-      "id": 83533,
-      "title": "Avatar : De feu et de cendres",
-      "original_language": "en",
-      "original_title": "Avatar: Fire and Ash",
-      "overview": "Après la mort de Neteyam, Jake et Neytiri affrontent leur chagrin tout en faisant face au Peuple des Cendres, une tribu Na’vi redoutable menée par la fougueuse Varang, alors que le conflit sur Pandora s’intensifie et qu’une nouvelle quête morale s’amorce.",
-      "popularity": 215.0432,
-      "poster_path": "/kG3N8oQ10qiw2MsnSHFGJpQNyEy.jpg",
-      "release_date": "2025-12-17",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.372,
-      "vote_count": 2758
     },
     {
       "adult": false,
@@ -184,13 +163,34 @@
       "original_language": "en",
       "original_title": "Hoppers",
       "overview": "Mabel est une jeune fille audacieuse qui a une grande ambition : infiltrer le monde animal. Pour ce faire, elle transfère son esprit à un robot castor afin de pouvoir approcher d’autres animaux et étudier leur mode de vie.",
-      "popularity": 194.1653,
+      "popularity": 192.6127,
       "poster_path": "/tWmEsB3MtN7RfdXphzghC8B3ahX.jpg",
       "release_date": "2026-03-04",
       "softcore": false,
       "video": false,
-      "vote_average": 7.661,
-      "vote_count": 579
+      "vote_average": 7.7,
+      "vote_count": 602
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
+      "genre_ids": [
+        878,
+        12,
+        14
+      ],
+      "id": 83533,
+      "title": "Avatar : De feu et de cendres",
+      "original_language": "en",
+      "original_title": "Avatar: Fire and Ash",
+      "overview": "Après la mort de Neteyam, Jake et Neytiri affrontent leur chagrin tout en faisant face au Peuple des Cendres, une tribu Na’vi redoutable menée par la fougueuse Varang, alors que le conflit sur Pandora s’intensifie et qu’une nouvelle quête morale s’amorce.",
+      "popularity": 202.1445,
+      "poster_path": "/kG3N8oQ10qiw2MsnSHFGJpQNyEy.jpg",
+      "release_date": "2025-12-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.373,
+      "vote_count": 2767
     },
     {
       "adult": false,
@@ -204,13 +204,32 @@
       "original_language": "es",
       "original_title": "Venganza",
       "overview": "Quand sa femme est brutalement assassinée, Carlos Estrada, héros décoré des forces spéciales, n'a plus qu'un seul but : la vengeance. Après qu'un coup du sort inattendu le rend millionnaire, Carlos transforme sa fortune en arsenal et, entouré de ses soldats les plus fidèles, lance une traque impitoyable contre les responsables.",
-      "popularity": 191.9785,
+      "popularity": 180.1579,
       "poster_path": "/cSNgGUf6k2k7WJJVlda6ZUPYgGo.jpg",
       "release_date": "2026-02-26",
       "softcore": false,
       "video": false,
-      "vote_average": 7.02,
-      "vote_count": 102
+      "vote_average": 7.085,
+      "vote_count": 106
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lUbc4XVpCe1q4aqZyQqFCIubaDN.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 10867,
+      "title": "Malèna",
+      "original_language": "it",
+      "original_title": "Malèna",
+      "overview": "Au printemps 1940, Mussolini a déclaré la guerre à la France et à la Grande‐Bretagne. La ville sicilienne de Castelcuto est en liesse. Renato Amoroso, un garçon de treize ans, est heureux pour d’autres raisons. Il vient de recevoir sa première bicyclette et de tomber sous le charme de Malèna, une ravissante veuve de guerre qui fait tourner la tête à tous les hommes du village et attise la haine des épouses jalouses. Renato, littéralement envoûté, la suit partout avec son vélo. Mais Malèna est victime des refoulements et des convoitises des habitants de Castelcuto. Le petit garçon va trouver le moyen de l’aider, et grâce à elle, il apprendra les leçons de la vie.",
+      "popularity": 196.9235,
+      "poster_path": "/7aKRAjx2kgyP3GabnFQ2sLaT17d.jpg",
+      "release_date": "2000-10-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.429,
+      "vote_count": 2484
     },
     {
       "adult": false,
@@ -224,13 +243,13 @@
       "original_language": "en",
       "original_title": "Project Hail Mary",
       "overview": "Le professeur de sciences Ryland Grace se réveille à bord d’un vaisseau spatial, à des années-lumière de la Terre, sans aucun souvenir de qui il est ni de la façon dont il est arrivé là. À mesure que sa mémoire lui revient, il commence à découvrir sa mission : résoudre l’énigme d’une mystérieuse substance qui provoque l’extinction du Soleil. Il doit faire appel à ses connaissances scientifiques et ses idées peu orthodoxes pour sauver toute vie sur Terre mais une amitié inattendue pourrait signifier qu’il n’aura pas à accomplir cette tâche seul.",
-      "popularity": 168.4848,
+      "popularity": 131.6573,
       "poster_path": "/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
       "release_date": "2026-03-15",
       "softcore": false,
       "video": false,
-      "vote_average": 8.209,
-      "vote_count": 1818
+      "vote_average": 8.21,
+      "vote_count": 1829
     },
     {
       "adult": false,
@@ -243,7 +262,7 @@
       "original_language": "en",
       "original_title": "The Crucifix: Blood of the Exorcist",
       "overview": "",
-      "popularity": 146.6369,
+      "popularity": 126.383,
       "poster_path": "/u3qOxvlykoTpurg1G8VOcawoePI.jpg",
       "release_date": "2025-01-09",
       "softcore": false,
@@ -264,32 +283,33 @@
       "original_language": "en",
       "original_title": "Shelter",
       "overview": "Mason vit isolé sur une île écossaise. Après avoir sauvé une jeune fille de l'océan lors d'une terrible tempête, il déclenche une série d'événements qui provoquent une violente attaque dans son refuge...",
-      "popularity": 144.4254,
-      "poster_path": "/1OBhmw3wyCTL5YIl0AbsUwPFQIf.jpg",
+      "popularity": 135.8291,
+      "poster_path": "/u071a2uGEgC5lAMskhxdASwfQSt.jpg",
       "release_date": "2026-01-28",
       "softcore": false,
       "video": false,
       "vote_average": 6.8,
-      "vote_count": 606
+      "vote_count": 612
     },
     {
       "adult": false,
-      "backdrop_path": "/lUbc4XVpCe1q4aqZyQqFCIubaDN.jpg",
+      "backdrop_path": "/gkh6Nt8DtY1XT4gQsyFq9XAVJlJ.jpg",
       "genre_ids": [
-        18
+        18,
+        35
       ],
-      "id": 10867,
-      "title": "Malèna",
-      "original_language": "it",
-      "original_title": "Malèna",
-      "overview": "Au printemps 1940, Mussolini a déclaré la guerre à la France et à la Grande‐Bretagne. La ville sicilienne de Castelcuto est en liesse. Renato Amoroso, un garçon de treize ans, est heureux pour d’autres raisons. Il vient de recevoir sa première bicyclette et de tomber sous le charme de Malèna, une ravissante veuve de guerre qui fait tourner la tête à tous les hommes du village et attise la haine des épouses jalouses. Renato, littéralement envoûté, la suit partout avec son vélo. Mais Malèna est victime des refoulements et des convoitises des habitants de Castelcuto. Le petit garçon va trouver le moyen de l’aider, et grâce à elle, il apprendra les leçons de la vie.",
-      "popularity": 140.5192,
-      "poster_path": "/7aKRAjx2kgyP3GabnFQ2sLaT17d.jpg",
-      "release_date": "2000-10-27",
+      "id": 350,
+      "title": "Le Diable s'habille en Prada",
+      "original_language": "en",
+      "original_title": "The Devil Wears Prada",
+      "overview": "Fraîchement diplômée, Andrea débarque à New York et décroche le job de rêve. Mais en tant qu’assistante de la tyrannique rédactrice en chef d’un prestigieux magazine de mode, elle va vite découvrir ce que le mot « enfer » veut dire…",
+      "popularity": 153.2015,
+      "poster_path": "/vTIBjWMWx1p5Wv2J3IRhEW13lrj.jpg",
+      "release_date": "2006-06-29",
       "softcore": false,
       "video": false,
-      "vote_average": 7.428,
-      "vote_count": 2481
+      "vote_average": 7.39,
+      "vote_count": 13047
     },
     {
       "adult": false,
@@ -304,13 +324,13 @@
       "original_language": "en",
       "original_title": "GOAT",
       "overview": "Will est un petit bouc avec de grands rêves. Lorsqu'il décroche une chance inespérée de rejoindre la ligue professionnelle de \"roarball\", un sport ultra-intense réservé aux bêtes les plus rapides et féroces, il entend bien saisir l’opportunité. Problème : ses nouveaux coéquipiers ne sont pas vraiment ravis d'avoir un \"petit\" dans l'équipe. Mais Will est prêt à tout pour changer les règles du jeu.",
-      "popularity": 138.7314,
+      "popularity": 129.8068,
       "poster_path": "/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
       "release_date": "2026-02-11",
       "softcore": false,
       "video": false,
-      "vote_average": 7.911,
-      "vote_count": 465
+      "vote_average": 7.916,
+      "vote_count": 468
     },
     {
       "adult": false,
@@ -324,13 +344,13 @@
       "original_language": "en",
       "original_title": "Crime 101",
       "overview": "Dans Crime 101, les cambriolages méticuleux à LA le long de l'autoroute 101 d'un voleur de bijoux chevronné (Chris Hemsworth) déconcertent la police. Un flic solitaire (Mark Ruffalo) est à ses trousses. Lorsque leurs chemins croisent celui d'une courtière en assurance désabusée (Halle Berry), tous trois sont confrontés à des choix déterminants face aux millions de dollars en jeu.",
-      "popularity": 130.2448,
+      "popularity": 115.9668,
       "poster_path": "/cz6VIBoOKopo3pymqRkNiVc2M7.jpg",
       "release_date": "2026-02-11",
       "softcore": false,
       "video": false,
-      "vote_average": 6.937,
-      "vote_count": 805
+      "vote_average": 6.935,
+      "vote_count": 811
     },
     {
       "adult": false,
@@ -345,53 +365,13 @@
       "original_language": "ja",
       "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
       "overview": "L'armée des pourfendeurs de démons est attirée dans la Forteresse Infinie, où Tanjiro, Zenitsu et Inosuke  affrontent de terrifiants démons de rang supérieur dans un combat désespéré alors que la bataille finale contre Kibutsuji Muzan commence.",
-      "popularity": 123.6656,
+      "popularity": 127.6478,
       "poster_path": "/wXTU3AFmlUPbqjH68MZ989uHd6k.jpg",
       "release_date": "2025-07-18",
       "softcore": false,
       "video": false,
-      "vote_average": 7.7,
-      "vote_count": 811
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/gkh6Nt8DtY1XT4gQsyFq9XAVJlJ.jpg",
-      "genre_ids": [
-        18,
-        35
-      ],
-      "id": 350,
-      "title": "Le Diable s'habille en Prada",
-      "original_language": "en",
-      "original_title": "The Devil Wears Prada",
-      "overview": "Fraîchement diplômée, Andrea débarque à New York et décroche le job de rêve. Mais en tant qu’assistante de la tyrannique rédactrice en chef d’un prestigieux magazine de mode, elle va vite découvrir ce que le mot « enfer » veut dire…",
-      "popularity": 118.6618,
-      "poster_path": "/vTIBjWMWx1p5Wv2J3IRhEW13lrj.jpg",
-      "release_date": "2006-06-29",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.389,
-      "vote_count": 13027
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/1ZruuRXztqC3QQybbgbVxVrdNjv.jpg",
-      "genre_ids": [
-        35,
-        10749
-      ],
-      "id": 1601797,
-      "title": "¿Quieres ser mi novia?",
-      "original_language": "es",
-      "original_title": "¿Quieres ser mi novia?",
-      "overview": "",
-      "popularity": 116.8758,
-      "poster_path": "/oscW8xV8EhRYj7iAhyVlBohKqxo.jpg",
-      "release_date": "2026-02-12",
-      "softcore": false,
-      "video": false,
-      "vote_average": 8.482,
-      "vote_count": 55
+      "vote_average": 7.692,
+      "vote_count": 812
     },
     {
       "adult": false,
@@ -405,15 +385,38 @@
       "original_language": "en",
       "original_title": "The Mortuary Assistant",
       "overview": "Rebecca Owens, diplômée en thanatopraxie, accepte un emploi de nuit aux pompes funèbres River Fields. Ce qui commence comme une tâche routinière prend rapidement une tournure sinistre lorsqu’elle se retrouve confrontée à de terrifiantes forces surnaturelles.",
-      "popularity": 116.7778,
+      "popularity": 106.6207,
       "poster_path": "/72AoFPC5TY4DfJwXXS9rPwPeReD.jpg",
       "release_date": "2026-02-13",
       "softcore": false,
       "video": false,
       "vote_average": 5.518,
       "vote_count": 84
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
+      "genre_ids": [
+        12,
+        16,
+        35,
+        10751,
+        9648
+      ],
+      "id": 1084242,
+      "title": "Zootopie 2",
+      "original_language": "en",
+      "original_title": "Zootopia 2",
+      "overview": "Judy Hopps et Nick Wilde explorent à nouveau Zootopie, entre mystères, rires et rencontres inattendues. À travers chaque rue et chaque instant, ils découvrent que l’amitié et la curiosité transforment le quotidien en moments magiques.",
+      "popularity": 110.9436,
+      "poster_path": "/hBI7Wrps6tDjhEzBxJgoPLhbmT1.jpg",
+      "release_date": "2025-11-26",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.608,
+      "vote_count": 2628
     }
   ],
-  "total_pages": 56486,
-  "total_results": 1129707
+  "total_pages": 56506,
+  "total_results": 1130113
 }
