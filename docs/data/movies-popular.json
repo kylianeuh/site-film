@@ -14,16 +14,16 @@
       "original_title": "Apex",
       "overview": "Alors qu'elle teste ses limites en solo dans la nature sauvage australienne, une femme en deuil se retrouve prise au piège d'un jeu tordu avec un tueur qui a fait d'elle sa proie.",
       "popularity": 572.7929,
-      "poster_path": "/eTp7gSPkSF3Aw79mNx1NkBP1PZT.jpg",
+      "poster_path": "/zqdwrxnSAntPexmcoYzopTb6nTj.jpg",
       "release_date": "2026-04-24",
       "softcore": false,
       "video": false,
-      "vote_average": 6.511,
-      "vote_count": 459
+      "vote_average": 6.462,
+      "vote_count": 515
     },
     {
       "adult": false,
-      "backdrop_path": "/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+      "backdrop_path": "/xTd74mchq96pqfdlgmKDMQx12gv.jpg",
       "genre_ids": [
         10751,
         35,
@@ -41,8 +41,28 @@
       "release_date": "2026-04-01",
       "softcore": false,
       "video": false,
-      "vote_average": 6.733,
-      "vote_count": 685
+      "vote_average": 6.7,
+      "vote_count": 690
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
+      "genre_ids": [
+        10402,
+        18
+      ],
+      "id": 936075,
+      "title": "Michael",
+      "original_language": "en",
+      "original_title": "Michael",
+      "overview": "Michael dresse le portrait cinématographique de la vie et de l’héritage de l’un des artistes les plus influents de notre époque.  Le film raconte l’histoire de Michael Jackson au-delà de la musique, depuis la découverte d’un talent hors du commun en tant que leader des Jackson Five, jusqu’à l’artiste visionnaire dont l’ambition créative a alimenté une quête incessante pour devenir le plus grand artiste au monde.  Mettant en lumière sa vie hors scène et ses performances les plus emblématiques de ses débuts en solo, le film offre au public une place au premier rang pour découvrir Michael Jackson comme jamais auparavant.",
+      "popularity": 261.3779,
+      "poster_path": "/2sDgNilJGVFpl1x4DMzYHjk0L0f.jpg",
+      "release_date": "2026-04-22",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.525,
+      "vote_count": 395
     },
     {
       "adult": false,
@@ -66,26 +86,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
-      "genre_ids": [
-        10402,
-        18
-      ],
-      "id": 936075,
-      "title": "Michael",
-      "original_language": "en",
-      "original_title": "Michael",
-      "overview": "Michael dresse le portrait cinématographique de la vie et de l’héritage de l’un des artistes les plus influents de notre époque.  Le film raconte l’histoire de Michael Jackson au-delà de la musique, depuis la découverte d’un talent hors du commun en tant que leader des Jackson Five, jusqu’à l’artiste visionnaire dont l’ambition créative a alimenté une quête incessante pour devenir le plus grand artiste au monde.  Mettant en lumière sa vie hors scène et ses performances les plus emblématiques de ses débuts en solo, le film offre au public une place au premier rang pour découvrir Michael Jackson comme jamais auparavant.",
-      "popularity": 261.3779,
-      "poster_path": "/2sDgNilJGVFpl1x4DMzYHjk0L0f.jpg",
-      "release_date": "2026-04-22",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.6,
-      "vote_count": 361
-    },
-    {
-      "adult": false,
       "backdrop_path": "/gCmfeKmEAZBP5gcXpiqb0gii9rS.jpg",
       "genre_ids": [
         27,
@@ -102,8 +102,8 @@
       "release_date": "2026-01-22",
       "softcore": false,
       "video": false,
-      "vote_average": 7.023,
-      "vote_count": 1136
+      "vote_average": 7.019,
+      "vote_count": 1146
     },
     {
       "adult": false,
@@ -124,7 +124,70 @@
       "softcore": false,
       "video": false,
       "vote_average": 6.575,
-      "vote_count": 241
+      "vote_count": 268
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
+      "genre_ids": [
+        878,
+        12,
+        14
+      ],
+      "id": 83533,
+      "title": "Avatar : De feu et de cendres",
+      "original_language": "en",
+      "original_title": "Avatar: Fire and Ash",
+      "overview": "Après la mort de Neteyam, Jake et Neytiri affrontent leur chagrin tout en faisant face au Peuple des Cendres, une tribu Na’vi redoutable menée par la fougueuse Varang, alors que le conflit sur Pandora s’intensifie et qu’une nouvelle quête morale s’amorce.",
+      "popularity": 202.1445,
+      "poster_path": "/kG3N8oQ10qiw2MsnSHFGJpQNyEy.jpg",
+      "release_date": "2025-12-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.374,
+      "vote_count": 2773
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/lUbc4XVpCe1q4aqZyQqFCIubaDN.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 10867,
+      "title": "Malèna",
+      "original_language": "it",
+      "original_title": "Malèna",
+      "overview": "Au printemps 1940, Mussolini a déclaré la guerre à la France et à la Grande‐Bretagne. La ville sicilienne de Castelcuto est en liesse. Renato Amoroso, un garçon de treize ans, est heureux pour d’autres raisons. Il vient de recevoir sa première bicyclette et de tomber sous le charme de Malèna, une ravissante veuve de guerre qui fait tourner la tête à tous les hommes du village et attise la haine des épouses jalouses. Renato, littéralement envoûté, la suit partout avec son vélo. Mais Malèna est victime des refoulements et des convoitises des habitants de Castelcuto. Le petit garçon va trouver le moyen de l’aider, et grâce à elle, il apprendra les leçons de la vie.",
+      "popularity": 196.9235,
+      "poster_path": "/7aKRAjx2kgyP3GabnFQ2sLaT17d.jpg",
+      "release_date": "2000-10-27",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.429,
+      "vote_count": 2484
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+      "genre_ids": [
+        12,
+        16,
+        35,
+        10751,
+        878
+      ],
+      "id": 1327819,
+      "title": "Jumpers",
+      "original_language": "en",
+      "original_title": "Hoppers",
+      "overview": "Mabel est une jeune fille audacieuse qui a une grande ambition : infiltrer le monde animal. Pour ce faire, elle transfère son esprit à un robot castor afin de pouvoir approcher d’autres animaux et étudier leur mode de vie.",
+      "popularity": 192.6127,
+      "poster_path": "/tWmEsB3MtN7RfdXphzghC8B3ahX.jpg",
+      "release_date": "2026-03-04",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.703,
+      "vote_count": 624
     },
     {
       "adult": false,
@@ -150,50 +213,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
-      "genre_ids": [
-        12,
-        16,
-        35,
-        10751,
-        878
-      ],
-      "id": 1327819,
-      "title": "Jumpers",
-      "original_language": "en",
-      "original_title": "Hoppers",
-      "overview": "Mabel est une jeune fille audacieuse qui a une grande ambition : infiltrer le monde animal. Pour ce faire, elle transfère son esprit à un robot castor afin de pouvoir approcher d’autres animaux et étudier leur mode de vie.",
-      "popularity": 192.6127,
-      "poster_path": "/tWmEsB3MtN7RfdXphzghC8B3ahX.jpg",
-      "release_date": "2026-03-04",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.7,
-      "vote_count": 602
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
-      "genre_ids": [
-        878,
-        12,
-        14
-      ],
-      "id": 83533,
-      "title": "Avatar : De feu et de cendres",
-      "original_language": "en",
-      "original_title": "Avatar: Fire and Ash",
-      "overview": "Après la mort de Neteyam, Jake et Neytiri affrontent leur chagrin tout en faisant face au Peuple des Cendres, une tribu Na’vi redoutable menée par la fougueuse Varang, alors que le conflit sur Pandora s’intensifie et qu’une nouvelle quête morale s’amorce.",
-      "popularity": 202.1445,
-      "poster_path": "/kG3N8oQ10qiw2MsnSHFGJpQNyEy.jpg",
-      "release_date": "2025-12-17",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.373,
-      "vote_count": 2767
-    },
-    {
-      "adult": false,
       "backdrop_path": "/jJmlCFi5EjpH5vHmOczRiVDm0qS.jpg",
       "genre_ids": [
         28,
@@ -209,27 +228,69 @@
       "release_date": "2026-02-26",
       "softcore": false,
       "video": false,
-      "vote_average": 7.085,
-      "vote_count": 106
+      "vote_average": 6.947,
+      "vote_count": 113
     },
     {
       "adult": false,
-      "backdrop_path": "/lUbc4XVpCe1q4aqZyQqFCIubaDN.jpg",
+      "backdrop_path": "/gkh6Nt8DtY1XT4gQsyFq9XAVJlJ.jpg",
       "genre_ids": [
-        18
+        18,
+        35
       ],
-      "id": 10867,
-      "title": "Malèna",
-      "original_language": "it",
-      "original_title": "Malèna",
-      "overview": "Au printemps 1940, Mussolini a déclaré la guerre à la France et à la Grande‐Bretagne. La ville sicilienne de Castelcuto est en liesse. Renato Amoroso, un garçon de treize ans, est heureux pour d’autres raisons. Il vient de recevoir sa première bicyclette et de tomber sous le charme de Malèna, une ravissante veuve de guerre qui fait tourner la tête à tous les hommes du village et attise la haine des épouses jalouses. Renato, littéralement envoûté, la suit partout avec son vélo. Mais Malèna est victime des refoulements et des convoitises des habitants de Castelcuto. Le petit garçon va trouver le moyen de l’aider, et grâce à elle, il apprendra les leçons de la vie.",
-      "popularity": 196.9235,
-      "poster_path": "/7aKRAjx2kgyP3GabnFQ2sLaT17d.jpg",
-      "release_date": "2000-10-27",
+      "id": 350,
+      "title": "Le Diable s'habille en Prada",
+      "original_language": "en",
+      "original_title": "The Devil Wears Prada",
+      "overview": "Fraîchement diplômée, Andrea débarque à New York et décroche le job de rêve. Mais en tant qu’assistante de la tyrannique rédactrice en chef d’un prestigieux magazine de mode, elle va vite découvrir ce que le mot « enfer » veut dire…",
+      "popularity": 153.2015,
+      "poster_path": "/vTIBjWMWx1p5Wv2J3IRhEW13lrj.jpg",
+      "release_date": "2006-06-29",
       "softcore": false,
       "video": false,
-      "vote_average": 7.429,
-      "vote_count": 2484
+      "vote_average": 7.389,
+      "vote_count": 13069
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 1314481,
+      "title": "Le Diable s'habille en Prada 2",
+      "original_language": "en",
+      "original_title": "The Devil Wears Prada 2",
+      "overview": "Près de vingt ans après, Meryl Streep, Anne Hathaway, Emily Blunt et Stanley Tucci reprennent leurs rôles emblématiques de Miranda, Andy, Emily et Nigel, et nous replongent dans l’univers impitoyable et glamour du magazine Runway et des rues new-yorkaises où l’élégance est une arme redoutable.",
+      "popularity": 139.4225,
+      "poster_path": "/pD5fSVgDW2L5993eAlDd2GFXwIp.jpg",
+      "release_date": "2026-04-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.541,
+      "vote_count": 111
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "id": 1290821,
+      "title": "Shelter",
+      "original_language": "en",
+      "original_title": "Shelter",
+      "overview": "Mason vit isolé sur une île écossaise. Après avoir sauvé une jeune fille de l'océan lors d'une terrible tempête, il déclenche une série d'événements qui provoquent une violente attaque dans son refuge...",
+      "popularity": 135.8291,
+      "poster_path": "/u071a2uGEgC5lAMskhxdASwfQSt.jpg",
+      "release_date": "2026-01-28",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.798,
+      "vote_count": 615
     },
     {
       "adult": false,
@@ -248,8 +309,50 @@
       "release_date": "2026-03-15",
       "softcore": false,
       "video": false,
-      "vote_average": 8.21,
-      "vote_count": 1829
+      "vote_average": 8.209,
+      "vote_count": 1847
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751
+      ],
+      "id": 1297842,
+      "title": "GOAT : Rêver plus haut",
+      "original_language": "en",
+      "original_title": "GOAT",
+      "overview": "Will est un petit bouc avec de grands rêves. Lorsqu'il décroche une chance inespérée de rejoindre la ligue professionnelle de \"roarball\", un sport ultra-intense réservé aux bêtes les plus rapides et féroces, il entend bien saisir l’opportunité. Problème : ses nouveaux coéquipiers ne sont pas vraiment ravis d'avoir un \"petit\" dans l'équipe. Mais Will est prêt à tout pour changer les règles du jeu.",
+      "popularity": 129.8068,
+      "poster_path": "/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
+      "release_date": "2026-02-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.9,
+      "vote_count": 470
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+      "genre_ids": [
+        16,
+        28,
+        14
+      ],
+      "id": 1311031,
+      "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
+      "original_language": "ja",
+      "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+      "overview": "L'armée des pourfendeurs de démons est attirée dans la Forteresse Infinie, où Tanjiro, Zenitsu et Inosuke  affrontent de terrifiants démons de rang supérieur dans un combat désespéré alors que la bataille finale contre Kibutsuji Muzan commence.",
+      "popularity": 127.6478,
+      "poster_path": "/wXTU3AFmlUPbqjH68MZ989uHd6k.jpg",
+      "release_date": "2025-07-18",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.695,
+      "vote_count": 813
     },
     {
       "adult": false,
@@ -272,68 +375,6 @@
     },
     {
       "adult": false,
-      "backdrop_path": "/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
-      "genre_ids": [
-        28,
-        80,
-        53
-      ],
-      "id": 1290821,
-      "title": "Shelter",
-      "original_language": "en",
-      "original_title": "Shelter",
-      "overview": "Mason vit isolé sur une île écossaise. Après avoir sauvé une jeune fille de l'océan lors d'une terrible tempête, il déclenche une série d'événements qui provoquent une violente attaque dans son refuge...",
-      "popularity": 135.8291,
-      "poster_path": "/u071a2uGEgC5lAMskhxdASwfQSt.jpg",
-      "release_date": "2026-01-28",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.8,
-      "vote_count": 612
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/gkh6Nt8DtY1XT4gQsyFq9XAVJlJ.jpg",
-      "genre_ids": [
-        18,
-        35
-      ],
-      "id": 350,
-      "title": "Le Diable s'habille en Prada",
-      "original_language": "en",
-      "original_title": "The Devil Wears Prada",
-      "overview": "Fraîchement diplômée, Andrea débarque à New York et décroche le job de rêve. Mais en tant qu’assistante de la tyrannique rédactrice en chef d’un prestigieux magazine de mode, elle va vite découvrir ce que le mot « enfer » veut dire…",
-      "popularity": 153.2015,
-      "poster_path": "/vTIBjWMWx1p5Wv2J3IRhEW13lrj.jpg",
-      "release_date": "2006-06-29",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.39,
-      "vote_count": 13047
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
-      "genre_ids": [
-        16,
-        35,
-        10751
-      ],
-      "id": 1297842,
-      "title": "GOAT : Rêver plus haut",
-      "original_language": "en",
-      "original_title": "GOAT",
-      "overview": "Will est un petit bouc avec de grands rêves. Lorsqu'il décroche une chance inespérée de rejoindre la ligue professionnelle de \"roarball\", un sport ultra-intense réservé aux bêtes les plus rapides et féroces, il entend bien saisir l’opportunité. Problème : ses nouveaux coéquipiers ne sont pas vraiment ravis d'avoir un \"petit\" dans l'équipe. Mais Will est prêt à tout pour changer les règles du jeu.",
-      "popularity": 129.8068,
-      "poster_path": "/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
-      "release_date": "2026-02-11",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.916,
-      "vote_count": 468
-    },
-    {
-      "adult": false,
       "backdrop_path": "/sl2649wlcocfFU7HKxQgNUEBMnT.jpg",
       "genre_ids": [
         80,
@@ -349,49 +390,8 @@
       "release_date": "2026-02-11",
       "softcore": false,
       "video": false,
-      "vote_average": 6.935,
-      "vote_count": 811
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
-      "genre_ids": [
-        16,
-        28,
-        14
-      ],
-      "id": 1311031,
-      "title": "Demon Slayer : Kimetsu no Yaiba - Le film : La Forteresse infinie",
-      "original_language": "ja",
-      "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
-      "overview": "L'armée des pourfendeurs de démons est attirée dans la Forteresse Infinie, où Tanjiro, Zenitsu et Inosuke  affrontent de terrifiants démons de rang supérieur dans un combat désespéré alors que la bataille finale contre Kibutsuji Muzan commence.",
-      "popularity": 127.6478,
-      "poster_path": "/wXTU3AFmlUPbqjH68MZ989uHd6k.jpg",
-      "release_date": "2025-07-18",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.692,
-      "vote_count": 812
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/gM1kQRPwOVW1Eos5tVWqcYmHR5S.jpg",
-      "genre_ids": [
-        27,
-        9648
-      ],
-      "id": 1470130,
-      "title": "The Mortuary Assistant",
-      "original_language": "en",
-      "original_title": "The Mortuary Assistant",
-      "overview": "Rebecca Owens, diplômée en thanatopraxie, accepte un emploi de nuit aux pompes funèbres River Fields. Ce qui commence comme une tâche routinière prend rapidement une tournure sinistre lorsqu’elle se retrouve confrontée à de terrifiantes forces surnaturelles.",
-      "popularity": 106.6207,
-      "poster_path": "/72AoFPC5TY4DfJwXXS9rPwPeReD.jpg",
-      "release_date": "2026-02-13",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5.518,
-      "vote_count": 84
+      "vote_average": 6.933,
+      "vote_count": 820
     },
     {
       "adult": false,
@@ -413,10 +413,10 @@
       "release_date": "2025-11-26",
       "softcore": false,
       "video": false,
-      "vote_average": 7.608,
-      "vote_count": 2628
+      "vote_average": 7.609,
+      "vote_count": 2630
     }
   ],
-  "total_pages": 56506,
-  "total_results": 1130113
+  "total_pages": 56526,
+  "total_results": 1130503
 }
