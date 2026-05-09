@@ -21,8 +21,30 @@
       "release_date": "2026-04-01",
       "softcore": false,
       "video": false,
-      "vote_average": 6.728,
-      "vote_count": 753
+      "vote_average": 6.735,
+      "vote_count": 767
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/wpabGmGA3IaJNGudbzGritmR8Km.jpg",
+      "genre_ids": [
+        12,
+        16,
+        10751,
+        14
+      ],
+      "id": 1007757,
+      "title": "Aventures croisées",
+      "original_language": "en",
+      "original_title": "Swapped",
+      "overview": "Un petit animal des bois et un oiseau majestueux, ennemis jurés de la Vallée, qui échangent soudainement leurs corps et doivent faire équipe, en se mettant dans la peau  de l'autre, pour survivre à la plus folle aventure de leur vie.",
+      "popularity": 416.6067,
+      "poster_path": "/gz64ZUKg4C4g1yfGD0o5opcBOKy.jpg",
+      "release_date": "2026-05-01",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.883,
+      "vote_count": 103
     },
     {
       "adult": false,
@@ -36,36 +58,13 @@
       "original_language": "en",
       "original_title": "Apex",
       "overview": "Alors qu'elle teste ses limites en solo dans la nature sauvage australienne, une femme en deuil se retrouve prise au piège d'un jeu tordu avec un tueur qui a fait d'elle sa proie.",
-      "popularity": 369.7562,
+      "popularity": 339.6148,
       "poster_path": "/55lEECwWtRWltEa6u3TbiljaoOd.jpg",
       "release_date": "2026-04-24",
       "softcore": false,
       "video": false,
-      "vote_average": 6.421,
-      "vote_count": 717
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/wpabGmGA3IaJNGudbzGritmR8Km.jpg",
-      "genre_ids": [
-        12,
-        16,
-        18,
-        10751,
-        14
-      ],
-      "id": 1007757,
-      "title": "Aventures croisées",
-      "original_language": "en",
-      "original_title": "Swapped",
-      "overview": "Un petit animal des bois et un oiseau majestueux, ennemis jurés de la Vallée, qui échangent soudainement leurs corps et doivent faire équipe, en se mettant dans la peau  de l'autre, pour survivre à la plus folle aventure de leur vie.",
-      "popularity": 409.3611,
-      "poster_path": "/gz64ZUKg4C4g1yfGD0o5opcBOKy.jpg",
-      "release_date": "2026-05-01",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.9,
-      "vote_count": 91
+      "vote_average": 6.408,
+      "vote_count": 731
     },
     {
       "adult": false,
@@ -78,7 +77,7 @@
       "original_language": "it",
       "original_title": "Malèna",
       "overview": "Au printemps 1940, Mussolini a déclaré la guerre à la France et à la Grande‐Bretagne. La ville sicilienne de Castelcuto est en liesse. Renato Amoroso, un garçon de treize ans, est heureux pour d’autres raisons. Il vient de recevoir sa première bicyclette et de tomber sous le charme de Malèna, une ravissante veuve de guerre qui fait tourner la tête à tous les hommes du village et attise la haine des épouses jalouses. Renato, littéralement envoûté, la suit partout avec son vélo. Mais Malèna est victime des refoulements et des convoitises des habitants de Castelcuto. Le petit garçon va trouver le moyen de l’aider, et grâce à elle, il apprendra les leçons de la vie.",
-      "popularity": 310.2717,
+      "popularity": 306.5905,
       "poster_path": "/7aKRAjx2kgyP3GabnFQ2sLaT17d.jpg",
       "release_date": "2000-10-27",
       "softcore": false,
@@ -99,13 +98,13 @@
       "original_language": "en",
       "original_title": "Send Help",
       "overview": "Après un terrible accident d'avion, deux collègues d'une compagnie se retrouvent seuls survivants, coincés sur une île déserte. L'une est une employée maligne et pleine de ressources, l'autre son patron tyrannique et désagréable. Obligés de s'adapter aux conditions extrêmes de leur isolement, ils doivent surmonter leurs vieilles rancunes et travailler ensemble pour survivre.",
-      "popularity": 247.9714,
+      "popularity": 252.9818,
       "poster_path": "/bMAn4qERdEfxotddEHWfMmkfjRv.jpg",
       "release_date": "2026-01-22",
       "softcore": false,
       "video": false,
-      "vote_average": 6.982,
-      "vote_count": 1211
+      "vote_average": 6.974,
+      "vote_count": 1232
     },
     {
       "adult": false,
@@ -119,13 +118,13 @@
       "original_language": "en",
       "original_title": "The Devil Wears Prada",
       "overview": "Fraîchement diplômée, Andrea débarque à New York et décroche le job de rêve. Mais en tant qu’assistante de la tyrannique rédactrice en chef d’un prestigieux magazine de mode, elle va vite découvrir ce que le mot « enfer » veut dire…",
-      "popularity": 237.6777,
+      "popularity": 236.3283,
       "poster_path": "/vTIBjWMWx1p5Wv2J3IRhEW13lrj.jpg",
       "release_date": "2006-06-29",
       "softcore": false,
       "video": false,
       "vote_average": 7.39,
-      "vote_count": 13194
+      "vote_count": 13207
     },
     {
       "adult": false,
@@ -139,7 +138,7 @@
       "original_language": "ru",
       "original_title": "Твоё сердце будет разбито",
       "overview": "Polina, une lycéenne, est sauvée du harcèlement dans son nouveau lycée et conclut un pacte avec Bars, le principal harceleur : il doit faire semblant d'être son petit ami et la protéger, et elle doit obéir à tout ce qu'il lui dit. Au fil de ce jeu, le couple développe de véritables sentiments, mais sa famille et ses camarades de classe ont de bonnes raisons de vouloir séparer les amoureux.",
-      "popularity": 223.887,
+      "popularity": 231.0786,
       "poster_path": "/iGpMm603GUKH2SiXB2S5m4sZ17t.jpg",
       "release_date": "2026-03-26",
       "softcore": false,
@@ -159,13 +158,13 @@
       "original_language": "en",
       "original_title": "Michael",
       "overview": "Michael dresse le portrait cinématographique de la vie et de l’héritage de l’un des artistes les plus influents de notre époque.  Le film raconte l’histoire de Michael Jackson au-delà de la musique, depuis la découverte d’un talent hors du commun en tant que leader des Jackson Five, jusqu’à l’artiste visionnaire dont l’ambition créative a alimenté une quête incessante pour devenir le plus grand artiste au monde.  Mettant en lumière sa vie hors scène et ses performances les plus emblématiques de ses débuts en solo, le film offre au public une place au premier rang pour découvrir Michael Jackson comme jamais auparavant.",
-      "popularity": 197.8728,
+      "popularity": 185.6185,
       "poster_path": "/2sDgNilJGVFpl1x4DMzYHjk0L0f.jpg",
       "release_date": "2026-04-22",
       "softcore": false,
       "video": false,
-      "vote_average": 7.561,
-      "vote_count": 549
+      "vote_average": 7.57,
+      "vote_count": 571
     },
     {
       "adult": false,
@@ -179,13 +178,13 @@
       "original_language": "en",
       "original_title": "The Devil Wears Prada 2",
       "overview": "Près de vingt ans après, Meryl Streep, Anne Hathaway, Emily Blunt et Stanley Tucci reprennent leurs rôles emblématiques de Miranda, Andy, Emily et Nigel, et nous replongent dans l’univers impitoyable et glamour du magazine Runway et des rues new-yorkaises où l’élégance est une arme redoutable.",
-      "popularity": 173.3912,
+      "popularity": 154.1209,
       "poster_path": "/pD5fSVgDW2L5993eAlDd2GFXwIp.jpg",
       "release_date": "2026-04-29",
       "softcore": false,
       "video": false,
-      "vote_average": 6.76,
-      "vote_count": 346
+      "vote_average": 6.749,
+      "vote_count": 364
     },
     {
       "adult": false,
@@ -202,13 +201,32 @@
       "original_language": "en",
       "original_title": "Hoppers",
       "overview": "Mabel, une amoureuse des animaux, utilise une nouvelle technologie pour \"transférer\" sa conscience dans un robot-castor réaliste et communiquer directement avec les animaux. Alors qu'elle découvre des mystères du monde animal dépassant tout ce qu'elle aurait pu imaginer, Mabel se lie d'amitié avec Roi Georges, un charismatique castor, et doit rallier tout le règne animal pour faire face à une menace humaine majeure et imminente : le maire Jerry Generazzo, un beau parleur.",
-      "popularity": 170.4303,
+      "popularity": 165.0247,
       "poster_path": "/tWmEsB3MtN7RfdXphzghC8B3ahX.jpg",
       "release_date": "2026-03-04",
       "softcore": false,
       "video": false,
-      "vote_average": 7.7,
-      "vote_count": 750
+      "vote_average": 7.741,
+      "vote_count": 765
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jAJYVbVR5fP0BeTQXRP1BXjW5bl.jpg",
+      "genre_ids": [
+        18
+      ],
+      "id": 1669050,
+      "title": "Tayuan 2",
+      "original_language": "tl",
+      "original_title": "Tayuan 2",
+      "overview": "",
+      "popularity": 164.2697,
+      "poster_path": "/gkHNa8q3RNhgj2EMuoYWJUHsMa6.jpg",
+      "release_date": "2026-04-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 3.667,
+      "vote_count": 3
     },
     {
       "adult": false,
@@ -229,7 +247,7 @@
       "softcore": false,
       "video": false,
       "vote_average": 7.367,
-      "vote_count": 2822
+      "vote_count": 2829
     },
     {
       "adult": false,
@@ -244,32 +262,13 @@
       "original_language": "en",
       "original_title": "They Will Kill You",
       "overview": "Une jeune femme doit survivre toute une nuit, enfermée dans le mystérieux et sordide repaire d'une secte démoniaque, et tout faire pour ne pas devenir leur prochain sacrifice. Une lutte acharnée, des combats saisissants et un humour profondément noir vous attendent.",
-      "popularity": 151.2438,
+      "popularity": 135.8568,
       "poster_path": "/gyc0CMzFS91ZtXyhPcw7mE60v6Y.jpg",
       "release_date": "2026-03-25",
       "softcore": false,
       "video": false,
-      "vote_average": 6.698,
-      "vote_count": 377
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/jAJYVbVR5fP0BeTQXRP1BXjW5bl.jpg",
-      "genre_ids": [
-        18
-      ],
-      "id": 1669050,
-      "title": "Tayuan 2",
-      "original_language": "tl",
-      "original_title": "Tayuan 2",
-      "overview": "",
-      "popularity": 166.9183,
-      "poster_path": "/gkHNa8q3RNhgj2EMuoYWJUHsMa6.jpg",
-      "release_date": "2026-04-17",
-      "softcore": false,
-      "video": false,
-      "vote_average": 5,
-      "vote_count": 2
+      "vote_average": 6.684,
+      "vote_count": 384
     },
     {
       "adult": false,
@@ -283,13 +282,13 @@
       "original_language": "es",
       "original_title": "Venganza",
       "overview": "Quand sa femme est brutalement assassinée, Carlos Estrada, héros décoré des forces spéciales, n'a plus qu'un seul but : la vengeance. Après qu'un coup du sort inattendu le rend millionnaire, Carlos transforme sa fortune en arsenal et, entouré de ses soldats les plus fidèles, lance une traque impitoyable contre les responsables.",
-      "popularity": 149.785,
+      "popularity": 137.9086,
       "poster_path": "/cSNgGUf6k2k7WJJVlda6ZUPYgGo.jpg",
       "release_date": "2026-02-26",
       "softcore": false,
       "video": false,
-      "vote_average": 7.134,
-      "vote_count": 134
+      "vote_average": 7.1,
+      "vote_count": 135
     },
     {
       "adult": false,
@@ -303,13 +302,34 @@
       "original_language": "en",
       "original_title": "Ready or Not 2: Here I Come",
       "overview": "Peu après avoir échappé à l'attaque sans merci de la famille Le Domas, Grace découvre qu'elle vient d'atteindre un nouveau niveau dans ce jeu cauchemardesque, et cette fois, elle aura à ses côtés sa sœur dont elle s'était éloignée, Faith. Grace n’a qu'une seule chance de survivre, de protéger sa sœur et de s’emparer du Trône du Conseil qui dirige le monde. Traquée par quatre familles rivales prêtes à tout pour le pouvoir, elle sait que l’issue de cette chasse à l'homme déterminera qui régnera sur tout.",
-      "popularity": 147.745,
+      "popularity": 158.8332,
       "poster_path": "/ygbalhUdg7RnQKwnnyyqqSXoSvY.jpg",
       "release_date": "2026-03-19",
       "softcore": false,
       "video": false,
-      "vote_average": 7.085,
-      "vote_count": 377
+      "vote_average": 7.076,
+      "vote_count": 390
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
+      "genre_ids": [
+        16,
+        35,
+        10751
+      ],
+      "id": 1297842,
+      "title": "GOAT : Rêver plus haut",
+      "original_language": "en",
+      "original_title": "GOAT",
+      "overview": "Will est un petit bouc avec de grands rêves. Lorsqu'il décroche une chance inespérée de rejoindre la ligue professionnelle de \"roarball\", un sport ultra-intense réservé aux bêtes les plus rapides et féroces, il entend bien saisir l’opportunité. Problème : ses nouveaux coéquipiers ne sont pas vraiment ravis d'avoir un \"petit\" dans l'équipe. Mais Will est prêt à tout pour changer les règles du jeu.",
+      "popularity": 125.0458,
+      "poster_path": "/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
+      "release_date": "2026-02-11",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.949,
+      "vote_count": 501
     },
     {
       "adult": false,
@@ -325,54 +345,13 @@
       "original_language": "en",
       "original_title": "Avatar Aang: The Last Airbender",
       "overview": "Les aventures du successeur du dernier Avatar qui doit empêcher la nation du Feu d’asservir les nations de la Terre, de l’Eau et de l’Air...",
-      "popularity": 125.2784,
+      "popularity": 119.65,
       "poster_path": "/29Jdsak3SrwGds5k1t43kH6Khed.jpg",
       "release_date": "2026-10-09",
       "softcore": false,
       "video": false,
       "vote_average": 0,
       "vote_count": 0
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "genre_ids": [
-        878,
-        12
-      ],
-      "id": 687163,
-      "title": "Projet dernière chance",
-      "original_language": "en",
-      "original_title": "Project Hail Mary",
-      "overview": "Le professeur de sciences Ryland Grace se réveille à bord d’un vaisseau spatial, à des années-lumière de la Terre, sans aucun souvenir de qui il est ni de la façon dont il est arrivé là. À mesure que sa mémoire lui revient, il commence à découvrir sa mission : résoudre l’énigme d’une mystérieuse substance qui provoque l’extinction du Soleil. Il doit faire appel à ses connaissances scientifiques et ses idées peu orthodoxes pour sauver toute vie sur Terre mais une amitié inattendue pourrait signifier qu’il n’aura pas à accomplir cette tâche seul.",
-      "popularity": 118.0924,
-      "poster_path": "/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
-      "release_date": "2026-03-15",
-      "softcore": false,
-      "video": false,
-      "vote_average": 8.208,
-      "vote_count": 1952
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
-      "genre_ids": [
-        16,
-        35,
-        10751
-      ],
-      "id": 1297842,
-      "title": "GOAT : Rêver plus haut",
-      "original_language": "en",
-      "original_title": "GOAT",
-      "overview": "Will est un petit bouc avec de grands rêves. Lorsqu'il décroche une chance inespérée de rejoindre la ligue professionnelle de \"roarball\", un sport ultra-intense réservé aux bêtes les plus rapides et féroces, il entend bien saisir l’opportunité. Problème : ses nouveaux coéquipiers ne sont pas vraiment ravis d'avoir un \"petit\" dans l'équipe. Mais Will est prêt à tout pour changer les règles du jeu.",
-      "popularity": 126.4622,
-      "poster_path": "/9wwbYnU3HfAYqdjbFMhy2a8HYvr.jpg",
-      "release_date": "2026-02-11",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.936,
-      "vote_count": 495
     },
     {
       "adult": false,
@@ -392,29 +371,49 @@
       "release_date": "2026-05-06",
       "softcore": false,
       "video": false,
-      "vote_average": 7.258,
-      "vote_count": 33
+      "vote_average": 7.272,
+      "vote_count": 46
     },
     {
       "adult": false,
-      "backdrop_path": "/vHoi1MddXOU7jbpEd8YVQzMDLnT.jpg",
+      "backdrop_path": "/bV7eAcBrYb57PwjpQ2ODT6VyFPd.jpg",
       "genre_ids": [
-        27
+        99
       ],
-      "id": 1510745,
-      "title": "Bodycam",
+      "id": 318256,
+      "title": "Hot Girls Wanted",
       "original_language": "en",
-      "original_title": "Bodycam",
-      "overview": "Deux policiers répondent à un appel pour un différend domestique, la situation bascule dans la tragédie.",
-      "popularity": 108.9367,
-      "poster_path": "/xFpBNcG3Dlr8mYF5Kz9Tizs3Pxn.jpg",
-      "release_date": "2026-03-12",
+      "original_title": "Hot Girls Wanted",
+      "overview": "Le documentaire-choc du festival de Sundance 2015, réalisé par Rashida Jones, dénonce le destin souvent peu glorieux des jeunes femmes recrutées par le cinéma X \"amateur\".",
+      "popularity": 129.1212,
+      "poster_path": "/75ot83QOkc02vujyzmIbumQCU6Y.jpg",
+      "release_date": "2015-01-24",
       "softcore": false,
       "video": false,
-      "vote_average": 5.09,
-      "vote_count": 39
+      "vote_average": 6.083,
+      "vote_count": 708
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "genre_ids": [
+        878,
+        12
+      ],
+      "id": 687163,
+      "title": "Projet dernière chance",
+      "original_language": "en",
+      "original_title": "Project Hail Mary",
+      "overview": "Le professeur de sciences Ryland Grace se réveille à bord d’un vaisseau spatial, à des années-lumière de la Terre, sans aucun souvenir de qui il est ni de la façon dont il est arrivé là. À mesure que sa mémoire lui revient, il commence à découvrir sa mission : résoudre l’énigme d’une mystérieuse substance qui provoque l’extinction du Soleil. Il doit faire appel à ses connaissances scientifiques et ses idées peu orthodoxes pour sauver toute vie sur Terre mais une amitié inattendue pourrait signifier qu’il n’aura pas à accomplir cette tâche seul.",
+      "popularity": 118.0924,
+      "poster_path": "/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
+      "release_date": "2026-03-15",
+      "softcore": false,
+      "video": false,
+      "vote_average": 8.204,
+      "vote_count": 1967
     }
   ],
-  "total_pages": 56655,
-  "total_results": 1133092
+  "total_pages": 56686,
+  "total_results": 1133711
 }
