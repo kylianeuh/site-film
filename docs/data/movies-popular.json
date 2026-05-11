@@ -21,8 +21,8 @@
       "release_date": "2026-04-01",
       "softcore": false,
       "video": false,
-      "vote_average": 6.732,
-      "vote_count": 779
+      "vote_average": 6.7,
+      "vote_count": 797
     },
     {
       "adult": false,
@@ -43,8 +43,8 @@
       "release_date": "2026-05-01",
       "softcore": false,
       "video": false,
-      "vote_average": 7.909,
-      "vote_count": 127
+      "vote_average": 8.851,
+      "vote_count": 359
     },
     {
       "adult": false,
@@ -63,8 +63,8 @@
       "release_date": "2026-04-24",
       "softcore": false,
       "video": false,
-      "vote_average": 6.45,
-      "vote_count": 766
+      "vote_average": 6.499,
+      "vote_count": 819
     },
     {
       "adult": false,
@@ -82,8 +82,8 @@
       "release_date": "2000-10-27",
       "softcore": false,
       "video": false,
-      "vote_average": 7.431,
-      "vote_count": 2499
+      "vote_average": 7.429,
+      "vote_count": 2521
     },
     {
       "adult": false,
@@ -103,8 +103,8 @@
       "release_date": "2026-01-22",
       "softcore": false,
       "video": false,
-      "vote_average": 6.988,
-      "vote_count": 1265
+      "vote_average": 7.016,
+      "vote_count": 1303
     },
     {
       "adult": false,
@@ -123,8 +123,29 @@
       "release_date": "2006-06-29",
       "softcore": false,
       "video": false,
-      "vote_average": 7.392,
-      "vote_count": 13220
+      "vote_average": 7.394,
+      "vote_count": 13261
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qjv21Iu0nHQ0crJpy6KKiW8LX1Y.jpg",
+      "genre_ids": [
+        28,
+        14,
+        12
+      ],
+      "id": 931285,
+      "title": "Mortal Kombat II",
+      "original_language": "en",
+      "original_title": "Mortal Kombat II",
+      "overview": "Les champions plébiscités par les fans – désormais secondés par Johnny Cage en personne – s’affrontent dans un tournoi ultime, sans foi ni loi, pour tenter de renverser le règne de Shao Kahn, un tyran qui menace l’existence même de l’Earthrealm et de ses partisans.",
+      "popularity": 203.4867,
+      "poster_path": "/yPkeeBEJdQO85AGCwi2XEIfMOxa.jpg",
+      "release_date": "2026-05-06",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.163,
+      "vote_count": 101
     },
     {
       "adult": false,
@@ -143,7 +164,7 @@
       "release_date": "2026-03-26",
       "softcore": false,
       "video": false,
-      "vote_average": 6.882,
+      "vote_average": 6.9,
       "vote_count": 76
     },
     {
@@ -163,8 +184,28 @@
       "release_date": "2026-04-22",
       "softcore": false,
       "video": false,
-      "vote_average": 7.566,
-      "vote_count": 597
+      "vote_average": 7.577,
+      "vote_count": 624
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/9dMp9t0d0nIGhiil8TyqChwiNwA.jpg",
+      "genre_ids": [
+        27,
+        35
+      ],
+      "id": 1266127,
+      "title": "Wedding Nightmare : Deuxième Partie",
+      "original_language": "en",
+      "original_title": "Ready or Not 2: Here I Come",
+      "overview": "Peu après avoir échappé à l'attaque sans merci de la famille Le Domas, Grace découvre qu'elle vient d'atteindre un nouveau niveau dans ce jeu cauchemardesque, et cette fois, elle aura à ses côtés sa sœur dont elle s'était éloignée, Faith. Grace n’a qu'une seule chance de survivre, de protéger sa sœur et de s’emparer du Trône du Conseil qui dirige le monde. Traquée par quatre familles rivales prêtes à tout pour le pouvoir, elle sait que l’issue de cette chasse à l'homme déterminera qui régnera sur tout.",
+      "popularity": 175.541,
+      "poster_path": "/ygbalhUdg7RnQKwnnyyqqSXoSvY.jpg",
+      "release_date": "2026-03-19",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.366,
+      "vote_count": 513
     },
     {
       "adult": false,
@@ -186,8 +227,8 @@
       "release_date": "2026-03-04",
       "softcore": false,
       "video": false,
-      "vote_average": 7.77,
-      "vote_count": 806
+      "vote_average": 7.836,
+      "vote_count": 856
     },
     {
       "adult": false,
@@ -205,90 +246,8 @@
       "release_date": "2026-04-17",
       "softcore": false,
       "video": false,
-      "vote_average": 3.667,
+      "vote_average": 3.7,
       "vote_count": 3
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
-      "genre_ids": [
-        878,
-        12,
-        14
-      ],
-      "id": 83533,
-      "title": "Avatar : De feu et de cendres",
-      "original_language": "en",
-      "original_title": "Avatar: Fire and Ash",
-      "overview": "Après la mort de Neteyam, Jake et Neytiri affrontent leur chagrin tout en faisant face au Peuple des Cendres, une tribu Na’vi redoutable menée par la fougueuse Varang, alors que le conflit sur Pandora s’intensifie et qu’une nouvelle quête morale s’amorce.",
-      "popularity": 164.0233,
-      "poster_path": "/kG3N8oQ10qiw2MsnSHFGJpQNyEy.jpg",
-      "release_date": "2025-12-17",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.371,
-      "vote_count": 2850
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
-      "genre_ids": [
-        28,
-        14,
-        12
-      ],
-      "id": 931285,
-      "title": "Mortal Kombat II",
-      "original_language": "en",
-      "original_title": "Mortal Kombat II",
-      "overview": "Les champions plébiscités par les fans – désormais secondés par Johnny Cage en personne – s’affrontent dans un tournoi ultime, sans foi ni loi, pour tenter de renverser le règne de Shao Kahn, un tyran qui menace l’existence même de l’Earthrealm et de ses partisans.",
-      "popularity": 203.4867,
-      "poster_path": "/yPkeeBEJdQO85AGCwi2XEIfMOxa.jpg",
-      "release_date": "2026-05-06",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.094,
-      "vote_count": 80
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/9dMp9t0d0nIGhiil8TyqChwiNwA.jpg",
-      "genre_ids": [
-        27,
-        35
-      ],
-      "id": 1266127,
-      "title": "Wedding Nightmare : Deuxième Partie",
-      "original_language": "en",
-      "original_title": "Ready or Not 2: Here I Come",
-      "overview": "Peu après avoir échappé à l'attaque sans merci de la famille Le Domas, Grace découvre qu'elle vient d'atteindre un nouveau niveau dans ce jeu cauchemardesque, et cette fois, elle aura à ses côtés sa sœur dont elle s'était éloignée, Faith. Grace n’a qu'une seule chance de survivre, de protéger sa sœur et de s’emparer du Trône du Conseil qui dirige le monde. Traquée par quatre familles rivales prêtes à tout pour le pouvoir, elle sait que l’issue de cette chasse à l'homme déterminera qui régnera sur tout.",
-      "popularity": 175.541,
-      "poster_path": "/ygbalhUdg7RnQKwnnyyqqSXoSvY.jpg",
-      "release_date": "2026-03-19",
-      "softcore": false,
-      "video": false,
-      "vote_average": 7.164,
-      "vote_count": 432
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
-      "genre_ids": [
-        35,
-        18
-      ],
-      "id": 1314481,
-      "title": "Le Diable s'habille en Prada 2",
-      "original_language": "en",
-      "original_title": "The Devil Wears Prada 2",
-      "overview": "Près de vingt ans après, Meryl Streep, Anne Hathaway, Emily Blunt et Stanley Tucci reprennent leurs rôles emblématiques de Miranda, Andy, Emily et Nigel, et nous replongent dans l’univers impitoyable et glamour du magazine Runway et des rues new-yorkaises où l’élégance est une arme redoutable.",
-      "popularity": 135.3727,
-      "poster_path": "/pD5fSVgDW2L5993eAlDd2GFXwIp.jpg",
-      "release_date": "2026-04-29",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.765,
-      "vote_count": 388
     },
     {
       "adult": false,
@@ -308,8 +267,68 @@
       "release_date": "2026-05-06",
       "softcore": false,
       "video": false,
-      "vote_average": 6.5,
-      "vote_count": 16
+      "vote_average": 6.4,
+      "vote_count": 17
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
+      "genre_ids": [
+        878,
+        12,
+        14
+      ],
+      "id": 83533,
+      "title": "Avatar : De feu et de cendres",
+      "original_language": "en",
+      "original_title": "Avatar: Fire and Ash",
+      "overview": "Après la mort de Neteyam, Jake et Neytiri affrontent leur chagrin tout en faisant face au Peuple des Cendres, une tribu Na’vi redoutable menée par la fougueuse Varang, alors que le conflit sur Pandora s’intensifie et qu’une nouvelle quête morale s’amorce.",
+      "popularity": 164.0233,
+      "poster_path": "/kG3N8oQ10qiw2MsnSHFGJpQNyEy.jpg",
+      "release_date": "2025-12-17",
+      "softcore": false,
+      "video": false,
+      "vote_average": 7.395,
+      "vote_count": 2896
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bV7eAcBrYb57PwjpQ2ODT6VyFPd.jpg",
+      "genre_ids": [
+        99
+      ],
+      "id": 318256,
+      "title": "Hot Girls Wanted",
+      "original_language": "en",
+      "original_title": "Hot Girls Wanted",
+      "overview": "Le documentaire-choc du festival de Sundance 2015, réalisé par Rashida Jones, dénonce le destin souvent peu glorieux des jeunes femmes recrutées par le cinéma X \"amateur\".",
+      "popularity": 162.6933,
+      "poster_path": "/75ot83QOkc02vujyzmIbumQCU6Y.jpg",
+      "release_date": "2015-01-24",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.092,
+      "vote_count": 716
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 1314481,
+      "title": "Le Diable s'habille en Prada 2",
+      "original_language": "en",
+      "original_title": "The Devil Wears Prada 2",
+      "overview": "Près de vingt ans après, Meryl Streep, Anne Hathaway, Emily Blunt et Stanley Tucci reprennent leurs rôles emblématiques de Miranda, Andy, Emily et Nigel, et nous replongent dans l’univers impitoyable et glamour du magazine Runway et des rues new-yorkaises où l’élégance est une arme redoutable.",
+      "popularity": 135.3727,
+      "poster_path": "/pD5fSVgDW2L5993eAlDd2GFXwIp.jpg",
+      "release_date": "2026-04-29",
+      "softcore": false,
+      "video": false,
+      "vote_average": 6.755,
+      "vote_count": 422
     },
     {
       "adult": false,
@@ -328,8 +347,8 @@
       "release_date": "2026-02-26",
       "softcore": false,
       "video": false,
-      "vote_average": 7.085,
-      "vote_count": 141
+      "vote_average": 7.102,
+      "vote_count": 147
     },
     {
       "adult": false,
@@ -349,27 +368,8 @@
       "release_date": "2026-03-25",
       "softcore": false,
       "video": false,
-      "vote_average": 6.716,
-      "vote_count": 394
-    },
-    {
-      "adult": false,
-      "backdrop_path": "/bV7eAcBrYb57PwjpQ2ODT6VyFPd.jpg",
-      "genre_ids": [
-        99
-      ],
-      "id": 318256,
-      "title": "Hot Girls Wanted",
-      "original_language": "en",
-      "original_title": "Hot Girls Wanted",
-      "overview": "Le documentaire-choc du festival de Sundance 2015, réalisé par Rashida Jones, dénonce le destin souvent peu glorieux des jeunes femmes recrutées par le cinéma X \"amateur\".",
-      "popularity": 162.6933,
-      "poster_path": "/75ot83QOkc02vujyzmIbumQCU6Y.jpg",
-      "release_date": "2015-01-24",
-      "softcore": false,
-      "video": false,
-      "vote_average": 6.083,
-      "vote_count": 709
+      "vote_average": 6.754,
+      "vote_count": 419
     },
     {
       "adult": false,
@@ -389,30 +389,30 @@
       "release_date": "2026-02-11",
       "softcore": false,
       "video": false,
-      "vote_average": 7.962,
-      "vote_count": 510
+      "vote_average": 7.982,
+      "vote_count": 526
     },
     {
       "adult": false,
-      "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "backdrop_path": "/1yw8C3xPzrliGpQp0qHID7F1zOT.jpg",
       "genre_ids": [
-        878,
-        12
+        18,
+        9648
       ],
-      "id": 687163,
-      "title": "Projet dernière chance",
+      "id": 1330021,
+      "title": "De si remarquables créatures",
       "original_language": "en",
-      "original_title": "Project Hail Mary",
-      "overview": "Le professeur de sciences Ryland Grace se réveille à bord d’un vaisseau spatial, à des années-lumière de la Terre, sans aucun souvenir de qui il est ni de la façon dont il est arrivé là. À mesure que sa mémoire lui revient, il commence à découvrir sa mission : résoudre l’énigme d’une mystérieuse substance qui provoque l’extinction du Soleil. Il doit faire appel à ses connaissances scientifiques et ses idées peu orthodoxes pour sauver toute vie sur Terre mais une amitié inattendue pourrait signifier qu’il n’aura pas à accomplir cette tâche seul.",
-      "popularity": 124.3072,
-      "poster_path": "/wzyy8ZrsuHfAt4iz4iH3rT0tdoT.jpg",
-      "release_date": "2026-03-15",
+      "original_title": "Remarkably Bright Creatures",
+      "overview": "Tova, une veuve âgée, se lie d'une amitié improbable avec Marcellus, une pieuvre géante et pacifique qui vit dans l'aquarium où elle travaille. Sans que Tova le sache, Marcellus s'est donné pour mission de résoudre un mystère qui guérira le cœur de la veuve et la mènera à une découverte qui changera sa vie. Basé sur le livre à succès.",
+      "popularity": 125.2436,
+      "poster_path": "/ay12YxITkgfpY107arfcHfuLnQG.jpg",
+      "release_date": "2026-05-07",
       "softcore": false,
       "video": false,
-      "vote_average": 8.2,
-      "vote_count": 1991
+      "vote_average": 7.959,
+      "vote_count": 61
     }
   ],
-  "total_pages": 56704,
-  "total_results": 1134070
+  "total_pages": 56713,
+  "total_results": 1134259
 }
